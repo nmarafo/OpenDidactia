@@ -1,0 +1,20 @@
+# Archivos del sistema y temporales
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+open_lex_edu_temp/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+venv/
+.venv/
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo

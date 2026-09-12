@@ -1,0 +1,224 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "OpenDidactiaEsquemaProgramacionDidactica",
+  "description": "Esquema OKF para la estructuración y validación de Programaciones Didácticas según el marco LOMLOE y directrices autonómicas.",
+  "type": "object",
+  "required": [
+    "identificacion",
+    "contextualizacion",
+    "concrecion_curricular",
+    "unidades_programacion_situaciones_aprendizaje",
+    "metodologia_y_dua",
+    "evaluacion_del_aprendizaje",
+    "atencion_a_la_diversidad"
+  ],
+  "properties": {
+    "identificacion": {
+      "type": "object",
+      "required": [
+        "titulo",
+        "comunidad_autonoma",
+        "etapa",
+        "curso",
+        "area_o_materia",
+        "curso_escolar"
+      ],
+      "properties": {
+        "titulo": { "type": "string" },
+        "comunidad_autonoma": {
+          "type": "string",
+          "enum": ["Canarias", "Madrid", "Andalucía", "Estatal"]
+        },
+        "centro_educativo": { "type": "string" },
+        "etapa": {
+          "type": "string",
+          "enum": ["Educación Infantil", "Educación Primaria", "Educación Secundaria Obligatoria", "Bachillerato", "Formación Profesional"]
+        },
+        "curso": { "type": "string" },
+        "area_o_materia": { "type": "string" },
+        "departamento_o_ciclo": { "type": "string" },
+        "profesorado": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "curso_escolar": { "type": "string" },
+        "normativa_referencia": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "contextualizacion": {
+      "type": "object",
+      "required": ["entorno_socioeducativo", "caracteristicas_del_grupo"],
+      "properties": {
+        "entorno_socioeducativo": { "type": "string" },
+        "caracteristicas_del_grupo": { "type": "string" },
+        "punto_de_partida_evaluacion_inicial": { "type": "string" },
+        "particularidades_contexto_autonomico": { "type": "string" }
+      }
+    },
+    "concrecion_curricular": {
+      "type": "object",
+      "required": [
+        "competencias_especificas",
+        "criterios_evaluacion",
+        "saberes_basicos"
+      ],
+      "properties": {
+        "vinculacion_perfil_salida": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["competencia_clave", "descriptores_operativos"],
+            "properties": {
+              "competencia_clave": { "type": "string" },
+              "descriptores_operativos": {
+                "type": "array",
+                "items": { "type": "string" }
+              }
+            }
+          }
+        },
+        "competencias_especificas": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["codigo", "descripcion"],
+            "properties": {
+              "codigo": { "type": "string" },
+              "descripcion": { "type": "string" },
+              "descriptores_asociados": {
+                "type": "array",
+                "items": { "type": "string" }
+              }
+            }
+          }
+        },
+        "criterios_evaluacion": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["codigo", "competencia_especifica_asociada", "descripcion"],
+            "properties": {
+              "codigo": { "type": "string" },
+              "competencia_especifica_asociada": { "type": "string" },
+              "descripcion": { "type": "string" },
+              "ponderacion_o_peso": { "type": "string" }
+            }
+          }
+        },
+        "saberes_basicos": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["bloque", "contenidos"],
+            "properties": {
+              "bloque": { "type": "string" },
+              "contenidos": {
+                "type": "array",
+                "items": { "type": "string" }
+              }
+            }
+          }
+        }
+      }
+    },
+    "unidades_programacion_situaciones_aprendizaje": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "numero",
+          "titulo",
+          "temporalizacion_sesiones",
+          "trimestre",
+          "reto_o_producto_final"
+        ],
+        "properties": {
+          "numero": { "type": "integer" },
+          "titulo": { "type": "string" },
+          "temporalizacion_sesiones": { "type": "integer" },
+          "trimestre": {
+            "type": "string",
+            "enum": ["1º Trimestre", "2º Trimestre", "3º Trimestre", "Anual"]
+          },
+          "competencias_especificas_trabajadas": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "criterios_evaluacion_vinculados": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "bloques_saberes_implicados": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "reto_o_producto_final": { "type": "string" },
+          "archivo_sda_asociado": { "type": "string" }
+        }
+      }
+    },
+    "metodologia_y_dua": {
+      "type": "object",
+      "required": [
+        "enfoque_metodologico",
+        "pautas_diseno_universal_aprendizaje"
+      ],
+      "properties": {
+        "enfoque_metodologico": { "type": "string" },
+        "modelos_de_ensenanza": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "pautas_diseno_universal_aprendizaje": {
+          "type": "object",
+          "properties": {
+            "principio_i_compromiso": { "type": "string" },
+            "principio_ii_representacion": { "type": "string" },
+            "principio_iii_accion_expresion": { "type": "string" }
+          }
+        },
+        "espacios_recursos_y_agrupamientos": { "type": "string" }
+      }
+    },
+    "evaluacion_del_aprendizaje": {
+      "type": "object",
+      "required": [
+        "procedimientos_e_instrumentos",
+        "criterios_de_calificacion"
+      ],
+      "properties": {
+        "caracter_formativo_y_continuo": { "type": "string" },
+        "procedimientos_e_instrumentos": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "criterios_de_calificacion": { "type": "string" },
+        "mecanismos_recuperacion_y_refuerzo": { "type": "string" },
+        "evaluacion_de_la_practica_docente": { "type": "string" }
+      }
+    },
+    "atencion_a_la_diversidad": {
+      "type": "object",
+      "required": ["medidas_generales"],
+      "properties": {
+        "medidas_generales": { "type": "string" },
+        "medidas_especificas_o_adaptaciones": { "type": "string" },
+        "coordinacion_con_orientacion": { "type": "string" }
+      }
+    },
+    "actividades_complementarias_y_extraescolares": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "nombre": { "type": "string" },
+          "trimestre": { "type": "string" },
+          "objetivo_didactico": { "type": "string" }
+        }
+      }
+    }
+  }
+}

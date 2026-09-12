@@ -1,0 +1,224 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "OpenDidactiaEsquemaSituacionAprendizaje",
+  "description": "Esquema OKF para el diseño y validación de Situaciones de Aprendizaje (SDA) competenciales según LOMLOE, DUA y directrices autonómicas.",
+  "type": "object",
+  "required": [
+    "identificacion",
+    "fundamentacion_y_reto",
+    "concrecion_curricular",
+    "secuencia_didactica",
+    "evaluacion_formativa_y_rubricas",
+    "atencion_a_las_diferencias_individuales_dua"
+  ],
+  "properties": {
+    "identificacion": {
+      "type": "object",
+      "required": [
+        "titulo",
+        "comunidad_autonoma",
+        "etapa",
+        "curso",
+        "area_o_materia",
+        "temporalizacion_estimada_sesiones"
+      ],
+      "properties": {
+        "titulo": { "type": "string" },
+        "comunidad_autonoma": {
+          "type": "string",
+          "enum": ["Canarias", "Madrid", "Andalucía", "Estatal"]
+        },
+        "etapa": {
+          "type": "string",
+          "enum": ["Educación Infantil", "Educación Primaria", "Educación Secundaria Obligatoria", "Bachillerato", "Formación Profesional"]
+        },
+        "ciclo_o_curso": { "type": "string" },
+        "area_o_materia": { "type": "string" },
+        "caracter_interdisciplinar": { "type": "boolean" },
+        "otras_areas_vinculadas": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "temporalizacion_estimada_sesiones": { "type": "integer" },
+        "trimestre_o_periodo": { "type": "string" }
+      }
+    },
+    "fundamentacion_y_reto": {
+      "type": "object",
+      "required": [
+        "justificacion_pedagogica",
+        "centro_de_interes_o_contexto_significativo",
+        "reto_pregunta_motriz_o_problema",
+        "producto_o_desempeno_final"
+      ],
+      "properties": {
+        "justificacion_pedagogica": { "type": "string" },
+        "centro_de_interes_o_contexto_significativo": { "type": "string" },
+        "reto_pregunta_motriz_o_problema": { "type": "string" },
+        "producto_o_desempeno_final": { "type": "string" },
+        "contexto_autonomico_canario": {
+          "type": "string",
+          "description": "Vinculación con el patrimonio natural, cultural, histórico o lingüístico canario cuando proceda."
+        },
+        "vinculacion_objetivos_desarrollo_sostenible": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "concrecion_curricular": {
+      "type": "object",
+      "required": [
+        "competencias_especificas",
+        "criterios_evaluacion",
+        "saberes_basicos"
+      ],
+      "properties": {
+        "competencias_clave_descriptores": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "competencias_especificas": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["codigo", "enunciado"],
+            "properties": {
+              "codigo": { "type": "string" },
+              "enunciado": { "type": "string" }
+            }
+          }
+        },
+        "criterios_evaluacion": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["codigo", "competencia_especifica", "enunciado"],
+            "properties": {
+              "codigo": { "type": "string" },
+              "competencia_especifica": { "type": "string" },
+              "enunciado": { "type": "string" }
+            }
+          }
+        },
+        "saberes_basicos": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["bloque", "saberes"],
+            "properties": {
+              "bloque": { "type": "string" },
+              "saberes": {
+                "type": "array",
+                "items": { "type": "string" }
+              }
+            }
+          }
+        }
+      }
+    },
+    "secuencia_didactica": {
+      "type": "array",
+      "description": "Fases didácticas competenciales con enfoque DUA.",
+      "items": {
+        "type": "object",
+        "required": [
+          "fase",
+          "numero_actividad_o_sesion",
+          "titulo_actividad",
+          "descripcion_tareas",
+          "estrategias_dua_aplicadas",
+          "agrupamiento",
+          "recursos"
+        ],
+        "properties": {
+          "fase": {
+            "type": "string",
+            "enum": [
+              "Fase 1: Motivación y Activación de Conocimientos Previos",
+              "Fase 2: Exploración, Investigación y Estructuración",
+              "Fase 3: Aplicación, Creación y Transferencia",
+              "Fase 4: Comunicación, Síntesis y Evaluación/Metacognición"
+            ]
+          },
+          "numero_actividad_o_sesion": { "type": "string" },
+          "titulo_actividad": { "type": "string" },
+          "descripcion_tareas": { "type": "string" },
+          "procesos_cognitivos_bloom": {
+            "type": "string",
+            "enum": ["Conocer", "Comprender", "Aplicar", "Analizar", "Evaluar", "Crear"]
+          },
+          "estrategias_dua_aplicadas": {
+            "type": "object",
+            "properties": {
+              "compromiso_redes_afectivas": { "type": "string" },
+              "representacion_redes_reconocimiento": { "type": "string" },
+              "accion_expresion_redes_estrategicas": { "type": "string" }
+            }
+          },
+          "agrupamiento": {
+            "type": "string",
+            "enum": ["Individual", "Parejas", "Pequeño grupo cooperativo", "Gran grupo"]
+          },
+          "espacios": { "type": "string" },
+          "recursos": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "evidencia_de_aprendizaje": { "type": "string" }
+        }
+      }
+    },
+    "evaluacion_formativa_y_rubricas": {
+      "type": "object",
+      "required": ["instrumentos_evaluacion", "rubricas_criterios"],
+      "properties": {
+        "instrumentos_evaluacion": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["tipo", "descripcion", "agente_evaluador"],
+            "properties": {
+              "tipo": { "type": "string" },
+              "descripcion": { "type": "string" },
+              "agente_evaluador": {
+                "type": "string",
+                "enum": ["Docente (Heteroevaluación)", "Pares (Coevaluación)", "Alumnado (Autoevaluación)"]
+              }
+            }
+          }
+        },
+        "rubricas_criterios": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["criterio_codigo", "niveles"],
+            "properties": {
+              "criterio_codigo": { "type": "string" },
+              "ponderacion_en_sda": { "type": "string" },
+              "niveles": {
+                "type": "object",
+                "required": ["insuficiente_1_4", "suficiente_bien_5_6", "notable_7_8", "sobresaliente_9_10"],
+                "properties": {
+                  "insuficiente_1_4": { "type": "string" },
+                  "suficiente_bien_5_6": { "type": "string" },
+                  "notable_7_8": { "type": "string" },
+                  "sobresaliente_9_10": { "type": "string" }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "atencion_a_las_diferencias_individuales_dua": {
+      "type": "object",
+      "required": ["medidas_de_acceso_y_personalizacion"],
+      "properties": {
+        "medidas_de_acceso_y_personalizacion": { "type": "string" },
+        "medidas_para_alumnado_con_neae": { "type": "string" },
+        "actividades_de_refuerzo_y_ampliacion": { "type": "string" }
+      }
+    }
+  }
+}
