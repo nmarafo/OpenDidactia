@@ -41,6 +41,10 @@ Genera la tabla con las siguientes cuatro columnas exactas:
 
 VERIFICACIÓN FINAL OBLIGATORIA:
 Revisa criterio por criterio antes de emitir la respuesta: ¿Están todos y cada uno de los descriptores del currículo oficial presentes en la suma de las filas del criterio? Si falta alguno, corrígelo de inmediato.
+
+PREGUNTA DE CIERRE DE FASE:
+Al finalizar, pregunta al docente:
+"¿Deseas que elabore y genere un documento formal independiente (en formato Markdown estructurado / descargable) con la tabla de Deconstrucción de Criterios y Productos antes de avanzar al diseño de rúbricas?"
 ```
 
 ---
@@ -60,4 +64,8 @@ DATOS DE ENTRADA:
 INSTRUCCIONES:
 Aplica el mismo procedimiento de 4 pasos distribuyendo la totalidad de las Competencias Clave oficiales entre los Instrumentos de Evaluación (Productos o tareas de observación sistemática), generando la tabla:
 | N.º Criterio | Competencias Clave | Parte del Criterio Evaluada (Cita Textual) | Instrumento de Evaluación (Producto Numerado: [Criterio].[Secuencia]) |
+
+PREGUNTA DE CIERRE DE FASE:
+Al finalizar, pregunta al docente:
+"¿Deseas que elabore y genere un documento formal independiente (en formato Markdown estructurado / descargable) con la tabla de Deconstrucción de Infantil antes de continuar?"
 ```

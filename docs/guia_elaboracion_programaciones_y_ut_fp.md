@@ -23,21 +23,27 @@ A diferencia de las etapas de régimen general (Educación Infantil, Primaria, E
 
 ---
 
-## 2. Protocolo Secuencial de Ingeniería Didáctica en FP (9 Fases)
+## 2. Protocolo Secuencial de Ingeniería Didáctica en FP (Fases Pedagógicas)
 
-Cualquier docente o agente de IA debe seguir con rigor técnico el siguiente flujo de 9 fases:
+Cualquier docente o agente de IA debe seguir con rigor técnico el siguiente flujo:
 
 ```mermaid
 graph TD
     A["1. Relación y Asociación de RA y CE con Productos<br>(Mapa de Relaciones Alfanumérico)"] --> B["2. Elaboración de Rúbricas Analíticas con Graduadores Técnicos"]
-    B --> C["3. Conformación del Ecosistema de Base de Conocimiento<br>(Calendario Sectorial, Metodologías Ágiles, PRL, ABR/ASC, Merrill en Taller)"]
+    B --> CP["🛑 Control Previo: Recordatorio de Objetivos Prioritarios y Planes de Centro<br>(ATECA, Innovación, Sostenibilidad, PEC)"]
+    CP --> C["3. Conformación del Ecosistema de Base de Conocimiento<br>(Calendario Sectorial, Metodologías Ágiles, PRL, ABR/ASC, Merrill en Taller)"]
     C --> D["4. Secuenciación Anual de Unidades de Trabajo (UTs / SA-UT)<br>(9 UTs anuales vinculadas a retos del tejido productivo)"]
     D --> E["5. Desarrollo de la SA-UT para el DOCENTE<br>(Merrill en Taller + DUA granular por tarea + Roles + PRL)"]
     E --> F["6. Concreción de la SA-UT para el ALUMNADO<br>(El Encargo del Cliente: sin burocracia, mapa de ruta y entregables)"]
-    F --> G["7. Medidas de Apoyo y Refuerzo Individualizado<br>(Evaluación continua integrada en UTs del trimestre siguiente)"]
-    G --> H["8. Plan de Recuperación de Módulos Pendientes<br>(Poda curricular de RA esenciales, DUA y evaluación flexible)"]
-    H --> I["9. Herramienta Canvas de Calificación y Seguimiento<br>(App HTML/JS: 1-10 por CE, superación de RA y CSV)"]
+    F --> G["7 y 8. (OPCIONAL) Medidas de Apoyo y Plan de Recuperación de RAs<br>(Refuerzo continuo y pendientes: el docente decide si ejecutar)"]
+    G --> I["9. Herramienta Canvas de Calificación y Seguimiento<br>(App HTML/JS: 1-10 por CE, superación de RA y CSV)"]
 ```
+
+### 📋 Regla de Interacción Inter-Fases (Salidas Documentales)
+Al finalizar cada fase (Fase 1, Fase 2, Fase 4/Secuenciación, cada UT desarrollada de la Fase 5/6, y las fases de apoyo/evaluación), el agente **se detiene obligatoriamente** y consulta al docente:
+> *"¿Deseas que elabore y genere un documento formal independiente (en formato Markdown estructurado / descargable) con el output detallado de esta fase antes de pasar a la siguiente?"*
+- Si responde afirmativamente: Genera dicho documento formal completo y exhaustivo.
+- Si responde negativamente o desea continuar: Avanza a la siguiente fase prevista.
 
 ---
 
@@ -65,6 +71,8 @@ En OpenDidactia, el **Instrumento de Evaluación** es exclusivamente el **PRODUC
 | **RA 1** | **b)** | Almacena productos respetando la cadena de frío | Bloque 1: Almacenamiento | OG 1 | CPPS 2 | **1.1. Albarán y registro de control térmico** |
 | **RA 1** | **c)** | Clasifica mermas y gestiona su trazabilidad | Bloque 2: Gestión de mermas | OG 3 | CPPS 8 | **1.2. Ficha técnica de mermas y reciclaje** |
 
+> **Salida Documental Inter-Fase:** Al finalizar la Fase 1, consulta al docente si desea generar un documento formal e independiente con la matriz completa del Mapa de Relaciones Curriculares antes de avanzar al diseño de rúbricas.
+
 ---
 
 ## FASE 2: Elaboración de Rúbricas Analíticas con Graduadores Técnicos
@@ -86,6 +94,8 @@ Para cada Producto obtenido en la Fase 1, se construye su rúbrica analítica cr
 | Dimensión Técnica | Insuficiente (1 - 4) | Suficiente / Bien (5 - 6) | Notable (7 - 8) | Sobresaliente (9 - 10) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Calidad en el Montaje y PRL** | Ejecuta el cableado con **desviaciones críticas**, omitiendo los EPIs obligatorios o generando riesgos de cortocircuito.<br>*Ejemplo:* Faltan punteras, bornes flojos y cables sin canalizar. | Ejecuta el cableado **según plano estándar**, respetando los protocolos básicos de PRL y aislamiento.<br>*Ejemplo:* Cuadro operativo con etiquetado básico y protecciones activas. | Ejecuta el cableado con **elevada precisión y rapidez**, optimizando el trazado de canaletas y la rotulación.<br>*Ejemplo:* Cuadro impecable con esquema unifilar verificado y mediciones exactas. | Ejecuta el cableado con **precisión experta**, proponiendo mejoras de eficiencia energética y verificando tolerancias críticas de forma **totalmente autónoma**.<br>*Ejemplo:* Instalación certificable con informe técnico de puesta en marcha. |
+
+> **Salida Documental Inter-Fase:** Al finalizar la Fase 2, consulta al docente si desea generar un documento formal e independiente con las rúbricas analíticas oficiales del módulo antes de continuar.
 
 ---
 
@@ -113,6 +123,17 @@ Para que la programación y las UTs estén fuertemente arraigadas en el sector p
 
 ---
 
+## 🛑 CONTROL OBLIGATORIO PREVIO A LA SECUENCIACIÓN: OBJETIVOS Y PLANES DE CENTRO EN FP
+
+Antes de secuenciar las 9 Unidades de Trabajo del módulo profesional, el agente **DEBE detenerse obligatoriamente** y recordar/solicitar al docente:
+1. **Objetivos Prioritarios del Centro Educativo:** Del PEC, PGA o Proyecto de Dirección del centro.
+2. **Planes y Proyectos Institucionales:** Participación en proyectos de Innovación Aplicada de FP, Aulas de Tecnología Aplicada (**ATECA**), Aulas de **Emprendimiento**, Plan de Prevención de Riesgos Laborales (PRL), Plan de Sostenibilidad / Huella de Carbono y Plan de Digitalización.
+
+> **Pregunta obligatoria al docente antes de iniciar la Fase 4:**  
+> *"Antes de proceder a secuenciar las 9 Unidades de Trabajo (UTs) del módulo, ¿cuáles son los Objetivos Prioritarios del Centro, Planes y Proyectos de FP (ATECA, Emprendimiento, Innovación Aplicada, Sostenibilidad, Digitalización) que deben vertebrar la programación? (Si no dispones de ellos en este momento, indícalo y te propondré una batería contextualizada a la Familia Profesional para incorporarlos a la matriz anual)."*
+
+---
+
 ## FASE 4: Secuenciación Anual de Unidades de Trabajo (UTs / SA-UT)
 
 El curso se divide en **9 Unidades de Trabajo (UTs / SA-UT)** articuladas en 3 evaluaciones trimestrales (o el número proporcional a la duración horaria del módulo):
@@ -127,6 +148,9 @@ Para cada UT se concreta:
 4. Vinculación con el Calendario Profesional / Hito sectorial.
 5. Reto ABR o proyecto ASC vertebrador.
 6. Instrumentos de Evaluación (Productos) y ponderación criterial.
+7. Conexión con los Objetivos Prioritarios y Planes de Centro acordados en el punto de control previo.
+
+> **Salida Documental Inter-Fase:** Al finalizar la Fase 4, consulta al docente si desea generar un documento formal e independiente con la matriz de secuenciación del módulo antes de abordar el desarrollo de cada UT.
 
 ---
 
@@ -162,10 +186,18 @@ Para comunicar la UT al alumnado se genera una versión directa, motivadora y li
    - *Fase 4: Entrega al Cliente y Retrospectiva de Equipo.*
 4. **Criterios de Éxito:** La rúbrica traducida a una lista de control de estándares de calidad profesional comprensible.
 
+> **Salida Documental Inter-Fase:** Tras desarrollar las versiones Docente (Fase 5) y Alumnado (Fase 6) de cada UT, consulta al usuario si desea compilar el documento formal completo de dicha unidad de trabajo antes de pasar a la siguiente.
+
 ---
 
-## FASE 7: Medidas de Apoyo y Refuerzo Individualizado (Evaluación Continua)
+## FASES 7 Y 8 (OPCIONAL): Medidas de Apoyo, Refuerzo Continuo y Recuperación de RAs Pendientes
 
+> **Carácter Opcional:** Al llegar a este punto, el agente **DEBE preguntar expresamente al docente**:  
+> *"¿Deseas que diseñemos en este momento las medidas de apoyo técnico en taller, refuerzo continuo y planes individualizados de recuperación de RAs pendientes (Fases 7 y 8), o prefieres omitir esta fase y pasar directamente a la herramienta Canvas (Fase 9) o dar por concluida la programación?"*
+
+Si el docente decide abordar estas fases:
+
+### FASE 7: Medidas de Apoyo y Refuerzo Individualizado (Evaluación Continua)
 Cuando un alumno no alcanza la calificación positiva en un Resultado de Aprendizaje durante una UT:
 1. **Privacidad Estricta:** Uso obligatorio de datos anonimizados (`[ALUMNO_ANONIMIZADO]`).
 2. **Enfoque Preventivo y No Segregador:** El refuerzo se implementa de manera **invisible pero constante** durante las sesiones ordinarias de las UTs del siguiente trimestre:
@@ -174,10 +206,7 @@ Cuando un alumno no alcanza la calificación positiva en un Resultado de Aprendi
    - Andamiajes específicos en el puesto de taller (videotutoriales de apoyo asíncronos, checklist de verificación asistida por pareja de taller).
    - Superación: Cuando el alumno demuestra la competencia en el nuevo contexto de taller, la calificación positiva sustituye formalmente a la nota previa.
 
----
-
-## FASE 8: Plan de Recuperación de Módulos Pendientes en FP
-
+### FASE 8: Plan de Recuperación de Módulos Pendientes en FP
 Para alumnado que promociona con un módulo profesional pendiente del curso anterior:
 1. **Focalización Curricular (Poda):** Identificar y seleccionar exclusivamente los **Resultados de Aprendizaje no superados** que constituyen prerrequisitos técnicos esenciales para el ejercicio profesional.
 2. **Accesibilidad y Representación DUA:** Disponer repositorios de materiales técnicos asíncronos (videotutoriales, simuladores software, manuales de fabricante con glosarios visuales).
@@ -185,13 +214,17 @@ Para alumnado que promociona con un módulo profesional pendiente del curso ante
 4. **Cronograma Escalado:** Entregas e hitos trimestrales coordinados con las sesiones de evaluación del curso en curso, erradicando el examen único final de memoria.
 5. **Andamiajes Ejecutivos:** Plantillas estructuradas de cuaderno de taller y listas de verificación.
 
+> **Salida Documental:** Si se ejecutan estas fases, consulta al usuario si desea generar el documento formal de planes de refuerzo y recuperación antes de continuar.
+
 ---
 
 ## FASE 9: Herramienta Canvas de Calificación y Seguimiento en FP
 
-Se diseña como una aplicación web en un único archivo HTML autocontenido (con Tailwind CSS y JavaScript vanila) que permite al docente:
+Se diseña como una aplicación web en un único archivo HTML autocontenido (con Tailwind CSS y JavaScript vanilla) que permite al docente:
 1. Calificar numéricamente (1 al 10, sin decimales) cada Criterio de Evaluación según el producto evaluado.
 2. Calcular en tiempo real la consecución ponderada de cada Resultado de Aprendizaje (RA) y módulo profesional.
 3. Clasificar al alumnado por tipología (Evaluación Ordinaria, Con Necesidades Específicas de Apoyo, Siguiendo Plan de Recuperación de RAs).
 4. Crear y asociar Planes de Recuperación donde la nota superada **sobreescribe** la calificación anterior del RA.
 5. Exportar todos los registros de evaluación criterial a formato CSV para su archivo oficial.
+
+> **Salida Documental Final:** Consulta al usuario si desea compilar y descargar el archivo final de la herramienta Canvas interactiva (`.html`) y el dossier resumen del módulo.

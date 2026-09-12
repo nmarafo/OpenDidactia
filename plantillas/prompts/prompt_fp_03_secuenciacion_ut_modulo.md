@@ -16,11 +16,15 @@ DATOS DE ENTRADA:
 - Mapa de Relaciones (RA - CE - Productos) y Rúbricas generadas previamente.
 - Comunidad Autónoma: [Por defecto Canarias]
 
+🛑 PUNTO DE CONTROL OBLIGATORIO PREVIO: OBJETIVOS Y PLANES DE CENTRO EN FP:
+Antes de generar la matriz de secuenciación de las 9 UTs, solicita al docente:
+"¿Cuáles son los Objetivos Prioritarios del Centro (PEC/PGA) y Proyectos Institucionales de FP (Innovación Aplicada, Aulas ATECA, Aulas de Emprendimiento, Sostenibilidad, PRL, Digitalización) que deben vertebrar la programación? (Si no dispones de ellos en este momento, indícalo y te propondré una batería contextualizada a la Familia Profesional para incorporarlos a la matriz anual)."
+
 FUENTES DE CONTEXTUALIZACIÓN OBLIGATORIAS:
 1. Calendario Profesional y Sectorial: Ferias comerciales, congresos tecnológicos, eventos empresariales y temporadas productivas de la familia profesional en la comunidad autónoma.
 2. Cultura Organizacional y Pensamiento Técnico: Metodologías ágiles (Scrum/Kanban), resolución de conflictos laborales y protocolos de diagnóstico/PRL.
 3. Metodologías Activas FP: Retos de Aprendizaje Basado en Retos (ABR) y proyectos de Aprendizaje-Servicio Colaborativo (ASC).
-4. Objetivos Prioritarios del Centro Educativo, Planes y Programas (Innovación aplicada, Sostenibilidad, Igualdad, Digitalización).
+4. Objetivos Prioritarios del Centro Educativo y Planes de FP acordados en el punto de control previo.
 
 REGLAS DE DISTRIBUCIÓN POR EVALUACIONES:
 - 1.ª Evaluación (Septiembre a Diciembre): UT 1, UT 2 y UT 3.
@@ -39,4 +43,8 @@ Para cada una de las 9 Unidades de Trabajo (UTs), genera una fila con los siguie
 
 VERIFICACIÓN FINAL:
 Asegúrate de que la totalidad de los Resultados de Aprendizaje del módulo (100% de los RAs oficiales) quedan completamente cubiertos y evaluados en la suma de las 9 Unidades de Trabajo antes de finalizar.
+
+PREGUNTA DE CIERRE DE FASE:
+Al finalizar la presentación de la matriz, pregunta obligatoriamente al docente:
+"¿Deseas que elabore y genere un documento formal independiente (en formato Markdown estructurado / descargable) con la matriz anual de secuenciación de las 9 Unidades de Trabajo antes de pasar al desarrollo de cada unidad?"
 ```

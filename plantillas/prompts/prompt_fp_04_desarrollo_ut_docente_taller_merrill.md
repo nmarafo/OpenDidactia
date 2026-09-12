@@ -42,4 +42,8 @@ Desarrolla la totalidad de las sesiones de la UT. Cada sesión debe contener pre
    - *Principio III. Implicación (El Por qué):* Conexión con un encargo de cliente real, autonomía en la elección de roles técnicos, retroalimentación formativa inmediata basada en estándares de tolerancia profesional.
 6. Instrumento de Evaluación / Evidencia: Producto técnico generado en la tarea y parte del Criterio de Evaluación / RA que evalúa (indicando si es evaluable mediante rúbrica).
 7. Recursos de Taller, Herramientas, Maquinaria y EPIs Obligatorios (gafas de protección, guantes de nitrilo/mecánicos, calzado de seguridad, mascarilla o extractores).
+
+PREGUNTA DE CIERRE DE FASE:
+Al finalizar el desarrollo técnico de la UT para el docente, pregunta al usuario:
+"¿Deseas que elabore y genere un documento formal independiente (en formato Markdown estructurado / descargable) con la Unidad de Trabajo para el Docente antes de generar la versión del alumnado (El Encargo del Cliente)?"
 ```

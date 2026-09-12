@@ -1,4 +1,6 @@
-# 🩺 Prompt 6: Elaboración de Medidas de Apoyo y Refuerzo Individualizado (Evaluación Continua)
+# 🩺 Prompt 6 (OPCIONAL): Elaboración de Medidas de Apoyo y Refuerzo Individualizado (Evaluación Continua)
+
+> **Carácter Opcional:** Esta fase es de desarrollo opcional a petición del docente cuando existan estudiantes que requieran medidas de refuerzo educativo o planes personalizados.
 
 Este prompt permite a un Agente de IA generar un **Plan de Apoyo y Refuerzo Individualizado** oficial para un estudiante que no ha alcanzado un criterio de evaluación, adaptándolo al formulario oficial del Centro de Desarrollo Curricular de Canarias, con estricto respeto a la privacidad (datos anonimizados) y con seguimiento "invisible pero constante" en las SAs del siguiente trimestre.
 
@@ -55,4 +57,8 @@ Desarrolla de forma extensa cómo el refuerzo se realizará de manera invisible 
 - **Nombre de la SA (y temporalización):**
 - **Foco:** Aspecto concreto del criterio no superado que se trabajará.
 - **Acción de Refuerzo:** Describe detalladamente la dinámica exacta en el aula (plantillas, modelado, tutoría entre iguales) explicando cómo el alumno interacciona con la tarea ordinaria del grupo pero con el ajuste necesario para superar el criterio sin sentirse expuesto.
+
+PREGUNTA DE CIERRE DE FASE:
+Al finalizar, pregunta al docente:
+"¿Deseas que elabore y genere un documento formal independiente (en formato Markdown estructurado / descargable) con el Plan de Apoyo y Refuerzo Individualizado antes de pasar a la siguiente fase?"
 ```

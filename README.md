@@ -11,16 +11,18 @@ Organizado por **Comunidades Autónomas**, comenzando con la cobertura completa 
 
 ---
 
-## 🧭 Secuencia Oficial de Diseño Curricular para Agentes de IA
+### 🧭 Secuencia Oficial de Diseño Curricular para Agentes de IA
 
-Cualquier modelo de lenguaje o agente autónomo que genere programaciones o situaciones de aprendizaje en OpenDidactia debe seguir de forma estricta este flujo secuencial de 4 fases principales (+ fases de refuerzo y evaluación):
+Cualquier modelo de lenguaje o agente autónomo que genere programaciones o situaciones de aprendizaje en OpenDidactia debe seguir de forma estricta este flujo secuencial de fases pedagógicas:
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────────────────────────────┐
-│ 1. DECONSTRUCCIÓN DE CRITERIOS DE EVALUACIÓN Y ASOCIACIÓN CON PRODUCTOS                     │
+│ 1. CONCRECIÓN CRITERIAL Y ASOCIACIÓN CON PRODUCTOS                                          │
 │    • Educación Infantil: Reparto del 100% de Competencias Clave entre productos.            │
 │    • Primaria, ESO y Bachillerato: Reparto del 100% de Descriptores Operativos oficiales.   │
-│    • Productos (Instrumentos de Evaluación) numerados en formato [Criterio].[Secuencia].    │
+│    • FP: Asociación del 100% de CEs a productos mediante Mapa de Relaciones Alfanumérico.   │
+│    • Productos (Instrumentos de Evaluación) numerados como evidencias tangibles.            │
+│    ► PREGUNTA DOCUMENTAL: ¿Generar documento formal de Fase 1 antes de continuar?           │
 └──────────────────────────────────────────────┬──────────────────────────────────────────────┘
                                                │
 ┌──────────────────────────────────────────────▼──────────────────────────────────────────────┐
@@ -29,32 +31,50 @@ Cualquier modelo de lenguaje o agente autónomo que genere programaciones o situ
 │    • Nivel Suficiente/Bien (SU/BI) idéntico a la redacción literal del criterio oficial.    │
 │    • Graduadores de Calidad, Autonomía y Complejidad destacados en **negrita**.             │
 │    • Ejemplos descriptivos y tangibles del producto en cada nivel (INS, SUF, NOT, SOB).     │
+│    ► PREGUNTA DOCUMENTAL: ¿Generar documento formal de Fase 2 antes de continuar?           │
 └──────────────────────────────────────────────┬──────────────────────────────────────────────┘
                                                │
 ┌──────────────────────────────────────────────▼──────────────────────────────────────────────┐
-│ 3. SECUENCIACIÓN ANUAL DE LA PROGRAMACIÓN DIDÁCTICA (9 SAs)                                 │
-│    • Distribución de contenidos en 9 SAs anuales (1ª eval: SAs 1-3; 2ª: 4-6; 3ª: 7-9).       │
-│    • Articulación con Efemérides del Calendario Escolar de Canarias (Letras Canarias, etc.).│
-│    • Integración con Objetivos Prioritarios de Centro, Planes y Programas (PIDAS/InnovAS).   │
+│ 🛑 PUNTO DE CONTROL OBLIGATORIO PREVIO A FASE 3: OBJETIVOS Y PLANES DE CENTRO               │
+│    • Recordatorio y recopilación de Objetivos del PEC/PGA y Planes (PIDAS/InnovAS, CIMA...).│
+│    • Si no se aportan, el agente propone una batería contextualizada para vertebrar el plan.│
+└──────────────────────────────────────────────┬──────────────────────────────────────────────┘
+                                               │
+┌──────────────────────────────────────────────▼──────────────────────────────────────────────┐
+│ 3. SECUENCIACIÓN ANUAL DE LA PROGRAMACIÓN DIDÁCTICA (9 SAs / 9 UTs)                         │
+│    • Distribución de contenidos en 9 unidades anuales (1ª eval: 1-3; 2ª: 4-6; 3ª: 7-9).      │
+│    • Articulación con Efemérides (Calendario Escolar) o Calendario Profesional/Sectorial.    │
+│    • Integración con Objetivos Prioritarios y Planes de Centro acordados en el control prev. │
 │    • Vinculación con los Productos e Instrumentos numerados del Paso 1.                     │
+│    ► PREGUNTA DOCUMENTAL: ¿Generar documento formal de Fase 3 antes de continuar?           │
 └──────────────────────────────────────────────┬──────────────────────────────────────────────┘
                                                │
 ┌──────────────────────────────────────────────▼──────────────────────────────────────────────┐
-│ 4. DESARROLLO DE LAS SITUACIONES DE APRENDIZAJE (UNA A UNA)                                 │
+│ 4. DESARROLLO DE LAS SITUACIONES DE APRENDIZAJE / UTs (UNA A UNA)                           │
 │    ├─► 4.A. VERSIÓN PARA EL DOCENTE:                                                        │
 │    │        • Fases instruccionales de David Merrill (Problema, Activación, Modelado...).   │
 │    │        • Mínimo de 2 tareas activas por sesión (con roles de docente y alumnado).      │
-│    │        • Rutinas de pensamiento visible (Veo-Pienso-Me Pregunto, 3-2-1 Puente...).     │
+│    │        • Rutinas de pensamiento visible (general) o metodologías ágiles/PRL (FP).      │
 │    │        • Aplicación granular de las 3 Redes DUA (Representación, Acción, Implicación). │
 │    └─► 4.B. VERSIÓN PARA EL ALUMNADO:                                                       │
-│             • Guion cercano y motivador en 2ª persona, sin jerga técnica ni burocrática.    │
+│             • Guion motivador en 2ª persona sin jerga burocrática ("El Encargo del Cliente").│
 │             • El Reto, el Producto Final, el Mapa de Ruta y la Rúbrica explicada.           │
+│    ► PREGUNTA DOCUMENTAL: ¿Generar documento de cada unidad (Docente + Alumnado)?            │
 └──────────────────────────────────────────────┬──────────────────────────────────────────────┘
                                                │
 ┌──────────────────────────────────────────────▼──────────────────────────────────────────────┐
-│ 5. MEDIDAS DE APOYO, REFUERZO Y HERRAMIENTA DE SEGUIMIENTO                                   │
-│    • Plan de Refuerzo Individualizado con datos anonimizados y seguimiento en SAs futuras.  │
-│    • Aplicación web interactiva en un solo archivo HTML para calificación en Canvas.        │
+│ 5. (OPCIONAL) MEDIDAS DE APOYO, REFUERZO INDIVIDUALIZADO Y RECUPERACIÓN                     │
+│    • Fase opcional: El agente consulta si se desea abordar o saltar a la Fase 6.            │
+│    • Refuerzo "invisible pero constante" en sesiones ordinarias con datos anonimizados.     │
+│    • En FP: Poda curricular de RAs clave, menú de evaluación flexible y andamiajes DUA.     │
+│    ► PREGUNTA DOCUMENTAL: ¿Generar documento formal de Fase 5 si se realiza?                │
+└──────────────────────────────────────────────┬──────────────────────────────────────────────┘
+                                               │
+┌──────────────────────────────────────────────▼──────────────────────────────────────────────┐
+│ 6. HERRAMIENTA DE CALIFICACIÓN Y SEGUIMIENTO CANVAS                                         │
+│    • Aplicación web interactiva en un solo archivo HTML (Tailwind + JS autocontenido).      │
+│    • Evaluación cualitativa (Infantil), criterial ponderada (Primaria/ESO/BAC) o RAs (FP).  │
+│    ► PREGUNTA DOCUMENTAL: ¿Generar archivo interactivo descargable HTML / Canvas final?      │
 └─────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -75,6 +95,12 @@ Para comenzar, solicita al usuario los datos de partida si no los ha indicado:
 3. Materia, Área o Módulo Profesional oficial (y Familia Profesional si es FP).
 4. Carga horaria semanal (ej: 2, 3 o 4 horas semanales) y duración total.
 5. Particularidades del centro educativo (opcional; entorno socioeducativo o tejido productivo, programas de innovación, talleres disponibles).
+
+REGLA DE INTERACCIÓN OBLIGATORIA ENTRE FASES (GENERACIÓN DOCUMENTAL):
+Al finalizar la ejecución de CADA fase (Fase 1, Fase 2, Fase 3, cada Unidad didáctica desarrollada en la Fase 4, Fase 5 si se realiza, y Fase 6), el agente DEBE DETENERSE OBLIGATORIAMENTE y formular la siguiente pregunta al usuario antes de avanzar a la siguiente fase:
+> "¿Deseas que elabore y genere un documento formal independiente (en formato Markdown estructurado / descargable) con el output detallado de esta fase antes de pasar a la siguiente?"
+- Si el usuario responde afirmativamente: Genera dicho documento formal completo, exhaustivo y perfectamente estructurado antes de continuar.
+- Si el usuario responde negativamente o indica continuar: Avanza directamente a la siguiente fase prevista en el flujo.
 
 Una vez definidos los datos, DEBES EJECUTAR RIGUROSAMENTE EL SIGUIENTE PROTOCOLO SECUENCIAL POR FASES, SIN SALTARTE NINGÚN PASO NI ALTERAR EL ORDEN:
 
@@ -103,6 +129,8 @@ B. En FORMACIÓN PROFESIONAL (RELACIÓN Y ASOCIACIÓN DE RA Y CE CON PRODUCTOS):
 - Genera la Matriz del Mapa de Relaciones Curriculares:
   | N.º RA | Letra CE | Criterio de Evaluación Oficial | Contenidos Básicos | OG y Competencias | Instrumento de Evaluación (Producto Alfanumérico) |
 
+[AL COMPLETAR FASE 1: Pregunta al usuario si desea generar el documento formal del output antes de avanzar a la Fase 2].
+
 ================================================================================
 FASE 2: ELABORACIÓN DE RÚBRICAS ANALÍTICAS CON GRADUADORES
 ================================================================================
@@ -116,6 +144,18 @@ Basado en la metodología de Graduadores Técnicos y Pedagógicos:
 - Estructura de la Rúbrica:
   | Insuficiente (1 - 4) [PA en EI] | Suficiente / Bien (5 - 6) [AD en EI] | Notable (7 - 8) [MA en EI] | Sobresaliente (9 - 10) [EX en EI] |
 
+[AL COMPLETAR FASE 2: Pregunta al usuario si desea generar el documento formal del output antes de avanzar].
+
+================================================================================
+PUNTO DE CONTROL OBLIGATORIO PREVIO A LA FASE 3: OBJETIVOS Y PLANES DE CENTRO
+================================================================================
+Antes de iniciar la FASE 3 (Secuenciación Anual en 9 Unidades), el agente DEBE detenerse y solicitar/recordar al docente la incorporación de los siguientes elementos institucionales:
+1. Objetivos Prioritarios del Centro Educativo (Proyecto Educativo de Centro / PEC, PGA, Proyecto de Dirección).
+2. Planes y Programas Institucionales en los que participa el centro (ej. en Canarias: Red Canaria InnovAS / ejes PIDAS de Sostenibilidad, Igualdad, Salud, Comunicación Lingüística; Plan Digital de Centro; en otras CCAA: Red CIMA en Andalucía, etc.; o Proyectos de Innovación Aplicada, Aulas ATECA y Emprendimiento en FP).
+
+Pregunta obligatoria al docente antes de abordar la Fase 3:
+> "Antes de proceder a la secuenciación anual en 9 unidades didácticas, ¿cuáles son los Objetivos Prioritarios del Centro, Planes y Programas Institucionales (ej. PIDAS/InnovAS, CIMA, Sostenibilidad, Igualdad, Digitalización, ATECA) que deben vertebrar la programación? (Si no dispones de ellos en este momento, indícalo y te propondré una batería contextualizada y realista para incorporarlos a la matriz anual)."
+
 ================================================================================
 FASE 3: SECUENCIACIÓN ANUAL DE LA PROGRAMACIÓN (9 SAs / 9 UTs)
 ================================================================================
@@ -128,8 +168,10 @@ Para cada unidad de la tabla matriz anual, integra y especifica:
 2. Temporalización en semanas y número de sesiones/horas lectivas.
 3. Criterios de Evaluación y Saberes Básicos (en general) o Resultados de Aprendizaje y Criterios (en FP).
 4. Vinculación con Efemérides del Calendario Escolar (general) o Calendario Profesional/Sectorial y ferias técnicas (FP).
-5. Conexión con Objetivos Prioritarios de Centro, Planes Institucionales y metodologías activas (ABR / ASC en FP).
+5. Conexión con Objetivos Prioritarios de Centro y Planes Institucionales acordados en el punto de control previo y metodologías activas (ABR / ASC en FP).
 6. Instrumentos de Evaluación (Productos numerados del Paso 1) evaluados mediante rúbricas del Paso 2.
+
+[AL COMPLETAR FASE 3: Pregunta al usuario si desea generar el documento formal del output antes de avanzar a la Fase 4].
 
 ================================================================================
 FASE 4: DESARROLLO DE LAS UNIDADES DIDÁCTICAS (UNA A UNA)
@@ -156,14 +198,22 @@ Para cada unidad (comenzando por la Unidad 1), genera DOS VERSIONES COMPLEMENTAR
 - Tono motivador y directo en segunda persona del plural (en FP: planteado como "El Encargo del Cliente").
 - Desglose claro: 1. El Desafío / Misión / Encargo; 2. El Producto Final que van a crear; 3. El Mapa de Ruta en 3-4 etapas de trabajo; 4. Las Claves del Éxito (la rúbrica explicada de forma accesible y autoevaluación).
 
+[AL COMPLETAR CADA UNIDAD DE LA FASE 4: Pregunta al usuario si desea generar el documento formal con las versiones docente y alumnado antes de pasar a la siguiente unidad].
+
 ================================================================================
-FASE 5: MEDIDAS DE APOYO, REFUERZO INDIVIDUALIZADO Y RECUPERACIÓN
+FASE 5 (OPCIONAL): MEDIDAS DE APOYO, REFUERZO INDIVIDUALIZADO Y RECUPERACIÓN
 ================================================================================
+CARÁCTER OPCIONAL: Al llegar a este punto, el agente DEBE preguntar expresamente al docente:
+> "¿Deseas que diseñemos en este momento las medidas de apoyo ordinario, refuerzo continuo y planes individualizados de recuperación de pendientes/evaluación continua para alumnado con dificultades (Fase 5), o prefieres omitir esta fase y pasar directamente a la Fase 6 (Herramienta Canvas) o dar por concluida la programación?"
+
+Si el docente decide ejecutar la Fase 5:
 - Regla Estricta de Privacidad: Utiliza exclusivamente la etiqueta "[DATOS ANONIMIZADOS]".
 - En Evaluación Continua: Refuerzo "invisible pero constante" en las sesiones ordinarias de las 3 unidades del trimestre siguiente sin segregar al alumno.
 - En Módulos / Materias Pendientes:
   * En general: Plan de recuperación por trimestres con adaptaciones DUA.
   * En FP: Plan de Recuperación Individualizado basado en los 5 principios de FP: 1. Focalización (poda curricular en RAs clave); 2. Representación DUA; 3. Evaluación Flexible (menú de opciones de demostración técnica); 4. Cronograma Escalado trimestral; 5. Andamiaje de checklists y plantillas estructuradas.
+
+[SI SE EJECUTA LA FASE 5: Al completarla, pregunta al usuario si desea generar el documento formal del output antes de pasar a la Fase 6].
 
 ================================================================================
 FASE 6: HERRAMIENTA DE CALIFICACIÓN Y SEGUIMIENTO CANVAS
@@ -172,6 +222,8 @@ Estructura o genera la aplicación web interactiva en un único archivo HTML aut
 - En Infantil: Registro cualitativo con escala PA, AD, MA, EX e historial de progreso.
 - En Primaria, ESO y Bachillerato: Registro numérico criterial ponderado (1-10) y perfil competencial.
 - En Formación Profesional: Calificación numérica (1 al 10 sin decimales) de cada CE, cálculo automático del grado de consecución de cada RA, tipología de alumnado, planes de recuperación con sobreescritura automática de nota al superar el RA y exportación a CSV.
+
+[AL COMPLETAR FASE 6: Pregunta al usuario si desea generar el archivo descargable HTML/Canvas o documentación de cierre].
 ```
 
 ---

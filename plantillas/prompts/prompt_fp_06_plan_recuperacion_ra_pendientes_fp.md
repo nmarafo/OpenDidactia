@@ -1,4 +1,6 @@
-# 🆘 Prompt FP 6: Planes de Apoyo, Refuerzo Continuo y Recuperación de RA Pendientes en FP
+# 🆘 Prompt FP 6 (OPCIONAL): Planes de Apoyo, Refuerzo Continuo y Recuperación de RA Pendientes en FP
+
+> **Carácter Opcional:** Esta fase es de desarrollo opcional a petición del docente cuando existan estudiantes que precisen refuerzo técnico en taller o recuperación de RAs pendientes.
 
 Este prompt permite a un Agente de IA generar:
 1. **Medidas de Apoyo y Refuerzo Individualizado** para alumnado que no ha superado un Resultado de Aprendizaje en una Unidad de Trabajo durante la evaluación continua.
@@ -26,6 +28,10 @@ ESTRUCTURA DEL PLAN DE REFUERZO:
 3. Cronograma de Integración "Invisible": Desglosa cómo se trabajará el refuerzo durante las sesiones ordinarias de las 3 UTs del siguiente trimestre:
    - UT siguiente -> Foco del criterio a reforzar -> Acción técnica concreta en el puesto de trabajo.
 4. Criterio de Superación: Explica cómo la demostración positiva de la competencia en el nuevo contexto de taller sustituirá a la nota previa del RA.
+
+PREGUNTA DE CIERRE:
+Al finalizar, pregunta al docente:
+"¿Deseas que elabore y genere un documento formal independiente (en formato Markdown estructurado / descargable) con el Plan de Apoyo y Refuerzo de Evaluación Continua antes de pasar a la siguiente fase?"
 ```
 
 ---
@@ -49,4 +55,8 @@ REQUISITOS METODOLÓGICOS OBLIGATORIOS (5 Principios de FP):
 3. Evaluación Flexible (Menú de Opciones): Diseña un "menú de opciones" para que el alumno demuestre su competencia técnica (ej. elegir entre grabar un vídeo ejecutando la tarea en taller, un portafolio digital de piezas/proyectos o una demostración técnica in situ ante el profesor), desvinculando la destreza práctica de la habilidad de expresión escrita o memorística.
 4. Cronograma Escalado Trimestral: Establece un calendario de entregas e hitos prácticos que coincida con las sesiones de evaluación parcial del curso actual, evitando una prueba única final memorística.
 5. Andamiaje de Funciones Ejecutivas: Incluye listas de verificación (checklists) de procedimientos y plantillas estructuradas de taller para apoyar la autonomía del estudiante.
+
+PREGUNTA DE CIERRE:
+Al finalizar, pregunta al docente:
+"¿Deseas que elabore y genere un documento formal independiente (en formato Markdown estructurado / descargable) con el Plan de Recuperación de Módulos Pendientes antes de pasar a la siguiente fase?"
 ```

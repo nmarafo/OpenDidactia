@@ -21,4 +21,8 @@ DIRECTRICES DE REDACCIÓN:
    - **2. El Producto Final:** Qué van a crear (ej: un podcast, un mural interactivo, un vídeo, una guía de campo) y a quién se lo van a presentar o enseñar al final.
    - **3. El Mapa de Ruta (Paso a Paso):** Breve explicación en 3 o 4 etapas sencillas de las actividades que realizarán en las distintas sesiones.
    - **4. Las Claves del Éxito (Cómo nos evaluaremos):** Explicación clara y accesible de la rúbrica de evaluación en un lenguaje comprensible, indicando qué se espera para lograr un trabajo excelente y cómo se evaluarán entre ellos (coevaluación y diana de autoevaluación).
+
+PREGUNTA DE CIERRE DE FASE:
+Al finalizar la versión para el alumnado, pregunta obligatoriamente al docente:
+"¿Deseas que elabore y genere un documento formal independiente (en formato Markdown estructurado / descargable) con la Situación de Aprendizaje para el Alumnado antes de pasar a la siguiente unidad?"
 ```

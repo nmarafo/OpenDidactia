@@ -37,6 +37,10 @@ REQUISITOS FUNCIONALES OBLIGATORIOS:
    - En la media del 2.º y 3.er Trimestre, si un alumno ha seguido un Plan de Apoyo y Refuerzo donde se ha vuelto a trabajar un criterio previo, el cálculo actualiza la calificación con la nota del Plan.
 5. Exportación de Datos:
    - Botón para exportar todos los registros y calificaciones a formato `.csv`.
+
+PREGUNTA DE CIERRE DE FASE:
+Al finalizar la generación del código, pregunta al docente:
+"¿Deseas que prepare el archivo HTML independiente descargable con la aplicación de calificación Canvas lista para usar en navegador?"
 ```
 
 ---
@@ -63,4 +67,8 @@ REQUISITOS ESPECÍFICOS PARA INFANTIL:
 3. Informe Final de Etapa:
    - Sección para que, al finalizar el ciclo, el docente asigne el grado de adquisición de las Competencias Clave (PA, AD, MA, EX) basado en los criterios observados.
 4. Exportación en `.csv`.
+
+PREGUNTA DE CIERRE DE FASE:
+Al finalizar la generación del código, pregunta al docente:
+"¿Deseas que prepare el archivo HTML independiente descargable con la aplicación cualitativa de Educación Infantil lista para usar en navegador?"
 ```

@@ -36,4 +36,8 @@ ESPECIFICACIONES TÉCNICAS Y FUNCIONALES OBLIGATORIAS:
 8. Gestión Dinámica de Taller: Opción de añadir manualmente nuevos Instrumentos de Evaluación (Productos de taller) o nuevas UTs.
 9. Exportación a CSV: Botón para descargar de forma inmediata la matriz completa de calificaciones de todos los alumnos, CEs y RAs en formato `.csv` compatible con Excel y Google Sheets.
 10. Interfaz Moderna y Responsive: Diseño limpio, profesional, modo oscuro/claro, con tipografía legible, apto para ser incrustado en Google Sites o ejecutado localmente en cualquier navegador sin dependencias de servidor.
+
+PREGUNTA DE CIERRE DE FASE:
+Al finalizar la generación del código, pregunta al docente:
+"¿Deseas que prepare el archivo HTML independiente descargable con la aplicación de calificación Canvas para Formación Profesional lista para usar en navegador?"
 ```

@@ -38,4 +38,8 @@ Desglosa el trabajo en 4 fases comprensibles:
 SECCIÓN 4: LAS CLAVES DEL ÉXITO PROFESIONAL (¿Cómo seréis Evaluados?)
 - Traduce los niveles de la rúbrica docente a una lista de control de autoevaluación clara y accesible.
 - Explica qué diferencia un trabajo "chapucero o inseguro" (Insuficiente), de un trabajo "correcto según estándar" (Suficiente/Bien), "destacado" (Notable) o "de maestría profesional excelente" (Sobresaliente).
+
+PREGUNTA DE CIERRE DE FASE:
+Al finalizar la versión del alumnado, pregunta obligatoriamente al docente:
+"¿Deseas que elabore y genere un documento formal independiente (en formato Markdown estructurado / descargable) con el guion del Encargo del Cliente para el Alumnado antes de pasar a la siguiente unidad?"
 ```

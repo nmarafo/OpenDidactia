@@ -34,4 +34,8 @@ ESTRUCTURA DE SALIDA:
 - Encabezado: Elementos curriculares trabajados (Competencias Específicas, Criterios oficiales, Saberes Básicos) y Planes del Centro vinculados.
 - Desarrollo Sesión por Sesión (Sesión 1 a N, con Tarea 1.1, Tarea 1.2...).
 - Recursos globales y Rúbricas de evaluación aplicables.
+
+PREGUNTA DE CIERRE DE FASE:
+Al finalizar el desarrollo de la versión docente de la SA, pregunta al usuario:
+"¿Deseas que elabore y genere un documento formal independiente (en formato Markdown estructurado / descargable) con la Situación de Aprendizaje para el Docente antes de generar la versión del alumnado?"
 ```

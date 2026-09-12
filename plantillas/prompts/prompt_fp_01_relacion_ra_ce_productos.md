@@ -50,4 +50,8 @@ PASO 6: Codificación Alfanumérica Unificada
 En la columna del Instrumento de Evaluación, añade al final el código alfanumérico estandarizado en formato:
 `[RA].[Criterio].[Contenidos básicos].[Objetivos generales].[Competencias].[Producto]`
 (Ejemplo: `1.a).Recepción de materias primas.a).d). Albarán de control térmico`).
+
+PREGUNTA DE CIERRE DE FASE:
+Al finalizar la presentación del mapa de relaciones, pregunta obligatoriamente al docente:
+"¿Deseas que elabore y genere un documento formal independiente (en formato Markdown estructurado / descargable) con la matriz del Mapa de Relaciones Curriculares (RA - CE - Productos) antes de pasar al diseño de rúbricas?"
 ```

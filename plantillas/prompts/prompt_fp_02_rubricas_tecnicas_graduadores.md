@@ -37,4 +37,8 @@ FORMATO DE SALIDA (Genera una tabla para cada Producto):
 | :--- | :--- | :--- | :--- |
 | Describe la ejecución con **fallos técnicos o imprecisiones**, detallando la limitación. | Reproducción literal del estándar del Criterio de Evaluación oficial con **cumplimiento reglamentario**. | Ejecución con **elevada precisión y destreza**, destacando graduadores en **negrita**. | Ejecución con **excelencia técnica, optimización, autonomía total** e iniciativa experta. |
 | **Ejemplo de producto:** [Descripción de la pieza, informe, servicio o código con errores notables] | **Ejemplo de producto:** [Descripción del producto con acabado funcional estándar según normativa] | **Ejemplo de producto:** [Descripción del producto con acabado refinado y comprobaciones completas] | **Ejemplo de producto:** [Descripción del producto con nivel profesional de producción real] |
+
+PREGUNTA DE CIERRE DE FASE:
+Al finalizar la presentación de las rúbricas técnicas, pregunta obligatoriamente al docente:
+"¿Deseas que elabore y genere un documento formal independiente (en formato Markdown estructurado / descargable) con las Rúbricas Técnicas Oficiales antes de pasar a la siguiente fase?"
 ```
