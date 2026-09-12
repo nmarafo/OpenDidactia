@@ -1,6 +1,6 @@
 # 🏛️ Arquitectura del Open Knowledge Framework (OKF) en OpenDidactia
 
-El **Open Knowledge Framework (OKF)** en **OpenDidactia** es una especificación estructurada y estandarizada diseñada para organizar el corpus curricular y normativo de la educación en España, optimizado tanto para la consulta por profesionales de la educación como para su procesamiento por **Sistemas RAG (Retrieval-Augmented Generation)** y **Agentes de Inteligencia Artificial**.
+El **Open Knowledge Framework (OKF)** en **OpenDidactia** es una especificación estructurada, estandarizada y modular diseñada para organizar el corpus curricular, metodológico y normativo de la educación en España, optimizado tanto para la consulta por profesionales de la educación como para su procesamiento por **Sistemas RAG (Retrieval-Augmented Generation)** y **Agentes de Inteligencia Artificial**.
 
 ---
 
@@ -9,40 +9,54 @@ El **Open Knowledge Framework (OKF)** en **OpenDidactia** es una especificación
 Tradicionalmente, las normativas y currículos educativos se publican en extensos boletines oficiales (BOC, BOE, BOCM, BOJA) en formatos PDF no estructurados, lo que dificulta la automatización, la extracción de competencias y la elaboración ágil de documentos docentes.
 
 El framework **OKF** resuelve esta barrera al:
-1. **Estructurar la información en Markdown limpio y modular**, eliminando el ruido burocrático.
-2. **Incorporar metadatos enriquecidos en YAML Frontmatter** que permiten el filtrado semántico y la indexación determinista.
-3. **Ofrecer esquemas JSON Schema formales** para validar que las Programaciones Didácticas (PD) y Situaciones de Aprendizaje (SDA) generadas cumplan rigurosamente la legalidad vigente.
-4. **Facilitar la trazabilidad curricular:** desde las competencias clave y los descriptores operativos del perfil de salida hasta los criterios de evaluación y los saberes básicos de cada materia y comunidad autónoma.
+1. **Estructurar la información en Markdown limpio y modular**, eliminando el ruido burocrático y manteniendo la fidelidad legal.
+2. **Incorporar metadatos enriquecidos en YAML Frontmatter** que permiten el filtrado semántico, la indexación determinista y la vinculación con el marco normativo de [open-lex-edu](https://github.com/nmarafo/open-lex-edu).
+3. **Ofrecer esquemas formales (JSON Schema)** para validar que las Programaciones Didácticas (PD) y Situaciones de Aprendizaje (SDA) generadas cumplan rigurosamente la normativa vigente y los estándares metodológicos.
+4. **Implementar el Protocolo Oficial Canario en 9 Pasos**: Guiar a los agentes de IA en la deconstrucción de criterios, diseño de productos numerados, elaboración de rúbricas con graduadores, aplicación de las fases de David Merrill, operacionalización granular del DUA y diseño de planes de refuerzo y recuperación.
 
 ---
 
-## 2. Taxonomía de Directorios
-
-El repositorio sigue un patrón simétrico, jerárquico y escalable:
+## 2. Taxonomía Integral de Directorios
 
 ```text
 OpenDidactia/
-├── README.md                            # Guía principal del repositorio y acceso rápido
-├── LICENSE.md                           # Licencia CC BY-SA 4.0
+├── README.md                            # Guía principal del repositorio y protocolo de 9 pasos
+├── LICENSE.md                           # Licencia CC BY-SA 4.0 y cláusula de atribución
+├── .gitignore
 ├── schema/                              # Esquemas formales JSON Schema
 │   ├── norm_schema.json                 # Esquema OKF de disposiciones normativas (open-lex-edu)
-│   ├── esquema_programacion_didactica.json # Validación de Programaciones Didácticas
-│   └── esquema_situacion_aprendizaje.json  # Validación de Situaciones de Aprendizaje
-├── docs/                                # Base teórica, metodológica y taxonómica
-│   ├── arquitectura_okf.md              # Este documento
-│   ├── guia_situaciones_aprendizaje.md  # Metodología DUA, fases y rúbricas
-│   ├── guia_programaciones_didacticas.md# Planificación anual y concreción
-│   └── taxonomia_curricular_lomloe.md   # Mapeo de elementos curriculares
-├── plantillas/                          # Plantillas operativas y prompts de IA
-│   ├── plantilla_programacion_didactica.md
-│   ├── plantilla_situacion_aprendizaje.md
-│   └── prompts/
-│       ├── prompt_generar_situacion_aprendizaje.md
-│       └── prompt_generar_programacion_didactica.md
+│   ├── esquema_programacion_didactica.json # Validación de PDs anuales (9 SAs)
+│   └── esquema_situacion_aprendizaje.json  # Validación de SDAs (Merrill + DUA granular)
+├── docs/                                # Base teórica, metodológica y guías técnicas
+│   ├── flujo_agente_elaboracion_pd_sa.md   # Protocolo maestro de 9 pasos para Agentes de IA
+│   ├── guia_elaboracion_rubricas_graduadores.md # Rúbricas con graduadores y ejemplos
+│   ├── guia_operacionalizacion_dua.md      # DUA granular en sesiones y contexto canario
+│   ├── ecosistema_herramientas_activas.md  # Merrill, cooperativo, rutinas y efemérides
+│   ├── guia_planes_apoyo_y_recuperacion.md # Planes de refuerzo continuo y recuperación
+│   ├── arquitectura_okf.md                 # Este documento
+│   ├── taxonomia_curricular_lomloe.md      # Grafo curricular y relaciones competenciales
+│   ├── guia_situaciones_aprendizaje.md     # Metodología DUA, fases y rúbricas en SDAs
+│   └── guia_programaciones_didacticas.md   # Planificación anual y concreción en PDs
+├── plantillas/                          # Plantillas operativas y biblioteca de prompts
+│   ├── plantilla_situacion_aprendizaje.md  # Plantilla enriquecida para SDAs
+│   ├── plantilla_programacion_didactica.md # Plantilla enriquecida para PDs
+│   └── prompts/                         # Prompts del sistema modulares para IA
+│       ├── prompt_01_deconstruccion_criterios.md
+│       ├── prompt_02_elaboracion_rubricas_graduadores.md
+│       ├── prompt_03_secuenciacion_programacion_anual.md
+│       ├── prompt_04_desarrollo_sa_docente_merrill_dua.md
+│       ├── prompt_05_sa_para_alumnado.md
+│       ├── prompt_06_plan_apoyo_refuerzo_individualizado.md
+│       ├── prompt_07_plan_recuperacion_pendientes.md
+│       └── prompt_08_herramienta_calificacion_canvas.md
 └── comunidades/                         # Implementación por Comunidades Autónomas
     └── canarias/                        # Comunidad Autónoma de Canarias
-        ├── README.md                    # Peculiaridades del sistema canario (DUA, contexto)
-        ├── normativa/                   # Textos íntegros de los decretos curriculares
+        ├── README.md                    # Singularidades del sistema canario (DUA, contexto)
+        ├── guias_oficiales/             # Documentos técnicos oficiales de la Consejería (PDF)
+        ├── normativa/                   # Decretos oficiales íntegros con metadatos OKF
+        │   ├── D196_2022_ordenacion_curriculo_educacion_infantil_canarias.md
+        │   ├── D211_2022_ordenacion_curriculo_educacion_primaria_canarias.md
+        │   └── D30_2023_ordenacion_curriculo_eso_bachillerato_canarias.md
         └── curricular/                  # Matrices de competencias, criterios y saberes
             ├── infantil/
             ├── primaria/
@@ -52,56 +66,13 @@ OpenDidactia/
 
 ---
 
-## 3. Especificación del Frontmatter de Documentos Normativos
+## 3. Consumo por Agentes de IA y Sistemas RAG
 
-Siguiendo el estándar fijado en [nmarafo/open-lex-edu](https://github.com/nmarafo/open-lex-edu), cada disposición normativa cuenta con un encabezado YAML con los siguientes campos:
-
-```yaml
----
-id: norm-can-d-30-2023
-codigo_sintetizado: D30_2023 Ordenacion y Curriculo de ESO y Bachillerato en Canarias
-titulo: Decreto 30/2023, de 16 de marzo, por el que se establece la ordenación y el currículo de la Educación Secundaria Obligatoria y del Bachillerato en la Comunidad Autónoma de Canarias.
-jurisdiccion: Canarias
-ambito: Autonómico
-organo_emisor: Gobierno de Canarias / Consejería de Educación, Universidades, Cultura y Deportes
-tipo_disposicion: Decreto
-numero_disposicion: 30/2023
-fecha_disposicion: '2023-03-16'
-fecha_publicacion: '2023-03-23'
-boletin: BOC
-numero_boletin: '58'
-estado: Vigente
-redaccion: texto_integro_boc
-fuente_oficial: https://www.gobiernodecanarias.org/boc/2023/058/001.html
-fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-058-848.pdf
-fuente_juriscan: https://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=82361
-clasificacion:
-  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
-  subcategoria: Educación Secundaria Obligatoria y Bachillerato
-tags:
-  - educacion-secundaria-obligatoria
-  - bachillerato
-  - curriculo-eso
-  - curriculo-bachillerato
-  - situaciones-aprendizaje
-  - lomloe
-relaciones:
-  fundamentado_en:
-    - norma_id: norm-es-c-1978
-    - norma_id: norm-can-lo-1-2018
-    - norma_id: norm-es-lo-2-2006
-    - norma_id: norm-can-l-6-2014
-  desarrolla:
-    - norma_id: norm-es-rd-217-2022
-    - norma_id: norm-es-rd-243-2022
----
-```
-
----
-
-## 4. Consumo por Agentes de IA y Sistemas RAG
-
-Para utilizar este repositorio en arquitecturas de generación aumentada por recuperación:
-1. **Localización de la Norma:** El agente consulta `comunidades/<comunidad>/normativa/` para extraer el marco legal y las directrices pedagógicas de la etapa.
-2. **Inyección de Elementos Curriculares:** El agente extrae de `comunidades/<comunidad>/curricular/<etapa>/` las competencias específicas, los criterios de evaluación exactos y los bloques de saberes básicos.
-3. **Estructuración Asistida:** El agente utiliza los esquemas JSON (`schema/`) y las plantillas Markdown (`plantillas/`) para estructurar la respuesta, garantizando que incluya todas las fases DUA, las rúbricas graduadas y la contextualización autonómica requerida.
+Cuando un Agente de IA deba elaborar una Programación Didáctica o una Situación de Aprendizaje para Canarias:
+1. **Paso Inicial:** Carga [flujo_agente_elaboracion_pd_sa.md](flujo_agente_elaboracion_pd_sa.md) para comprender la secuencia completa.
+2. **Fase de Deconstrucción:** Ejecuta el prompt [prompt_01_deconstruccion_criterios.md](../plantillas/prompts/prompt_01_deconstruccion_criterios.md), cruzando los criterios de `comunidades/canarias/curricular/` para producir la tabla de instrumentos (productos).
+3. **Fase de Rúbricas:** Consulta [guia_elaboracion_rubricas_graduadores.md](guia_elaboracion_rubricas_graduadores.md) y ejecuta [prompt_02_elaboracion_rubricas_graduadores.md](../plantillas/prompts/prompt_02_elaboracion_rubricas_graduadores.md).
+4. **Fase de Secuenciación:** Aplica [prompt_03_secuenciacion_programacion_anual.md](../plantillas/prompts/prompt_03_secuenciacion_programacion_anual.md) para generar la matriz anual de 9 SAs articuladas con el calendario de Canarias.
+5. **Fase de Diseño de Sesión:** Aplica [guia_operacionalizacion_dua.md](guia_operacionalizacion_dua.md), [ecosistema_herramientas_activas.md](ecosistema_herramientas_activas.md) y [prompt_04_desarrollo_sa_docente_merrill_dua.md](../plantillas/prompts/prompt_04_desarrollo_sa_docente_merrill_dua.md) para generar las sesiones Merrill con DUA granular en tareas.
+6. **Fase de Comunicación al Alumnado:** Aplica [prompt_05_sa_para_alumnado.md](../plantillas/prompts/prompt_05_sa_para_alumnado.md).
+7. **Fase de Inclusión y Refuerzo:** Consulta [guia_planes_apoyo_y_recuperacion.md](guia_planes_apoyo_y_recuperacion.md) y aplica los prompts de apoyo y recuperación con datos rigurosamente anonimizados.

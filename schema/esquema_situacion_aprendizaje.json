@@ -1,28 +1,31 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "OpenDidactiaEsquemaSituacionAprendizaje",
-  "description": "Esquema OKF para el diseño y validación de Situaciones de Aprendizaje (SDA) competenciales según LOMLOE, DUA y directrices autonómicas.",
+  "description": "Esquema OKF enriquecido según las directrices oficiales de Canarias para el diseño y validación de Situaciones de Aprendizaje competenciales con DUA granular, fases de Merrill y rúbricas con graduadores.",
   "type": "object",
   "required": [
     "identificacion",
     "fundamentacion_y_reto",
-    "concrecion_curricular",
-    "secuencia_didactica",
+    "concrecion_curricular_y_deconstruccion",
+    "secuencia_didactica_merrill_dua",
     "evaluacion_formativa_y_rubricas",
-    "atencion_a_las_diferencias_individuales_dua"
+    "atencion_a_la_diversidad_medidas_apoyo"
   ],
   "properties": {
     "identificacion": {
       "type": "object",
       "required": [
+        "numero_sa",
         "titulo",
         "comunidad_autonoma",
         "etapa",
         "curso",
         "area_o_materia",
-        "temporalizacion_estimada_sesiones"
+        "temporalizacion_sesiones",
+        "trimestre"
       ],
       "properties": {
+        "numero_sa": { "type": "integer" },
         "titulo": { "type": "string" },
         "comunidad_autonoma": {
           "type": "string",
@@ -30,54 +33,50 @@
         },
         "etapa": {
           "type": "string",
-          "enum": ["Educación Infantil", "Educación Primaria", "Educación Secundaria Obligatoria", "Bachillerato", "Formación Profesional"]
+          "enum": [
+            "Educación Infantil",
+            "Educación Primaria",
+            "Educación Secundaria Obligatoria",
+            "Bachillerato",
+            "Formación Profesional"
+          ]
         },
-        "ciclo_o_curso": { "type": "string" },
+        "curso": { "type": "string" },
         "area_o_materia": { "type": "string" },
-        "caracter_interdisciplinar": { "type": "boolean" },
-        "otras_areas_vinculadas": {
-          "type": "array",
-          "items": { "type": "string" }
-        },
-        "temporalizacion_estimada_sesiones": { "type": "integer" },
-        "trimestre_o_periodo": { "type": "string" }
-      }
-    },
-    "fundamentacion_y_reto": {
-      "type": "object",
-      "required": [
-        "justificacion_pedagogica",
-        "centro_de_interes_o_contexto_significativo",
-        "reto_pregunta_motriz_o_problema",
-        "producto_o_desempeno_final"
-      ],
-      "properties": {
-        "justificacion_pedagogica": { "type": "string" },
-        "centro_de_interes_o_contexto_significativo": { "type": "string" },
-        "reto_pregunta_motriz_o_problema": { "type": "string" },
-        "producto_o_desempeno_final": { "type": "string" },
-        "contexto_autonomico_canario": {
+        "temporalizacion_sesiones": { "type": "integer" },
+        "trimestre": {
           "type": "string",
-          "description": "Vinculación con el patrimonio natural, cultural, histórico o lingüístico canario cuando proceda."
+          "enum": ["1.º Trimestre", "2.º Trimestre", "3.º Trimestre"]
         },
-        "vinculacion_objetivos_desarrollo_sostenible": {
+        "planes_y_programas_vinculados": {
           "type": "array",
           "items": { "type": "string" }
         }
       }
     },
-    "concrecion_curricular": {
+    "fundamentacion_y_reto": {
+      "type": "object",
+      "required": [
+        "centro_de_interes",
+        "reto_pregunta_motriz",
+        "producto_o_desempeno_final"
+      ],
+      "properties": {
+        "centro_de_interes": { "type": "string" },
+        "reto_pregunta_motriz": { "type": "string" },
+        "producto_o_desempeno_final": { "type": "string" },
+        "contexto_autonomico_canario": { "type": "string" },
+        "vinculacion_efemerides_calendario": { "type": "string" }
+      }
+    },
+    "concrecion_curricular_y_deconstruccion": {
       "type": "object",
       "required": [
         "competencias_especificas",
-        "criterios_evaluacion",
+        "deconstruccion_criterios_e_instrumentos",
         "saberes_basicos"
       ],
       "properties": {
-        "competencias_clave_descriptores": {
-          "type": "array",
-          "items": { "type": "string" }
-        },
         "competencias_especificas": {
           "type": "array",
           "items": {
@@ -89,15 +88,43 @@
             }
           }
         },
-        "criterios_evaluacion": {
+        "deconstruccion_criterios_e_instrumentos": {
           "type": "array",
+          "description": "Desglose obligatorio según el protocolo oficial de Canarias.",
           "items": {
             "type": "object",
-            "required": ["codigo", "competencia_especifica", "enunciado"],
+            "required": [
+              "criterio_codigo",
+              "criterio_texto_completo",
+              "instrumentos_productos"
+            ],
             "properties": {
-              "codigo": { "type": "string" },
-              "competencia_especifica": { "type": "string" },
-              "enunciado": { "type": "string" }
+              "criterio_codigo": { "type": "string" },
+              "criterio_texto_completo": { "type": "string" },
+              "instrumentos_productos": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "required": [
+                    "codigo_producto",
+                    "nombre_producto",
+                    "parte_criterio_evaluada",
+                    "descriptores_asignados"
+                  ],
+                  "properties": {
+                    "codigo_producto": {
+                      "type": "string",
+                      "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$"
+                    },
+                    "nombre_producto": { "type": "string" },
+                    "parte_criterio_evaluada": { "type": "string" },
+                    "descriptores_asignados": {
+                      "type": "array",
+                      "items": { "type": "string" }
+                    }
+                  }
+                }
+              }
             }
           }
         },
@@ -117,93 +144,67 @@
         }
       }
     },
-    "secuencia_didactica": {
+    "secuencia_didactica_merrill_dua": {
       "type": "array",
-      "description": "Fases didácticas competenciales con enfoque DUA.",
+      "description": "Secuencia de sesiones estructurada bajo los 5 principios de David Merrill y DUA granular.",
       "items": {
         "type": "object",
         "required": [
-          "fase",
-          "numero_actividad_o_sesion",
-          "titulo_actividad",
-          "descripcion_tareas",
-          "estrategias_dua_aplicadas",
-          "agrupamiento",
-          "recursos"
+          "numero_sesion",
+          "fase_merrill",
+          "tareas"
         ],
         "properties": {
-          "fase": {
+          "numero_sesion": { "type": "integer" },
+          "fase_merrill": {
             "type": "string",
             "enum": [
-              "Fase 1: Motivación y Activación de Conocimientos Previos",
-              "Fase 2: Exploración, Investigación y Estructuración",
-              "Fase 3: Aplicación, Creación y Transferencia",
-              "Fase 4: Comunicación, Síntesis y Evaluación/Metacognición"
+              "Fase 1: Tarea / Problema Central",
+              "Fase 2: Activación de Experiencias Previas",
+              "Fase 3: Demostración / Modelado",
+              "Fase 4: Aplicación Guiada",
+              "Fase 5: Integración y Transferencia"
             ]
           },
-          "numero_actividad_o_sesion": { "type": "string" },
-          "titulo_actividad": { "type": "string" },
-          "descripcion_tareas": { "type": "string" },
-          "procesos_cognitivos_bloom": {
-            "type": "string",
-            "enum": ["Conocer", "Comprender", "Aplicar", "Analizar", "Evaluar", "Crear"]
-          },
-          "estrategias_dua_aplicadas": {
-            "type": "object",
-            "properties": {
-              "compromiso_redes_afectivas": { "type": "string" },
-              "representacion_redes_reconocimiento": { "type": "string" },
-              "accion_expresion_redes_estrategicas": { "type": "string" }
-            }
-          },
-          "agrupamiento": {
-            "type": "string",
-            "enum": ["Individual", "Parejas", "Pequeño grupo cooperativo", "Gran grupo"]
-          },
-          "espacios": { "type": "string" },
-          "recursos": {
+          "tareas": {
             "type": "array",
-            "items": { "type": "string" }
-          },
-          "evidencia_de_aprendizaje": { "type": "string" }
-        }
-      }
-    },
-    "evaluacion_formativa_y_rubricas": {
-      "type": "object",
-      "required": ["instrumentos_evaluacion", "rubricas_criterios"],
-      "properties": {
-        "instrumentos_evaluacion": {
-          "type": "array",
-          "items": {
-            "type": "object",
-            "required": ["tipo", "descripcion", "agente_evaluador"],
-            "properties": {
-              "tipo": { "type": "string" },
-              "descripcion": { "type": "string" },
-              "agente_evaluador": {
-                "type": "string",
-                "enum": ["Docente (Heteroevaluación)", "Pares (Coevaluación)", "Alumnado (Autoevaluación)"]
-              }
-            }
-          }
-        },
-        "rubricas_criterios": {
-          "type": "array",
-          "items": {
-            "type": "object",
-            "required": ["criterio_codigo", "niveles"],
-            "properties": {
-              "criterio_codigo": { "type": "string" },
-              "ponderacion_en_sda": { "type": "string" },
-              "niveles": {
-                "type": "object",
-                "required": ["insuficiente_1_4", "suficiente_bien_5_6", "notable_7_8", "sobresaliente_9_10"],
-                "properties": {
-                  "insuficiente_1_4": { "type": "string" },
-                  "suficiente_bien_5_6": { "type": "string" },
-                  "notable_7_8": { "type": "string" },
-                  "sobresaliente_9_10": { "type": "string" }
+            "minItems": 2,
+            "items": {
+              "type": "object",
+              "required": [
+                "numero_tarea",
+                "titulo",
+                "duracion_minutos",
+                "rol_docente",
+                "rol_alumnado",
+                "rutina_o_dinamica",
+                "agrupamiento",
+                "dua_granular"
+              ],
+              "properties": {
+                "numero_tarea": { "type": "string" },
+                "titulo": { "type": "string" },
+                "duracion_minutos": { "type": "integer" },
+                "rol_docente": { "type": "string" },
+                "rol_alumnado": { "type": "string" },
+                "rutina_o_dinamica": { "type": "string" },
+                "agrupamiento": {
+                  "type": "string",
+                  "enum": ["Individual", "Parejas", "Pequeño grupo cooperativo", "Gran grupo"]
+                },
+                "dua_granular": {
+                  "type": "object",
+                  "required": ["representacion", "accion_expresion", "implicacion"],
+                  "properties": {
+                    "representacion": { "type": "string" },
+                    "accion_expresion": { "type": "string" },
+                    "implicacion": { "type": "string" }
+                  }
+                },
+                "instrumento_evaluado_producto": { "type": "string" },
+                "recursos_y_materiales": {
+                  "type": "array",
+                  "items": { "type": "string" }
                 }
               }
             }
@@ -211,13 +212,82 @@
         }
       }
     },
-    "atencion_a_las_diferencias_individuales_dua": {
+    "evaluacion_formativa_y_rubricas": {
+      "type": "array",
+      "description": "Rúbricas oficiales de Canarias con graduadores y ejemplos por nivel.",
+      "items": {
+        "type": "object",
+        "required": [
+          "instrumento_codigo",
+          "criterio_asociado",
+          "dimension_evaluada",
+          "niveles"
+        ],
+        "properties": {
+          "instrumento_codigo": { "type": "string" },
+          "criterio_asociado": { "type": "string" },
+          "dimension_evaluada": {
+            "type": "string",
+            "enum": [
+              "Calidad y Precisión",
+              "Autonomía",
+              "Profundidad y Complejidad (Transferencia)",
+              "Actitud y Frecuencia"
+            ]
+          },
+          "niveles": {
+            "type": "object",
+            "required": [
+              "insuficiente_1_4",
+              "suficiente_bien_5_6",
+              "notable_7_8",
+              "sobresaliente_9_10"
+            ],
+            "properties": {
+              "insuficiente_1_4": {
+                "type": "object",
+                "required": ["descriptor_con_graduadores", "ejemplo_producto"],
+                "properties": {
+                  "descriptor_con_graduadores": { "type": "string" },
+                  "ejemplo_producto": { "type": "string" }
+                }
+              },
+              "suficiente_bien_5_6": {
+                "type": "object",
+                "required": ["descriptor_con_graduadores", "ejemplo_producto"],
+                "properties": {
+                  "descriptor_con_graduadores": { "type": "string" },
+                  "ejemplo_producto": { "type": "string" }
+                }
+              },
+              "notable_7_8": {
+                "type": "object",
+                "required": ["descriptor_con_graduadores", "ejemplo_producto"],
+                "properties": {
+                  "descriptor_con_graduadores": { "type": "string" },
+                  "ejemplo_producto": { "type": "string" }
+                }
+              },
+              "sobresaliente_9_10": {
+                "type": "object",
+                "required": ["descriptor_con_graduadores", "ejemplo_producto"],
+                "properties": {
+                  "descriptor_con_graduadores": { "type": "string" },
+                  "ejemplo_producto": { "type": "string" }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "atencion_a_la_diversidad_medidas_apoyo": {
       "type": "object",
-      "required": ["medidas_de_acceso_y_personalizacion"],
+      "required": ["medidas_dua_universales"],
       "properties": {
-        "medidas_de_acceso_y_personalizacion": { "type": "string" },
-        "medidas_para_alumnado_con_neae": { "type": "string" },
-        "actividades_de_refuerzo_y_ampliacion": { "type": "string" }
+        "medidas_dua_universales": { "type": "string" },
+        "medidas_especificas_neae": { "type": "string" },
+        "prevision_plan_apoyo_refuerzo": { "type": "string" }
       }
     }
   }
