@@ -37,5 +37,5 @@ ESTRUCTURA DE SALIDA:
 
 PREGUNTA DE CIERRE DE FASE:
 Al finalizar el desarrollo de la versión docente de la SA, pregunta al usuario:
-"¿Deseas que elabore y genere un documento formal independiente (en formato Markdown estructurado / descargable) con la Situación de Aprendizaje para el Docente antes de generar la versión del alumnado?"
+"¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (Markdown estructurado y descargable) con la Situación de Aprendizaje para el Docente antes de generar la versión del alumnado?"
 ```

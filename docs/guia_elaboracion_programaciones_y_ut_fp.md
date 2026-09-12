@@ -30,7 +30,7 @@ Cualquier docente o agente de IA debe seguir con rigor técnico el siguiente flu
 ```mermaid
 graph TD
     A["1. Relación y Asociación de RA y CE con Productos<br>(Mapa de Relaciones Alfanumérico)"] --> B["2. Elaboración de Rúbricas Analíticas con Graduadores Técnicos"]
-    B --> CP["🛑 Control Previo: Recordatorio de Objetivos Prioritarios y Planes de Centro<br>(ATECA, Innovación, Sostenibilidad, PEC)"]
+    B --> CP["📌 Control Previo (OPCIONAL): Consulta de Objetivos y Planes de Centro<br>(ATECA, Innovación, Sostenibilidad, PEC)"]
     CP --> C["3. Conformación del Ecosistema de Base de Conocimiento<br>(Calendario Sectorial, Metodologías Ágiles, PRL, ABR/ASC, Merrill en Taller)"]
     C --> D["4. Secuenciación Anual de Unidades de Trabajo (UTs / SA-UT)<br>(9 UTs anuales vinculadas a retos del tejido productivo)"]
     D --> E["5. Desarrollo de la SA-UT para el DOCENTE<br>(Merrill en Taller + DUA granular por tarea + Roles + PRL)"]
@@ -39,10 +39,10 @@ graph TD
     G --> I["9. Herramienta Canvas de Calificación y Seguimiento<br>(App HTML/JS: 1-10 por CE, superación de RA y CSV)"]
 ```
 
-### 📋 Regla de Interacción Inter-Fases (Salidas Documentales)
+### 📋 Regla de Interacción Inter-Fases (Salidas Documentales con Formato Enriquecido)
 Al finalizar cada fase (Fase 1, Fase 2, Fase 4/Secuenciación, cada UT desarrollada de la Fase 5/6, y las fases de apoyo/evaluación), el agente **se detiene obligatoriamente** y consulta al docente:
-> *"¿Deseas que elabore y genere un documento formal independiente (en formato Markdown estructurado / descargable) con el output detallado de esta fase antes de pasar a la siguiente?"*
-- Si responde afirmativamente: Genera dicho documento formal completo y exhaustivo.
+> *"¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (en Markdown estructurado, tablas analíticas, llamadas técnicas destacadas y descargable) con el output detallado de esta fase antes de pasar a la siguiente?"*
+- Si responde afirmativamente: Genera dicho documento formal completo con **formato enriquecido** (tablas estructuradas, bloques de advertencia/PRL `> [!WARNING]`, listas categorizadas y formato listo para exportar o imprimir).
 - Si responde negativamente o desea continuar: Avanza a la siguiente fase prevista.
 
 ---
@@ -95,7 +95,7 @@ Para cada Producto obtenido en la Fase 1, se construye su rúbrica analítica cr
 | :--- | :--- | :--- | :--- | :--- |
 | **Calidad en el Montaje y PRL** | Ejecuta el cableado con **desviaciones críticas**, omitiendo los EPIs obligatorios o generando riesgos de cortocircuito.<br>*Ejemplo:* Faltan punteras, bornes flojos y cables sin canalizar. | Ejecuta el cableado **según plano estándar**, respetando los protocolos básicos de PRL y aislamiento.<br>*Ejemplo:* Cuadro operativo con etiquetado básico y protecciones activas. | Ejecuta el cableado con **elevada precisión y rapidez**, optimizando el trazado de canaletas y la rotulación.<br>*Ejemplo:* Cuadro impecable con esquema unifilar verificado y mediciones exactas. | Ejecuta el cableado con **precisión experta**, proponiendo mejoras de eficiencia energética y verificando tolerancias críticas de forma **totalmente autónoma**.<br>*Ejemplo:* Instalación certificable con informe técnico de puesta en marcha. |
 
-> **Salida Documental Inter-Fase:** Al finalizar la Fase 2, consulta al docente si desea generar un documento formal e independiente con las rúbricas analíticas oficiales del módulo antes de continuar.
+> **Salida Documental Inter-Fase:** Al finalizar la Fase 2, consulta al docente si desea generar un documento formal e independiente con formato enriquecido con las rúbricas analíticas oficiales del módulo antes de continuar.
 
 ---
 
@@ -123,14 +123,14 @@ Para que la programación y las UTs estén fuertemente arraigadas en el sector p
 
 ---
 
-## 🛑 CONTROL OBLIGATORIO PREVIO A LA SECUENCIACIÓN: OBJETIVOS Y PLANES DE CENTRO EN FP
+## 📌 CONTROL PREVIO A LA SECUENCIACIÓN (OPCIONAL): OBJETIVOS Y PLANES DE CENTRO EN FP
 
-Antes de secuenciar las 9 Unidades de Trabajo del módulo profesional, el agente **DEBE detenerse obligatoriamente** y recordar/solicitar al docente:
-1. **Objetivos Prioritarios del Centro Educativo:** Del PEC, PGA o Proyecto de Dirección del centro.
-2. **Planes y Proyectos Institucionales:** Participación en proyectos de Innovación Aplicada de FP, Aulas de Tecnología Aplicada (**ATECA**), Aulas de **Emprendimiento**, Plan de Prevención de Riesgos Laborales (PRL), Plan de Sostenibilidad / Huella de Carbono y Plan de Digitalización.
+La incorporación de Objetivos Prioritarios de Centro y Planes/Proyectos de FP (ATECA, Emprendimiento, etc.) tiene carácter **OPCIONAL** a criterio del docente.
 
-> **Pregunta obligatoria al docente antes de iniciar la Fase 4:**  
-> *"Antes de proceder a secuenciar las 9 Unidades de Trabajo (UTs) del módulo, ¿cuáles son los Objetivos Prioritarios del Centro, Planes y Proyectos de FP (ATECA, Emprendimiento, Innovación Aplicada, Sostenibilidad, Digitalización) que deben vertebrar la programación? (Si no dispones de ellos en este momento, indícalo y te propondré una batería contextualizada a la Familia Profesional para incorporarlos a la matriz anual)."*
+Antes de secuenciar las 9 Unidades de Trabajo del módulo profesional, el agente consulta al docente:
+> *"¿Deseas incorporar a la programación anual los Objetivos Prioritarios del Centro (PEC/PGA) y Planes/Proyectos de FP (ATECA, Emprendimiento, Innovación Aplicada, Sostenibilidad, Digitalización), o prefieres omitirlos y centrar la programación exclusivamente en el currículo oficial del título?"*
+- **Si el docente decide incorporarlos:** Se integran en la matriz de la Fase 4 como ejes técnicos y metodológicos (si no dispone de ellos, el agente puede proponer una batería contextualizada a la Familia Profesional).
+- **Si el docente decide omitirlos:** Se avanza directamente a la Fase 4 estructurando las 9 UTs sobre los Resultados de Aprendizaje, Criterios de Evaluación y retos técnicos del taller sin forzar proyectos de centro.
 
 ---
 
@@ -148,9 +148,9 @@ Para cada UT se concreta:
 4. Vinculación con el Calendario Profesional / Hito sectorial.
 5. Reto ABR o proyecto ASC vertebrador.
 6. Instrumentos de Evaluación (Productos) y ponderación criterial.
-7. Conexión con los Objetivos Prioritarios y Planes de Centro acordados en el punto de control previo.
+7. Conexión con los Objetivos Prioritarios y Planes de Centro (si se eligió incorporarlos en el control previo).
 
-> **Salida Documental Inter-Fase:** Al finalizar la Fase 4, consulta al docente si desea generar un documento formal e independiente con la matriz de secuenciación del módulo antes de abordar el desarrollo de cada UT.
+> **Salida Documental Inter-Fase:** Al finalizar la Fase 4, consulta al docente si desea generar un documento formal e independiente con formato enriquecido con la matriz de secuenciación del módulo antes de abordar el desarrollo de cada UT.
 
 ---
 
@@ -186,7 +186,7 @@ Para comunicar la UT al alumnado se genera una versión directa, motivadora y li
    - *Fase 4: Entrega al Cliente y Retrospectiva de Equipo.*
 4. **Criterios de Éxito:** La rúbrica traducida a una lista de control de estándares de calidad profesional comprensible.
 
-> **Salida Documental Inter-Fase:** Tras desarrollar las versiones Docente (Fase 5) y Alumnado (Fase 6) de cada UT, consulta al usuario si desea compilar el documento formal completo de dicha unidad de trabajo antes de pasar a la siguiente.
+> **Salida Documental Inter-Fase:** Tras desarrollar las versiones Docente (Fase 5) y Alumnado (Fase 6) de cada UT, consulta al usuario si desea compilar el documento formal e independiente con formato enriquecido de dicha unidad de trabajo antes de pasar a la siguiente.
 
 ---
 
@@ -214,7 +214,7 @@ Para alumnado que promociona con un módulo profesional pendiente del curso ante
 4. **Cronograma Escalado:** Entregas e hitos trimestrales coordinados con las sesiones de evaluación del curso en curso, erradicando el examen único final de memoria.
 5. **Andamiajes Ejecutivos:** Plantillas estructuradas de cuaderno de taller y listas de verificación.
 
-> **Salida Documental:** Si se ejecutan estas fases, consulta al usuario si desea generar el documento formal de planes de refuerzo y recuperación antes de continuar.
+> **Salida Documental:** Si se ejecutan estas fases, consulta al usuario si desea generar el documento formal e independiente con formato enriquecido de planes de refuerzo y recuperación antes de continuar.
 
 ---
 

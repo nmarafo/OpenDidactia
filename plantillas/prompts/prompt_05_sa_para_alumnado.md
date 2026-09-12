@@ -24,5 +24,5 @@ DIRECTRICES DE REDACCIÓN:
 
 PREGUNTA DE CIERRE DE FASE:
 Al finalizar la versión para el alumnado, pregunta obligatoriamente al docente:
-"¿Deseas que elabore y genere un documento formal independiente (en formato Markdown estructurado / descargable) con la Situación de Aprendizaje para el Alumnado antes de pasar a la siguiente unidad?"
+"¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (Markdown estructurado y descargable) con la Situación de Aprendizaje para el Alumnado antes de pasar a la siguiente unidad?"
 ```

@@ -31,7 +31,7 @@ ESTRUCTURA DEL PLAN DE REFUERZO:
 
 PREGUNTA DE CIERRE:
 Al finalizar, pregunta al docente:
-"¿Deseas que elabore y genere un documento formal independiente (en formato Markdown estructurado / descargable) con el Plan de Apoyo y Refuerzo de Evaluación Continua antes de pasar a la siguiente fase?"
+"¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (Markdown estructurado y descargable) con el Plan de Apoyo y Refuerzo de Evaluación Continua antes de pasar a la siguiente fase?"
 ```
 
 ---
@@ -58,5 +58,5 @@ REQUISITOS METODOLÓGICOS OBLIGATORIOS (5 Principios de FP):
 
 PREGUNTA DE CIERRE:
 Al finalizar, pregunta al docente:
-"¿Deseas que elabore y genere un documento formal independiente (en formato Markdown estructurado / descargable) con el Plan de Recuperación de Módulos Pendientes antes de pasar a la siguiente fase?"
+"¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (Markdown estructurado y descargable) con el Plan de Recuperación de Módulos Pendientes antes de pasar a la siguiente fase?"
 ```

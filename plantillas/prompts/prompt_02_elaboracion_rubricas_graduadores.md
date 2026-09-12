@@ -40,5 +40,5 @@ Asegúrate antes de contestar de que has elaborado las rúbricas de la TOTALIDAD
 
 PREGUNTA DE CIERRE DE FASE:
 Al finalizar la presentación de las rúbricas, pregunta obligatoriamente al docente:
-"¿Deseas que elabore y genere un documento formal independiente (en formato Markdown estructurado / descargable) con las Rúbricas Analíticas Oficiales antes de pasar a la siguiente fase?"
+"¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (Markdown estructurado y descargable) con las Rúbricas Analíticas Oficiales antes de pasar a la siguiente fase?"
 ```

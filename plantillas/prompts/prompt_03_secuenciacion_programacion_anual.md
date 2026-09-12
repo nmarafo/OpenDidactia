@@ -16,15 +16,16 @@ DATOS DE ENTRADA:
 - Carga horaria semanal: [INDICAR HORAS, ej: 4 horas semanales]
 - Comunidad Autónoma: [Por defecto Canarias o la indicada]
 
-🛑 PUNTO DE CONTROL OBLIGATORIO PREVIO: OBJETIVOS Y PLANES DE CENTRO:
-Antes de generar la matriz anual de las 9 SAs, solicita al docente:
-"¿Cuáles son los Objetivos Prioritarios del Centro (PEC/PGA) y Planes/Programas Institucionales (ej. Red Canaria InnovAS / PIDAS de Sostenibilidad, Igualdad, Salud, Comunicación Lingüística; Plan Digital de Centro) que deben vertebrar la programación? (Si no dispones de ellos en este momento, indícalo y te propondré una batería contextualizada y realista para incorporarlos a la matriz anual)."
+📌 PUNTO DE CONTROL PREVIO (OPCIONAL): OBJETIVOS Y PLANES DE CENTRO:
+La incorporación de Objetivos y Planes de Centro es OPCIONAL a criterio del docente. Antes de generar la matriz anual de las 9 SAs, consulta:
+"¿Deseas incorporar a la programación anual los Objetivos Prioritarios (PEC/PGA) o Planes y Programas Institucionales del centro (ej. PIDAS/InnovAS, CIMA, Sostenibilidad, Igualdad, Digitalización), o prefieres omitirlos y basarte exclusivamente en el currículo oficial ordinario?"
+(Si el docente decide incorporarlos pero no dispone de ellos, proponle una batería contextualizada y realista).
 
 FUENTES INTEGRADAS OBLIGATORIAS:
 - Currículo oficial de la Comunidad Autónoma (Criterios y Saberes Básicos).
 - Tabla de "Deconstrucción de Criterios" y "Rúbricas Analíticas Oficiales" generadas previamente.
 - Calendario escolar y efemérides (Día de las Letras Canarias, Día de Canarias, ODS, etc.).
-- Objetivos de centro, Planes y Programas acordados en el punto de control previo.
+- Objetivos de centro, Planes y Programas (si se acordó incorporarlos en el control previo).
 
 INSTRUCCIONES DE DISEÑO:
 Distribuye la totalidad de los Saberes Básicos, Competencias Específicas y Criterios de Evaluación en **9 Situaciones de Aprendizaje** agrupadas por evaluaciones trimestrales:
@@ -43,5 +44,5 @@ Para cada una de las 9 SAs, detalla en una tabla matriz:
 
 PREGUNTA DE CIERRE DE FASE:
 Al finalizar la presentación de la matriz, pregunta obligatoriamente al docente:
-"¿Deseas que elabore y genere un documento formal independiente (en formato Markdown estructurado / descargable) con la matriz anual de secuenciación de las 9 SAs antes de pasar al desarrollo de cada unidad?"
+"¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (Markdown estructurado y descargable) con la matriz anual de secuenciación de las 9 SAs antes de pasar al desarrollo de cada unidad?"
 ```

@@ -16,15 +16,16 @@ DATOS DE ENTRADA:
 - Mapa de Relaciones (RA - CE - Productos) y Rúbricas generadas previamente.
 - Comunidad Autónoma: [Por defecto Canarias]
 
-🛑 PUNTO DE CONTROL OBLIGATORIO PREVIO: OBJETIVOS Y PLANES DE CENTRO EN FP:
-Antes de generar la matriz de secuenciación de las 9 UTs, solicita al docente:
-"¿Cuáles son los Objetivos Prioritarios del Centro (PEC/PGA) y Proyectos Institucionales de FP (Innovación Aplicada, Aulas ATECA, Aulas de Emprendimiento, Sostenibilidad, PRL, Digitalización) que deben vertebrar la programación? (Si no dispones de ellos en este momento, indícalo y te propondré una batería contextualizada a la Familia Profesional para incorporarlos a la matriz anual)."
+📌 PUNTO DE CONTROL PREVIO (OPCIONAL): OBJETIVOS Y PLANES DE CENTRO EN FP:
+La vinculación con Objetivos y Planes de Centro en FP es OPCIONAL a criterio del docente. Antes de generar la matriz de secuenciación de las 9 UTs, consulta:
+"¿Deseas incorporar a la programación anual los Objetivos Prioritarios (PEC/PGA) y Proyectos de FP (Innovación Aplicada, Aulas ATECA, Aulas de Emprendimiento, Sostenibilidad, PRL, Digitalización), o prefieres omitirlos y centrar la programación exclusivamente en el currículo oficial del título?"
+(Si el docente decide incorporarlos pero no dispone de ellos, proponle una batería contextualizada a la Familia Profesional).
 
 FUENTES DE CONTEXTUALIZACIÓN OBLIGATORIAS:
 1. Calendario Profesional y Sectorial: Ferias comerciales, congresos tecnológicos, eventos empresariales y temporadas productivas de la familia profesional en la comunidad autónoma.
 2. Cultura Organizacional y Pensamiento Técnico: Metodologías ágiles (Scrum/Kanban), resolución de conflictos laborales y protocolos de diagnóstico/PRL.
 3. Metodologías Activas FP: Retos de Aprendizaje Basado en Retos (ABR) y proyectos de Aprendizaje-Servicio Colaborativo (ASC).
-4. Objetivos Prioritarios del Centro Educativo y Planes de FP acordados en el punto de control previo.
+4. Objetivos Prioritarios del Centro Educativo y Planes de FP (si se acordó incorporarlos en el control previo).
 
 REGLAS DE DISTRIBUCIÓN POR EVALUACIONES:
 - 1.ª Evaluación (Septiembre a Diciembre): UT 1, UT 2 y UT 3.
@@ -46,5 +47,5 @@ Asegúrate de que la totalidad de los Resultados de Aprendizaje del módulo (100
 
 PREGUNTA DE CIERRE DE FASE:
 Al finalizar la presentación de la matriz, pregunta obligatoriamente al docente:
-"¿Deseas que elabore y genere un documento formal independiente (en formato Markdown estructurado / descargable) con la matriz anual de secuenciación de las 9 Unidades de Trabajo antes de pasar al desarrollo de cada unidad?"
+"¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (Markdown estructurado y descargable) con la matriz anual de secuenciación de las 9 Unidades de Trabajo antes de pasar al desarrollo de cada unidad?"
 ```

@@ -45,5 +45,5 @@ Desarrolla la totalidad de las sesiones de la UT. Cada sesión debe contener pre
 
 PREGUNTA DE CIERRE DE FASE:
 Al finalizar el desarrollo técnico de la UT para el docente, pregunta al usuario:
-"¿Deseas que elabore y genere un documento formal independiente (en formato Markdown estructurado / descargable) con la Unidad de Trabajo para el Docente antes de generar la versión del alumnado (El Encargo del Cliente)?"
+"¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (Markdown estructurado y descargable) con la Unidad de Trabajo para el Docente antes de generar la versión del alumnado (El Encargo del Cliente)?"
 ```

@@ -44,7 +44,7 @@ Revisa criterio por criterio antes de emitir la respuesta: ¿Están todos y cada
 
 PREGUNTA DE CIERRE DE FASE:
 Al finalizar, pregunta al docente:
-"¿Deseas que elabore y genere un documento formal independiente (en formato Markdown estructurado / descargable) con la tabla de Deconstrucción de Criterios y Productos antes de avanzar al diseño de rúbricas?"
+"¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (Markdown estructurado y descargable) con la tabla de Deconstrucción de Criterios y Productos antes de avanzar al diseño de rúbricas?"
 ```
 
 ---
@@ -67,5 +67,5 @@ Aplica el mismo procedimiento de 4 pasos distribuyendo la totalidad de las Compe
 
 PREGUNTA DE CIERRE DE FASE:
 Al finalizar, pregunta al docente:
-"¿Deseas que elabore y genere un documento formal independiente (en formato Markdown estructurado / descargable) con la tabla de Deconstrucción de Infantil antes de continuar?"
+"¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (Markdown estructurado y descargable) con la tabla de Deconstrucción de Infantil antes de continuar?"
 ```

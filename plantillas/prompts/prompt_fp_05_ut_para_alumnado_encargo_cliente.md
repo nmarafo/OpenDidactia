@@ -41,5 +41,5 @@ SECCIÓN 4: LAS CLAVES DEL ÉXITO PROFESIONAL (¿Cómo seréis Evaluados?)
 
 PREGUNTA DE CIERRE DE FASE:
 Al finalizar la versión del alumnado, pregunta obligatoriamente al docente:
-"¿Deseas que elabore y genere un documento formal independiente (en formato Markdown estructurado / descargable) con el guion del Encargo del Cliente para el Alumnado antes de pasar a la siguiente unidad?"
+"¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (Markdown estructurado y descargable) con el guion del Encargo del Cliente para el Alumnado antes de pasar a la siguiente unidad?"
 ```

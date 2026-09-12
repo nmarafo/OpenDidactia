@@ -60,5 +60,5 @@ Desarrolla de forma extensa cómo el refuerzo se realizará de manera invisible 
 
 PREGUNTA DE CIERRE DE FASE:
 Al finalizar, pregunta al docente:
-"¿Deseas que elabore y genere un documento formal independiente (en formato Markdown estructurado / descargable) con el Plan de Apoyo y Refuerzo Individualizado antes de pasar a la siguiente fase?"
+"¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (Markdown estructurado y descargable) con el Plan de Apoyo y Refuerzo Individualizado antes de pasar a la siguiente fase?"
 ```

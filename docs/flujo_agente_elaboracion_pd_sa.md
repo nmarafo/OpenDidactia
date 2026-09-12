@@ -13,7 +13,7 @@ Este documento constituye la **guía maestra de instrucciones y procedimientos**
 [ PASO 2: Elaboración de Rúbricas Oficiales con Graduadores y Ejemplos ]
                                 │
                                 ▼  ◄─── [Pregunta Documental Inter-Fase]
-[ 🛑 CONTROL OBLIGATORIO: Recordatorio de Objetivos Prioritarios y Planes de Centro ]
+[ 📌 CONTROL PREVIO (OPCIONAL): Consulta de Objetivos Prioritarios y Planes de Centro ]
                                 │
                                 ▼
 [ PASO 3: Activación del Ecosistema Metodológico (Merrill, DUA, Calendario, Red InnovAS) ]
@@ -36,10 +36,10 @@ Este documento constituye la **guía maestra de instrucciones y procedimientos**
                                 ▼  ◄─── [Pregunta Documental / Archivo HTML final]
 ```
 
-### 📋 Regla Obligatoria de Interacción Inter-Fases (Salidas Documentales)
+### 📋 Regla Obligatoria de Interacción Inter-Fases (Salidas Documentales con Formato Enriquecido)
 Al concluir cada fase (Fase 1, Fase 2, Fase 4/Secuenciación, cada SA de la Fase 5/6, y las fases de apoyo/evaluación), el agente **se detiene obligatoriamente** y formula al usuario:
-> *"¿Deseas que elabore y genere un documento formal independiente (en formato Markdown descargable / estructurado) con el output detallado de esta fase antes de pasar a la siguiente?"*
-- Si responde que sí: Genera el documento estructurado íntegro antes de continuar.
+> *"¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (en Markdown estructurado, tablas detalladas, llamadas visuales y jerarquía tipográfica descargable) con el output detallado de esta fase antes de pasar a la siguiente?"*
+- Si responde que sí: Genera dicho documento completo con **formato enriquecido** (tablas detalladas, bloques de aviso `> [!NOTE]`, tipografía estructurada y formato listo para exportación a PDF/Word/HTML o publicación) antes de continuar.
 - Si responde que no: Pasa de inmediato al siguiente paso.
 
 ---
@@ -83,7 +83,7 @@ Basado en el *Informe Técnico: Uso de Graduadores en la Evaluación Competencia
 5. **Erradicar el "No":** En el nivel Insuficiente, no utilizar la fórmula negativa *"No lo hace"*, sino describir la naturaleza de la limitación (*"Lo realiza con errores graves..."*).
 6. **Ejemplo Tangible del Producto:** En cada nivel de logro, incluir un ejemplo descriptivo concreto de cómo luce el producto elaborado por el estudiante.
 
-> **Salida Documental Inter-Fase:** Al finalizar el Paso 2, pregunta al docente si desea generar un documento formal e independiente con la tabla de rúbricas analíticas oficiales antes de avanzar.
+> **Salida Documental Inter-Fase:** Al finalizar el Paso 2, pregunta al docente si desea generar un documento formal e independiente con formato enriquecido con la tabla de rúbricas analíticas oficiales antes de avanzar.
 
 ---
 
@@ -103,14 +103,14 @@ Para planificar la secuencia anual y las sesiones diarias, el agente debe activa
 
 ---
 
-## 🛑 PUNTO DE CONTROL OBLIGATORIO PREVIO A LA SECUENCIACIÓN: OBJETIVOS Y PLANES DE CENTRO
+## 📌 PUNTO DE CONTROL PREVIO A LA SECUENCIACIÓN (OPCIONAL): OBJETIVOS Y PLANES DE CENTRO
 
-Antes de proceder a la secuenciación anual en 9 Situaciones de Aprendizaje, el agente **DEBE detenerse obligatoriamente** y recordar/solicitar al docente:
-1. **Objetivos Prioritarios del Centro Educativo:** Extraídos del Proyecto Educativo de Centro (PEC), la Programación General Anual (PGA) o el Proyecto de Dirección.
-2. **Planes y Programas Institucionales:** Vinculación con los ejes de la Red Canaria InnovAS / PIDAS (Educación Ambiental y Sostenibilidad, Igualdad y Diversidad afectivo-sexual, Promoción de la Salud, Comunicación Lingüística, Cooperación e Internacionalización) y el Plan Digital de Centro (PDC).
+La articulación con los Objetivos Prioritarios del Centro y sus Planes y Programas Institucionales es **OPCIONAL** a criterio del docente.
 
-> **Pregunta obligatoria al docente antes de iniciar el Paso 4:**  
-> *"Antes de secuenciar las 9 Situaciones de Aprendizaje del curso, ¿cuáles son los Objetivos Prioritarios del Centro, Planes y Programas Educativos (PIDAS/InnovAS, Sostenibilidad, Igualdad, Plan Digital) que deben vertebrar la programación? (Si no dispones de ellos en este momento, indícalo y te propondré una batería contextualizada y realista para incorporarlos a la matriz anual)."*
+Antes de proceder a la secuenciación anual en 9 Situaciones de Aprendizaje, el agente consulta al docente:
+> *"¿Deseas incorporar a la programación anual los Objetivos Prioritarios del Centro (PEC/PGA) o Planes y Programas Institucionales (PIDAS/InnovAS, Sostenibilidad, Igualdad, Plan Digital), o prefieres omitirlos y estructurar la programación basándote exclusivamente en el currículo oficial ordinario?"*
+- **Si el docente decide incorporarlos:** Se integran como ejes transversales y vertebradores en la matriz del Paso 4 (si el docente no dispone de ellos en ese momento, el agente puede proponer una batería contextualizada y realista).
+- **Si el docente decide omitirlos:** Se avanza directamente al Paso 4 estructurando la secuenciación curricular sobre la base de los criterios, saberes básicos y efemérides normativas sin forzar vínculos institucionales.
 
 ---
 
@@ -125,10 +125,10 @@ Cada SA de la tabla anual debe especificar:
 * Número y Título motivador.
 * Trimestre y número de sesiones estimadas.
 * Criterios de evaluación y saberes básicos implicados.
-* Conexión con efemérides del calendario escolar y Objetivos Prioritarios / Planes de Centro acordados en el punto de control previo.
+* Conexión con efemérides del calendario escolar y Objetivos Prioritarios / Planes de Centro (si se eligió incorporarlos en el control previo).
 * Instrumentos de evaluación (productos de la deconstrucción del Paso 1) que se calificarán con las rúbricas del Paso 2.
 
-> **Salida Documental Inter-Fase:** Al finalizar el Paso 4, pregunta al docente si desea generar un documento formal e independiente con la matriz de secuenciación anual antes de desarrollar las SAs.
+> **Salida Documental Inter-Fase:** Al finalizar el Paso 4, pregunta al docente si desea generar un documento formal e independiente con formato enriquecido con la matriz de secuenciación anual antes de desarrollar las SAs.
 
 ---
 
@@ -158,7 +158,7 @@ El agente debe generar un guion o versión comunicativa orientada directamente a
 * **Tono motivador, cercano y directo:** En segunda persona (*"En esta misión vamos a descubrir...", "Nuestro desafío consistirá en..."*).
 * **Claridad en el reto y las etapas:** Explicar el producto final, las actividades que realizarán en equipo y cómo sabrán si han tenido éxito (rúbrica explicada de forma sencilla).
 
-> **Salida Documental Inter-Fase:** Tras desarrollar las versiones Docente (Paso 5) y Alumnado (Paso 6) de cada SA, pregunta al usuario si desea compilar el documento formal de dicha SA antes de avanzar a la siguiente.
+> **Salida Documental Inter-Fase:** Tras desarrollar las versiones Docente (Paso 5) y Alumnado (Paso 6) de cada SA, pregunta al usuario si desea compilar el documento formal e independiente con formato enriquecido de dicha SA antes de avanzar a la siguiente.
 
 ---
 
@@ -183,7 +183,7 @@ Para el alumnado que no supere un criterio de evaluación en una SA:
 Para alumnado que promociona con la materia no superada del curso anterior:
 * Diseñar un Plan de Recuperación contextualizado que permita adquirir las capacidades de los criterios no superados de la programación anterior a través de las SAs del curso actual, integrando andamiajes DUA.
 
-> **Salida Documental:** Si se ejecuta esta fase, preguntar si se desea generar el documento de apoyo y recuperación antes del Paso 9.
+> **Salida Documental:** Si se ejecuta esta fase, preguntar si se desea generar el documento formal e independiente con formato enriquecido de apoyo y recuperación antes del Paso 9.
 
 ---
 
