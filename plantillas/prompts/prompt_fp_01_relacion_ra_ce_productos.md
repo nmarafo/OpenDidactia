@@ -37,18 +37,18 @@ Reparte la totalidad de los Criterios de Evaluación de la norma entre los produ
 * Ejemplo: Si el RA 1 tiene 5 Criterios de Evaluación (a, b, c, d, e) y el Producto 1 cubre los criterios a, b y c, el Producto 2 debe incorporar obligatoriamente los criterios d y e (pudiendo reforzar o repetir alguno si aporta valor técnico).
 
 PASO 5: Generación de la Matriz del Mapa de Relaciones
-Presenta los resultados en una tabla estructurada con las siguientes columnas:
+Presenta los resultados en una tabla estructurada relacionando a cada Producto:
 1. N.º de RA
-2. Letra del Criterio de Evaluación (CE)
-3. Texto literal oficial del Criterio de Evaluación
-4. Contenidos básicos asociados
+2. Criterios de Evaluación vinculados (Letras CE oficiales: a, b, c...)
+3. Texto literal de los Criterios de Evaluación
+4. Contenidos básicos asociados (mencionando Bloque y N.º oficial)
 5. Orientaciones pedagógicas aplicables
 6. Objetivos generales (OG) y Competencias (CPPS) evaluadas
-7. Instrumento de Evaluación (Producto Técnico Numerado)
+7. Instrumento de Evaluación (Producto Técnico Numerado con código alfanumérico)
 
 PASO 6: Codificación Alfanumérica Unificada
 En la columna del Instrumento de Evaluación, añade al final el código alfanumérico estandarizado en formato:
-`[RA].[Criterio].[Contenidos básicos].[Objetivos generales].[Competencias].[Producto]`
+`[RA].[CE].[Bloque Contenidos básicos].[Objetivos generales].[Competencias].[Producto]`
 (Ejemplo: `1.a).Recepción de materias primas.a).d). Albarán de control térmico`).
 
 PREGUNTA DE CIERRE DE FASE:

@@ -33,11 +33,12 @@ REGLA DE ORO: No puede quedar ningún descriptor sin asignar. Si un descriptor e
 Ejemplo: Si el criterio tiene 5 descriptores y el Producto 1 aborda 3, el Producto 2 debe incluir obligatoriamente los 2 restantes (y puede repetir alguno si es necesario).
 
 PASO 4: Generación de Tabla de Deconstrucción
-Genera la tabla con las siguientes cuatro columnas exactas:
+Genera la tabla relacionando para cada producto sus elementos curriculares:
 1. N.º Criterio
-2. Bloque de Descriptores (Específicos del producto)
-3. Parte del Criterio Evaluada (Cita textual de la parte del criterio que mide este producto)
-4. Instrumento de Evaluación (Producto Numerado en formato [Criterio].[Secuencia], ej: 1.1.1. Guía de Audición)
+2. Descriptores Operativos Específicos del Criterio (o Competencias Clave en Infantil)
+3. Saberes Básicos asociados (mencionando Bloque y N.º oficial según el currículo)
+4. Parte del Criterio Evaluada (Cita textual de la parte del criterio que mide este producto)
+5. Instrumento de Evaluación (Producto Numerado en formato [Criterio].[Secuencia], ej: 1.1.1. Guía de Audición)
 
 VERIFICACIÓN FINAL OBLIGATORIA:
 Revisa criterio por criterio antes de emitir la respuesta: ¿Están todos y cada uno de los descriptores del currículo oficial presentes en la suma de las filas del criterio? Si falta alguno, corrígelo de inmediato.

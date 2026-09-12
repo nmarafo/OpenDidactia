@@ -144,7 +144,7 @@ El curso se divide en **9 Unidades de Trabajo (UTs / SA-UT)** articuladas en 3 e
 Para cada UT se concreta:
 1. Número y Título profesional motivador (ej. *UT 2: Diagnóstico y resolución de averías en trenes de rodaje*).
 2. Temporalización exacta en horas y sesiones de taller.
-3. Resultados de Aprendizaje (RA) y Criterios de Evaluación (CE) implicados.
+3. Resultados de Aprendizaje (RA), Criterios de Evaluación (CE) y Contenidos implicados citando el Bloque y número oficial.
 4. Vinculación con el Calendario Profesional / Hito sectorial.
 5. Reto ABR o proyecto ASC vertebrador.
 6. Instrumentos de Evaluación (Productos) y ponderación criterial.

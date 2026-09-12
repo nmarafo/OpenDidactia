@@ -52,15 +52,14 @@ Al concluir cada fase (Fase 1, Fase 2, Fase 4/Secuenciación, cada SA de la Fase
 * **"Instrumento de Evaluación"**: En el modelo canario se refiere **exclusivamente al PRODUCTO, EVIDENCIA O TAREA TANGIBLE** que el alumnado elabora y entrega (ej. *Guía de Audición, Podcast, Mural, Informe de Laboratorio, Maqueta, Ponencia Oral*). No se refiere a la herramienta de calificación (la rúbrica o escala).
 
 ### Reglas de Procesamiento para el Agente:
-1. **Inventario del Criterio:** Identificar el texto íntegro oficial del Criterio de Evaluación y la lista completa de sus descriptores operativos (en Primaria, ESO y Bachillerato) o competencias clave (en Infantil).
-2. **Diseño de Productos:** Diseñar entre 1 y 2 Instrumentos (Productos) que cubran la totalidad del texto del criterio.
-3. **Distribución OBLIGATORIA de Descriptores (Regla de Oro):**
-   * Repartir la **totalidad** de los descriptores oficiales entre los productos diseñados.
-   * **No puede quedar ningún descriptor sin asignar.**
-   * Si un criterio tiene 5 descriptores y el Producto 1 aborda 3, el Producto 2 debe incluir obligatoriamente los 2 restantes (pudiendo reiterar alguno si procede).
+1. **Inventario del Criterio:** Identificar el texto íntegro oficial del Criterio de Evaluación, la relación completa de sus Descriptores Operativos asociados (en Primaria, ESO y Bachillerato) o Competencias Clave (en Infantil) y los Saberes Básicos vinculados indicando su Bloque y número oficial.
+2. **Diseño de Productos:** Diseñar entre 1 y 2 Instrumentos de Evaluación (Productos) que cubran la totalidad del texto del criterio.
+3. **Relación Curricular Obligatoria (Regla de Oro):**
+   * A cada Producto diseñado se le relacionan obligatoriamente sus **Descriptores Operativos específicos** (o Competencias Clave en Infantil) y los **Saberes Básicos (citando Bloque y número oficial según el currículo)**.
+   * Repartir la **totalidad** de los descriptores oficiales del criterio entre los productos diseñados (**no puede quedar ningún descriptor sin asignar**).
 4. **Formato Numérico Estándar:** Cada instrumento se numera como `[Criterio].[Secuencia]` (ej: `1.1.1. Guía de Audición`, `1.1.2. Infografía de Hábitos Saludables`).
 5. **Tabla de Deconstrucción Obligatoria:**
-   * `N.º Criterio` | `Bloque de Descriptores Específicos` | `Parte del Criterio Evaluada (Cita Textual)` | `Instrumento de Evaluación (Producto Numerado)`
+   * `N.º Criterio` | `Descriptores Operativos / Comp. Clave` | `Saberes Básicos (Bloque y N.º Oficial)` | `Parte del Criterio Evaluada (Cita Textual)` | `Instrumento de Evaluación (Producto Numerado)`
 
 > **Salida Documental Inter-Fase:** Al finalizar el Paso 1, pregunta al docente si desea generar un documento formal e independiente con la tabla de deconstrucción de criterios antes de avanzar al diseño de rúbricas.
 
@@ -126,7 +125,7 @@ La Programación Didáctica Anual se articula en **9 Situaciones de Aprendizaje*
 Cada SA de la tabla anual debe especificar:
 * Número y Título motivador.
 * Trimestre y número de sesiones estimadas.
-* Criterios de evaluación y saberes básicos implicados.
+* Criterios de evaluación y Saberes Básicos implicados mencionando obligatoriamente el Bloque y el número oficial que le corresponde según el currículo.
 * Conexión con efemérides del calendario escolar y Objetivos Prioritarios / Planes de Centro (si se eligió incorporarlos en el control previo).
 * Instrumentos de evaluación (productos de la deconstrucción del Paso 1) que se calificarán con las rúbricas del Paso 2.
 
@@ -139,7 +138,7 @@ Cada SA de la tabla anual debe especificar:
 Al desarrollar cada Situación de Aprendizaje (ej. SA 1), el agente debe:
 1. **Distribuir la temporalización:** Sesiones acorde a la carga horaria semanal (ej. 6 u 8 sesiones).
 2. **Estructura por Sesión:** Mínimo de 2 tareas por sesión aplicando las Fases de Merrill.
-3. **Estructura Obligatoria por Tarea:**
+3. **Estructura Obligatoria por Tarea:** (relacionando en cada tarea los Saberes Básicos movilizados con su Bloque y número oficial)
    1. **Título y duración:** Duración exacta en minutos.
    2. **Descripción pormenorizada:** Detallar con precisión el rol del docente y el rol activo del alumnado.
    3. **Rutinas de pensamiento o dinámicas de grupo:** Explicar en qué consisten y cómo se ejecutan.

@@ -38,7 +38,7 @@ Para cada una de las 9 SAs, detalla en una tabla matriz:
 1. N.º de SA y Título motivador y sugerente.
 2. Trimestre y temporalización en semanas / sesiones estimadas.
 3. Competencias Específicas y Criterios de Evaluación oficiales trabajados.
-4. Bloques de Saberes Básicos movilizados.
+4. Bloques de Saberes Básicos movilizados (mencionando obligatoriamente el Bloque y el número que le corresponde según el currículo oficial).
 5. Efeméride escolar o Plan de Centro vinculado (ej. Red de Sostenibilidad, Día de las Letras Canarias).
 6. Instrumentos de Evaluación (Productos numerados) que se elaborarán y calificarán mediante las rúbricas analíticas propias.
 

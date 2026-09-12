@@ -36,7 +36,7 @@ FORMATO DE LA MATRIZ DE PLANIFICACIÓN ANUAL:
 Para cada una de las 9 Unidades de Trabajo (UTs), genera una fila con los siguientes datos:
 1. N.º de UT y Título profesional motivador y representativo del sector.
 2. Temporalización estimada (N.º de semanas y horas lectivas de taller/aula).
-3. Resultados de Aprendizaje (RA) y Criterios de Evaluación (CE) trabajados en la UT.
+3. Resultados de Aprendizaje (RA), Criterios de Evaluación (CE) y Contenidos trabajados citando el Bloque y número correspondiente.
 4. Vinculación con Hito del Calendario Profesional o Efeméride sectorial.
 5. Reto ABR o Proyecto ASC vertebrador (con formulación de "pregunta detonante" o "encargo de cliente").
 6. Instrumentos de Evaluación (Productos numerados) evaluados mediante rúbricas.
