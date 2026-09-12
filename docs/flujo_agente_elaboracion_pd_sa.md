@@ -38,11 +38,38 @@ Este documento constituye la **guía maestra de instrucciones y procedimientos**
                                 ▼  ◄─── [Pregunta Documental / Archivo HTML final]
 ```
 
-### 📋 Regla Obligatoria de Interacción Inter-Fases (Salidas Documentales con Formato Enriquecido)
-Al concluir cada fase (Fase 1, Fase 2, Fase 4/Secuenciación, cada SA de la Fase 5/6, y las fases de apoyo/evaluación), el agente **se detiene obligatoriamente** y formula al usuario:
-> *"¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (en Markdown estructurado, tablas detalladas, llamadas visuales y jerarquía tipográfica descargable) con el output detallado de esta fase antes de pasar a la siguiente?"*
-- Si responde que sí: Genera dicho documento completo con **formato enriquecido** (tablas detalladas, bloques de aviso `> [!NOTE]`, tipografía estructurada y formato listo para exportación a PDF/Word/HTML o publicación) antes de continuar.
-- Si responde que no: Pasa de inmediato al siguiente paso.
+### 📋 Regla Obligatoria de Interacción Inter-Fases (Preguntas Claras con Menú Numerado)
+Al concluir cada fase o unidad didáctica, el agente **se detiene obligatoriamente** y formula una **pregunta clara con opciones numeradas** para que el usuario responda indicando solo el número (ej. `1`, `2` o `3`):
+
+* **Al concluir Paso 1, Paso 2 o Paso 4 (Secuenciación Anual):**
+  > *"¿Cómo deseas proceder?*  
+  > *1. Generar documento formal enriquecido e independiente de esta fase (Markdown estructurado y descargable).*  
+  > *2. Avanzar directamente a la siguiente fase sin generar documento intermedio."*
+
+* **Al concluir cada SA para el Docente (Paso 5):**
+  > *"¿Cómo deseas proceder con esta unidad?*  
+  > *1. Generar documento formal enriquecido e independiente de esta SA Docente.*  
+  > *2. Diseñar la versión para el ALUMNADO (Paso 6) de esta misma unidad.*  
+  > *3. Desarrollar la siguiente SA para el DOCENTE (Paso 5 de la siguiente unidad)."*
+
+* **Al concluir cada SA para el Alumnado (Paso 6):**
+  > *"¿Cómo deseas proceder?*  
+  > *1. Generar documento formal enriquecido e independiente de la versión del alumnado.*  
+  > *2. Continuar con la siguiente SA Docente (Paso 5).*  
+  > *3. Pasar a Medidas de Apoyo y Refuerzo (Pasos 7 y 8 opcionales) si ya se completaron las 9 unidades."*
+
+* **Al llegar al Punto de Decisión de Medidas de Apoyo (Pasos 7 y 8 - Opcional):**
+  > *"¿Deseas diseñar las medidas de apoyo ordinario, refuerzo continuo y recuperación (Pasos 7 y 8)?*  
+  > *1. Sí, elaborar el plan de refuerzo y recuperación.*  
+  > *2. No, omitir estas medidas y pasar directamente a la Herramienta Canvas (Paso 9).*  
+  > *3. No, dar por concluida la programación didáctica aquí."*
+
+* **Al finalizar la Herramienta Canvas (Paso 9):**
+  > *"¿Cómo deseas proceder?*  
+  > *1. Generar el archivo interactivo autocontenido HTML/Canvas descargable.*  
+  > *2. Dar por concluida la programación didáctica."*
+
+*Si el usuario selecciona generar documento formal enriquecido, el agente lo elabora íntegramente con tablas exhaustivas y formato visual, y a continuación vuelve a consultar cómo proceder.*
 
 ---
 

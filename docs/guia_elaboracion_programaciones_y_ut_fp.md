@@ -39,11 +39,36 @@ graph TD
     G --> I["9. Herramienta Canvas de Calificación y Seguimiento<br>(App HTML/JS: 1-10 por CE, superación de RA y CSV)"]
 ```
 
-### 📋 Regla de Interacción Inter-Fases (Salidas Documentales con Formato Enriquecido)
-Al finalizar cada fase (Fase 1, Fase 2, Fase 4/Secuenciación, cada UT desarrollada de la Fase 5/6, y las fases de apoyo/evaluación), el agente **se detiene obligatoriamente** y consulta al docente:
-> *"¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (en Markdown estructurado, tablas analíticas, llamadas técnicas destacadas y descargable) con el output detallado de esta fase antes de pasar a la siguiente?"*
-- Si responde afirmativamente: Genera dicho documento formal completo con **formato enriquecido** (tablas estructuradas, bloques de advertencia/PRL `> [!WARNING]`, listas categorizadas y formato listo para exportar o imprimir).
-- Si responde negativamente o desea continuar: Avanza a la siguiente fase prevista.
+### 📋 Regla de Interacción Inter-Fases (Preguntas Claras con Menú Numerado en FP)
+Al concluir cada fase técnica o Unidad de Trabajo (UT), el agente **se detiene obligatoriamente** y formula una **pregunta clara con menú numerado** para que el docente elija de forma unívoca indicando solo el número:
+
+* **Al concluir Fase 1, Fase 2 o Fase 4 (Secuenciación Anual de UTs):**
+  > *"¿Cómo deseas proceder?*  
+  > *1. Generar documento formal enriquecido e independiente de esta fase técnica.*  
+  > *2. Avanzar directamente a la siguiente fase sin generar documento intermedio."*
+
+* **Al concluir cada SA-UT para el Docente en Taller (Fase 5):**
+  > *"¿Cómo deseas proceder con esta unidad?*  
+  > *1. Generar documento formal enriquecido e independiente de esta SA-UT Docente.*  
+  > *2. Diseñar la versión para el ALUMNADO (Fase 6: Encargo del Cliente) de esta misma UT.*  
+  > *3. Desarrollar la siguiente SA-UT para el DOCENTE (Fase 5 de la siguiente unidad)."*
+
+* **Al concluir la SA-UT para el Alumnado (Fase 6):**
+  > *"¿Cómo deseas proceder?*  
+  > *1. Generar documento enriquecido del Encargo del Cliente (Alumnado).*  
+  > *2. Desarrollar la siguiente SA-UT Docente en taller (Fase 5).*  
+  > *3. Pasar a Medidas de Apoyo y Recuperación de RAs (Fases 7 y 8 opcionales)."*
+
+* **Al llegar al Punto de Decisión de Medidas de Apoyo (Fases 7 y 8 - Opcional):**
+  > *"¿Deseas diseñar el plan de recuperación de RAs y apoyo en taller (Fases 7 y 8)?*  
+  > *1. Sí, elaborar el plan de pendientes con poda curricular y evaluación flexible.*  
+  > *2. No, omitir y pasar directamente al Canvas interactivo de calificación (Fase 9).*  
+  > *3. No, dar por finalizada la programación del módulo profesional aquí."*
+
+* **Al finalizar el Canvas de Calificación (Fase 9):**
+  > *"¿Cómo deseas proceder?*  
+  > *1. Generar la aplicación web interactiva HTML/Canvas de calificación FP descargable.*  
+  > *2. Concluir la programación del módulo profesional."*
 
 ---
 
