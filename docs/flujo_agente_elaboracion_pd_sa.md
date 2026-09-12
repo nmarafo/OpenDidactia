@@ -110,7 +110,8 @@ La articulación con los Objetivos Prioritarios del Centro y sus Planes y Progra
 
 Antes de proceder a la secuenciación anual en 9 Situaciones de Aprendizaje, el agente consulta al docente:
 > *"¿Deseas incorporar a la programación anual los Objetivos Prioritarios del Centro (PEC/PGA) o Planes y Programas Institucionales (PIDAS/InnovAS, Sostenibilidad, Igualdad, Plan Digital), o prefieres omitirlos y estructurar la programación basándote exclusivamente en el currículo oficial ordinario?"*
-- **Si el docente decide incorporarlos:** Se integran como ejes transversales y vertebradores en la matriz del Paso 4 (si el docente no dispone de ellos en ese momento, el agente puede proponer una batería contextualizada y realista).
+- **Si el docente aporta los suyos:** Se integran como ejes transversales y vertebradores en la matriz de la programación anual (Paso 4).
+- **Si el docente decide incorporarlos pero no aporta datos:** El agente recurre al [Banco de Objetivos, Planes y Programas por CCAA](banco_objetivos_planes_y_programas_ccaa.md) y asigna aleatoriamente 1-2 objetivos de centro prioritarios por defecto, 2 planes institucionales (Plan de Convivencia, Plan Digital) y 1-2 programas o redes oficiales de la Comunidad Autónoma correspondiente (ej. Red InnovAS en Canarias, CIMA en Andalucía, etc.).
 - **Si el docente decide omitirlos:** Se avanza directamente al Paso 4 estructurando la secuenciación curricular sobre la base de los criterios, saberes básicos y efemérides normativas sin forzar vínculos institucionales.
 
 ---

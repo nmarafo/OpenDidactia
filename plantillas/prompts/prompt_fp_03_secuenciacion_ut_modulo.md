@@ -19,7 +19,7 @@ DATOS DE ENTRADA:
 📌 PUNTO DE CONTROL PREVIO (OPCIONAL): OBJETIVOS Y PLANES DE CENTRO EN FP:
 La vinculación con Objetivos y Planes de Centro en FP es OPCIONAL a criterio del docente. Antes de generar la matriz de secuenciación de las 9 UTs, consulta:
 "¿Deseas incorporar a la programación anual los Objetivos Prioritarios (PEC/PGA) y Proyectos de FP (Innovación Aplicada, Aulas ATECA, Aulas de Emprendimiento, Sostenibilidad, PRL, Digitalización), o prefieres omitirlos y centrar la programación exclusivamente en el currículo oficial del título?"
-(Si el docente decide incorporarlos pero no dispone de ellos, proponle una batería contextualizada a la Familia Profesional).
+(Si el docente decide incorporarlos pero no aporta datos, asigna aleatoriamente objetivos y planes por defecto con foco en PRL y digitalización, junto con programas específicos de FP como Red ATECA, Aulas de Emprendimiento o proyectos de innovación tomados de docs/banco_objetivos_planes_y_programas_ccaa.md).
 
 FUENTES DE CONTEXTUALIZACIÓN OBLIGATORIAS:
 1. Calendario Profesional y Sectorial: Ferias comerciales, congresos tecnológicos, eventos empresariales y temporadas productivas de la familia profesional en la comunidad autónoma.

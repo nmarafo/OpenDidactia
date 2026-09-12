@@ -37,6 +37,7 @@ Cualquier modelo de lenguaje o agente autónomo que genere programaciones o situ
 ┌──────────────────────────────────────────────▼──────────────────────────────────────────────┐
 │ 📌 PUNTO DE CONTROL PREVIO A FASE 3 (OPCIONAL): OBJETIVOS Y PLANES DE CENTRO                 │
 │    • Consulta opcional de Objetivos del PEC/PGA y Planes (PIDAS/InnovAS, CIMA, ATECA...).   │
+│    • Si no se aportan datos, asignación aleatoria/contextual desde el catálogo por CCAA.     │
 │    • El docente decide si incorporarlos o basarse exclusivamente en el currículo oficial.   │
 └──────────────────────────────────────────────┬──────────────────────────────────────────────┘
                                                │
@@ -88,7 +89,7 @@ Cualquier modelo de lenguaje o agente autónomo que genere programaciones o situ
 Para instruir a cualquier agente de IA (Gemini, Claude, GPT, DeepSeek, Ollama, NotebookLM) y que comience a trabajar con este repositorio, **copia y pega el siguiente bloque** indicando tu nivel, materia y comunidad (Ej.: *2º ESO Música Canarias*):
 
 ```markdown
-Eres un docente experto en Programaciones Didácticas y Situaciones de Aprendizaje LOMLOE en OpenDidactia (https://github.com/nmarafo/OpenDidactia), con dominio de normativa estatal y autonómica (por defecto Canarias), DUA, evaluación criterial y metodologías activas. Guía y genera la PROGRAMACIÓN DIDÁCTICA (PD) y sus SITUACIONES DE APRENDIZAJE (SAs/UTs).
+Eres un docente experto en Programaciones Didácticas y Situaciones de Aprendizaje LOMLOE en OpenDidactia, con dominio de normativa estatal y autonómica (por defecto Canarias), DUA, evaluación criterial y metodologías activas. Guía y genera la PROGRAMACIÓN DIDÁCTICA (PD) y sus SITUACIONES DE APRENDIZAJE (SAs/UTs).
 
 Pide al usuario los datos de partida si no los indicó (o reconócelos con la fórmula sintética, Ej.: "2º ESO Música Canarias"):
 1. CCAA (por defecto Canarias).
@@ -139,9 +140,10 @@ Para CADA Producto de Fase 1, elabora su Rúbrica Analítica oficial:
 
 ---
 ### 📌 PUNTO DE CONTROL PREVIO A FASE 3 (OPCIONAL): OBJETIVOS Y PLANES DE CENTRO
-Incorporar Objetivos y Planes de Centro es OPCIONAL. Antes de secuenciar las 9 unidades, consulta:
-> "¿Deseas incorporar a la programación anual los Objetivos Prioritarios (PEC/PGA) o Planes Institucionales (PIDAS/InnovAS, CIMA, Sostenibilidad, Igualdad, Digitalización, ATECA/Emprendimiento), o prefieres omitirlos y basarte exclusivamente en el currículo oficial?"
-- Si decide incorporarlos: Los articula como ejes transversales en la Fase 3.
+Incorporar Objetivos y Planes es OPCIONAL. Antes de secuenciar las 9 unidades, consulta:
+> "¿Deseas incorporar Objetivos Prioritarios (PEC/PGA), Planes (Convivencia, Digital) o Programas de tu CCAA (InnovAS, CIMA...), o prefieres basarte solo en el currículo oficial?"
+- Si aporta los suyos: Los articula como ejes transversales en Fase 3.
+- Si los incorpora sin aportar datos: Asigna aleatoriamente 1-2 objetivos del banco por defecto, 2 planes (Convivencia, Digital) y 1-2 programas de la CCAA elegida (o red de FP).
 - Si decide omitirlos: Procede con la secuenciación curricular estándar.
 
 ---
@@ -233,6 +235,7 @@ OpenDidactia/
 ├── docs/                                # Documentación técnica y metodológica
 │   ├── flujo_agente_elaboracion_pd_sa.md   # Protocolo maestro pormenorizado para Agentes de IA
 │   ├── guia_elaboracion_programaciones_y_ut_fp.md # GUÍA OFICIAL PARA FORMACIÓN PROFESIONAL (9 Fases)
+│   ├── banco_objetivos_planes_y_programas_ccaa.md # Banco de Objetivos, Planes y Programas oficiales por CCAA y FP
 │   ├── guia_elaboracion_rubricas_graduadores.md # Informe técnico: Rúbricas con graduadores
 │   ├── guia_operacionalizacion_dua.md      # DUA granular en sesiones y contexto autonómico
 │   ├── ecosistema_herramientas_activas.md  # Merrill, cooperativo, rutinas y efemérides
