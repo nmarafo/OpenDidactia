@@ -80,10 +80,10 @@ Al concluir cada fase o unidad didáctica, el agente **se detiene obligatoriamen
 
 ### Reglas de Procesamiento para el Agente:
 1. **Inventario del Criterio:** Identificar el texto íntegro oficial del Criterio de Evaluación, la relación completa de sus Descriptores Operativos asociados (en Primaria, ESO y Bachillerato) o Competencias Clave (en Infantil) y los Saberes Básicos vinculados indicando su Bloque y número oficial.
-2. **Diseño de Productos:** Diseñar entre 1 y 2 Instrumentos de Evaluación (Productos) que cubran la totalidad del texto del criterio.
+2. **Diseño de Productos (Regla por Defecto: 2 Productos):** Deconstruir por defecto cada Criterio de Evaluación en **EXACTAMENTE 2 Instrumentos de Evaluación** (Productos tangibles: ej. 1.1.1 y 1.1.2) que cubran armónicamente la totalidad de su redacción.
 3. **Relación Curricular Obligatoria (Regla de Oro):**
-   * A cada Producto diseñado se le relacionan obligatoriamente sus **Descriptores Operativos específicos** (o Competencias Clave en Infantil) y los **Saberes Básicos (citando Bloque y número oficial según el currículo)**.
-   * Repartir la **totalidad** de los descriptores oficiales del criterio entre los productos diseñados (**no puede quedar ningún descriptor sin asignar**).
+   * A cada uno de los 2 Productos diseñados se le relacionan obligatoriamente sus **Descriptores Operativos específicos** (excepto en Educación Infantil, donde se asocian Competencias Clave al no haber descriptores operativos de salida) y los **Saberes Básicos (citando Bloque y número oficial según el currículo)**.
+   * Repartir la **totalidad** de los descriptores oficiales del criterio entre los 2 productos diseñados (**no puede quedar ningún descriptor sin asignar**).
 4. **Formato Numérico Estándar:** Cada instrumento se numera como `[Criterio].[Secuencia]` (ej: `1.1.1. Guía de Audición`, `1.1.2. Infografía de Hábitos Saludables`).
 5. **Tabla de Deconstrucción Obligatoria:**
    * `N.º Criterio` | `Descriptores Operativos / Comp. Clave` | `Saberes Básicos (Bloque y N.º Oficial)` | `Parte del Criterio Evaluada (Cita Textual)` | `Instrumento de Evaluación (Producto Numerado)`

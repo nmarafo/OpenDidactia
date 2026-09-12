@@ -24,11 +24,11 @@ INSTRUCCIONES DE PROCESAMIENTO (Sigue rigurosamente este orden):
 PASO 1: Inventario del Criterio
 Identifica el texto completo oficial del Criterio de Evaluación y la lista completa de sus Descriptores Operativos asociados en el currículo.
 
-PASO 2: Diseño de Productos
-Diseña 1 o 2 Instrumentos de Evaluación (Productos) que cubran armónicamente la totalidad del texto del criterio.
+PASO 2: Diseño de Productos (Por Defecto 2 Productos)
+Deconstruye por defecto cada Criterio de Evaluación en EXACTAMENTE 2 Instrumentos de Evaluación (Productos tangibles: ej. 1.1.1 y 1.1.2) que cubran armónicamente la totalidad del texto del criterio.
 
 PASO 3: Distribución OBLIGATORIA de Descriptores (Regla de Oro)
-Reparte la totalidad de los descriptores de la lista oficial entre los productos diseñados.
+Reparte la totalidad de los Descriptores Operativos de la lista oficial del criterio entre los 2 productos diseñados (en Infantil, las Competencias Clave).
 REGLA DE ORO: No puede quedar ningún descriptor sin asignar. Si un descriptor es difícil de encajar, asígnalo al producto donde tenga más sentido pedagógico, pero debe aparecer obligatoriamente.
 Ejemplo: Si el criterio tiene 5 descriptores y el Producto 1 aborda 3, el Producto 2 debe incluir obligatoriamente los 2 restantes (y puede repetir alguno si es necesario).
 

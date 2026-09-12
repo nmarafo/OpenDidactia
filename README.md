@@ -26,8 +26,8 @@ Cualquier modelo de lenguaje o agente autónomo que genere programaciones o situ
                                                │
 ┌──────────────────────────────────────────────▼──────────────────────────────────────────────┐
 │ 1. CONCRECIÓN CRITERIAL Y ASOCIACIÓN CON PRODUCTOS                                          │
-│    • Educación Infantil: Reparto del 100% de Competencias Clave entre productos.            │
-│    • Primaria, ESO y Bachillerato: Reparto del 100% de Descriptores Operativos oficiales.   │
+│    • Primaria, ESO y Bach.: Deconstrucción por defecto en 2 productos (con Descriptores).   │
+│    • Educación Infantil: Deconstrucción por defecto en 2 productos (con Competencias Clave).│
 │    • FP: Asociación del 100% de CEs a productos mediante Mapa de Relaciones Alfanumérico.   │
 │    • Productos (Instrumentos de Evaluación) numerados como evidencias tangibles.            │
 │    ► PREGUNTA DOCUMENTAL: ¿Generar documento formal enriquecido de Fase 1 antes de continuar?│
@@ -122,10 +122,10 @@ PROTOCOLO SECUENCIAL POR FASES:
 
 A. EN INFANTIL, PRIMARIA, ESO Y BACHILLERATO (DECONSTRUCCIÓN DE CRITERIOS DEL NIVEL):
 - 1.1 Inventario: Criterios del curso, Descriptores Operativos (Comp. Clave en EI) y Saberes Básicos (Bloque y n.º oficial).
-- 1.2 Diseño de Productos: Diseña 1 o 2 Productos tangibles que cubran el criterio.
-- 1.3 Relación Curricular: A cada Producto vincula sus Descriptores Operativos específicos (o Comp. Clave en EI), Saberes Básicos (Bloque y n.º) y cita textual evaluada. Reparte el 100% de los Descriptores oficiales. Ninguno sin asignar.
+- 1.2 Diseño de Productos: Deconstruye por defecto cada Criterio en EXACTAMENTE 2 Productos tangibles (ej: 1.1.1 y 1.1.2).
+- 1.3 Relación Curricular: A cada uno de los 2 Productos vincula sus Descriptores Operativos (excepto en EI, con Competencias Clave), Saberes Básicos (Bloque y n.º) y cita textual evaluada. Reparte el 100% de los Descriptores oficiales entre los 2 productos. Ninguno sin asignar.
 - 1.4 Código: [Criterio].[Secuencia] (ej: 1.1.1. Guía, 1.1.2. Podcast).
-- Tabla: | N.º Criterio | Descriptores Operativos / Comp. Clave | Saberes Básicos (Bloque y N.º) | Cita Textual Evaluada | Instrumento (Producto Numerado) |
+- Tabla: | N.º Criterio | Descriptores Operativos (o Comp. Clave en EI) | Saberes Básicos (Bloque y N.º) | Cita Textual Evaluada | Instrumento (Producto Numerado) |
 
 B. EN FORMACIÓN PROFESIONAL (RELACIÓN Y ASOCIACIÓN DE RA Y CE CON PRODUCTOS):
 - 1.1 Inventario: RAs, Criterios de Evaluación (CE: a, b, c...), Contenidos (Bloque y n.º), Objetivos (OG) y Competencias (CPPS).
