@@ -43,7 +43,8 @@ Desarrolla la totalidad de las sesiones de la UT. Cada sesión debe contener pre
 6. Instrumento de Evaluación / Evidencia: Producto técnico generado en la tarea y parte del Criterio de Evaluación / RA que evalúa (indicando si es evaluable mediante rúbrica).
 7. Recursos de Taller, Herramientas, Maquinaria y EPIs Obligatorios (gafas de protección, guantes de nitrilo/mecánicos, calzado de seguridad, mascarilla o extractores).
 
-PREGUNTA DE CIERRE DE FASE:
-Al finalizar el desarrollo técnico de la UT para el docente, pregunta al usuario:
-"¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (Markdown estructurado y descargable) con la Unidad de Trabajo para el Docente antes de generar la versión del alumnado (El Encargo del Cliente)?"
+PREGUNTA DE CIERRE DE FASE Y BIFURCACIÓN:
+Al finalizar el desarrollo de la Unidad de Trabajo para el docente, formula obligatoriamente:
+1. "¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (Markdown estructurado y descargable) con la Unidad de Trabajo para el Docente?"
+2. "¿Deseas continuar elaborando la versión para el ALUMNADO de esta misma unidad (El Encargo del Cliente - Fase 5) o prefieres desarrollar primero la siguiente SA-UT para el DOCENTE (Fase 4 de la siguiente unidad)?" 
 ```

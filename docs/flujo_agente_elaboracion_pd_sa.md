@@ -22,12 +22,14 @@ Este documento constituye la **guía maestra de instrucciones y procedimientos**
 [ PASO 4: Secuenciación Anual de la Programación Didáctica (9 SAs por Trimestres) ]
                                 │
                                 ▼  ◄─── [Pregunta Documental Inter-Fase]
-[ PASO 5: Desarrollo de cada SA para el Docente (Sesiones Merrill + DUA Granular) ]
+[ PASO 5: Elaboración de la SA para el Docente (Sesiones Merrill + DUA Granular) ]
                                 │
+                                ├──────► [Pregunta Documental Independiente de SA Docente]
+                                ├──────► 🔀 [Bifurcación: ¿SA Alumnado (Paso 6) o siguiente SA Docente (Paso 5)?]
                                 ▼
-[ PASO 6: Concreción de la SA para el Alumnado (Guion Cercano "El Reto") ]
+[ PASO 6: Elaboración de la SA para el Alumnado (Guion Cercano "El Reto") ]
                                 │
-                                ▼  ◄─── [Pregunta Documental por SA desarrollada]
+                                ▼  ◄─── [Pregunta Documental Independiente de SA Alumnado]
 [ PASO 7 Y 8 (OPCIONAL): Medidas de Apoyo, Refuerzo Continuo y Recuperación ]
                                 │       (El docente decide si ejecutarlas u omitirlas)
                                 ▼  ◄─── [Pregunta Documental si se ejecuta]
@@ -151,14 +153,14 @@ Al desarrollar cada Situación de Aprendizaje (ej. SA 1), el agente debe:
 
 ---
 
-## PASO 6: Concreción de la SA para el Alumnado
+## PASO 6: Elaboración de la SA para el Alumnado
 
-El agente debe generar un guion o versión comunicativa orientada directamente a los estudiantes:
+El agente genera la versión comunicativa orientada directamente a los estudiantes como documento independiente y complementario a la versión docente:
 * **Eliminación de la jerga burocrática y técnica:** Suprimir códigos normativos densos.
 * **Tono motivador, cercano y directo:** En segunda persona (*"En esta misión vamos a descubrir...", "Nuestro desafío consistirá en..."*).
-* **Claridad en el reto y las etapas:** Explicar el producto final, las actividades que realizarán en equipo y cómo sabrán si han tenido éxito (rúbrica explicada de forma sencilla).
+* **Claridad en el reto y las etapas:** Explicar el producto final, el mapa de ruta de trabajo en equipo y las claves del éxito (rúbrica explicada de forma sencilla y autoevaluación).
 
-> **Salida Documental Inter-Fase:** Tras desarrollar las versiones Docente (Paso 5) y Alumnado (Paso 6) de cada SA, pregunta al usuario si desea compilar el documento formal e independiente con formato enriquecido de dicha SA antes de avanzar a la siguiente.
+> **Salida Documental Inter-Fase:** Tras desarrollar el guion de la SA para el alumnado (Paso 6 / Fase 5), pregunta al usuario si desea compilar el documento formal independiente con formato enriquecido de dicha versión del alumnado antes de continuar con la siguiente unidad didáctica o fase.
 
 ---
 

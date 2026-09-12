@@ -35,7 +35,8 @@ ESTRUCTURA DE SALIDA:
 - Desarrollo Sesión por Sesión (Sesión 1 a N, con Tarea 1.1, Tarea 1.2...).
 - Recursos globales y Rúbricas de evaluación aplicables.
 
-PREGUNTA DE CIERRE DE FASE:
-Al finalizar el desarrollo de la versión docente de la SA, pregunta al usuario:
-"¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (Markdown estructurado y descargable) con la Situación de Aprendizaje para el Docente antes de generar la versión del alumnado?"
+PREGUNTA DE CIERRE DE FASE Y BIFURCACIÓN:
+Al finalizar el desarrollo de la Situación de Aprendizaje para el docente, formula obligatoriamente al profesorado:
+1. "¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (Markdown estructurado y descargable) con la Situación de Aprendizaje para el Docente?"
+2. "¿Deseas continuar elaborando la versión para el ALUMNADO de esta misma unidad (Fase 5) o prefieres desarrollar primero la siguiente SA para el DOCENTE (Fase 4 de la siguiente unidad didáctica)?" 
 ```

@@ -186,7 +186,11 @@ Para comunicar la UT al alumnado se genera una versión directa, motivadora y li
    - *Fase 4: Entrega al Cliente y Retrospectiva de Equipo.*
 4. **Criterios de Éxito:** La rúbrica traducida a una lista de control de estándares de calidad profesional comprensible.
 
-> **Salida Documental Inter-Fase:** Tras desarrollar las versiones Docente (Fase 5) y Alumnado (Fase 6) de cada UT, consulta al usuario si desea compilar el documento formal e independiente con formato enriquecido de dicha unidad de trabajo antes de pasar a la siguiente.
+> **Salida Documental y Consulta de Bifurcación Inter-Fase:**  
+> Al finalizar la versión docente de la UT (Fase 5 / Fase 4 del flujo maestro), el agente realiza obligatoriamente dos acciones consecutivas:
+> 1. Consulta si desea generar un documento formal independiente con formato enriquecido de la Unidad de Trabajo para el Docente.
+> 2. Consulta de bifurcación didáctica:
+>    > *"¿Deseas continuar elaborando la versión para el ALUMNADO de esta misma unidad de trabajo (El Encargo del Cliente - Fase 6), o prefieres desarrollar primero la siguiente SA-UT para el DOCENTE (Fase 5 de la siguiente unidad)?"*
 
 ---
 
