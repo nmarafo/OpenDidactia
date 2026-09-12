@@ -65,15 +65,16 @@ Cualquier modelo de lenguaje o agente autónomo que genere programaciones o situ
 Para instruir a cualquier agente de IA (Gemini, Claude, GPT, DeepSeek, Ollama, NotebookLM) y que comience a trabajar con este repositorio, **copia y pega el siguiente bloque**:
 
 ```markdown
-Actúa como un Inspector de Educación y Asesor Pedagógico Especialista en el marco curricular LOMLOE de la Comunidad Autónoma de Canarias, operando bajo el estándar abierto de "OpenDidactia" (https://github.com/nmarafo/OpenDidactia).
+Eres un docente experto en desarrollo de Programaciones Didácticas y Situaciones de Aprendizaje bajo el marco curricular LOMLOE, operando bajo el estándar abierto de "OpenDidactia" (https://github.com/nmarafo/OpenDidactia). Posees un profundo dominio de la normativa educativa estatal y autonómica (con especialización en la Comunidad Autónoma de referencia indicada por el usuario, por defecto Canarias), del Diseño Universal para el Aprendizaje (DUA), de la evaluación competencial criterial y de las metodologías activas centradas en el alumnado.
 
-Tu objetivo es guiar al docente y generar con máximo rigor técnico, pedagógico y legal una PROGRAMACIÓN DIDÁCTICA (PD) y sus SITUACIONES DE APRENDIZAJE (SAs) asociadas.
+Tu cometido es acompañar y generar con máximo rigor técnico, pedagógico y didáctico una PROGRAMACIÓN DIDÁCTICA (PD) anual y sus SITUACIONES DE APRENDIZAJE (SAs) asociadas.
 
 Para comenzar, solicita al usuario los datos de partida si no los ha indicado:
-1. Etapa educativa (Educación Infantil, Primaria, ESO o Bachillerato) y Curso.
-2. Materia o Área curricular oficial.
-3. Carga horaria semanal (ej: 2, 3 o 4 horas semanales).
-4. Particularidades del centro educativo (opcional; por defecto: centro público en Canarias).
+1. Comunidad Autónoma de referencia (ej. Canarias, Andalucía, Madrid, Catalunya, Galicia, Comunitat Valenciana, etc. Por defecto: Canarias).
+2. Etapa educativa (Educación Infantil, Primaria, ESO o Bachillerato) y Curso.
+3. Materia o Área curricular oficial.
+4. Carga horaria semanal (ej: 2, 3 o 4 horas semanales).
+5. Particularidades del centro educativo (opcional; entorno, programas de innovación, etc.).
 
 Una vez definidos los datos, DEBES EJECUTAR RIGUROSAMENTE EL SIGUIENTE PROTOCOLO SECUENCIAL POR FASES, SIN SALTARTE NINGÚN PASO NI ALTERAR EL ORDEN:
 
@@ -197,10 +198,22 @@ OpenDidactia/
 │       ├── prompt_06_plan_apoyo_refuerzo_individualizado.md
 │       ├── prompt_07_plan_recuperacion_pendientes.md
 │       └── prompt_08_herramienta_calificacion_canvas.md
-└── comunidades/                         # Base territorial por Comunidades Autónomas
-    └── canarias/                        # Comunidad Autónoma de Canarias
-        ├── README.md                    # Singularidades del marco canario (contexto, DUA)
-        ├── guias_oficiales/             # Documentos técnicos oficiales en PDF (Consejería)
+└── comunidades/                         # Base territorial por Comunidades Autónomas (17 CCAA + Ceuta y Melilla)
+    ├── andalucia/, aragon/, asturias/, baleares/, cantabria/, castilla_la_mancha/,
+    ├── castilla_y_leon/, catalunya/, ceuta_y_melilla/, comunitat_valenciana/, extremadura/,
+    ├── galicia/, madrid/, murcia/, navarra/, pais_vasco/, la_rioja/
+    │   ├── README.md                    # Singularidades autonómicas, decretos oficiales y contexto cultural/lingüístico
+    │   ├── orientaciones_elaboracion_pd_sa.md # Guía metodológica adaptada a la normativa y evaluación de la CCAA
+    │   ├── plantilla_programacion_didactica.md # Plantilla oficial de PD anual adaptada (9 SDAs)
+    │   ├── plantilla_situacion_aprendizaje.md # Plantilla oficial de SDA adaptada (Merrill + DUA)
+    │   ├── normativa/                   # Metadatos normalizados (OKF) de los Decretos de Infantil, Primaria, ESO y Bachillerato
+    │   └── curricular/                  # Catálogos curriculares operativos por etapa (infantil, primaria, eso, bachillerato)
+    └── canarias/                        # Implementación de referencia canónica con corpus documental completo
+        ├── README.md                    # Singularidades del marco canario (contexto insular, DUA, rúbricas)
+        ├── orientaciones_elaboracion_pd_sa.md # Guía metodológica adaptada al modelo canario
+        ├── plantilla_programacion_didactica.md # Plantilla de PD anual adaptada
+        ├── plantilla_situacion_aprendizaje.md # Plantilla de SDA adaptada
+        ├── guias_oficiales/             # Documentos técnicos originales en PDF (Consejería de Educación de Canarias)
         │   ├── Instrucciones diseño SA competencial Infantil.pdf
         │   ├── Instrucciones diseño SA competencial PRI-ESO-BAC.pdf
         │   ├── Pautas elaboración de Rúbricas.pdf
@@ -209,7 +222,7 @@ OpenDidactia/
         │   ├── D196_2022_ordenacion_curriculo_educacion_infantil_canarias.md
         │   ├── D211_2022_ordenacion_curriculo_educacion_primaria_canarias.md
         │   └── D30_2023_ordenacion_curriculo_eso_bachillerato_canarias.md
-        └── curricular/                  # Catálogo curricular operativo
+        └── curricular/                  # Catálogo curricular operativo por etapas
             ├── infantil/                # Perfil competencial y las 3 áreas del 1.º y 2.º ciclo
             ├── primaria/                # Descriptores de salida y áreas de Primaria
             ├── eso/                     # Descriptores de salida y materias de ESO
