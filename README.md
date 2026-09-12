@@ -17,12 +17,20 @@ Cualquier modelo de lenguaje o agente autónomo que genere programaciones o situ
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────────────────────────────┐
+│ 0. ENTRADA DE DATOS Y CONSULTA DE PLANES/PROGRAMAS DE CENTRO (DESDE EL INICIO)              │
+│    • CCAA, Etapa/Curso, Materia o Módulo y Horas (o fórmula sintética '2º ESO Música...').  │
+│    • 📌 CONSULTA AL INICIO: ¿Incorporar Objetivos (PEC/PGA), Planes y Programas de CCAA?    │
+│    • Si se incorporan sin datos, asignación aleatoria del banco por defecto y de su CCAA.   │
+│    • El docente decide si incorporarlos o basarse exclusivamente en el currículo oficial.   │
+└──────────────────────────────────────────────┬──────────────────────────────────────────────┘
+                                               │
+┌──────────────────────────────────────────────▼──────────────────────────────────────────────┐
 │ 1. CONCRECIÓN CRITERIAL Y ASOCIACIÓN CON PRODUCTOS                                          │
 │    • Educación Infantil: Reparto del 100% de Competencias Clave entre productos.            │
 │    • Primaria, ESO y Bachillerato: Reparto del 100% de Descriptores Operativos oficiales.   │
 │    • FP: Asociación del 100% de CEs a productos mediante Mapa de Relaciones Alfanumérico.   │
 │    • Productos (Instrumentos de Evaluación) numerados como evidencias tangibles.            │
-│    ► PREGUNTA DOCUMENTAL: ¿Generar documento formal enriquecido de Fase 1 antes de continuar?           │
+│    ► PREGUNTA DOCUMENTAL: ¿Generar documento formal enriquecido de Fase 1 antes de continuar?│
 └──────────────────────────────────────────────┬──────────────────────────────────────────────┘
                                                │
 ┌──────────────────────────────────────────────▼──────────────────────────────────────────────┐
@@ -31,23 +39,16 @@ Cualquier modelo de lenguaje o agente autónomo que genere programaciones o situ
 │    • Nivel Suficiente/Bien (SU/BI) idéntico a la redacción literal del criterio oficial.    │
 │    • Graduadores de Calidad, Autonomía y Complejidad destacados en **negrita**.             │
 │    • Ejemplos descriptivos y tangibles del producto en cada nivel (INS, SUF, NOT, SOB).     │
-│    ► PREGUNTA DOCUMENTAL: ¿Generar documento formal enriquecido de Fase 2 antes de continuar?           │
-└──────────────────────────────────────────────┬──────────────────────────────────────────────┘
-                                               │
-┌──────────────────────────────────────────────▼──────────────────────────────────────────────┐
-│ 📌 PUNTO DE CONTROL PREVIO A FASE 3 (OPCIONAL): OBJETIVOS Y PLANES DE CENTRO                 │
-│    • Consulta opcional de Objetivos del PEC/PGA y Planes (PIDAS/InnovAS, CIMA, ATECA...).   │
-│    • Si no se aportan datos, asignación aleatoria/contextual desde el catálogo por CCAA.     │
-│    • El docente decide si incorporarlos o basarse exclusivamente en el currículo oficial.   │
+│    ► PREGUNTA DOCUMENTAL: ¿Generar documento formal enriquecido de Fase 2 antes de continuar?│
 └──────────────────────────────────────────────┬──────────────────────────────────────────────┘
                                                │
 ┌──────────────────────────────────────────────▼──────────────────────────────────────────────┐
 │ 3. SECUENCIACIÓN ANUAL DE LA PROGRAMACIÓN DIDÁCTICA (9 SAs / 9 UTs)                         │
 │    • Distribución de contenidos en 9 unidades anuales (1ª eval: 1-3; 2ª: 4-6; 3ª: 7-9).      │
 │    • Articulación con Efemérides (Calendario Escolar) o Calendario Profesional/Sectorial.    │
-│    • Integración con Objetivos Prioritarios y Planes de Centro acordados en el control prev. │
+│    • Integración de Objetivos/Planes/Programas según la opción establecida al inicio.        │
 │    • Vinculación con los Productos e Instrumentos numerados del Paso 1.                     │
-│    ► PREGUNTA DOCUMENTAL: ¿Generar documento formal enriquecido de Fase 3 antes de continuar?           │
+│    ► PREGUNTA DOCUMENTAL: ¿Generar documento formal enriquecido de Fase 3 antes de continuar?│
 └──────────────────────────────────────────────┬──────────────────────────────────────────────┘
                                                │
 ┌──────────────────────────────────────────────▼──────────────────────────────────────────────┐
@@ -97,7 +98,12 @@ Pide al usuario los datos de partida si no los indicó (o reconócelos con la f�
 3. Materia, Área o Módulo Profesional (y Familia en FP).
 4. Horas semanales y anuales.
 5. Particularidades de centro (entorno, proyectos, talleres).
-*Si el usuario aporta el nivel (Ej.: 2º ESO Música Canarias), deduce Nivel/Curso, Materia y CCAA, pidiendo solo el resto.*
+6. Objetivos y Planes de Centro (OPCIONAL DESDE EL INICIO): Consulta al comenzar:
+   > "¿Deseas incorporar Objetivos Prioritarios (PEC/PGA), Planes (Convivencia, Digital) o Programas de tu CCAA (InnovAS, CIMA...), o prefieres basarte solo en el currículo oficial?"
+   - Si aporta los suyos: Los articula como ejes transversales en Fase 3.
+   - Si los incorpora sin aportar datos: Asigna aleatoriamente 1-2 objetivos del banco por defecto, 2 planes (Convivencia, Digital) y 1-2 programas de la CCAA elegida (o red de FP).
+   - Si los omite: Procede solo con el currículo oficial.
+*Si aporta el nivel (Ej.: 2º ESO Música Canarias), deduce Nivel, Materia y CCAA, pidiendo solo el resto y la consulta opcional.*
 
 REGLA OBLIGATORIA INTER-FASES (DOCUMENTO CON FORMATO ENRIQUECIDO):
 Al concluir CADA fase (1, 2, 3, cada SA/UT en 4 y 5, 6 si aplica, y 7), DETENTE y formula:
@@ -139,23 +145,15 @@ Para CADA Producto de Fase 1, elabora su Rúbrica Analítica oficial:
 [AL COMPLETAR FASE 2: Pregunta si desea generar el documento formal enriquecido del output antes de avanzar].
 
 ---
-### 📌 PUNTO DE CONTROL PREVIO A FASE 3 (OPCIONAL): OBJETIVOS Y PLANES DE CENTRO
-Incorporar Objetivos y Planes es OPCIONAL. Antes de secuenciar las 9 unidades, consulta:
-> "¿Deseas incorporar Objetivos Prioritarios (PEC/PGA), Planes (Convivencia, Digital) o Programas de tu CCAA (InnovAS, CIMA...), o prefieres basarte solo en el currículo oficial?"
-- Si aporta los suyos: Los articula como ejes transversales en Fase 3.
-- Si los incorpora sin aportar datos: Asigna aleatoriamente 1-2 objetivos del banco por defecto, 2 planes (Convivencia, Digital) y 1-2 programas de la CCAA elegida (o red de FP).
-- Si decide omitirlos: Procede con la secuenciación curricular estándar.
-
----
 ### FASE 3: SECUENCIACIÓN ANUAL DE LA PROGRAMACIÓN (9 SAs / 9 UTs)
-Distribuye los contenidos en 9 Unidades (SAs en general o UTs en FP) en 3 trimestres:
+Distribuye los contenidos en 9 Unidades (SAs en general o UTs en FP) en 3 trimestres (aplicando la opción de Objetivos/Planes/Programas elegida al inicio):
 - 1.ª Eval: U1, U2 y U3. | 2.ª Eval: U4, U5 y U6. | 3.ª Eval: U7, U8 y U9 (FP: preparación dual).
 Para cada unidad de la tabla matriz anual especifica:
 1. N.º y Título motivador (o reto profesional).
 2. Temporalización (semanas y sesiones/horas lectivas).
 3. Criterios de Evaluación y Saberes Básicos citando OBLIGATORIAMENTE el Bloque y el número que le corresponde según el currículo (en FP: RAs, CEs y Bloque de Contenidos con n.º).
 4. Vinculación con Efemérides Escolares o Calendario Profesional/Sectorial y ferias técnicas.
-5. Conexión con Objetivos/Planes de Centro (si se eligió incorporarlos) y metodologías activas (ABR/ASC en FP).
+5. Conexión con Objetivos/Planes/Programas de Centro (según la opción elegida al inicio) y metodologías activas (ABR/ASC en FP).
 6. Instrumentos de Evaluación (Productos numerados del Paso 1) evaluados con rúbricas del Paso 2.
 
 [AL COMPLETAR FASE 3: Pregunta si generar el documento formal enriquecido antes de pasar a Fase 4].

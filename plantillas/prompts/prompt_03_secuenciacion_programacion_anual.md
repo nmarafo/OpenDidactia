@@ -16,10 +16,11 @@ DATOS DE ENTRADA:
 - Carga horaria semanal: [INDICAR HORAS, ej: 4 horas semanales]
 - Comunidad Autónoma: [Por defecto Canarias o la indicada]
 
-📌 PUNTO DE CONTROL PREVIO (OPCIONAL): OBJETIVOS Y PLANES DE CENTRO:
-La incorporación de Objetivos y Planes de Centro es OPCIONAL a criterio del docente. Antes de generar la matriz anual de las 9 SAs, consulta:
-"¿Deseas incorporar a la programación anual los Objetivos Prioritarios (PEC/PGA) o Planes y Programas Institucionales del centro (ej. PIDAS/InnovAS, CIMA, Sostenibilidad, Igualdad, Digitalización), o prefieres omitirlos y basarte exclusivamente en el currículo oficial ordinario?"
-(Si el docente decide incorporarlos pero no aporta datos, asigna aleatoriamente 1-2 objetivos de centro por defecto, 2 planes como Convivencia y Digital, y 1-2 programas de la CCAA elegida tomados de docs/banco_objetivos_planes_y_programas_ccaa.md).
+📌 OPCIÓN DE OBJETIVOS Y PLANES DE CENTRO (DEFINIDA DESDE EL INICIO):
+La incorporación de Objetivos y Planes de Centro es OPCIONAL y se consulta desde el inicio del proceso:
+- Si el docente aportó los suyos: Se integran como ejes transversales en la matriz de las 9 SAs.
+- Si indicó incorporarlos sin aportar datos: Se asignan aleatoriamente 1-2 objetivos del banco por defecto, 2 planes (Convivencia, Digital) y 1-2 programas de la CCAA elegida tomados de docs/banco_objetivos_planes_y_programas_ccaa.md.
+- Si prefirió omitirlos: Se secuencia basándose exclusivamente en el currículo oficial.
 
 FUENTES INTEGRADAS OBLIGATORIAS:
 - Currículo oficial de la Comunidad Autónoma (Criterios y Saberes Básicos).

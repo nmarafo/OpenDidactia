@@ -16,10 +16,11 @@ DATOS DE ENTRADA:
 - Mapa de Relaciones (RA - CE - Productos) y Rúbricas generadas previamente.
 - Comunidad Autónoma: [Por defecto Canarias]
 
-📌 PUNTO DE CONTROL PREVIO (OPCIONAL): OBJETIVOS Y PLANES DE CENTRO EN FP:
-La vinculación con Objetivos y Planes de Centro en FP es OPCIONAL a criterio del docente. Antes de generar la matriz de secuenciación de las 9 UTs, consulta:
-"¿Deseas incorporar a la programación anual los Objetivos Prioritarios (PEC/PGA) y Proyectos de FP (Innovación Aplicada, Aulas ATECA, Aulas de Emprendimiento, Sostenibilidad, PRL, Digitalización), o prefieres omitirlos y centrar la programación exclusivamente en el currículo oficial del título?"
-(Si el docente decide incorporarlos pero no aporta datos, asigna aleatoriamente objetivos y planes por defecto con foco en PRL y digitalización, junto con programas específicos de FP como Red ATECA, Aulas de Emprendimiento o proyectos de innovación tomados de docs/banco_objetivos_planes_y_programas_ccaa.md).
+📌 OPCIÓN DE OBJETIVOS Y PLANES DE CENTRO EN FP (DEFINIDA DESDE EL INICIO):
+La vinculación con Objetivos y Planes de Centro en FP es OPCIONAL y se consulta desde el inicio del proceso:
+- Si el docente aportó los suyos: Se integran en la matriz de secuenciación de las 9 UTs.
+- Si indicó incorporarlos sin aportar datos: Se asignan aleatoriamente objetivos y planes por defecto (PRL, Digitalización) y programas de FP (Red ATECA, Emprendimiento RAE, Innovación) tomados de docs/banco_objetivos_planes_y_programas_ccaa.md.
+- Si prefirió omitirlos: Se secuencia centrándose exclusivamente en el currículo oficial del título.
 
 FUENTES DE CONTEXTUALIZACIÓN OBLIGATORIAS:
 1. Calendario Profesional y Sectorial: Ferias comerciales, congresos tecnológicos, eventos empresariales y temporadas productivas de la familia profesional en la comunidad autónoma.

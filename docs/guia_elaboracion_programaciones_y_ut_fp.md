@@ -29,10 +29,10 @@ Cualquier docente o agente de IA debe seguir con rigor técnico el siguiente flu
 
 ```mermaid
 graph TD
-    A["1. Relación y Asociación de RA y CE con Productos<br>(Mapa de Relaciones Alfanumérico)"] --> B["2. Elaboración de Rúbricas Analíticas con Graduadores Técnicos"]
-    B --> CP["📌 Control Previo (OPCIONAL): Consulta de Objetivos y Planes de Centro<br>(ATECA, Innovación, Sostenibilidad, PEC)"]
-    CP --> C["3. Conformación del Ecosistema de Base de Conocimiento<br>(Calendario Sectorial, Metodologías Ágiles, PRL, ABR/ASC, Merrill en Taller)"]
-    C --> D["4. Secuenciación Anual de Unidades de Trabajo (UTs / SA-UT)<br>(9 UTs anuales vinculadas a retos del tejido productivo)"]
+    DP["0. Datos de Partida y Consulta Opcional Inicial<br>(CCAA, Módulo, Horas y Objetivos/Planes de Centro)"] --> A["1. Relación y Asociación de RA y CE con Productos<br>(Mapa de Relaciones Alfanumérico)"]
+    A --> B["2. Elaboración de Rúbricas Analíticas con Graduadores Técnicos"]
+    B --> C["3. Conformación del Ecosistema de Base de Conocimiento<br>(Calendario Sectorial, Metodologías Ágiles, PRL, ABR/ASC, Merrill en Taller)"]
+    C --> D["4. Secuenciación Anual de Unidades de Trabajo (UTs / SA-UT)<br>(9 UTs anuales vinculadas a retos productivos y planes elegidos al inicio)"]
     D --> E["5. Desarrollo de la SA-UT para el DOCENTE<br>(Merrill en Taller + DUA granular por tarea + Roles + PRL)"]
     E --> F["6. Concreción de la SA-UT para el ALUMNADO<br>(El Encargo del Cliente: sin burocracia, mapa de ruta y entregables)"]
     F --> G["7 y 8. (OPCIONAL) Medidas de Apoyo y Plan de Recuperación de RAs<br>(Refuerzo continuo y pendientes: el docente decide si ejecutar)"]
@@ -123,14 +123,13 @@ Para que la programación y las UTs estén fuertemente arraigadas en el sector p
 
 ---
 
-## 📌 CONTROL PREVIO A LA SECUENCIACIÓN (OPCIONAL): OBJETIVOS Y PLANES DE CENTRO EN FP
+## 📌 CONSULTA INICIAL (OPCIONAL DESDE EL INICIO): OBJETIVOS Y PLANES DE CENTRO EN FP
 
-La incorporación de Objetivos Prioritarios de Centro y Planes/Proyectos de FP (ATECA, Emprendimiento, etc.) tiene carácter **OPCIONAL** a criterio del docente.
+La incorporación de Objetivos Prioritarios de Centro y Planes/Proyectos de FP (ATECA, Emprendimiento, etc.) es **OPCIONAL y se consulta desde el inicio del proceso** (en los datos de partida):
 
-Antes de secuenciar las 9 Unidades de Trabajo del módulo profesional, el agente consulta al docente:
 > *"¿Deseas incorporar a la programación anual los Objetivos Prioritarios del Centro (PEC/PGA) y Planes/Proyectos de FP (ATECA, Emprendimiento, Innovación Aplicada, Sostenibilidad, Digitalización), o prefieres omitirlos y centrar la programación exclusivamente en el currículo oficial del título?"*
-- **Si el docente aporta los suyos:** Se integran en la matriz de la Fase 4 como ejes técnicos y transversales.
-- **Si el docente decide incorporarlos pero no aporta datos:** El agente recurre al [Banco de Objetivos, Planes y Programas por CCAA](banco_objetivos_planes_y_programas_ccaa.md) y asigna aleatoriamente objetivos del banco por defecto (enfoque empleabilidad/digitalización OBJ-08/OBJ-03), planes organizativos (Plan de Convivencia, Plan Digital, Plan de PRL/Autoprotección PLAN-09) y redes específicas de Formación Profesional (Red ATECA, Aulas de Emprendimiento RAE, Innovación Aplicada o programas de la CCAA).
+- **Si el docente aporta los suyos:** Se integran en la matriz de secuenciación (Fase 4) como ejes técnicos y transversales.
+- **Si el docente decide incorporarlos pero no aporta datos:** El agente recurre al [Banco de Objetivos, Planes y Programas por CCAA](banco_objetivos_planes_y_programas_ccaa.md) y asigna aleatoriamente objetivos del banco por defecto (empleabilidad/digitalización OBJ-08/OBJ-03), planes institucionales (Plan de Convivencia, Plan Digital, Plan de PRL/Autoprotección PLAN-09) y redes de FP (Red ATECA, Aulas de Emprendimiento RAE, Innovación Aplicada o programas de la CCAA).
 - **Si el docente decide omitirlos:** Se avanza directamente a la Fase 4 estructurando las 9 UTs sobre los Resultados de Aprendizaje, Criterios de Evaluación y retos técnicos del taller sin forzar proyectos de centro.
 
 ---
