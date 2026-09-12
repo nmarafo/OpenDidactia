@@ -12,6 +12,7 @@ En el diseño de cualquier PD o SDA en Comunidad de Madrid, debe referenciarse p
 * **Educación Infantil:** Decreto 36/2022, de 8 de junio (Boletín Oficial de la Comunidad de Madrid).
 * **Educación Primaria:** Decreto 61/2022, de 13 de julio (Boletín Oficial de la Comunidad de Madrid).
 * **Educación Secundaria Obligatoria:** Decreto 65/2022, de 20 de julio (Boletín Oficial de la Comunidad de Madrid).
+* **Formación Profesional:** Ley Orgánica 3/2022 (LOOIFP), Real Decreto 659/2023 y Decreto 49/2024, de 12 de junio (BOCM n.º 141, 14/06/2024), del Consejo de Gobierno, por el que se establece la ordenación de la Formación Profesional en la Comunidad de Madrid.
 * **Bachillerato:** Decreto 64/2022, de 20 de julio (Boletín Oficial de la Comunidad de Madrid).
 
 > Los metadatos normalizados y textos oficiales de referencia se encuentran organizados en [`normativa/`](normativa/).
@@ -39,6 +40,16 @@ En el diseño de cualquier PD o SDA en Comunidad de Madrid, debe referenciarse p
   1. Mantener invariable el verbo de acción del criterio en todos los niveles de logro.
   2. Redactar el nivel aprobatorio de referencia tomando como base el estándar oficial fijado en el decreto de Comunidad de Madrid.
   3. Describir las evidencias esperadas mediante graduadores cualitativos precisos en **negrita**, evitando la simple negación en el nivel inferior.
+
+---
+
+
+### 2.5. Singularidades en Formación Profesional (FP) y Tejido Productivo
+* **Estructura Modular:** En FP no se trabaja por materias sino por **Módulos Profesionales**, articulados en **Resultados de Aprendizaje (RA)** y **Criterios de Evaluación (CE)**.
+* **Mapa de Relaciones vs Deconstrucción:** Dado el carácter técnico y conciso de los RA y CE, **no se fragmentan los criterios (deconstrucción)**, sino que se establece la **«Relación y Asociación exhaustiva de RA y CE con Productos Técnicos (Instrumentos de Evaluación)»**, asegurando que el 100% de los CE queden asignados.
+* **Metodologías Activas (ABR y ASC):** Desarrollo de retos técnicos reales conectados con empresas del entorno territorial y proyectos de servicio a la comunidad.
+* **Taller y Laboratorio Técnico:** Aplicación de los principios de David Merrill con modelaje experto del docente, cumplimiento riguroso de Prevención de Riesgos Laborales (PRL) y uso de EPIs.
+* **Alternancia en Empresa (FP Dual):** Planificación coordinada con la formación en centros de trabajo.
 
 ---
 

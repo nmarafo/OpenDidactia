@@ -11,6 +11,7 @@ Este directorio contiene la estructura del marco normativo y curricular oficial 
 | **Educación Infantil** | Decret 21/2023, de 7 de febrer (DOGC n.º 8851, 09/02/2023) | DOGC (Diari Oficial de la Generalitat de Catalunya) | Estructurado |
 | **Educación Primaria** | Decret 175/2022, de 27 de setembre (Educació Bàsica - DOGC n.º 8762, 29/09/2022) | DOGC (Diari Oficial de la Generalitat de Catalunya) | Estructurado |
 | **Educación Secundaria Obligatoria** | Decret 175/2022, de 27 de setembre (Educació Bàsica - DOGC n.º 8762, 29/09/2022) | DOGC (Diari Oficial de la Generalitat de Catalunya) | Estructurado |
+| **Formación Profesional** | Decret 124/2024, de 25 de juny (DOGC n.º 9193, 27/06/2024), d'ordenaci... | DOGC | Estructurado |
 | **Bachillerato** | Decret 171/2022, de 20 de setembre (Batxillerat - DOGC n.º 8758, 22/09/2022) | DOGC (Diari Oficial de la Generalitat de Catalunya) | Estructurado |
 
 > Los textos y disposiciones normativas se organizan en [`normativa/`](normativa/) siguiendo el estándar de metadatos de [nmarafo/open-lex-edu](https://github.com/nmarafo/open-lex-edu).
@@ -38,7 +39,8 @@ catalunya/
     ├── infantil/                        # Perfil de etapa, áreas y saberes básicos
     ├── primaria/                        # Descriptores de salida, áreas y criterios
     ├── eso/                             # Perfil de salida básico y materias
-    └── bachillerato/                    # Modalidades, materias comunes y de modalidad
+    ├── bachillerato/                    # Modalidades, materias comunes y de modalidad
+    └── fp/                              # Módulos profesionales, Resultados de Aprendizaje y SA-UT Modalidades, materias comunes y de modalidad
 ```
 
 ---

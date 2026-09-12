@@ -11,6 +11,7 @@ Este directorio contiene la estructura del marco normativo y curricular oficial 
 | **Educación Infantil** | Decreto 150/2022, do 8 de setembro (DOG n.º 179, 20/09/2022) | DOG (Diario Oficial de Galicia) | Estructurado |
 | **Educación Primaria** | Decreto 155/2022, do 15 de setembro (DOG n.º 183, 26/09/2022) | DOG (Diario Oficial de Galicia) | Estructurado |
 | **Educación Secundaria Obligatoria** | Decreto 156/2022, do 15 de setembro (DOG n.º 183, 26/09/2022) | DOG (Diario Oficial de Galicia) | Estructurado |
+| **Formación Profesional** | Decreto 56/2024, do 23 de maio (DOG n.º 106, 03/06/2024), polo que se ... | DOG | Estructurado |
 | **Bachillerato** | Decreto 157/2022, do 15 de setembro (DOG n.º 183, 26/09/2022) | DOG (Diario Oficial de Galicia) | Estructurado |
 
 > Los textos y disposiciones normativas se organizan en [`normativa/`](normativa/) siguiendo el estándar de metadatos de [nmarafo/open-lex-edu](https://github.com/nmarafo/open-lex-edu).
@@ -38,7 +39,8 @@ galicia/
     ├── infantil/                        # Perfil de etapa, áreas y saberes básicos
     ├── primaria/                        # Descriptores de salida, áreas y criterios
     ├── eso/                             # Perfil de salida básico y materias
-    └── bachillerato/                    # Modalidades, materias comunes y de modalidad
+    ├── bachillerato/                    # Modalidades, materias comunes y de modalidad
+    └── fp/                              # Módulos profesionales, Resultados de Aprendizaje y SA-UT Modalidades, materias comunes y de modalidad
 ```
 
 ---

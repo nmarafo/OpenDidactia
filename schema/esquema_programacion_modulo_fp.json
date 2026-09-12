@@ -1,0 +1,174 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "OpenDidactiaEsquemaProgramacionModuloFP",
+  "description": "Esquema OKF para la estructuración y validación de Programaciones Didácticas de Módulos Profesionales de Formación Profesional según la LOOIFP y el RD 659/2023.",
+  "type": "object",
+  "required": [
+    "identificacion",
+    "marco_normativo",
+    "contextualizacion_socioproductiva",
+    "mapa_relaciones_curriculares",
+    "secuenciacion_unidades_trabajo",
+    "metodologia_y_taller",
+    "conexion_fase_dual",
+    "refuerzo_y_recuperacion"
+  ],
+  "properties": {
+    "identificacion": {
+      "type": "object",
+      "required": [
+        "comunidad_autonoma",
+        "familia_profesional",
+        "ciclo_formativo",
+        "grado",
+        "modulo_profesional",
+        "codigo_modulo",
+        "duracion_horas_anuales"
+      ],
+      "properties": {
+        "titulo": { "type": "string" },
+        "comunidad_autonoma": { "type": "string" },
+        "centro_educativo": { "type": "string" },
+        "familia_profesional": { "type": "string" },
+        "ciclo_formativo": { "type": "string" },
+        "grado": {
+          "type": "string",
+          "enum": [
+            "Grado Básico",
+            "Grado Medio",
+            "Grado Superior",
+            "Curso de Especialización"
+          ]
+        },
+        "modulo_profesional": { "type": "string" },
+        "codigo_modulo": { "type": "string" },
+        "duracion_horas_anuales": { "type": "integer" },
+        "horas_semanales": { "type": "integer" },
+        "curso_escolar": { "type": "string" },
+        "profesorado": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "marco_normativo": {
+      "type": "object",
+      "required": ["ley_organica_fp", "real_decreto_ordenacion", "real_decreto_titulo", "decreto_autonomico"],
+      "properties": {
+        "ley_organica_fp": { "type": "string" },
+        "real_decreto_ordenacion": { "type": "string" },
+        "real_decreto_titulo": { "type": "string" },
+        "decreto_autonomico": { "type": "string" },
+        "resolucion_organizacion": { "type": "string" }
+      }
+    },
+    "contextualizacion_socioproductiva": {
+      "type": "object",
+      "required": ["tejido_empresarial", "espacios_equipamiento_taller", "prevencion_riesgos_laborales_prl"],
+      "properties": {
+        "tejido_empresarial": { "type": "string" },
+        "espacios_equipamiento_taller": { "type": "string" },
+        "prevencion_riesgos_laborales_prl": { "type": "string" },
+        "diagnostico_inicial_alumnado": { "type": "string" }
+      }
+    },
+    "mapa_relaciones_curriculares": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["numero_ra", "enunciado_ra", "ponderacion_porcentual", "criterios_evaluacion"],
+        "properties": {
+          "numero_ra": { "type": "string" },
+          "enunciado_ra": { "type": "string" },
+          "ponderacion_porcentual": { "type": "number", "minimum": 1, "maximum": 100 },
+          "criterios_evaluacion": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["letra_criterio", "texto_criterio", "instrumentos_evaluacion_productos"],
+              "properties": {
+                "letra_criterio": { "type": "string" },
+                "texto_criterio": { "type": "string" },
+                "contenidos_basicos": { "type": "string" },
+                "objetivos_generales": {
+                  "type": "array",
+                  "items": { "type": "string" }
+                },
+                "competencias_cpps": {
+                  "type": "array",
+                  "items": { "type": "string" }
+                },
+                "instrumentos_evaluacion_productos": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "required": ["codigo_producto", "nombre_producto"],
+                    "properties": {
+                      "codigo_producto": { "type": "string" },
+                      "nombre_producto": { "type": "string" },
+                      "ponderacion_producto": { "type": "number" }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "secuenciacion_unidades_trabajo": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["numero_ut", "titulo_ut", "horas_estimadas", "ras_implicados", "reto_abr_asc"],
+        "properties": {
+          "numero_ut": { "type": "integer" },
+          "trimestre": { "type": "integer", "enum": [1, 2, 3] },
+          "titulo_ut": { "type": "string" },
+          "horas_estimadas": { "type": "integer" },
+          "ras_implicados": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "hito_calendario_sectorial": { "type": "string" },
+          "reto_abr_asc": { "type": "string" },
+          "productos_entregables": {
+            "type": "array",
+            "items": { "type": "string" }
+          }
+        }
+      }
+    },
+    "metodologia_y_taller": {
+      "type": "object",
+      "required": ["aprendizaje_basado_en_retos_abr", "merrill_adaptado_taller", "dua_accesibilidad"],
+      "properties": {
+        "aprendizaje_basado_en_retos_abr": { "type": "string" },
+        "aprendizaje_servicio_asc": { "type": "string" },
+        "merrill_adaptado_taller": { "type": "string" },
+        "cultura_agil_scrum_kanban": { "type": "string" },
+        "dua_accesibilidad": { "type": "string" }
+      }
+    },
+    "conexion_fase_dual": {
+      "type": "object",
+      "required": ["modalidad_dual", "coordinacion_tutor_empresa"],
+      "properties": {
+        "modalidad_dual": {
+          "type": "string",
+          "enum": ["General", "Intensiva"]
+        },
+        "coordinacion_tutor_empresa": { "type": "string" },
+        "actividades_formativas_empresa": { "type": "string" }
+      }
+    },
+    "refuerzo_y_recuperacion": {
+      "type": "object",
+      "required": ["refuerzo_evaluacion_continua", "plan_recuperacion_pendientes"],
+      "properties": {
+        "refuerzo_evaluacion_continua": { "type": "string" },
+        "plan_recuperacion_pendientes": { "type": "string" }
+      }
+    }
+  }
+}

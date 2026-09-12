@@ -11,6 +11,7 @@ Este directorio contiene la estructura del marco normativo y curricular oficial 
 | **Educación Infantil** | Decreto 80/2022, de 12 de julio (DOCM n.º 138, 20/07/2022) | DOCM (Diario Oficial de Castilla-La Mancha) | Estructurado |
 | **Educación Primaria** | Decreto 81/2022, de 12 de julio (DOCM n.º 139, 21/07/2022) | DOCM (Diario Oficial de Castilla-La Mancha) | Estructurado |
 | **Educación Secundaria Obligatoria** | Decreto 82/2022, de 12 de julio (DOCM n.º 140, 22/07/2022) | DOCM (Diario Oficial de Castilla-La Mancha) | Estructurado |
+| **Formación Profesional** | Decreto 39/2024, de 9 de julio (DOCM n.º 136, 15/07/2024), por el que ... | DOCM | Estructurado |
 | **Bachillerato** | Decreto 83/2022, de 12 de julio (DOCM n.º 141, 25/07/2022) | DOCM (Diario Oficial de Castilla-La Mancha) | Estructurado |
 
 > Los textos y disposiciones normativas se organizan en [`normativa/`](normativa/) siguiendo el estándar de metadatos de [nmarafo/open-lex-edu](https://github.com/nmarafo/open-lex-edu).
@@ -38,7 +39,8 @@ castilla_la_mancha/
     ├── infantil/                        # Perfil de etapa, áreas y saberes básicos
     ├── primaria/                        # Descriptores de salida, áreas y criterios
     ├── eso/                             # Perfil de salida básico y materias
-    └── bachillerato/                    # Modalidades, materias comunes y de modalidad
+    ├── bachillerato/                    # Modalidades, materias comunes y de modalidad
+    └── fp/                              # Módulos profesionales, Resultados de Aprendizaje y SA-UT Modalidades, materias comunes y de modalidad
 ```
 
 ---

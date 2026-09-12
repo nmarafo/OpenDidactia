@@ -11,6 +11,7 @@ Este directorio contiene la estructura del marco normativo y curricular oficial 
 | **Educación Infantil** | Decreto 45/2022, de 6 de abril (BOA n.º 77, 22/04/2022) | BOA (Boletín Oficial de Aragón) | Estructurado |
 | **Educación Primaria** | Decreto 59/2022, de 27 de abril (BOA n.º 84, 04/05/2022) | BOA (Boletín Oficial de Aragón) | Estructurado |
 | **Educación Secundaria Obligatoria** | Decreto 65/2022, de 11 de mayo (BOA n.º 97, 23/05/2022) | BOA (Boletín Oficial de Aragón) | Estructurado |
+| **Formación Profesional** | Decreto 105/2024, de 3 de julio (BOA n.º 134, 11/07/2024), de ordenaci... | BOA | Estructurado |
 | **Bachillerato** | Decreto 73/2022, de 18 de mayo (BOA n.º 104, 01/06/2022) | BOA (Boletín Oficial de Aragón) | Estructurado |
 
 > Los textos y disposiciones normativas se organizan en [`normativa/`](normativa/) siguiendo el estándar de metadatos de [nmarafo/open-lex-edu](https://github.com/nmarafo/open-lex-edu).
@@ -38,7 +39,8 @@ aragon/
     ├── infantil/                        # Perfil de etapa, áreas y saberes básicos
     ├── primaria/                        # Descriptores de salida, áreas y criterios
     ├── eso/                             # Perfil de salida básico y materias
-    └── bachillerato/                    # Modalidades, materias comunes y de modalidad
+    ├── bachillerato/                    # Modalidades, materias comunes y de modalidad
+    └── fp/                              # Módulos profesionales, Resultados de Aprendizaje y SA-UT Modalidades, materias comunes y de modalidad
 ```
 
 ---

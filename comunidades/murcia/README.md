@@ -11,6 +11,7 @@ Este directorio contiene la estructura del marco normativo y curricular oficial 
 | **Educación Infantil** | Decreto 253/2022, de 22 de diciembre (BORM n.º 295, 24/12/2022) | BORM (Boletín Oficial de la Región de Murcia) | Estructurado |
 | **Educación Primaria** | Decreto 237/2022, de 15 de diciembre (BORM n.º 290, 19/12/2022) | BORM (Boletín Oficial de la Región de Murcia) | Estructurado |
 | **Educación Secundaria Obligatoria** | Decreto 238/2022, de 15 de diciembre (BORM n.º 290, 19/12/2022) | BORM (Boletín Oficial de la Región de Murcia) | Estructurado |
+| **Formación Profesional** | Decreto 92/2024, de 4 de julio (BORM n.º 157, 09/07/2024), por el que ... | BORM | Estructurado |
 | **Bachillerato** | Decreto 241/2022, de 22 de diciembre (BORM n.º 295, 24/12/2022) | BORM (Boletín Oficial de la Región de Murcia) | Estructurado |
 
 > Los textos y disposiciones normativas se organizan en [`normativa/`](normativa/) siguiendo el estándar de metadatos de [nmarafo/open-lex-edu](https://github.com/nmarafo/open-lex-edu).
@@ -38,7 +39,8 @@ murcia/
     ├── infantil/                        # Perfil de etapa, áreas y saberes básicos
     ├── primaria/                        # Descriptores de salida, áreas y criterios
     ├── eso/                             # Perfil de salida básico y materias
-    └── bachillerato/                    # Modalidades, materias comunes y de modalidad
+    ├── bachillerato/                    # Modalidades, materias comunes y de modalidad
+    └── fp/                              # Módulos profesionales, Resultados de Aprendizaje y SA-UT Modalidades, materias comunes y de modalidad
 ```
 
 ---

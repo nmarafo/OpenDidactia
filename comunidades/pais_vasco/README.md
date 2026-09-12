@@ -11,6 +11,7 @@ Este directorio contiene la estructura del marco normativo y curricular oficial 
 | **Educación Infantil** | Decreto 75/2023, de 30 de mayo (BOPV n.º 109, 09/06/2023) | BOPV (Boletín Oficial del País Vasco) | Estructurado |
 | **Educación Primaria** | Decreto 77/2023, de 30 de mayo (Educación Básica - BOPV n.º 109, 09/06/2023) | BOPV (Boletín Oficial del País Vasco) | Estructurado |
 | **Educación Secundaria Obligatoria** | Decreto 77/2023, de 30 de mayo (Educación Básica - BOPV n.º 109, 09/06/2023) | BOPV (Boletín Oficial del País Vasco) | Estructurado |
+| **Formación Profesional** | Decreto 82/2024, de 18 de junio (BOPV n.º 125, 27/06/2024), por el que... | BOPV | Estructurado |
 | **Bachillerato** | Decreto 76/2023, de 30 de mayo (BOPV n.º 109, 09/06/2023) | BOPV (Boletín Oficial del País Vasco) | Estructurado |
 
 > Los textos y disposiciones normativas se organizan en [`normativa/`](normativa/) siguiendo el estándar de metadatos de [nmarafo/open-lex-edu](https://github.com/nmarafo/open-lex-edu).
@@ -38,7 +39,8 @@ pais_vasco/
     ├── infantil/                        # Perfil de etapa, áreas y saberes básicos
     ├── primaria/                        # Descriptores de salida, áreas y criterios
     ├── eso/                             # Perfil de salida básico y materias
-    └── bachillerato/                    # Modalidades, materias comunes y de modalidad
+    ├── bachillerato/                    # Modalidades, materias comunes y de modalidad
+    └── fp/                              # Módulos profesionales, Resultados de Aprendizaje y SA-UT Modalidades, materias comunes y de modalidad
 ```
 
 ---

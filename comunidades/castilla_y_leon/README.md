@@ -11,6 +11,7 @@ Este directorio contiene la estructura del marco normativo y curricular oficial 
 | **Educación Infantil** | Decreto 36/2022, de 29 de septiembre (BOCyL n.º 190, 30/09/2022) | BOCyL (Boletín Oficial de Castilla y León) | Estructurado |
 | **Educación Primaria** | Decreto 38/2022, de 29 de septiembre (BOCyL n.º 190, 30/09/2022) | BOCyL (Boletín Oficial de Castilla y León) | Estructurado |
 | **Educación Secundaria Obligatoria** | Decreto 39/2022, de 29 de septiembre (BOCyL n.º 190, 30/09/2022) | BOCyL (Boletín Oficial de Castilla y León) | Estructurado |
+| **Formación Profesional** | Decreto 24/2024, de 20 de junio (BOCyL n.º 120, 21/06/2024), por el qu... | BOCyL | Estructurado |
 | **Bachillerato** | Decreto 40/2022, de 29 de septiembre (BOCyL n.º 190, 30/09/2022) | BOCyL (Boletín Oficial de Castilla y León) | Estructurado |
 
 > Los textos y disposiciones normativas se organizan en [`normativa/`](normativa/) siguiendo el estándar de metadatos de [nmarafo/open-lex-edu](https://github.com/nmarafo/open-lex-edu).
@@ -38,7 +39,8 @@ castilla_y_leon/
     ├── infantil/                        # Perfil de etapa, áreas y saberes básicos
     ├── primaria/                        # Descriptores de salida, áreas y criterios
     ├── eso/                             # Perfil de salida básico y materias
-    └── bachillerato/                    # Modalidades, materias comunes y de modalidad
+    ├── bachillerato/                    # Modalidades, materias comunes y de modalidad
+    └── fp/                              # Módulos profesionales, Resultados de Aprendizaje y SA-UT Modalidades, materias comunes y de modalidad
 ```
 
 ---

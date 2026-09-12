@@ -11,6 +11,7 @@ Este directorio contiene la estructura del marco normativo y curricular oficial 
 | **Educación Infantil** | Decreto 36/2022, de 21 de junio (BOR n.º 120, 23/06/2022) | BOR (Boletín Oficial de La Rioja) | Estructurado |
 | **Educación Primaria** | Decreto 37/2022, de 21 de junio (BOR n.º 120, 23/06/2022) | BOR (Boletín Oficial de La Rioja) | Estructurado |
 | **Educación Secundaria Obligatoria** | Decreto 41/2022, de 13 de julio (BOR n.º 135, 14/07/2022) | BOR (Boletín Oficial de La Rioja) | Estructurado |
+| **Formación Profesional** | Decreto 29/2024, de 25 de junio (BOR n.º 125, 27/06/2024), por el que ... | BOR | Estructurado |
 | **Bachillerato** | Decreto 42/2022, de 13 de julio (BOR n.º 135, 14/07/2022) | BOR (Boletín Oficial de La Rioja) | Estructurado |
 
 > Los textos y disposiciones normativas se organizan en [`normativa/`](normativa/) siguiendo el estándar de metadatos de [nmarafo/open-lex-edu](https://github.com/nmarafo/open-lex-edu).
@@ -38,7 +39,8 @@ la_rioja/
     ├── infantil/                        # Perfil de etapa, áreas y saberes básicos
     ├── primaria/                        # Descriptores de salida, áreas y criterios
     ├── eso/                             # Perfil de salida básico y materias
-    └── bachillerato/                    # Modalidades, materias comunes y de modalidad
+    ├── bachillerato/                    # Modalidades, materias comunes y de modalidad
+    └── fp/                              # Módulos profesionales, Resultados de Aprendizaje y SA-UT Modalidades, materias comunes y de modalidad
 ```
 
 ---

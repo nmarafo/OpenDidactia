@@ -11,6 +11,7 @@ Este directorio contiene la estructura del marco normativo y curricular oficial 
 | **Educación Infantil** | Decret 100/2022, de 29 de juliol (DOGV n.º 9399, 05/08/2022) | DOGV (Diari Oficial de la Generalitat Valenciana) | Estructurado |
 | **Educación Primaria** | Decret 106/2022, de 5 d'agost (DOGV n.º 9403, 11/08/2022) | DOGV (Diari Oficial de la Generalitat Valenciana) | Estructurado |
 | **Educación Secundaria Obligatoria** | Decret 107/2022, de 5 d'agost (DOGV n.º 9404, 12/08/2022) | DOGV (Diari Oficial de la Generalitat Valenciana) | Estructurado |
+| **Formación Profesional** | Decret 74/2024, de 9 de juliol (DOGV n.º 9890, 11/07/2024), pel qual e... | DOGV | Estructurado |
 | **Bachillerato** | Decret 108/2022, de 5 d'agost (DOGV n.º 9405, 12/08/2022) | DOGV (Diari Oficial de la Generalitat Valenciana) | Estructurado |
 
 > Los textos y disposiciones normativas se organizan en [`normativa/`](normativa/) siguiendo el estándar de metadatos de [nmarafo/open-lex-edu](https://github.com/nmarafo/open-lex-edu).
@@ -38,7 +39,8 @@ comunitat_valenciana/
     ├── infantil/                        # Perfil de etapa, áreas y saberes básicos
     ├── primaria/                        # Descriptores de salida, áreas y criterios
     ├── eso/                             # Perfil de salida básico y materias
-    └── bachillerato/                    # Modalidades, materias comunes y de modalidad
+    ├── bachillerato/                    # Modalidades, materias comunes y de modalidad
+    └── fp/                              # Módulos profesionales, Resultados de Aprendizaje y SA-UT Modalidades, materias comunes y de modalidad
 ```
 
 ---

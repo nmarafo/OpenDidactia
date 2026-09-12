@@ -11,6 +11,7 @@ Este directorio contiene la estructura del marco normativo y curricular oficial 
 | **Educación Infantil** | Decreto 100/2023, de 9 de mayo (BOJA n.º 90, 15/05/2023) | BOJA (Boletín Oficial de la Junta de Andalucía) | Estructurado |
 | **Educación Primaria** | Decreto 101/2023, de 9 de mayo (BOJA n.º 90, 15/05/2023) | BOJA (Boletín Oficial de la Junta de Andalucía) | Estructurado |
 | **Educación Secundaria Obligatoria** | Decreto 102/2023, de 9 de mayo (BOJA n.º 90, 15/05/2023) | BOJA (Boletín Oficial de la Junta de Andalucía) | Estructurado |
+| **Formación Profesional** | Decreto 102/2024, de 21 de mayo (BOJA n.º 101, 27/05/2024), por el que... | BOJA | Estructurado |
 | **Bachillerato** | Decreto 103/2023, de 9 de mayo (BOJA n.º 90, 15/05/2023) | BOJA (Boletín Oficial de la Junta de Andalucía) | Estructurado |
 
 > Los textos y disposiciones normativas se organizan en [`normativa/`](normativa/) siguiendo el estándar de metadatos de [nmarafo/open-lex-edu](https://github.com/nmarafo/open-lex-edu).
@@ -38,7 +39,8 @@ andalucia/
     ├── infantil/                        # Perfil de etapa, áreas y saberes básicos
     ├── primaria/                        # Descriptores de salida, áreas y criterios
     ├── eso/                             # Perfil de salida básico y materias
-    └── bachillerato/                    # Modalidades, materias comunes y de modalidad
+    ├── bachillerato/                    # Modalidades, materias comunes y de modalidad
+    └── fp/                              # Módulos profesionales, Resultados de Aprendizaje y SA-UT Modalidades, materias comunes y de modalidad
 ```
 
 ---

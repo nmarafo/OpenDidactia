@@ -11,6 +11,7 @@ Este directorio contiene la estructura del marco normativo y curricular oficial 
 | **Educación Infantil** | Decreto 56/2022, de 5 de agosto (BOPA n.º 159, 17/08/2022) | BOPA (Boletín Oficial del Principado de Asturias) | Estructurado |
 | **Educación Primaria** | Decreto 57/2022, de 5 de agosto (BOPA n.º 164, 24/08/2022) | BOPA (Boletín Oficial del Principado de Asturias) | Estructurado |
 | **Educación Secundaria Obligatoria** | Decreto 59/2022, de 30 de agosto (BOPA n.º 169, 31/08/2022) | BOPA (Boletín Oficial del Principado de Asturias) | Estructurado |
+| **Formación Profesional** | Decreto 48/2024, de 21 de junio (BOPA n.º 126, 28/06/2024), por el que... | BOPA | Estructurado |
 | **Bachillerato** | Decreto 60/2022, de 30 de agosto (BOPA n.º 169, 31/08/2022) | BOPA (Boletín Oficial del Principado de Asturias) | Estructurado |
 
 > Los textos y disposiciones normativas se organizan en [`normativa/`](normativa/) siguiendo el estándar de metadatos de [nmarafo/open-lex-edu](https://github.com/nmarafo/open-lex-edu).
@@ -38,7 +39,8 @@ asturias/
     ├── infantil/                        # Perfil de etapa, áreas y saberes básicos
     ├── primaria/                        # Descriptores de salida, áreas y criterios
     ├── eso/                             # Perfil de salida básico y materias
-    └── bachillerato/                    # Modalidades, materias comunes y de modalidad
+    ├── bachillerato/                    # Modalidades, materias comunes y de modalidad
+    └── fp/                              # Módulos profesionales, Resultados de Aprendizaje y SA-UT Modalidades, materias comunes y de modalidad
 ```
 
 ---

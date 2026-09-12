@@ -11,6 +11,7 @@ Este directorio contiene la estructura del marco normativo y curricular oficial 
 | **Educación Infantil** | Decreto 36/2022, de 8 de junio (BOCM n.º 136, 09/06/2022) | BOCM (Boletín Oficial de la Comunidad de Madrid) | Estructurado |
 | **Educación Primaria** | Decreto 61/2022, de 13 de julio (BOCM n.º 166, 14/07/2022) | BOCM (Boletín Oficial de la Comunidad de Madrid) | Estructurado |
 | **Educación Secundaria Obligatoria** | Decreto 65/2022, de 20 de julio (BOCM n.º 176, 26/07/2022) | BOCM (Boletín Oficial de la Comunidad de Madrid) | Estructurado |
+| **Formación Profesional** | Decreto 49/2024, de 12 de junio (BOCM n.º 141, 14/06/2024), del Consej... | BOCM | Estructurado |
 | **Bachillerato** | Decreto 64/2022, de 20 de julio (BOCM n.º 176, 26/07/2022) | BOCM (Boletín Oficial de la Comunidad de Madrid) | Estructurado |
 
 > Los textos y disposiciones normativas se organizan en [`normativa/`](normativa/) siguiendo el estándar de metadatos de [nmarafo/open-lex-edu](https://github.com/nmarafo/open-lex-edu).
@@ -38,7 +39,8 @@ madrid/
     ├── infantil/                        # Perfil de etapa, áreas y saberes básicos
     ├── primaria/                        # Descriptores de salida, áreas y criterios
     ├── eso/                             # Perfil de salida básico y materias
-    └── bachillerato/                    # Modalidades, materias comunes y de modalidad
+    ├── bachillerato/                    # Modalidades, materias comunes y de modalidad
+    └── fp/                              # Módulos profesionales, Resultados de Aprendizaje y SA-UT Modalidades, materias comunes y de modalidad
 ```
 
 ---

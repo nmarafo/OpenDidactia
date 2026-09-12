@@ -12,6 +12,7 @@ En el diseño de cualquier PD o SDA en Castilla-La Mancha, debe referenciarse pr
 * **Educación Infantil:** Decreto 80/2022, de 12 de julio (Diario Oficial de Castilla-La Mancha).
 * **Educación Primaria:** Decreto 81/2022, de 12 de julio (Diario Oficial de Castilla-La Mancha).
 * **Educación Secundaria Obligatoria:** Decreto 82/2022, de 12 de julio (Diario Oficial de Castilla-La Mancha).
+* **Formación Profesional:** Ley Orgánica 3/2022 (LOOIFP), Real Decreto 659/2023 y Decreto 39/2024, de 9 de julio (DOCM n.º 136, 15/07/2024), por el que se regula la Formación Profesional en Castilla-La Mancha.
 * **Bachillerato:** Decreto 83/2022, de 12 de julio (Diario Oficial de Castilla-La Mancha).
 
 > Los metadatos normalizados y textos oficiales de referencia se encuentran organizados en [`normativa/`](normativa/).
@@ -39,6 +40,16 @@ En el diseño de cualquier PD o SDA en Castilla-La Mancha, debe referenciarse pr
   1. Mantener invariable el verbo de acción del criterio en todos los niveles de logro.
   2. Redactar el nivel aprobatorio de referencia tomando como base el estándar oficial fijado en el decreto de Castilla-La Mancha.
   3. Describir las evidencias esperadas mediante graduadores cualitativos precisos en **negrita**, evitando la simple negación en el nivel inferior.
+
+---
+
+
+### 2.5. Singularidades en Formación Profesional (FP) y Tejido Productivo
+* **Estructura Modular:** En FP no se trabaja por materias sino por **Módulos Profesionales**, articulados en **Resultados de Aprendizaje (RA)** y **Criterios de Evaluación (CE)**.
+* **Mapa de Relaciones vs Deconstrucción:** Dado el carácter técnico y conciso de los RA y CE, **no se fragmentan los criterios (deconstrucción)**, sino que se establece la **«Relación y Asociación exhaustiva de RA y CE con Productos Técnicos (Instrumentos de Evaluación)»**, asegurando que el 100% de los CE queden asignados.
+* **Metodologías Activas (ABR y ASC):** Desarrollo de retos técnicos reales conectados con empresas del entorno territorial y proyectos de servicio a la comunidad.
+* **Taller y Laboratorio Técnico:** Aplicación de los principios de David Merrill con modelaje experto del docente, cumplimiento riguroso de Prevención de Riesgos Laborales (PRL) y uso de EPIs.
+* **Alternancia en Empresa (FP Dual):** Planificación coordinada con la formación en centros de trabajo.
 
 ---
 

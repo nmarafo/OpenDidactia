@@ -1,0 +1,214 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "OpenDidactiaEsquemaUnidadTrabajoFP",
+  "description": "Esquema OKF para el diseño y validación de Unidades de Trabajo competenciales (SA-UT) de Formación Profesional, integrando ABR/ASC, Merrill en taller, DUA granular y rúbricas técnicas con graduadores.",
+  "type": "object",
+  "required": [
+    "identificacion",
+    "reto_socio_productivo",
+    "concrecion_curricular",
+    "diseno_docente_taller",
+    "concrecion_alumnado",
+    "rubricas_analiticas_tecnicas"
+  ],
+  "properties": {
+    "identificacion": {
+      "type": "object",
+      "required": [
+        "comunidad_autonoma",
+        "familia_profesional",
+        "modulo_profesional",
+        "numero_ut",
+        "titulo_ut",
+        "horas_totales",
+        "trimestre"
+      ],
+      "properties": {
+        "comunidad_autonoma": { "type": "string" },
+        "centro_educativo": { "type": "string" },
+        "familia_profesional": { "type": "string" },
+        "ciclo_formativo": { "type": "string" },
+        "grado": {
+          "type": "string",
+          "enum": ["Grado Básico", "Grado Medio", "Grado Superior", "Curso de Especialización"]
+        },
+        "modulo_profesional": { "type": "string" },
+        "numero_ut": { "type": "integer" },
+        "titulo_ut": { "type": "string" },
+        "horas_totales": { "type": "integer" },
+        "sesiones_totales": { "type": "integer" },
+        "trimestre": { "type": "integer", "enum": [1, 2, 3] },
+        "modalidad": {
+          "type": "string",
+          "enum": ["Aprendizaje Basado en Retos (ABR)", "Aprendizaje-Servicio Colaborativo (ASC)"]
+        }
+      }
+    },
+    "reto_socio_productivo": {
+      "type": "object",
+      "required": ["encargo_cliente", "producto_desempeno_final"],
+      "properties": {
+        "encargo_cliente": { "type": "string" },
+        "contextualizacion_tejido_productivo": { "type": "string" },
+        "producto_desempeno_final": { "type": "string" }
+      }
+    },
+    "concrecion_curricular": {
+      "type": "object",
+      "required": ["ras_implicados", "mapa_asociacion_ce_productos"],
+      "properties": {
+        "ras_implicados": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "mapa_asociacion_ce_productos": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["numero_ra", "letra_ce", "texto_criterio", "codigo_producto_alfanumerico", "nombre_producto"],
+            "properties": {
+              "numero_ra": { "type": "string" },
+              "letra_ce": { "type": "string" },
+              "texto_criterio": { "type": "string" },
+              "codigo_producto_alfanumerico": { "type": "string" },
+              "nombre_producto": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    "diseno_docente_taller": {
+      "type": "object",
+      "required": ["sesiones"],
+      "properties": {
+        "merrill_adaptado": {
+          "type": "object",
+          "properties": {
+            "reto_central": { "type": "string" },
+            "activacion": { "type": "string" },
+            "demostracion_modelaje_prl": { "type": "string" },
+            "aplicacion_guiada": { "type": "string" },
+            "integracion_dual": { "type": "string" }
+          }
+        },
+        "sesiones": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["numero_sesion", "titulo_sesion", "tareas"],
+            "properties": {
+              "numero_sesion": { "type": "integer" },
+              "titulo_sesion": { "type": "string" },
+              "duracion_minutos": { "type": "integer" },
+              "tareas": {
+                "type": "array",
+                "minItems": 2,
+                "items": {
+                  "type": "object",
+                  "required": [
+                    "titulo_tarea",
+                    "duracion_minutos",
+                    "rol_docente",
+                    "rol_alumnado",
+                    "cultura_organizacional_prl",
+                    "agrupamiento",
+                    "dua_granular",
+                    "recursos_taller_epis"
+                  ],
+                  "properties": {
+                    "titulo_tarea": { "type": "string" },
+                    "duracion_minutos": { "type": "integer" },
+                    "fase_merrill": {
+                      "type": "string",
+                      "enum": ["Activación", "Demostración", "Aplicación", "Integración"]
+                    },
+                    "rol_docente": { "type": "string" },
+                    "rol_alumnado": { "type": "string" },
+                    "cultura_organizacional_prl": { "type": "string" },
+                    "agrupamiento": { "type": "string" },
+                    "dua_granular": {
+                      "type": "object",
+                      "required": ["representacion", "accion_y_expresion", "implicacion"],
+                      "properties": {
+                        "representacion": { "type": "string" },
+                        "accion_y_expresion": { "type": "string" },
+                        "implicacion": { "type": "string" }
+                      }
+                    },
+                    "instrumento_evaluacion_evidencia": { "type": "string" },
+                    "recursos_taller_epis": { "type": "string" }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "concrecion_alumnado": {
+      "type": "object",
+      "required": ["mision_encargo", "producto_a_entregar", "mapa_ruta_4_fases", "claves_exito"],
+      "properties": {
+        "mision_encargo": { "type": "string" },
+        "producto_a_entregar": { "type": "string" },
+        "mapa_ruta_4_fases": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "claves_exito": { "type": "string" }
+      }
+    },
+    "rubricas_analiticas_tecnicas": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "codigo_producto",
+          "nombre_producto",
+          "dimension_tecnica",
+          "nivel_insuficiente",
+          "nivel_suficiente_bien",
+          "nivel_notable",
+          "nivel_sobresaliente"
+        ],
+        "properties": {
+          "codigo_producto": { "type": "string" },
+          "nombre_producto": { "type": "string" },
+          "dimension_tecnica": { "type": "string" },
+          "nivel_insuficiente": {
+            "type": "object",
+            "required": ["descriptor", "ejemplo_producto"],
+            "properties": {
+              "descriptor": { "type": "string" },
+              "ejemplo_producto": { "type": "string" }
+            }
+          },
+          "nivel_suficiente_bien": {
+            "type": "object",
+            "required": ["descriptor", "ejemplo_producto"],
+            "properties": {
+              "descriptor": { "type": "string" },
+              "ejemplo_producto": { "type": "string" }
+            }
+          },
+          "nivel_notable": {
+            "type": "object",
+            "required": ["descriptor", "ejemplo_producto"],
+            "properties": {
+              "descriptor": { "type": "string" },
+              "ejemplo_producto": { "type": "string" }
+            }
+          },
+          "nivel_sobresaliente": {
+            "type": "object",
+            "required": ["descriptor", "ejemplo_producto"],
+            "properties": {
+              "descriptor": { "type": "string" },
+              "ejemplo_producto": { "type": "string" }
+            }
+          }
+        }
+      }
+    }
+  }
+}

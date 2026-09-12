@@ -12,6 +12,7 @@ En el diseño de cualquier PD o SDA en Illes Balears, debe referenciarse precept
 * **Educación Infantil:** Decreto 29/2022, de 18 de julio (Butlletí Oficial de les Illes Balears).
 * **Educación Primaria:** Decreto 32/2022, de 1 de agosto (Butlletí Oficial de les Illes Balears).
 * **Educación Secundaria Obligatoria:** Decreto 33/2022, de 1 de agosto (Butlletí Oficial de les Illes Balears).
+* **Formación Profesional:** Ley Orgánica 3/2022 (LOOIFP), Real Decreto 659/2023 y Decret 36/2024, de 12 de juliol (BOIB n.º 93, 16/07/2024), pel qual s'estableix l'ordenació general de la formació professional a les Illes Balears.
 * **Bachillerato:** Decreto 34/2022, de 1 de agosto (Butlletí Oficial de les Illes Balears).
 
 > Los metadatos normalizados y textos oficiales de referencia se encuentran organizados en [`normativa/`](normativa/).
@@ -39,6 +40,16 @@ En el diseño de cualquier PD o SDA en Illes Balears, debe referenciarse precept
   1. Mantener invariable el verbo de acción del criterio en todos los niveles de logro.
   2. Redactar el nivel aprobatorio de referencia tomando como base el estándar oficial fijado en el decreto de Illes Balears.
   3. Describir las evidencias esperadas mediante graduadores cualitativos precisos en **negrita**, evitando la simple negación en el nivel inferior.
+
+---
+
+
+### 2.5. Singularidades en Formación Profesional (FP) y Tejido Productivo
+* **Estructura Modular:** En FP no se trabaja por materias sino por **Módulos Profesionales**, articulados en **Resultados de Aprendizaje (RA)** y **Criterios de Evaluación (CE)**.
+* **Mapa de Relaciones vs Deconstrucción:** Dado el carácter técnico y conciso de los RA y CE, **no se fragmentan los criterios (deconstrucción)**, sino que se establece la **«Relación y Asociación exhaustiva de RA y CE con Productos Técnicos (Instrumentos de Evaluación)»**, asegurando que el 100% de los CE queden asignados.
+* **Metodologías Activas (ABR y ASC):** Desarrollo de retos técnicos reales conectados con empresas del entorno territorial y proyectos de servicio a la comunidad.
+* **Taller y Laboratorio Técnico:** Aplicación de los principios de David Merrill con modelaje experto del docente, cumplimiento riguroso de Prevención de Riesgos Laborales (PRL) y uso de EPIs.
+* **Alternancia en Empresa (FP Dual):** Planificación coordinada con la formación en centros de trabajo.
 
 ---
 

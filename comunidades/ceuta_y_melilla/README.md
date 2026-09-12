@@ -11,6 +11,7 @@ Este directorio contiene la estructura del marco normativo y curricular oficial 
 | **Educación Infantil** | Real Decreto 95/2022 y Orden EFP/608/2022, de 30 de junio (BOE n.º 158, 02/07/2022) | BOE (Boletín Oficial del Estado) | Estructurado |
 | **Educación Primaria** | Real Decreto 157/2022 y Orden EFP/678/2022, de 15 de julio (BOE n.º 171, 18/07/2022) | BOE (Boletín Oficial del Estado) | Estructurado |
 | **Educación Secundaria Obligatoria** | Real Decreto 217/2022 y Orden EFP/754/2022, de 28 de julio (BOE n.º 186, 04/08/2022) | BOE (Boletín Oficial del Estado) | Estructurado |
+| **Formación Profesional** | Real Decreto 659/2023 y Orden EFP correspondiente para el ámbito terri... | BOE | Estructurado |
 | **Bachillerato** | Real Decreto 243/2022 y Orden EFP/755/2022, de 28 de julio (BOE n.º 186, 04/08/2022) | BOE (Boletín Oficial del Estado) | Estructurado |
 
 > Los textos y disposiciones normativas se organizan en [`normativa/`](normativa/) siguiendo el estándar de metadatos de [nmarafo/open-lex-edu](https://github.com/nmarafo/open-lex-edu).
@@ -38,7 +39,8 @@ ceuta_y_melilla/
     ├── infantil/                        # Perfil de etapa, áreas y saberes básicos
     ├── primaria/                        # Descriptores de salida, áreas y criterios
     ├── eso/                             # Perfil de salida básico y materias
-    └── bachillerato/                    # Modalidades, materias comunes y de modalidad
+    ├── bachillerato/                    # Modalidades, materias comunes y de modalidad
+    └── fp/                              # Módulos profesionales, Resultados de Aprendizaje y SA-UT Modalidades, materias comunes y de modalidad
 ```
 
 ---
