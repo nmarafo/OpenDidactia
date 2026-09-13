@@ -5,7 +5,7 @@
 [![Coverage: 17 CCAA + 2 Ciudades Autónomas](https://img.shields.io/badge/Cobertura-17_CCAA_+_Ceuta_y_Melilla-green.svg)](#-cobertura-curricular-nacional-por-comunidades-autónomas-17-ccaa--2-ciudades-autónomas)
 [![Metodología: Activas + DUA + Merrill](https://img.shields.io/badge/Metodología-ABP_|_ApS_|_Design_Thinking_|_DUA_|_Merrill-orange.svg)](#-secuencia-oficial-de-diseño-curricular-para-agentes-de-ia)
 [![Pensamiento Visible: Harvard Project Zero](https://img.shields.io/badge/Pensamiento_Visible-Project_Zero_|_Cooperativo-purple.svg)](docs/catalogo_rutinas_pensamiento_y_dinamicas_grupo.md)
-[![Tool: Google NotebookLM](https://img.shields.io/badge/NotebookLM-Optimizado-blue.svg)](#-cómo-usar-opendidactia-en-google-notebooklm)
+[![Agentes IA: Multi-LLM Ready](https://img.shields.io/badge/Agentes_IA-Multi--LLM_Ready-blue.svg)](#-cómo-usar-opendidactia-con-agentes-de-ia)
 
 Base de conocimiento estructurada y abierta basada en el estándar **Open Knowledge Framework (OKF)** para la gestión, diseño y generación asistida por Inteligencia Artificial de **Programaciones Didácticas (PD)** y **Situaciones de Aprendizaje (SDA)** plenamente adaptadas a la LOMLOE y a la totalidad del marco normativo autonómico español.
 
@@ -96,33 +96,24 @@ Cualquier modelo de lenguaje o agente autónomo que genere programaciones o situ
 
 ---
 
-## 💡 Cómo usar OpenDidactia en Google NotebookLM
+## 💡 Cómo usar OpenDidactia con Agentes de IA
 
-OpenDidactia está especialmente optimizado para ser consumido como fuente en **[Google NotebookLM](https://notebooklm.google.com/)**, permitiendo generar Programaciones y Situaciones de Aprendizaje rigurosas en minutos:
+OpenDidactia está estructurado para ser utilizado como base de conocimiento y contexto por cualquier agente o modelo de lenguaje (Gemini, Claude, GPT, DeepSeek, Ollama...), permitiendo generar Programaciones y Situaciones de Aprendizaje rigurosas:
 
-1. **Crear un Nuevo Cuaderno:** Entra en [Google NotebookLM](https://notebooklm.google.com/) y pulsa en **Nuevo Cuaderno**.
-2. **Añadir la Web como Fuente:** En la ventana de fuentes, selecciona **Sitio web** e introduce la URL del repositorio:
-   ```text
-   https://github.com/nmarafo/OpenDidactia
-   ```
-3. **Configurar Respuesta y Prompt Maestro:**
-   * Abre la configuración del cuaderno (icono de ajustes en el panel de chat o barra lateral).
-   * En longitud de respuesta, selecciona **"Más Larga"**.
-   * En las instrucciones personalizadas del cuaderno, pega el [**Prompt Maestro de Arranque**](#-prompt-maestro-de-arranque-para-agentes-de-ia).
-4. **Iniciar el Agente:** Guarda los ajustes y escribe en el chat la palabra:
+1. **Aportar el Contexto o Repositorio:** Proporciona como fuente o contexto el repositorio de OpenDidactia o los archivos normativos y curriculares de tu Comunidad Autónoma.
+2. **Configurar el Prompt Maestro:** Copia y pega en las instrucciones del sistema o al inicio de la conversación el [**Prompt Maestro de Arranque**](#-prompt-maestro-de-arranque-para-agentes-de-ia).
+3. **Iniciar la Interacción:** Escribe en el chat la palabra:
    ```text
    Comenzar
    ```
-5. **Especificar Datos Curriculares:** Indica tu **Etapa**, **Curso/Nivel**, **Materia / Área / Ámbito / Módulo Profesional** y **Comunidad Autónoma** (ejemplos: *2º ESO Música Canarias*, *3º Primaria Matemáticas Madrid*, *1º Bachillerato Filosofía Andalucía*, *4º ESO Física y Química Galicia*).
-6. **(Opcional) Incorporar Documentación de Centro:** Cuando el agente te consulte inmediatamente antes de la Fase 3, añade como fuentes adicionales tus archivos con Objetivos Prioritarios (PEC/PGA), Planes (Convivencia, Digital) o Programas autonómicos.
-
-> 📹 **Videotutorial:** Consulta el archivo [`Tutorial NotebookLM.mp4`](Tutorial%20NotebookLM.mp4) en la raíz del repositorio para ver una demostración paso a paso.
+4. **Especificar Datos Curriculares:** Indica tu **Etapa**, **Curso/Nivel**, **Materia / Área / Ámbito / Módulo Profesional** y **Comunidad Autónoma** (ejemplos: *2º ESO Música Canarias*, *3º Primaria Matemáticas Madrid*, *1º Bachillerato Filosofía Andalucía*, *4º ESO Física y Química Galicia*).
+5. **(Opcional) Incorporar Documentación de Centro:** Cuando el agente te consulte inmediatamente antes de la Fase 3, aporta los datos o archivos con Objetivos Prioritarios (PEC/PGA), Planes (Convivencia, Digital) o Programas autonómicos de tu centro.
 
 ---
 
 ## 🤖 Prompt Maestro de Arranque para Agentes de IA
 
-Para instruir a cualquier agente de IA (Gemini, Claude, GPT, DeepSeek, Ollama, Google NotebookLM) y que comience a trabajar con este repositorio, **copia y pega el siguiente bloque** indicando tu nivel, materia y comunidad (Ej.: *2º ESO Música Canarias*, *3º Primaria Matemáticas Madrid*, *1º Bachillerato Filosofía Andalucía*...). *Optimizado para el límite estricto de 10.000 caracteres de Google NotebookLM:*
+Para instruir a cualquier agente de IA (Gemini, Claude, GPT, DeepSeek, Ollama...) y que comience a trabajar con este repositorio, **copia y pega el siguiente bloque** indicando tu nivel, materia y comunidad (Ej.: *2º ESO Música Canarias*, *3º Primaria Matemáticas Madrid*, *1º Bachillerato Filosofía Andalucía*...):
 
 ```markdown
 Eres un docente experto en Programaciones Didácticas y Situaciones de Aprendizaje LOMLOE en OpenDidactia, con dominio integral de normativa estatal y de las 17 CCAA (y Ceuta/Melilla), DUA, evaluación criterial, metodologías activas (ABP, ApS, Design Thinking, ABR...) y dinamización mediante pensamiento visible y cooperativo (Veo-Pienso-Me pregunto, Lápices al centro, Folio Giratorio, 1-2-4...). Guía y genera la PROGRAMACIÓN DIDÁCTICA (PD) y sus SITUACIONES DE APRENDIZAJE (SAs/UTs).
@@ -267,7 +258,6 @@ Cualquier docente o agente de IA puede generar de forma rigurosa su programació
 OpenDidactia/
 ├── README.md                            # Presentación, protocolo de 9 pasos, cobertura nacional y prompt maestro
 ├── LICENSE.md                           # Licencia CC BY-SA 4.0 y requisitos de atribución
-├── Tutorial NotebookLM.mp4              # Videotutorial demostrativo de uso en Google NotebookLM
 ├── .gitignore
 ├── schema/                              # Esquemas de validación formales (JSON Schema)
 │   ├── norm_schema.json                 # Esquema OKF de disposiciones normativas (open-lex-edu)
