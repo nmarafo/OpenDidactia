@@ -8,11 +8,11 @@ Este directorio contiene la estructura del marco normativo y curricular oficial 
 
 | Etapa Educativa | Disposición Oficial | Boletín de Referencia | Estado OKF |
 | :--- | :--- | :---: | :---: |
-| **Educación Infantil** | Decreto 29/2022, de 18 de julio (BOIB n.º 94, 21/07/2022) | BOIB (Butlletí Oficial de les Illes Balears) | Estructurado |
-| **Educación Primaria** | Decreto 32/2022, de 1 de agosto (BOIB n.º 102, 06/08/2022) | BOIB (Butlletí Oficial de les Illes Balears) | Estructurado |
-| **Educación Secundaria Obligatoria** | Decreto 33/2022, de 1 de agosto (BOIB n.º 102, 06/08/2022) | BOIB (Butlletí Oficial de les Illes Balears) | Estructurado |
-| **Formación Profesional** | Decret 36/2024, de 12 de juliol (BOIB n.º 93, 16/07/2024), pel qual s'... | BOIB | Estructurado |
-| **Bachillerato** | Decreto 34/2022, de 1 de agosto (BOIB n.º 102, 06/08/2022) | BOIB (Butlletí Oficial de les Illes Balears) | Estructurado |
+| **Educación Infantil** | Decreto 30/2022, de 1 de agosto (BOIB n.º 102, 06/08/2022) | BOIB (Butlletí Oficial de les Illes Balears) | Estructurado |
+| **Educación Primaria** | Decreto 31/2022, de 1 de agosto (BOIB n.º 102, 06/08/2022) | BOIB (Butlletí Oficial de les Illes Balears) | Estructurado |
+| **Educación Secundaria Obligatoria** | Decreto 32/2022, de 1 de agosto (BOIB n.º 102, 06/08/2022) | BOIB (Butlletí Oficial de les Illes Balears) | Estructurado |
+| **Formación Profesional** | Decret 36/2024, de 12 de juliol (BOIB n.º 93, 16/07/2024), de ordenación de FP | BOIB | Estructurado |
+| **Bachillerato** | Decreto 33/2022, de 1 de agosto (BOIB n.º 102, 06/08/2022) | BOIB (Butlletí Oficial de les Illes Balears) | Estructurado |
 
 > Los textos y disposiciones normativas se organizan en [`normativa/`](normativa/) siguiendo el estándar de metadatos de [nmarafo/open-lex-edu](https://github.com/nmarafo/open-lex-edu).
 

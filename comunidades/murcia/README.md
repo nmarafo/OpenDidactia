@@ -8,11 +8,11 @@ Este directorio contiene la estructura del marco normativo y curricular oficial 
 
 | Etapa Educativa | Disposición Oficial | Boletín de Referencia | Estado OKF |
 | :--- | :--- | :---: | :---: |
-| **Educación Infantil** | Decreto 253/2022, de 22 de diciembre (BORM n.º 295, 24/12/2022) | BORM (Boletín Oficial de la Región de Murcia) | Estructurado |
-| **Educación Primaria** | Decreto 237/2022, de 15 de diciembre (BORM n.º 290, 19/12/2022) | BORM (Boletín Oficial de la Región de Murcia) | Estructurado |
-| **Educación Secundaria Obligatoria** | Decreto 238/2022, de 15 de diciembre (BORM n.º 290, 19/12/2022) | BORM (Boletín Oficial de la Región de Murcia) | Estructurado |
-| **Formación Profesional** | Decreto 92/2024, de 4 de julio (BORM n.º 157, 09/07/2024), por el que ... | BORM | Estructurado |
-| **Bachillerato** | Decreto 241/2022, de 22 de diciembre (BORM n.º 295, 24/12/2022) | BORM (Boletín Oficial de la Región de Murcia) | Estructurado |
+| **Educación Infantil** | Decreto n.º 196/2022, de 3 de noviembre (BORM n.º 256, 05/11/2022) | BORM (Boletín Oficial de la Región de Murcia) | Estructurado |
+| **Educación Primaria** | Decreto n.º 209/2022, de 17 de noviembre (BORM n.º 268, 19/11/2022) | BORM (Boletín Oficial de la Región de Murcia) | Estructurado |
+| **Educación Secundaria Obligatoria** | Decreto n.º 235/2022, de 7 de diciembre (BORM n.º 283, 09/12/2022) | BORM (Boletín Oficial de la Región de Murcia) | Estructurado |
+| **Formación Profesional** | Decreto 92/2024, de 4 de julio (BORM n.º 157, 09/07/2024), de ordenación de FP | BORM | Estructurado |
+| **Bachillerato** | Decreto n.º 251/2022, de 22 de diciembre (BORM n.º 295, 24/12/2022) | BORM (Boletín Oficial de la Región de Murcia) | Estructurado |
 
 > Los textos y disposiciones normativas se organizan en [`normativa/`](normativa/) siguiendo el estándar de metadatos de [nmarafo/open-lex-edu](https://github.com/nmarafo/open-lex-edu).
 

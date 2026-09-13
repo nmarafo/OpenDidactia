@@ -3,9 +3,9 @@
 Este directorio aloja las disposiciones normativas de ordenación y currículo para las enseñanzas no universitarias en **Región de Murcia**.
 
 ## Decretos Curriculares de Etapa:
-1. **Educación Infantil:** Decreto 253/2022, de 22 de diciembre (BORM n.º 295, 24/12/2022)
-2. **Educación Primaria:** Decreto 237/2022, de 15 de diciembre (BORM n.º 290, 19/12/2022)
-3. **Educación Secundaria Obligatoria (ESO):** Decreto 238/2022, de 15 de diciembre (BORM n.º 290, 19/12/2022)
-4. **Bachillerato:** Decreto 241/2022, de 22 de diciembre (BORM n.º 295, 24/12/2022)
+1. **Educación Infantil:** Decreto n.º 196/2022, de 3 de noviembre (BORM n.º 256, 05/11/2022)
+2. **Educación Primaria:** Decreto n.º 209/2022, de 17 de noviembre (BORM n.º 268, 19/11/2022)
+3. **Educación Secundaria Obligatoria (ESO):** Decreto n.º 235/2022, de 7 de diciembre (BORM n.º 283, 09/12/2022)
+4. **Bachillerato:** Decreto n.º 251/2022, de 22 de diciembre (BORM n.º 295, 24/12/2022)
 
 *Publicadas en BORM (Boletín Oficial de la Región de Murcia). Estructuradas con metadatos YAML compatibles con el esquema oficial `schema/norm_schema.json` y el repositorio hermano [open-lex-edu](https://github.com/nmarafo/open-lex-edu).*

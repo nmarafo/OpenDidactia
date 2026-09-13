@@ -196,7 +196,7 @@ Catálogo exhaustivo de los programas, proyectos y redes de innovación educativ
 
 ## 🎲 4. Reglas de Asignación Aleatoria y Contextual para el Agente IA
 
-Cuando el docente responda a la **consulta inicial (formulada desde el inicio de la interacción)** sobre la incorporación de Objetivos, Planes y Programas, o al alcanzar la Fase 3 de secuenciación anual, se aplica el siguiente protocolo según el escenario correspondiente:
+Cuando el docente responda a la **consulta obligatoria (formulada inmediatamente antes de la fase de secuenciación anual: Fase 3 en Régimen General o Fase 4 en FP)** sobre la incorporación de Objetivos, Planes y Programas, se aplica el siguiente protocolo según el escenario correspondiente:
 1. **Escenario A (Docente aporta sus propios datos):** La IA utiliza literalmente los objetivos, planes y programas indicados por el docente.
 2. **Escenario B (Docente desea incorporarlos pero NO aporta datos concretos o solicita asignación automática):** La IA ejecuta el siguiente protocolo de selección:
    * **Paso 1 - Identificar CCAA y Etapa:** Identifica la Comunidad Autónoma del encargo (por defecto Canarias) y si se trata de Régimen General o FP.

@@ -44,7 +44,12 @@ Desarrolla la totalidad de las sesiones de la UT. Cada sesión debe contener pre
 7. Recursos de Taller, Herramientas, Maquinaria y EPIs Obligatorios (gafas de protección, guantes de nitrilo/mecánicos, calzado de seguridad, mascarilla o extractores).
 
 PREGUNTA DE CIERRE DE FASE Y BIFURCACIÓN:
-Al finalizar el desarrollo de la Unidad de Trabajo para el docente, formula obligatoriamente:
-1. "¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (Markdown estructurado y descargable) con la Unidad de Trabajo para el Docente?"
-2. "¿Deseas continuar elaborando la versión para el ALUMNADO de esta misma unidad (El Encargo del Cliente - Fase 5) o prefieres desarrollar primero la siguiente SA-UT para el DOCENTE (Fase 4 de la siguiente unidad)?" 
+Al finalizar el desarrollo de la Unidad de Trabajo para el docente, formula obligatoriamente el siguiente menú numerado:
+"¿Cómo deseas proceder con esta Unidad de Trabajo ([N.º y Título de la UT])?
+1. Generar documento de esta SA-UT Docente (documento formal completo e independiente).
+2. Diseñar versión ALUMNADO (Fase 5: 'El Encargo del Cliente') de esta misma unidad.
+3. Desarrollar siguiente SA-UT para el DOCENTE (Fase 4 de la siguiente unidad didáctica).
+4. Desarrollar con más detalle la Sesión [indicar n.º de Sesión] (desglose minucioso de tareas de taller, modelado técnico, protocolos PRL y checklists)."
+
+*Si el docente selecciona la opción 4 (o solicita más detalles de una sesión concreta), profundiza exhaustivamente en dicha sesión antes de continuar.* 
 ```

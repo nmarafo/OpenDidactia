@@ -35,6 +35,9 @@
 ### 2.4. Producto o Desempeño Final
 *[Descripción del producto tangible o desempeño público que se presentará en la comunidad escolar].*
 
+### 2.5. Metodología Activa Vertebradora
+*[Especifique la metodología activa principal (ABP, ApS, Design Thinking, ABR, Aprendizaje Basado en Problemas, Flipped Classroom...) y justifique por qué es la idónea para articular el reto y alcanzar el producto final].*
+
 ---
 
 ## 3. Concreción Curricular y Deconstrucción de Criterios
@@ -68,7 +71,7 @@
 * **Descripción de la Actividad:**
   * *Rol Docente:* *[Presenta el reto disparador, modera y plantea preguntas guía]*
   * *Rol Alumnado:* *[Observa, dialoga, activa conocimientos previos]*
-* **Rutina de Pensamiento / Dinámica Cooperativa:** *[Ej. VEO - PIENSO - ME PREGUNTO / FOLIO GIRATORIO. Explicar dinámica]*
+* **Rutina de Pensamiento / Dinámica Cooperativa:** *[Nombre oficial (ej. VEO - PIENSO - ME PREGUNTO, LÁPICES AL CENTRO, 1 - 2 - 4, FOLIO GIRATORIO...) y breve explicación operativa (2-3 líneas) de cómo se dinamiza en el aula: distribución de tiempos, reglas de interacción, roles y materiales]*
 * **Agrupamiento y Espacio:** *[Gran grupo / Equipos de 4 / Aula ordinaria]*
 * **Aplicación Granular de los Principios DUA (Accesibilidad Universal):**
   * *Representación (El Qué):* *[Apoyos visuales, muro de palabras con pictogramas, vídeo con subtítulos]*

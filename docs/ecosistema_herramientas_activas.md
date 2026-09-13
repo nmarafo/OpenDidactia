@@ -35,7 +35,9 @@ El modelo de David Merrill estructura la secuencia cognitiva de aprendizaje acti
 
 ## 2. Rutinas de Pensamiento Visibles
 
-Las rutinas de pensamiento (Proyecto Cero de Harvard) promueven la metacognición y el pensamiento reflexivo en el aula:
+> 📖 **Base de Conocimiento Exhaustiva:** Para consultar la ficha metodológica, organizadores gráficos, roles y ejemplos de aula de cada rutina, accede al [Catálogo de Rutinas de Pensamiento y Dinámicas de Grupo](catalogo_rutinas_pensamiento_y_dinamicas_grupo.md).
+
+Las rutinas de pensamiento (Proyecto Cero de Harvard: Ron Ritchhart, David Perkins, Shari Tishman) promueven la metacognición y el pensamiento reflexivo en el aula:
 
 * **VEO - PIENSO - ME PREGUNTO:** Ideal para la Fase 1 (Activación). El alumnado observa una imagen, vídeo o fenómeno insular (ej. *la colada volcánica en La Palma*) y registra objetivamente qué ve, qué reflexiones le suscita y qué interrogantes plantea.
 * **3 - 2 - 1 PUENTE:** El alumnado anota 3 ideas iniciales, 2 preguntas y 1 metáfora/imagen antes de abordar un tema. Tras la investigación, repite la rutina y construye un "puente" explicando cómo ha evolucionado su comprensión.
@@ -43,10 +45,13 @@ Las rutinas de pensamiento (Proyecto Cero de Harvard) promueven la metacognició
 * **CÍRCULO DE PUNTOS DE VISTA:** El alumnado asume distintas perspectivas sobre un dilema socioambiental insular (ej. *el agricultor, el turista, el biólogo y el político ante la escasez de agua en Canarias*).
 * **COMPARAR Y CONTRASTAR:** Organizador gráfico para analizar semejanzas y diferencias esenciales entre dos conceptos, ecosistemas o periodos históricos.
 * **ANTES PENSABA - AHORA PIENSO:** Rutina de síntesis y metacognición para la Fase 4 (Cierre), donde el alumnado verbaliza la transformación de su perspectiva tras completar la Situación de Aprendizaje.
+* *Otras rutinas catalogadas:* Puntos Cardinales, El Semáforo, ¿Qué te hace decir eso?, Titulares, CSI (Color-Símbolo-Imagen), Conectar-Extender-Desafiar.
 
 ---
 
 ## 3. Dinámicas y Estructuras Cooperativas
+
+> 📖 **Base de Conocimiento Exhaustiva:** Consulta el procedimiento paso a paso, gestión de materiales y tiempos en el [Catálogo de Rutinas de Pensamiento y Dinámicas de Grupo](catalogo_rutinas_pensamiento_y_dinamicas_grupo.md).
 
 Estructuras de aprendizaje cooperativo formal (Spencer Kagan y Pere Pujolàs) que aseguran la participación equitativa y la interdependencia positiva:
 
@@ -55,16 +60,23 @@ Estructuras de aprendizaje cooperativo formal (Spencer Kagan y Pere Pujolàs) qu
 * **LÁPICES AL CENTRO:** Durante la fase de debate y consenso, los bolígrafos se depositan en el centro de la mesa (solo se puede hablar y escuchar). Cuando el equipo acuerda la respuesta, cada alumno toma su lápiz y redacta individualmente en silencio.
 * **PARADA DE 3 MINUTOS:** En medio de una explicación o modelado docente, se detiene la sesión durante 3 minutos para que los equipos dialoguen y formulen dos preguntas clarificadoras.
 * **ROMPECABEZAS (JIGSAW):** El material se divide en partes. Cada miembro del equipo se convierte en "experto" en una sección, se reúne con expertos de otros grupos para profundizar, y regresa a su equipo base para enseñar a sus compañeros.
+* *Otras estructuras catalogadas:* La Pecera (Fishbowl), Paseo por el Museo (Gallery Walk), Cabezas Numeradas Juntas, Parejas Cooperativas de Comprobación, Grupos de Investigación.
 
 ---
 
-## 4. Técnicas Metodológicas Activas
+## 4. Técnicas y Metodologías Activas Vertebradoras
+
+> 📖 **Base de Conocimiento Exhaustiva:** Para la guía detallada de fases, roles, tipos de retos y productos de cada metodología, consulta el [Catálogo de Metodologías Activas de Aprendizaje](catalogo_metodologias_aprendizaje.md).
 
 * **Aprendizaje Basado en Proyectos (ABP):** Secuencia orientada a dar respuesta a un reto mediante un producto final socializado.
 * **Aprendizaje y Servicio (ApS):** Proyectos donde los estudiantes aprenden contenidos curriculares realizando un servicio solidario a su comunidad insular (ej. *campaña escolar de sensibilización sobre la protección del litoral o reforestación participativa*).
 * **Design Thinking (Pensamiento de Diseño):** Ciclo de 5 fases (Empatizar, Definir, Idear, Prototipar, Evaluar) para crear soluciones tecnológicas o sociales innovadoras.
-* **Estaciones de Aprendizaje (Learning Stations):** El aula se divide en espacios simultáneos con actividades autónomas diversificadas por las que rotan los equipos.
+* **Aprendizaje Basado en Retos (ABR):** Reto real vivencial con impacto comunitario y métricas tangibles (marco Apple/NMC).
+* **Aprendizaje Basado en Problemas (ABP-Problemas):** Resolución colaborativa de escenarios complejos y ambiguos donde el alumnado define sus necesidades de aprendizaje.
+* **Estaciones y Paisajes de Aprendizaje:** Espacios simultáneos multinivel y rutas diversificadas basadas en Gardner y Bloom.
 * **Flipped Classroom (Aula Invertida):** Acceso previo a contenidos teóricos digitales en casa para dedicar el tiempo de aula a la aplicación práctica, resolución de dudas y debate guiado.
+* **Gamificación y ABJ:** Dinámicas y mecánicas lúdicas, misiones narrativas y feedback formativo inmediato.
+* **Indagación y Enfoque STEAM:** Emulación del ciclo de investigación científica y convergencia transdisciplinar.
 
 ---
 

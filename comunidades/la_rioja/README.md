@@ -8,11 +8,11 @@ Este directorio contiene la estructura del marco normativo y curricular oficial 
 
 | Etapa Educativa | Disposición Oficial | Boletín de Referencia | Estado OKF |
 | :--- | :--- | :---: | :---: |
-| **Educación Infantil** | Decreto 36/2022, de 21 de junio (BOR n.º 120, 23/06/2022) | BOR (Boletín Oficial de La Rioja) | Estructurado |
-| **Educación Primaria** | Decreto 37/2022, de 21 de junio (BOR n.º 120, 23/06/2022) | BOR (Boletín Oficial de La Rioja) | Estructurado |
-| **Educación Secundaria Obligatoria** | Decreto 41/2022, de 13 de julio (BOR n.º 135, 14/07/2022) | BOR (Boletín Oficial de La Rioja) | Estructurado |
-| **Formación Profesional** | Decreto 29/2024, de 25 de junio (BOR n.º 125, 27/06/2024), por el que ... | BOR | Estructurado |
-| **Bachillerato** | Decreto 42/2022, de 13 de julio (BOR n.º 135, 14/07/2022) | BOR (Boletín Oficial de La Rioja) | Estructurado |
+| **Educación Infantil** | Decreto 36/2022, de 29 de junio (BOR n.º 126, 01/07/2022) | BOR (Boletín Oficial de La Rioja) | Estructurado |
+| **Educación Primaria** | Decreto 41/2022, de 13 de julio (BOR n.º 135, 14/07/2022) | BOR (Boletín Oficial de La Rioja) | Estructurado |
+| **Educación Secundaria Obligatoria** | Decreto 42/2022, de 13 de julio (BOR n.º 135, 14/07/2022) | BOR (Boletín Oficial de La Rioja) | Estructurado |
+| **Formación Profesional** | Decreto 29/2024, de 25 de junio (BOR n.º 125, 27/06/2024), de ordenación de FP | BOR | Estructurado |
+| **Bachillerato** | Decreto 43/2022, de 21 de julio (BOR n.º 141, 22/07/2022) | BOR (Boletín Oficial de La Rioja) | Estructurado |
 
 > Los textos y disposiciones normativas se organizan en [`normativa/`](normativa/) siguiendo el estándar de metadatos de [nmarafo/open-lex-edu](https://github.com/nmarafo/open-lex-edu).
 

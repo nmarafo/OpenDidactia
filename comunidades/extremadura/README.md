@@ -9,9 +9,9 @@ Este directorio contiene la estructura del marco normativo y curricular oficial 
 | Etapa Educativa | Disposición Oficial | Boletín de Referencia | Estado OKF |
 | :--- | :--- | :---: | :---: |
 | **Educación Infantil** | Decreto 98/2022, de 20 de julio (DOE n.º 142, 25/07/2022) | DOE (Diario Oficial de Extremadura) | Estructurado |
-| **Educación Primaria** | Decreto 105/2022, de 3 de agosto (DOE n.º 151, 05/08/2022) | DOE (Diario Oficial de Extremadura) | Estructurado |
+| **Educación Primaria** | Decreto 107/2022, de 28 de julio (DOE n.º 151, 05/08/2022) | DOE (Diario Oficial de Extremadura) | Estructurado |
 | **Educación Secundaria Obligatoria** | Decreto 110/2022, de 22 de agosto (DOE n.º 164, 25/08/2022) | DOE (Diario Oficial de Extremadura) | Estructurado |
-| **Formación Profesional** | Decreto 58/2024, de 25 de junio (DOE n.º 126, 01/07/2024), por el que ... | DOE | Estructurado |
+| **Formación Profesional** | Decreto 58/2024, de 25 de junio (DOE n.º 126, 01/07/2024), de ordenación de FP | DOE | Estructurado |
 | **Bachillerato** | Decreto 109/2022, de 22 de agosto (DOE n.º 164, 25/08/2022) | DOE (Diario Oficial de Extremadura) | Estructurado |
 
 > Los textos y disposiciones normativas se organizan en [`normativa/`](normativa/) siguiendo el estándar de metadatos de [nmarafo/open-lex-edu](https://github.com/nmarafo/open-lex-edu).

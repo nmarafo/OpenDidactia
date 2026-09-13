@@ -16,8 +16,9 @@ DATOS DE ENTRADA:
 - Mapa de Relaciones (RA - CE - Productos) y Rúbricas generadas previamente.
 - Comunidad Autónoma: [Por defecto Canarias]
 
-📌 OPCIÓN DE OBJETIVOS Y PLANES DE CENTRO EN FP (DEFINIDA DESDE EL INICIO):
-La vinculación con Objetivos y Planes de Centro en FP es OPCIONAL y se consulta desde el inicio del proceso:
+📌 CONSULTA OBLIGATORIA PREVIA A ESTA FASE: OBJETIVOS, PLANES Y PROGRAMAS DE CENTRO EN FP:
+Inmediatamente antes de iniciar la secuenciación anual de las 9 UTs, el agente se detiene y formula obligatoriamente esta consulta al docente:
+> "¿Deseas incorporar a la programación anual los Objetivos Prioritarios del Centro (PEC/PGA) y Planes/Proyectos de FP (ATECA, Emprendimiento, Innovación Aplicada, Sostenibilidad, Digitalización), o prefieres omitirlos y centrar la programación exclusivamente en el currículo oficial del título?"
 - Si el docente aportó los suyos: Se integran en la matriz de secuenciación de las 9 UTs.
 - Si indicó incorporarlos sin aportar datos: Se asignan aleatoriamente objetivos y planes por defecto (PRL, Digitalización) y programas de FP (Red ATECA, Emprendimiento RAE, Innovación) tomados de docs/banco_objetivos_planes_y_programas_ccaa.md.
 - Si prefirió omitirlos: Se secuencia centrándose exclusivamente en el currículo oficial del título.

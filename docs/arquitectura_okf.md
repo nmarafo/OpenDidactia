@@ -29,6 +29,8 @@ OpenDidactia/
 │   └── esquema_situacion_aprendizaje.json  # Validación de SDAs (Merrill + DUA granular)
 ├── docs/                                # Base teórica, metodológica y guías técnicas
 │   ├── flujo_agente_elaboracion_pd_sa.md   # Protocolo maestro de 9 pasos para Agentes de IA
+│   ├── catalogo_rutinas_pensamiento_y_dinamicas_grupo.md # Base de conocimiento: Pensamiento visible y cooperativo
+│   ├── catalogo_metodologias_aprendizaje.md # Base de conocimiento: Metodologías activas (ABP, ApS, Design Thinking...)
 │   ├── guia_elaboracion_rubricas_graduadores.md # Rúbricas con graduadores y ejemplos
 │   ├── guia_operacionalizacion_dua.md      # DUA granular en sesiones y contexto canario
 │   ├── ecosistema_herramientas_activas.md  # Merrill, cooperativo, rutinas y efemérides
@@ -72,7 +74,7 @@ Cuando un Agente de IA deba elaborar una Programación Didáctica o una Situaci�
 1. **Paso Inicial:** Carga [flujo_agente_elaboracion_pd_sa.md](flujo_agente_elaboracion_pd_sa.md) para comprender la secuencia completa.
 2. **Fase de Deconstrucción:** Ejecuta el prompt [prompt_01_deconstruccion_criterios.md](../plantillas/prompts/prompt_01_deconstruccion_criterios.md), cruzando los criterios de `comunidades/canarias/curricular/` para producir la tabla de instrumentos (productos).
 3. **Fase de Rúbricas:** Consulta [guia_elaboracion_rubricas_graduadores.md](guia_elaboracion_rubricas_graduadores.md) y ejecuta [prompt_02_elaboracion_rubricas_graduadores.md](../plantillas/prompts/prompt_02_elaboracion_rubricas_graduadores.md).
-4. **Fase de Secuenciación:** Aplica [prompt_03_secuenciacion_programacion_anual.md](../plantillas/prompts/prompt_03_secuenciacion_programacion_anual.md) para generar la matriz anual de 9 SAs articuladas con el calendario de Canarias.
-5. **Fase de Diseño de Sesión:** Aplica [guia_operacionalizacion_dua.md](guia_operacionalizacion_dua.md), [ecosistema_herramientas_activas.md](ecosistema_herramientas_activas.md) y [prompt_04_desarrollo_sa_docente_merrill_dua.md](../plantillas/prompts/prompt_04_desarrollo_sa_docente_merrill_dua.md) para generar las sesiones Merrill con DUA granular en tareas.
+4. **Fase de Secuenciación:** Aplica [catalogo_metodologias_aprendizaje.md](catalogo_metodologias_aprendizaje.md) y [prompt_03_secuenciacion_programacion_anual.md](../plantillas/prompts/prompt_03_secuenciacion_programacion_anual.md) para asignar a cada SA su metodología activa rectora y estructurar la matriz anual de 9 SAs.
+5. **Fase de Diseño de Sesión:** Aplica [catalogo_rutinas_pensamiento_y_dinamicas_grupo.md](catalogo_rutinas_pensamiento_y_dinamicas_grupo.md), [guia_operacionalizacion_dua.md](guia_operacionalizacion_dua.md), [ecosistema_herramientas_activas.md](ecosistema_herramientas_activas.md) y [prompt_04_desarrollo_sa_docente_merrill_dua.md](../plantillas/prompts/prompt_04_desarrollo_sa_docente_merrill_dua.md) para generar las sesiones Merrill integrando dinámicas y rutinas procedimentadas con DUA granular en tareas.
 6. **Fase de Comunicación al Alumnado:** Aplica [prompt_05_sa_para_alumnado.md](../plantillas/prompts/prompt_05_sa_para_alumnado.md).
 7. **Fase de Inclusión y Refuerzo:** Consulta [guia_planes_apoyo_y_recuperacion.md](guia_planes_apoyo_y_recuperacion.md) y aplica los prompts de apoyo y recuperación con datos rigurosamente anonimizados.

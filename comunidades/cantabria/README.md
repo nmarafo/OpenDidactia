@@ -9,10 +9,10 @@ Este directorio contiene la estructura del marco normativo y curricular oficial 
 | Etapa Educativa | Disposición Oficial | Boletín de Referencia | Estado OKF |
 | :--- | :--- | :---: | :---: |
 | **Educación Infantil** | Decreto 66/2022, de 7 de julio (BOC n.º 135, 13/07/2022) | BOC (Boletín Oficial de Cantabria) | Estructurado |
-| **Educación Primaria** | Decreto 67/2022, de 7 de julio (BOC n.º 135, 13/07/2022) | BOC (Boletín Oficial de Cantabria) | Estructurado |
-| **Educación Secundaria Obligatoria** | Decreto 74/2022, de 21 de julio (BOC n.º 144, 26/07/2022) | BOC (Boletín Oficial de Cantabria) | Estructurado |
-| **Formación Profesional** | Decreto 45/2024, de 27 de junio (BOC n.º 128, 03/07/2024), por el que ... | BOC | Estructurado |
-| **Bachillerato** | Decreto 75/2022, de 21 de julio (BOC n.º 144, 26/07/2022) | BOC (Boletín Oficial de Cantabria) | Estructurado |
+| **Educación Primaria** | Decreto 66/2022, de 7 de julio (BOC n.º 135, 13/07/2022) | BOC (Boletín Oficial de Cantabria) | Estructurado |
+| **Educación Secundaria Obligatoria** | Decreto 73/2022, de 21 de julio (BOC n.º 144, 26/07/2022) | BOC (Boletín Oficial de Cantabria) | Estructurado |
+| **Formación Profesional** | Decreto 45/2024, de 27 de junio (BOC n.º 128, 03/07/2024), de ordenación de FP | BOC | Estructurado |
+| **Bachillerato** | Decreto 73/2022, de 21 de julio (BOC n.º 144, 26/07/2022) | BOC (Boletín Oficial de Cantabria) | Estructurado |
 
 > Los textos y disposiciones normativas se organizan en [`normativa/`](normativa/) siguiendo el estándar de metadatos de [nmarafo/open-lex-edu](https://github.com/nmarafo/open-lex-edu).
 

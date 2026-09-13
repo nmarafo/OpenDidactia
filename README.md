@@ -2,12 +2,16 @@
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/deed.es)
 [![Framework: OKF](https://img.shields.io/badge/Framework-OKF_v1.3-blue.svg)](#arquitectura-okf)
-[![Coverage: Canarias](https://img.shields.io/badge/Canarias-Infantil_|_Primaria_|_ESO_|_Bachillerato-green.svg)](#-comunidades-autónomas)
-[![Metodología: DUA + Merrill](https://img.shields.io/badge/Metodología-DUA_|_David_Merrill_|_Rúbricas_Graduadores-orange.svg)](#-secuencia-oficial-de-diseño-curricular-para-agentes-de-ia)
+[![Coverage: 17 CCAA + 2 Ciudades Autónomas](https://img.shields.io/badge/Cobertura-17_CCAA_+_Ceuta_y_Melilla-green.svg)](#-cobertura-curricular-nacional-por-comunidades-autónomas-17-ccaa--2-ciudades-autónomas)
+[![Metodología: Activas + DUA + Merrill](https://img.shields.io/badge/Metodología-ABP_|_ApS_|_Design_Thinking_|_DUA_|_Merrill-orange.svg)](#-secuencia-oficial-de-diseño-curricular-para-agentes-de-ia)
+[![Pensamiento Visible: Harvard Project Zero](https://img.shields.io/badge/Pensamiento_Visible-Project_Zero_|_Cooperativo-purple.svg)](docs/catalogo_rutinas_pensamiento_y_dinamicas_grupo.md)
+[![Tool: Google NotebookLM](https://img.shields.io/badge/NotebookLM-Optimizado-blue.svg)](#-cómo-usar-opendidactia-en-google-notebooklm)
 
-Base de conocimiento estructurada y abierta basada en el estándar **Open Knowledge Framework (OKF)** para la gestión, diseño y generación asistida por Inteligencia Artificial de **Programaciones Didácticas (PD)** y **Situaciones de Aprendizaje (SDA)** plenamente adaptadas a la LOMLOE y a la normativa autonómica.
+Base de conocimiento estructurada y abierta basada en el estándar **Open Knowledge Framework (OKF)** para la gestión, diseño y generación asistida por Inteligencia Artificial de **Programaciones Didácticas (PD)** y **Situaciones de Aprendizaje (SDA)** plenamente adaptadas a la LOMLOE y a la totalidad del marco normativo autonómico español.
 
-Organizado por **Comunidades Autónomas**, comenzando con la cobertura completa de la **Comunidad Autónoma de Canarias** para **Educación Infantil, Primaria, Educación Secundaria Obligatoria (ESO) y Bachillerato** (incorporando la Formación Profesional en las siguientes fases).
+Integra de forma nativa el **Diseño Universal para el Aprendizaje (DUA)**, los **Principios Instruccionales de David Merrill**, **Rúbricas analíticas con graduadores**, **Metodologías Activas Vertebradoras** (ABP, ApS, Design Thinking, ABR...) y dinamización de aula mediante **Rutinas de Pensamiento Visible** (*Harvard Project Zero*) y **Estructuras Cooperativas** (*Spencer Kagan y Pere Pujolàs*).
+
+Organizado territorialmente con **cobertura nacional 100% íntegra** para las **17 Comunidades Autónomas** y las **2 Ciudades Autónomas (Ceuta y Melilla)** en **Educación Infantil, Primaria, Educación Secundaria Obligatoria (ESO), Bachillerato y Formación Profesional**, en perfecta sincronía con el corpus de disposiciones normativas de [**nmarafo/open-lex-edu**](https://github.com/nmarafo/open-lex-edu).
 
 ---
 
@@ -17,11 +21,9 @@ Cualquier modelo de lenguaje o agente autónomo que genere programaciones o situ
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────────────────────────────┐
-│ 0. ENTRADA DE DATOS Y CONSULTA DE PLANES/PROGRAMAS DE CENTRO (DESDE EL INICIO)              │
+│ 0. ENTRADA DE DATOS CURRICULARES DE PARTIDA                                                 │
 │    • CCAA, Etapa/Curso, Materia o Módulo y Horas (o fórmula sintética '2º ESO Música...').  │
-│    • 📌 CONSULTA AL INICIO: ¿Incorporar Objetivos (PEC/PGA), Planes y Programas de CCAA?    │
-│    • Si se incorporan sin datos, asignación aleatoria del banco por defecto y de su CCAA.   │
-│    • El docente decide si incorporarlos o basarse exclusivamente en el currículo oficial.   │
+│    • Particularidades de centro (entorno, talleres, proyectos de aula).                     │
 └──────────────────────────────────────────────┬──────────────────────────────────────────────┘
                                                │
 ┌──────────────────────────────────────────────▼──────────────────────────────────────────────┐
@@ -43,10 +45,17 @@ Cualquier modelo de lenguaje o agente autónomo que genere programaciones o situ
 └──────────────────────────────────────────────┬──────────────────────────────────────────────┘
                                                │
 ┌──────────────────────────────────────────────▼──────────────────────────────────────────────┐
+│ 📌 CONSULTA OBLIGATORIA PREVIA A FASE 3: ¿Incorporar Objetivos, Planes y Programas CCAA?    │
+│    • Si se incorporan sin datos, asignación aleatoria del banco por defecto y de su CCAA.   │
+│    • El docente decide si incorporarlos a la secuenciación o basarse solo en el currículo.  │
+└──────────────────────────────────────────────┬──────────────────────────────────────────────┘
+                                               │
+┌──────────────────────────────────────────────▼──────────────────────────────────────────────┐
 │ 3. SECUENCIACIÓN ANUAL DE LA PROGRAMACIÓN DIDÁCTICA (9 SAs / 9 UTs)                         │
 │    • Distribución de contenidos en 9 unidades anuales (1ª eval: 1-3; 2ª: 4-6; 3ª: 7-9).      │
 │    • Articulación con Efemérides (Calendario Escolar) o Calendario Profesional/Sectorial.    │
-│    • Integración de Objetivos/Planes/Programas según la opción establecida al inicio.        │
+│    • Integración de Metodología Activa Vertebradora (ABP, ApS, Design Thinking, ABR...).     │
+│    • Integración de Objetivos/Planes/Programas según la respuesta a la consulta previa.     │
 │    • Vinculación con los Productos e Instrumentos numerados del Paso 1.                     │
 │    ► PREGUNTA DOCUMENTAL: ¿Generar documento formal enriquecido de Fase 3 antes de continuar?│
 └──────────────────────────────────────────────┬──────────────────────────────────────────────┘
@@ -56,7 +65,8 @@ Cualquier modelo de lenguaje o agente autónomo que genere programaciones o situ
 │    • Fases instruccionales de David Merrill (Problema, Activación, Modelado, Práctica...).  │
 │    • Mínimo de 2 tareas activas por sesión (con roles de docente y alumnado).               │
 │    • Aplicación granular de las 3 Redes DUA (Representación, Acción y Expresión, Implica).  │
-│    • Metodología activa: pensamiento visible/cooperativo (general) o Scrum/PRL (en FP).     │
+│    • Metodología activa: Rutinas de Pensamiento (Veo-Pienso-Me pregunto) y Cooperativo       │
+│      (Lápices al centro, Folio Giratorio, 1-2-4...) procedimentados por tarea.               │
 │    ► PREGUNTA DOCUMENTAL: ¿Generar documento formal independiente enriquecido de SA Docente?│
 │    🔀 DECISIÓN: ¿Continuar con SA Alumnado (Fase 5) o siguiente SA Docente (Fase 4)?         │
 └──────────────────────────────────────────────┬──────────────────────────────────────────────┘
@@ -76,43 +86,65 @@ Cualquier modelo de lenguaje o agente autónomo que genere programaciones o situ
 └──────────────────────────────────────────────┬──────────────────────────────────────────────┘
                                                │
 ┌──────────────────────────────────────────────▼──────────────────────────────────────────────┐
-│ 7. HERRAMIENTA DE CALIFICACIÓN Y SEGUIMIENTO CANVAS                                         │
-│    • Aplicación web interactiva en un solo archivo HTML (Tailwind + JS autocontenido).      │
+│ 7. HERRAMIENTA DE CALIFICACIÓN Y SEGUIMIENTO EN HTML AUTOCONTENIDO                          │
+│    • Aplicación web interactiva completa en un solo archivo HTML (Tailwind + JS vanilla).  │
 │    • Evaluación cualitativa (Infantil), criterial ponderada (Primaria/ESO/BAC) o RAs (FP).  │
-│    ► PREGUNTA DOCUMENTAL: ¿Generar archivo interactivo descargable HTML / Canvas final?     │
+│    • Anonimización estricta, tipología de alumnado, sobreescritura/recuperación y CSV.      │
+│    ► PREGUNTA DOCUMENTAL: ¿Generar archivo interactivo descargable HTML final?              │
 └─────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
+## 💡 Cómo usar OpenDidactia en Google NotebookLM
+
+OpenDidactia está especialmente optimizado para ser consumido como fuente en **[Google NotebookLM](https://notebooklm.google.com/)**, permitiendo generar Programaciones y Situaciones de Aprendizaje rigurosas en minutos:
+
+1. **Crear un Nuevo Cuaderno:** Entra en [Google NotebookLM](https://notebooklm.google.com/) y pulsa en **Nuevo Cuaderno**.
+2. **Añadir la Web como Fuente:** En la ventana de fuentes, selecciona **Sitio web** e introduce la URL del repositorio:
+   ```text
+   https://github.com/nmarafo/OpenDidactia
+   ```
+3. **Configurar Respuesta y Prompt Maestro:**
+   * Abre la configuración del cuaderno (icono de ajustes en el panel de chat o barra lateral).
+   * En longitud de respuesta, selecciona **"Más Larga"**.
+   * En las instrucciones personalizadas del cuaderno, pega el [**Prompt Maestro de Arranque**](#-prompt-maestro-de-arranque-para-agentes-de-ia).
+4. **Iniciar el Agente:** Guarda los ajustes y escribe en el chat la palabra:
+   ```text
+   Comenzar
+   ```
+5. **Especificar Datos Curriculares:** Indica tu **Etapa**, **Curso/Nivel**, **Materia / Área / Ámbito / Módulo Profesional** y **Comunidad Autónoma** (ejemplos: *2º ESO Música Canarias*, *3º Primaria Matemáticas Madrid*, *1º Bachillerato Filosofía Andalucía*, *4º ESO Física y Química Galicia*).
+6. **(Opcional) Incorporar Documentación de Centro:** Cuando el agente te consulte inmediatamente antes de la Fase 3, añade como fuentes adicionales tus archivos con Objetivos Prioritarios (PEC/PGA), Planes (Convivencia, Digital) o Programas autonómicos.
+
+> 📹 **Videotutorial:** Consulta el archivo [`Tutorial NotebookLM.mp4`](Tutorial%20NotebookLM.mp4) en la raíz del repositorio para ver una demostración paso a paso.
+
+---
+
 ## 🤖 Prompt Maestro de Arranque para Agentes de IA
 
-Para instruir a cualquier agente de IA (Gemini, Claude, GPT, DeepSeek, Ollama, NotebookLM) y que comience a trabajar con este repositorio, **copia y pega el siguiente bloque** indicando tu nivel, materia y comunidad (Ej.: *2º ESO Música Canarias*):
+Para instruir a cualquier agente de IA (Gemini, Claude, GPT, DeepSeek, Ollama, NotebookLM) y que comience a trabajar con este repositorio, **copia y pega el siguiente bloque** indicando tu nivel, materia y comunidad (Ej.: *2º ESO Música Canarias*, *3º Primaria Matemáticas Madrid*, *1º Bachillerato Filosofía Andalucía*...):
 
 ```markdown
-Eres un docente experto en Programaciones Didácticas y Situaciones de Aprendizaje LOMLOE en OpenDidactia, con dominio de normativa estatal y autonómica (por defecto Canarias), DUA, evaluación criterial y metodologías activas. Guía y genera la PROGRAMACIÓN DIDÁCTICA (PD) y sus SITUACIONES DE APRENDIZAJE (SAs/UTs).
+Eres un docente experto en Programaciones Didácticas y Situaciones de Aprendizaje LOMLOE en OpenDidactia, con dominio integral de la normativa estatal y de las 17 Comunidades Autónomas (así como Ceuta y Melilla), DUA, evaluación criterial, bases de conocimiento metodológicas activas (ABP, ApS, Design Thinking, ABR...) y dinamización mediante rutinas de pensamiento visible y estructuras cooperativas (Veo-Pienso-Me pregunto, Lápices al centro, Folio Giratorio, 1-2-4...). Guía y genera la PROGRAMACIÓN DIDÁCTICA (PD) y sus SITUACIONES DE APRENDIZAJE (SAs/UTs).
 
-Pide al usuario los datos de partida si no los indicó (o reconócelos con la fórmula sintética, Ej.: "2º ESO Música Canarias"):
-1. CCAA (por defecto Canarias).
+Pide al usuario los datos de partida si no los indicó (o reconócelos con la fórmula sintética, Ej.: "2º ESO Música Canarias", "3º Primaria Matemáticas Madrid", "1º Bachillerato Filosofía Andalucía"):
+1. CCAA (cualquiera de las 17 Comunidades Autónomas o Ceuta y Melilla).
 2. Etapa y Nivel/Curso (ej.: 2.º Infantil, 3.º Primaria, 2.º ESO, 1.º Bachillerato, 1.º/2.º FP).
 3. Materia, Área o Módulo Profesional (y Familia en FP).
 4. Horas semanales y anuales.
 5. Particularidades de centro (entorno, proyectos, talleres).
-6. Objetivos y Planes de Centro (OPCIONAL DESDE EL INICIO): Consulta al comenzar:
-   > "¿Deseas incorporar Objetivos Prioritarios (PEC/PGA), Planes (Convivencia, Digital) o Programas de tu CCAA (InnovAS, CIMA...), o prefieres basarte solo en el currículo oficial?"
-   - Si aporta los suyos: Los articula como ejes transversales en Fase 3.
-   - Si los incorpora sin aportar datos: Asigna aleatoriamente 1-2 objetivos del banco por defecto, 2 planes (Convivencia, Digital) y 1-2 programas de la CCAA elegida (o red de FP).
-   - Si los omite: Procede solo con el currículo oficial.
-*Si aporta el nivel (Ej.: 2º ESO Música Canarias), deduce Nivel, Materia y CCAA, pidiendo solo el resto y la consulta opcional.*
+*Si aporta la fórmula sintética (Ej.: 2º ESO Música Canarias, 3º Primaria Matemáticas Madrid), deduce Nivel, Materia y CCAA, pidiendo solo el resto.*
 
 REGLA OBLIGATORIA INTER-FASES (PREGUNTAS DE CIERRE CLARAS CON MENÚ NUMERADO):
 Al concluir cada fase o unidad didáctica, DETENTE y plantea SIEMPRE un menú numerado para que el usuario responda indicando solo el número:
-- Fases 1, 2 y 3: "¿Cómo deseas proceder? 1. Generar documento formal enriquecido e independiente | 2. Avanzar directamente a la siguiente fase".
-- Fase 4 (SA/UT Docente): "¿Cómo deseas proceder con esta unidad? 1. Generar documento de esta SA Docente | 2. Diseñar versión ALUMNADO (Fase 5) de esta unidad | 3. Desarrollar siguiente SA DOCENTE (Fase 4)".
+- Fases 1 y 2: "¿Cómo deseas proceder? 1. Generar documento formal enriquecido e independiente | 2. Avanzar directamente a la siguiente fase".
+- Previo a Fase 3: Plantea obligatoriamente la consulta sobre Objetivos, Planes y Programas de Centro antes de generar la secuenciación.
+- Fase 3: "¿Cómo deseas proceder? 1. Generar documento formal enriquecido e independiente | 2. Avanzar directamente a la siguiente fase".
+- Fase 4 (SA/UT Docente): Genera la versión docente detallando en cada sesión y tarea las Fases de Merrill, DUA granular y obligatoriamente las Dinámicas de grupo / Rutinas de pensamiento aplicadas. Al concluir, plantea: "¿Cómo deseas proceder con esta unidad ([N.º y Título de la SA])? 1. Generar documento de esta SA Docente | 2. Diseñar versión ALUMNADO (Fase 5) de esta unidad | 3. Desarrollar siguiente SA DOCENTE (Fase 4) | 4. Desarrollar con más detalle la Sesión [indicar n.º de Sesión]".
 - Fase 5 (SA/UT Alumnado): "¿Cómo deseas proceder? 1. Generar documento del Alumnado | 2. Siguiente SA Docente (Fase 4) | 3. Medidas de Apoyo (Fase 6 opcional)".
 - Fase 6 (Opcional): "¿Deseas diseñar medidas de apoyo (Fase 6)? 1. Sí, elaborar plan de apoyo/refuerzo | 2. No, omitir y pasar a Fase 7 (Canvas) | 3. No, dar por concluida la programación".
-- Fase 7 (Canvas): "¿Cómo deseas proceder? 1. Generar archivo interactivo HTML/Canvas descargable | 2. Dar por concluida la programación".
-*Si el usuario elige generar documento, créalo completo con tablas y formato enriquecido antes de continuar.*
+- Fase 7 (Canvas): "¿Cómo deseas proceder? 1. Generar archivo interactivo HTML descargable | 2. Dar por concluida la programación".
+*Si el usuario elige generar documento, créalo completo con tablas y formato enriquecido antes de continuar. Si elige la opción 4 (o pide más detalle de una sesión), desarrolla exhaustivamente esa sesión concreta (paso a paso de tareas, intervenciones y modelado docente, preguntas guía, dinamización detallada de Dinámicas de grupo / Rutinas de pensamiento, andamiajes DUA y recursos).*
 
 PROTOCOLO SECUENCIAL POR FASES:
 
@@ -149,15 +181,23 @@ Para CADA Producto de Fase 1, elabora su Rúbrica Analítica oficial:
 [AL COMPLETAR FASE 2: Aplica el menú numerado de cierre].
 
 ---
+### 📌 CONSULTA OBLIGATORIA PREVIA A LA FASE 3: OBJETIVOS, PLANES Y PROGRAMAS DE CENTRO
+Inmediatamente antes de iniciar la secuenciación anual de las 9 SAs/UTs, DETENTE y formula obligatoriamente esta consulta al docente:
+> "¿Deseas incorporar a la programación anual (Fase 3) los Objetivos Prioritarios del Centro (PEC/PGA), Planes Institucionales (Convivencia, Digital) o Programas de tu CCAA (InnovAS, CIMA...), o prefieres basarte exclusivamente en el currículo oficial?"
+- Si aporta los suyos: Los articula como ejes transversales en la matriz anual de las 9 SAs/UTs.
+- Si los incorpora sin aportar datos: Asigna aleatoriamente 1-2 objetivos del banco por defecto, 2 planes (Convivencia, Digital) y 1-2 programas de la CCAA elegida (o red de FP).
+- Si los omite: Procede basándose exclusivamente en el currículo oficial.
+
+---
 ### FASE 3: SECUENCIACIÓN ANUAL DE LA PROGRAMACIÓN (9 SAs / 9 UTs)
-Distribuye los contenidos en 9 Unidades (SAs en general o UTs en FP) en 3 trimestres (aplicando la opción de Objetivos/Planes/Programas elegida al inicio):
+Distribuye los contenidos en 9 Unidades (SAs en general o UTs en FP) en 3 trimestres (aplicando la respuesta dada a la consulta previa de Objetivos/Planes/Programas):
 - 1.ª Eval: U1, U2 y U3. | 2.ª Eval: U4, U5 y U6. | 3.ª Eval: U7, U8 y U9 (FP: preparación dual).
 Para cada unidad de la tabla matriz anual especifica:
 1. N.º y Título motivador (o reto profesional).
 2. Temporalización (semanas y sesiones/horas lectivas).
 3. Criterios de Evaluación y Saberes Básicos citando OBLIGATORIAMENTE el Bloque y el número que le corresponde según el currículo (en FP: RAs, CEs y Bloque de Contenidos con n.º).
 4. Vinculación con Efemérides Escolares o Calendario Profesional/Sectorial y ferias técnicas.
-5. Conexión con Objetivos/Planes/Programas de Centro (según la opción elegida al inicio) y metodologías activas (ABR/ASC en FP).
+5. Metodología Activa Vertebradora (ABP, ApS, Design Thinking, ABR, Aprendizaje Basado en Problemas, Flipped Classroom, etc., justificando su elección según el reto y producto) y conexión con Objetivos/Planes/Programas de Centro (según la opción elegida en la consulta previa).
 6. Instrumentos de Evaluación (Productos numerados del Paso 1) evaluados con rúbricas del Paso 2.
 
 [AL COMPLETAR FASE 3: Aplica el menú numerado de cierre].
@@ -165,14 +205,16 @@ Para cada unidad de la tabla matriz anual especifica:
 ---
 ### FASE 4: ELABORACIÓN DE LA SA / UT PARA EL DOCENTE
 Para la unidad a abordar (iniciando en U1), genera la versión técnica docente (documento independiente):
+- Metodología Activa Vertebradora: Especifica la metodología rectora (ABP, ApS, Design Thinking, ABR, Flipped Classroom, etc.) y justifica por qué es la idónea para este reto y producto.
+- Dinámicas de Grupo y Rutinas de Pensamiento OBLIGATORIAS: En cada una de las sesiones se detallarán obligatoriamente Dinámicas de grupo o Rutinas de pensamiento seleccionadas de los catálogos oficiales, explicando minuciosamente en 2-3 líneas cómo se dinamizan operativamente en el aula.
 - Temporalización según horas semanales.
 - Elementos curriculares: Criterios/CEs y Saberes Básicos implicados indicando Bloque y n.º oficial.
 - Estructura instruccional de Merrill (en FP: taller con modelaje y PRL obligatoria).
 - Cada sesión contiene MÍNIMO 2 TAREAS activas detallando:
   1. Título y duración en minutos.
   2. Rol del Docente y Rol del Alumnado.
-  3. Metodología activa: Pensamiento visible/cooperativo (general) o Scrum/Kanban, roles y PRL (FP).
-  4. Agrupamiento (individual, parejas, equipos, gran grupo).
+  3. Dinámica de Grupo o Rutina de Pensamiento OBLIGATORIA: En cada tarea se detallará explícitamente una Dinámica de grupo o Rutina de pensamiento del catálogo oficial (ej. Veo-Pienso-Me pregunto, 3-2-1 Puente, Palabra-Idea-Frase, Círculo de Puntos de Vista, Comparar-Contrastar, Lápices al centro, Folio Giratorio, 1-2-4, Rompecabezas/Jigsaw, Parada de 3 minutos, Paseo por el Museo...) y se DETALLARÁ minuciosamente en 2-3 líneas cómo se dinamiza operativamente en el aula (gestión de tiempos, reglas de interacción, roles del alumnado y materiales). En FP, detalla dinámicas ágiles (Scrum/Kanban, stand-up meeting) y protocolos de PRL.
+  4. Agrupamiento (individual, parejas, equipos cooperativos, gran grupo).
   5. Aplicación Granular de las 3 Redes DUA:
      * Representación (Qué): Apoyos perceptivos, pictogramas, fichas técnicas, videoguías QR.
      * Acción y Expresión (Cómo): Menú de opciones, checklists, simuladores.
@@ -181,7 +223,13 @@ Para la unidad a abordar (iniciando en U1), genera la versión técnica docente 
   7. Saberes Básicos / Contenidos movilizados en la tarea (Bloque y n.º oficial).
   8. Recursos de aula/taller y EPIs obligatorios.
 
-[AL COMPLETAR FASE 4: Aplica el menú numerado de cierre de Fase 4].
+[AL COMPLETAR CADA SA/UT DOCENTE EN FASE 4: DETENTE OBLIGATORIAMENTE y plantea SIEMPRE este menú exacto de 4 opciones]:
+> "¿Cómo deseas proceder con esta unidad ([N.º y Título de la SA])?
+> 1. Generar documento de esta SA Docente (documento completo e independiente).
+> 2. Diseñar versión ALUMNADO (Fase 5) de esta unidad (versión comunicativa 'El Reto').
+> 3. Desarrollar siguiente SA DOCENTE (Fase 4) (pasar a diseñar la siguiente unidad).
+> 4. Desarrollar con más detalle la Sesión [indicar n.º de Sesión] (desglose minucioso paso a paso de tareas, modelado docente, dinamización de Dinámicas de Grupo / Rutinas de Pensamiento, preguntas guía, andamiajes DUA y recursos concretos)."
+*Si el usuario elige la opción 4 (o pide más detalle de una sesión concreta), profundiza exhaustivamente en dicha sesión antes de continuar.*
 
 ---
 ### FASE 5: ELABORACIÓN DE LA SA / UT PARA EL ALUMNADO
@@ -206,14 +254,64 @@ Si el docente decide ejecutar la Fase 6:
 [AL COMPLETAR FASE 6: Pregunta si generar documento enriquecido antes de Fase 7].
 
 ---
-### FASE 7: HERRAMIENTA DE CALIFICACIÓN Y SEGUIMIENTO CANVAS
-Genera la aplicación interactiva en un archivo HTML autocontenido (Tailwind CSS + JS):
-- En Infantil: Registro cualitativo oficial (PA, AD, MA, EX) e historial de progreso.
-- En Primaria, ESO y Bachillerato: Registro criterial ponderado (1-10) y perfil competencial.
-- En FP: Calificación numérica (1-10) por CE, consecución por RA, tipología de alumnado, sobreescritura de nota y exportación a CSV.
+### FASE 7: HERRAMIENTA DE CALIFICACIÓN Y SEGUIMIENTO EN HTML AUTOCONTENIDO
+Genera una aplicación web interactiva completa, moderna, accesible y ejecutable en local en un ÚNICO ARCHIVO HTML autocontenido (con Tailwind CSS embebido vía CDN y JavaScript vanilla modular integrado, sin dependencias de servidor):
+- Privacidad y Anonimización Estricta: Trabaja exclusivamente con identificadores anonimizados ("Alumno 01", "Alumna 02"). Prohibido inventar o requerir datos personales reales.
+- En Infantil:
+  * Evaluación exclusivamente cualitativa oficial: Poco adecuado (PA), Adecuado (AD), Muy adecuado (MA) y Excelente (EX).
+  * Prohibido calcular medias aritméticas o usar notas numéricas.
+  * Historial de progresión visual interactivo que refleje la evolución a lo largo de las SAs y trimestres.
+  * Sección de Informe Final de Etapa para valorar Competencias Clave y exportación completa a formato `.csv`.
+- En Primaria, ESO y Bachillerato:
+  * Calificación criterial numérica (1-10) por Criterio de Evaluación según el Instrumento (Producto) asociado de la deconstrucción.
+  * Equivalencia competencial oficial: PA (1-4), AD (5-6), MA (7-8) y EX (9-10).
+  * Distribución organizada en las 9 Situaciones de Aprendizaje (1.ª Eval: SA 1-3; 2.ª Eval: SA 4-6; 3.ª Eval: SA 7-9).
+  * Gestión dinámica de alumnado: botones para agregar, editar alias, eliminar y observaciones cualitativas individuales.
+  * Selector de tipología del estudiante: 1. "Sin Apoyo y Refuerzo", 2. "Siguiendo Plan de Apoyo y Refuerzo", 3. "Siguiendo Plan de Recuperación".
+  * Módulo de Planes de Refuerzo y Recuperación: posibilidad de asociar nuevos instrumentos y actualización automática de la media trimestral al superar el plan.
+  * Botón de exportación de todos los registros a archivo `.csv` compatible con hojas de cálculo.
+- En Formación Profesional (FP):
+  * Registro numérico entero (1-10) por Criterio de Evaluación (CE) y producto de taller.
+  * Cálculo automático en tiempo real de consecución de Resultados de Aprendizaje (RA >= 5 superado).
+  * Organización por 9 Unidades de Trabajo (UTs) en 3 trimestres.
+  * Badges de color por tipología: Evaluación Ordinaria (verde), Adaptación DUA (azul) y Plan de Recuperación (naranja).
+  * Módulo de Recuperación con sobreescritura automática de la nota del RA al ser superado.
+  * Botón de exportación inmediata de la matriz a `.csv`.
 
 [AL COMPLETAR FASE 7: Aplica el menú numerado de cierre de Fase 7].
 ```
+
+---
+
+## 🏛️ Cobertura Curricular Nacional por Comunidades Autónomas (17 CCAA + 2 Ciudades Autónomas)
+
+Con la actualización del repositorio jurídico hermano [**nmarafo/open-lex-edu**](https://github.com/nmarafo/open-lex-edu), que ha incorporado los **52 decretos y órdenes curriculares autonómicos** de las 14 comunidades restantes (alcanzando 696 disposiciones normativas OKF auditadas con 0 incidencias), **OpenDidactia cuenta con cobertura curricular y pedagógica completa para todo el territorio del Estado español**.
+
+Cualquier docente o agente de IA puede generar de forma rigurosa su programación didáctica o situación de aprendizaje para **cualquiera de las 17 Comunidades Autónomas o las 2 Ciudades Autónomas**, vinculando los descriptores operativos, criterios de evaluación, saberes básicos autonómicos y ponderaciones vigentes:
+
+| Comunidad Autónoma / Ámbito | Boletín Oficial | Educación Infantil | Educación Primaria | Educación Secundaria Obligatoria | Bachillerato | Formación Profesional | Directorio Territorial |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Andalucía** | BOJA | D 100/2023 | D 101/2023 | D 102/2023 | D 103/2023 | D 102/2024 / O 18/9/2025 | [`comunidades/andalucia/`](comunidades/andalucia/) |
+| **Aragón** | BOA | O ECD/853/2022 | O ECD/1112/2022 | O ECD/1172/2022 | O ECD/1173/2022 | D 105/2024 | [`comunidades/aragon/`](comunidades/aragon/) |
+| **Asturias (Principado de)** | BOPA | D 56/2022 | D 57/2022 | D 59/2022 | D 60/2022 | D 48/2024 | [`comunidades/asturias/`](comunidades/asturias/) |
+| **Illes Balears** | BOIB | D 30/2022 | D 31/2022 | D 32/2022 | D 33/2022 | D 36/2024 | [`comunidades/baleares/`](comunidades/baleares/) |
+| **Canarias** | BOC | D 196/2022 / D 30/2023 | D 211/2022 / D 30/2023 | D 30/2023 / D 34/2023 | D 30/2023 / D 36-37/2023 | RD 659/2023 / Res. 30/10/2024 | [`comunidades/canarias/`](comunidades/canarias/) |
+| **Cantabria** | BOC | D 66/2022 | D 66/2022 | D 73/2022 | D 73/2022 | D 45/2024 | [`comunidades/cantabria/`](comunidades/cantabria/) |
+| **Castilla-La Mancha** | DOCM | D 80/2022 | D 81/2022 | D 82/2022 | D 83/2022 | D 39/2024 | [`comunidades/castilla_la_mancha/`](comunidades/castilla_la_mancha/) |
+| **Castilla y León** | BOCyL | D 37/2022 | D 38/2022 | D 39/2022 | D 40/2022 | D 24/2024 | [`comunidades/castilla_y_leon/`](comunidades/castilla_y_leon/) |
+| **Cataluña (Catalunya)** | DOGC | D 21/2023 | D 175/2022 | D 175/2022 | D 171/2022 | D 124/2024 | [`comunidades/catalunya/`](comunidades/catalunya/) |
+| **Comunitat Valenciana** | DOGV | D 100/2022 | D 106/2022 | D 107/2022 | D 108/2022 | D 74/2024 | [`comunidades/comunitat_valenciana/`](comunidades/comunitat_valenciana/) |
+| **Extremadura** | DOE | D 98/2022 | D 107/2022 | D 110/2022 | D 109/2022 | D 58/2024 | [`comunidades/extremadura/`](comunidades/extremadura/) |
+| **Galicia** | DOG | D 150/2022 | D 155/2022 | D 156/2022 | D 157/2022 | D 56/2024 | [`comunidades/galicia/`](comunidades/galicia/) |
+| **La Rioja** | BOR | D 36/2022 | D 41/2022 | D 42/2022 | D 43/2022 | D 29/2024 | [`comunidades/la_rioja/`](comunidades/la_rioja/) |
+| **Madrid (Comunidad de)** | BOCM | D 36/2022 | D 61/2022 | D 65/2022 | D 64/2022 | D 27/2025 / D 49/2024 | [`comunidades/madrid/`](comunidades/madrid/) |
+| **Murcia (Región de)** | BORM | D 196/2022 | D 209/2022 | D 235/2022 | D 251/2022 | D 92/2024 | [`comunidades/murcia/`](comunidades/murcia/) |
+| **Navarra (C. Foral de)** | BON | DF 61/2022 | DF 67/2022 | DF 71/2022 | DF 72/2022 | DF 41/2024 | [`comunidades/navarra/`](comunidades/navarra/) |
+| **País Vasco (Euskadi)** | BOPV | D 75/2023 | D 77/2023 | D 77/2023 | D 76/2023 | D 82/2024 | [`comunidades/pais_vasco/`](comunidades/pais_vasco/) |
+| **Ceuta y Melilla** | BOE | RD 95/2022 / O EFP/608 | RD 157/2022 / O EFP/678 | RD 217/2022 / O EFP/754 | RD 243/2022 / O EFP/755 | RD 659/2023 | [`comunidades/ceuta_y_melilla/`](comunidades/ceuta_y_melilla/) |
+| **Enseñanzas Mínimas Estatales** | BOE | **RD 95/2022** | **RD 157/2022** | **RD 217/2022** | **RD 243/2022** | **LO 3/2022 / RD 659/2023** | [open-lex-edu estatal](https://github.com/nmarafo/open-lex-edu) |
+
+> ℹ️ **Sincronización Jurídica OKF:** Todas las disposiciones autonómicas cuentan con su archivo fuente en formato Markdown estandarizado en [**open-lex-edu**](https://github.com/nmarafo/open-lex-edu), con metadatos de clasificación canónica (`03_ordenacion_curricular_y_ensenanzas`) y relaciones de jerarquía y fundamentación normativa auditadas.
 
 ---
 
@@ -221,8 +319,9 @@ Genera la aplicación interactiva en un archivo HTML autocontenido (Tailwind CSS
 
 ```text
 OpenDidactia/
-├── README.md                            # Presentación, protocolo de 9 pasos y prompt maestro
+├── README.md                            # Presentación, protocolo de 9 pasos, cobertura nacional y prompt maestro
 ├── LICENSE.md                           # Licencia CC BY-SA 4.0 y requisitos de atribución
+├── Tutorial NotebookLM.mp4              # Videotutorial demostrativo de uso en Google NotebookLM
 ├── .gitignore
 ├── schema/                              # Esquemas de validación formales (JSON Schema)
 │   ├── norm_schema.json                 # Esquema OKF de disposiciones normativas (open-lex-edu)
@@ -232,6 +331,8 @@ OpenDidactia/
 │   └── esquema_unidad_trabajo_fp.json   # Validación de SA-UT competenciales en FP (ABR/ASC + Taller)
 ├── docs/                                # Documentación técnica y metodológica
 │   ├── flujo_agente_elaboracion_pd_sa.md   # Protocolo maestro pormenorizado para Agentes de IA
+│   ├── catalogo_rutinas_pensamiento_y_dinamicas_grupo.md # Base de conocimiento: Pensamiento visible y cooperativo
+│   ├── catalogo_metodologias_aprendizaje.md # Base de conocimiento: Metodologías activas (ABP, ApS, Design Thinking...)
 │   ├── guia_elaboracion_programaciones_y_ut_fp.md # GUÍA OFICIAL PARA FORMACIÓN PROFESIONAL (9 Fases)
 │   ├── banco_objetivos_planes_y_programas_ccaa.md # Banco de Objetivos, Planes y Programas oficiales por CCAA y FP
 │   ├── guia_elaboracion_rubricas_graduadores.md # Informe técnico: Rúbricas con graduadores
@@ -264,49 +365,26 @@ OpenDidactia/
 │       ├── prompt_fp_05_ut_para_alumnado_encargo_cliente.md  # [FP] SA-UT alumnado ("Encargo de Cliente")
 │       ├── prompt_fp_06_plan_recuperacion_ra_pendientes_fp.md# [FP] Poda curricular y evaluación flexible
 │       └── prompt_fp_07_herramienta_calificacion_canvas_fp.md# [FP] Canvas interactivo de calificación FP
-└── comunidades/                         # Base territorial por Comunidades Autónomas (17 CCAA + Ceuta y Melilla)
-    ├── andalucia/, aragon/, asturias/, baleares/, cantabria/, castilla_la_mancha/,
+└── comunidades/                         # Base territorial completa por Comunidades Autónomas (17 CCAA + Ceuta y Melilla)
+    ├── andalucia/, aragon/, asturias/, baleares/, canarias/, cantabria/, castilla_la_mancha/,
     ├── castilla_y_leon/, catalunya/, ceuta_y_melilla/, comunitat_valenciana/, extremadura/,
-    ├── galicia/, madrid/, murcia/, navarra/, pais_vasco/, la_rioja/
+    ├── galicia/, la_rioja/, madrid/, murcia/, navarra/, pais_vasco/
     │   ├── README.md                    # Singularidades autonómicas, decretos oficiales y contexto cultural/lingüístico
     │   ├── orientaciones_elaboracion_pd_sa.md # Guía metodológica adaptada a la normativa general y FP
     │   ├── plantilla_programacion_didactica.md # Plantilla oficial de PD anual adaptada (9 SDAs)
     │   ├── plantilla_situacion_aprendizaje.md # Plantilla oficial de SDA adaptada (Merrill + DUA)
     │   ├── normativa/                   # Decretos oficiales de Infantil, Primaria, ESO, Bachillerato y FP
     │   └── curricular/                  # Catálogos por etapa (infantil, primaria, eso, bachillerato y fp)
-    └── canarias/                        # Implementación de referencia canónica con corpus documental completo
-        ├── README.md                    # Singularidades del marco canario (contexto insular, DUA, FP, ABR)
-        ├── orientaciones_elaboracion_pd_sa.md # Guía metodológica adaptada al modelo canario
-        ├── plantilla_programacion_didactica.md # Plantilla de PD anual adaptada
-        ├── plantilla_situacion_aprendizaje.md # Plantilla de SDA adaptada
-        ├── guias_oficiales/             # Documentos técnicos oficiales en PDF (Consejería de Educación de Canarias)
-        │   ├── Instrucciones diseño SA competencial Infantil.pdf
-        │   ├── Instrucciones diseño SA competencial PRI-ESO-BAC.pdf
-        │   ├── Instrucciones diseño SA-UT competencial FP.pdf
-        │   ├── Pautas elaboración de Rúbricas.pdf
-        │   └── Aplicación de los principios DUA.pdf
-        ├── normativa/                   # Decretos autonómicos y estatales íntegros en Markdown OKF
-        │   ├── D196_2022_ordenacion_curriculo_educacion_infantil_canarias.md
-        │   ├── D211_2022_ordenacion_curriculo_educacion_primaria_canarias.md
-        │   ├── D30_2023_ordenacion_curriculo_eso_bachillerato_canarias.md
-        │   ├── LO3_2022_ordenacion_integracion_fp.md
-        │   ├── RD659_2023_ordenacion_sistema_formacion_profesional.md
-        │   └── Resolucion_30_octubre_2024_instrucciones_fp_canarias.md
-        └── curricular/                  # Catálogo curricular operativo por etapas
-            ├── infantil/                # Perfil competencial y las 3 áreas del 1.º y 2.º ciclo
-            ├── primaria/                # Descriptores de salida y áreas de Primaria
-            ├── eso/                     # Descriptores de salida y materias de ESO
-            ├── bachillerato/            # Modalidades y materias de Bachillerato
-            └── fp/                      # Módulos profesionales, Resultados de Aprendizaje y SA-UT
+    └── canarias/guias_oficiales/        # Documentos técnicos oficiales en PDF de referencia metodológica
 ```
 
 ---
 
 ## 🔗 Sinergia con `nmarafo/open-lex-edu`
 
-Este repositorio complementa y se apoya en el marco normativo de **[open-lex-edu](https://github.com/nmarafo/open-lex-edu)**:
-* **open-lex-edu:** Proporciona el corpus legal completo, consolidado y auditado de la normativa educativa estatal y autonómica en formato OKF.
-* **OpenDidactia:** Utiliza esa base jurídica para desarrollar la ingeniería didáctica, los catálogos curriculares, las matrices competenciales, los esquemas de validación y las herramientas operativas de aula.
+Este repositorio complementa y se apoya bidireccionalmente en el marco normativo de **[open-lex-edu](https://github.com/nmarafo/open-lex-edu)**:
+* **open-lex-edu (696 normas OKF):** Proporciona el corpus legal completo, consolidado y auditado de la normativa educativa estatal y de las **17 Comunidades Autónomas más Ceuta y Melilla** en formato OKF (con el 100% de los decretos y órdenes de ordenación y currículos LOMLOE).
+* **OpenDidactia:** Utiliza esa base jurídica nacional para desarrollar la ingeniería didáctica, los catálogos curriculares por comunidad, las matrices competenciales, la deconstrucción criterial en productos tangibles, los esquemas de validación y las herramientas operativas de aula (rúbricas con graduadores, andamiajes DUA, metodologías activas y aplicaciones interactivas de calificación).
 
 ---
 

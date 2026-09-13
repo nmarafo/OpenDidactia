@@ -29,14 +29,15 @@ Cualquier docente o agente de IA debe seguir con rigor técnico el siguiente flu
 
 ```mermaid
 graph TD
-    DP["0. Datos de Partida y Consulta Opcional Inicial<br>(CCAA, Módulo, Horas y Objetivos/Planes de Centro)"] --> A["1. Relación y Asociación de RA y CE con Productos<br>(Mapa de Relaciones Alfanumérico)"]
+    DP["0. Datos de Partida<br>(CCAA, Módulo, Horas y Particularidades)"] --> A["1. Relación y Asociación de RA y CE con Productos<br>(Mapa de Relaciones Alfanumérico)"]
     A --> B["2. Elaboración de Rúbricas Analíticas con Graduadores Técnicos"]
     B --> C["3. Conformación del Ecosistema de Base de Conocimiento<br>(Calendario Sectorial, Metodologías Ágiles, PRL, ABR/ASC, Merrill en Taller)"]
-    C --> D["4. Secuenciación Anual de Unidades de Trabajo (UTs / SA-UT)<br>(9 UTs anuales vinculadas a retos productivos y planes elegidos al inicio)"]
+    C --> CON["📌 Consulta Obligatoria de Centro<br>(Objetivos, Planes y Programas de FP)"]
+    CON --> D["4. Secuenciación Anual de Unidades de Trabajo (UTs / SA-UT)<br>(9 UTs anuales vinculadas a retos productivos y planes de centro elegidos)"]
     D --> E["5. Desarrollo de la SA-UT para el DOCENTE<br>(Merrill en Taller + DUA granular por tarea + Roles + PRL)"]
     E --> F["6. Concreción de la SA-UT para el ALUMNADO<br>(El Encargo del Cliente: sin burocracia, mapa de ruta y entregables)"]
     F --> G["7 y 8. (OPCIONAL) Medidas de Apoyo y Plan de Recuperación de RAs<br>(Refuerzo continuo y pendientes: el docente decide si ejecutar)"]
-    G --> I["9. Herramienta Canvas de Calificación y Seguimiento<br>(App HTML/JS: 1-10 por CE, superación de RA y CSV)"]
+    G --> I["9. Herramienta de Calificación y Seguimiento en HTML<br>(App HTML/JS: 1-10 por CE, superación de RA y CSV)"]
 ```
 
 ### 📋 Regla de Interacción Inter-Fases (Preguntas Claras con Menú Numerado en FP)
@@ -48,10 +49,12 @@ Al concluir cada fase técnica o Unidad de Trabajo (UT), el agente **se detiene 
   > *2. Avanzar directamente a la siguiente fase sin generar documento intermedio."*
 
 * **Al concluir cada SA-UT para el Docente en Taller (Fase 5):**
-  > *"¿Cómo deseas proceder con esta unidad?*  
-  > *1. Generar documento formal enriquecido e independiente de esta SA-UT Docente.*  
+  > *"¿Cómo deseas proceder con esta unidad ([N.º y Título de la UT])?*  
+  > *1. Generar documento de esta SA-UT Docente (documento formal completo e independiente).*  
   > *2. Diseñar la versión para el ALUMNADO (Fase 6: Encargo del Cliente) de esta misma UT.*  
-  > *3. Desarrollar la siguiente SA-UT para el DOCENTE (Fase 5 de la siguiente unidad)."*
+  > *3. Desarrollar la siguiente SA-UT para el DOCENTE (Fase 5 de la siguiente unidad).*  
+  > *4. Desarrollar con más detalle la Sesión [indicar n.º de Sesión] (desglose minucioso de tareas de taller, modelado técnico, protocolos PRL y checklists)."*  
+  > *(Si se elige la opción 4 o se solicita más detalle de una sesión de taller, el agente la desarrolla exhaustivamente antes de continuar).*
 
 * **Al concluir la SA-UT para el Alumnado (Fase 6):**
   > *"¿Cómo deseas proceder?*  
@@ -148,11 +151,11 @@ Para que la programación y las UTs estén fuertemente arraigadas en el sector p
 
 ---
 
-## 📌 CONSULTA INICIAL (OPCIONAL DESDE EL INICIO): OBJETIVOS Y PLANES DE CENTRO EN FP
+## 📌 CONSULTA OBLIGATORIA PREVIA A LA FASE 4: OBJETIVOS Y PLANES DE CENTRO EN FP
 
-La incorporación de Objetivos Prioritarios de Centro y Planes/Proyectos de FP (ATECA, Emprendimiento, etc.) es **OPCIONAL y se consulta desde el inicio del proceso** (en los datos de partida):
+La incorporación de Objetivos Prioritarios de Centro y Planes/Proyectos de FP (ATECA, Emprendimiento, etc.) es **OPCIONAL y se consulta obligatoriamente de forma previa a la Fase 4** (inmediatamente antes de iniciar la secuenciación anual de UTs):
 
-> *"¿Deseas incorporar a la programación anual los Objetivos Prioritarios del Centro (PEC/PGA) y Planes/Proyectos de FP (ATECA, Emprendimiento, Innovación Aplicada, Sostenibilidad, Digitalización), o prefieres omitirlos y centrar la programación exclusivamente en el currículo oficial del título?"*
+> *"Inmediatamente antes de iniciar la secuenciación anual de las 9 UTs (Fase 4): ¿Deseas incorporar a la programación anual los Objetivos Prioritarios del Centro (PEC/PGA) y Planes/Proyectos de FP (ATECA, Emprendimiento, Innovación Aplicada, Sostenibilidad, Digitalización), o prefieres omitirlos y centrar la programación exclusivamente en el currículo oficial del título?"*
 - **Si el docente aporta los suyos:** Se integran en la matriz de secuenciación (Fase 4) como ejes técnicos y transversales.
 - **Si el docente decide incorporarlos pero no aporta datos:** El agente recurre al [Banco de Objetivos, Planes y Programas por CCAA](banco_objetivos_planes_y_programas_ccaa.md) y asigna aleatoriamente objetivos del banco por defecto (empleabilidad/digitalización OBJ-08/OBJ-03), planes institucionales (Plan de Convivencia, Plan Digital, Plan de PRL/Autoprotección PLAN-09) y redes de FP (Red ATECA, Aulas de Emprendimiento RAE, Innovación Aplicada o programas de la CCAA).
 - **Si el docente decide omitirlos:** Se avanza directamente a la Fase 4 estructurando las 9 UTs sobre los Resultados de Aprendizaje, Criterios de Evaluación y retos técnicos del taller sin forzar proyectos de centro.
@@ -212,10 +215,12 @@ Para comunicar la UT al alumnado se genera una versión directa, motivadora y li
 4. **Criterios de Éxito:** La rúbrica traducida a una lista de control de estándares de calidad profesional comprensible.
 
 > **Salida Documental y Consulta de Bifurcación Inter-Fase:**  
-> Al finalizar la versión docente de la UT (Fase 5 / Fase 4 del flujo maestro), el agente realiza obligatoriamente dos acciones consecutivas:
-> 1. Consulta si desea generar un documento formal independiente con formato enriquecido de la Unidad de Trabajo para el Docente.
-> 2. Consulta de bifurcación didáctica:
->    > *"¿Deseas continuar elaborando la versión para el ALUMNADO de esta misma unidad de trabajo (El Encargo del Cliente - Fase 6), o prefieres desarrollar primero la siguiente SA-UT para el DOCENTE (Fase 5 de la siguiente unidad)?"*
+> Al finalizar la versión docente de la UT (Fase 5 / Fase 4 del flujo maestro), el agente plantea obligatoriamente el menú numerado de cierre:
+> *"¿Cómo deseas proceder con esta unidad ([N.º y Título de la UT])?*  
+> *1. Generar documento de esta SA-UT Docente (documento formal completo e independiente).*  
+> *2. Diseñar la versión para el ALUMNADO (Fase 6: Encargo del Cliente) de esta misma UT.*  
+> *3. Desarrollar la siguiente SA-UT para el DOCENTE (Fase 5 de la siguiente unidad).*  
+> *4. Desarrollar con más detalle la Sesión [indicar n.º de Sesión] (desglose minucioso de tareas de taller, modelado técnico, protocolos PRL y checklists)."*
 
 ---
 

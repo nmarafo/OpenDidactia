@@ -5,6 +5,11 @@ Thumbs.db
 *.temp
 open_lex_edu_temp/
 
+# Multimedia pesada (>100MB)
+*.mp4
+*.mov
+*.avi
+
 # Python
 __pycache__/
 *.py[cod]
