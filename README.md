@@ -239,7 +239,7 @@ Cualquier docente o agente de IA puede generar de forma rigurosa su programació
 | **Ceuta y Melilla** | BOE | RD 95/2022 / O EFP/608 | RD 157/2022 / O EFP/678 | RD 217/2022 / O EFP/754 | RD 243/2022 / O EFP/755 | RD 659/2023 | [`comunidades/ceuta_y_melilla/`](comunidades/ceuta_y_melilla/) |
 | **Enseñanzas Mínimas Estatales** | BOE | **RD 95/2022** | **RD 157/2022** | **RD 217/2022** | **RD 243/2022** | **LO 3/2022 / RD 659/2023** | [open-lex-edu estatal](https://github.com/nmarafo/open-lex-edu) |
 
-> ℹ️ **Sincronización Jurídica OKF:** Todas las disposiciones autonómicas cuentan con su archivo fuente en formato Markdown estandarizado en [**open-lex-edu**](https://github.com/nmarafo/open-lex-edu), con metadatos de clasificación canónica (`03_ordenacion_curricular_y_ensenanzas`) y relaciones de jerarquía y fundamentación normativa auditadas.
+> ℹ️ **Transcripciones Íntegras y Sincronización Jurídica OKF:** Todas las disposiciones autonómicas cuentan con su transcripción íntegra en formato Markdown estructurado directamente en los subdirectorios [`comunidades/<ccaa>/normativa/`](comunidades/), así como en su repositorio matriz [**open-lex-edu**](https://github.com/nmarafo/open-lex-edu), con metadatos de clasificación canónica (`03_ordenacion_curricular_y_ensenanzas`), articulado y anexos completos de competencias específicas, criterios de evaluación y saberes básicos autonómicos auditados.
 
 ---
 
@@ -301,7 +301,7 @@ OpenDidactia/
     │   ├── orientaciones_elaboracion_pd_sa.md # Guía metodológica adaptada a la normativa general y FP
     │   ├── plantilla_programacion_didactica.md # Plantilla oficial de PD anual adaptada (9 SDAs)
     │   ├── plantilla_situacion_aprendizaje.md # Plantilla oficial de SDA adaptada (Merrill + DUA)
-    │   ├── normativa/                   # Decretos oficiales de Infantil, Primaria, ESO, Bachillerato y FP
+    │   ├── normativa/                   # Transcripciones íntegras de decretos y órdenes curriculares y de evaluación (OKF)
     │   └── curricular/                  # Catálogos por etapa (infantil, primaria, eso, bachillerato y fp)
     └── canarias/guias_oficiales/        # Documentos técnicos oficiales en PDF de referencia metodológica
 ```
