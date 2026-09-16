@@ -5,6 +5,7 @@
 [![Coverage: 17 CCAA + 2 Ciudades Autónomas](https://img.shields.io/badge/Cobertura-17_CCAA_+_Ceuta_y_Melilla-green.svg)](#-cobertura-curricular-nacional-por-comunidades-autónomas-17-ccaa--2-ciudades-autónomas)
 [![Metodología: Activas + DUA + Merrill](https://img.shields.io/badge/Metodología-ABP_|_ApS_|_Design_Thinking_|_DUA_|_Merrill-orange.svg)](#-secuencia-oficial-de-diseño-curricular-para-agentes-de-ia)
 [![Pensamiento Visible: Harvard Project Zero](https://img.shields.io/badge/Pensamiento_Visible-Project_Zero_|_Cooperativo-purple.svg)](docs/catalogo_rutinas_pensamiento_y_dinamicas_grupo.md)
+[![NotebookLM: Cuaderno Oficial](https://img.shields.io/badge/NotebookLM-Cuaderno_Oficial-4285F4.svg)](https://notebook.google.com/notebook/2758ede6-33b4-4ca7-a77b-ee8ef99a9602)
 
 Base de conocimiento estructurada y abierta basada en el estándar **Open Knowledge Framework (OKF)** para la gestión, diseño y generación asistida por Inteligencia Artificial de **Programaciones Didácticas (PD)** y **Situaciones de Aprendizaje (SDA)** plenamente adaptadas a la LOMLOE y a la totalidad del marco normativo autonómico español.
 
@@ -208,6 +209,17 @@ Genera una app web interactiva ejecutable en local en un ÚNICO ARCHIVO HTML aut
 
 [AL COMPLETAR: Aplica menú de cierre de Fase 7].
 ```
+
+---
+
+## 📓 Uso directo con Google NotebookLM
+
+También puedes utilizar **Google NotebookLM** como entorno de trabajo guiado para diseñar tus programaciones y situaciones de aprendizaje siguiendo las siguientes instrucciones:
+
+1. **Enlace al siguiente cuaderno de NotebookLM:** [https://notebook.google.com/notebook/2758ede6-33b4-4ca7-a77b-ee8ef99a9602](https://notebook.google.com/notebook/2758ede6-33b4-4ca7-a77b-ee8ef99a9602)
+2. **Copiar el cuaderno.**
+3. **Añadir el currículo del área/Materia correspondiente** (puedes utilizar las transcripciones normativas de este repositorio ubicadas en `comunidades/<ccaa>/normativa/`).
+4. **En el chat poner la palabra “Comenzar”**.
 
 ---
 
