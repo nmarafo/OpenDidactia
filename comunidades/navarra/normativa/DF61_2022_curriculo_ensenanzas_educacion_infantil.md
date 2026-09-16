@@ -351,11 +351,2032 @@ Competencia en conciencia y expresión culturales.
 
 Para que las niñas y los niños construyan y enriquezcan su identidad, se fomenta en esta etapa la expresión creativa de ideas, sentimientos y emociones a través de diversos lenguajes y distintas formas artísticas. Asimismo, se ayuda al desarrollo de la conciencia cultural y del sentido de pertenencia a la sociedad a través de un primer acercamiento a las manifestaciones culturales y artísticas.
 
-## ANEXO II.
+## ANEXO II. Áreas de la Educación Infantil
 
-## ANEXO II
-
-Vínculo a objeto
+1
+ANEXO II
+EDUCACIÓN INFANTIL
+La necesidad de sistematizar y planificar la actividad docente
+sugiere la organización del currículo de la etapa en tres áreas
+correspondientes a ámbitos propios de la experiencia y del desarrollo
+infantil: Crecimiento en armonía; Descubrimiento y exploración del
+entorno, y Comunicación y representación de la realidad. Estas tres
+áreas participan en todos los aprendizajes y contribuyen al desarrollo
+de todas las competencias clave establecidas en el anexo I de este
+Decreto Foral.
+En cada área, se proponen unas competencias específicas comunes
+para los dos ciclos de la etapa. Para la formulación de estas
+competencias específicas se han tenido en cuenta las competencias
+clave de la Recomendación del Consejo de la Unión Europea, de 22 de
+mayo de 2018, relativa a las competencias clave para el aprendizaje
+permanente en su vinculación con los retos y desafíos del siglo XXI,
+lo que conecta con el enfoque competencial del currículo: la meta no
+es la mera adquisición de saberes, sino el desarrollo holístico de
+niños y niñas, que aprenden de formas muy diversas y desde su cultura
+a movilizar lo aprendido para hacer viables sus formas de actuar en
+cada momento.
+Para cada área y ciclo se establecen también los criterios de
+evaluación. Dado el propio carácter de la etapa, estos criterios de
+evaluación no tienen valor acreditativo, pero sirven como referentes
+para identificar, observar y mirar con atención el ritmo y las
+características de los diversos aprendizajes personales que se van
+produciendo, y que proporcionan una valiosa información para realizar
+la labor de reconocimiento de los potenciales de cada niño y niña, y
+también las tareas de prevención, detección e intervención para la
+preparación de contextos significativos. Asimismo, en cada área se
+incluyen los saberes básicos que los niños y niñas despliegan en sus
+2
+formas diversas de aprender, a articular y movilizar al finalizar cada
+ciclo, para poder desplegar las actuaciones a las que refieren las
+competencias específicas en el grado de adquisición esperado en los
+mencionados criterios de evaluación.
+La división en áreas no implica que la realidad se presente en
+el aula de manera parcelada. Las tres áreas se entienden como ámbitos
+de experiencia intrínsecamente relacionados entre sí, lo que requiere
+un planteamiento educativo que promueva la configuración de
+situaciones de aprendizaje globales, significativas, ricas, complejas
+y vitales que ayuden a establecer relaciones entre todos los elementos
+que conforman dicha realidad, desde el respeto a la cultura de la
+infancia. Estas situaciones promueven la interacción entre iguales,
+y son, por tanto, excelentes oportunidades para observar cómo se da
+una actitud cooperativa entre niños y niñas. En el anexo III se
+proporcionan sugerencias y orientaciones para el diseño de estas
+situaciones de aprendizaje.
+La inclusión en el aula de alumnado con necesidades específicas
+de apoyo educativo acerca a los niños y niñas a la diversidad de
+formas de ser y estar en el mundo y les ayuda a observar cómo actúan
+las personas que deben desenvolverse de un modo diferente al que ellos
+consideran habitual. Un aula inclusiva da cabida a diferentes
+posibilidades y limitaciones, a distintos modos de lenguaje y
+comunicación, a diversas formas de movilidad y a múltiples maneras de
+acercarse y comprender el entorno. La convivencia mutua enriquece a
+todas las personas, desarrolla una sociedad más justa y tolerante en
+la que las diferencias no se conciben como un impedimento, sino como
+una oportunidad de crecimiento personal y social para toda la
+comunidad educativa.
+3
+ÁREA 1: CRECIMIENTO EN ARMONÍA
+El área Crecimiento en armonía se centra en las dimensiones
+personal y social del niño o de la niña, entendidas como inseparables
+y complementarias, que se desarrollan y regulan de manera conjunta y
+armónica, aunque sólo adquiere sentido desde la complementariedad con
+las otras dos, ya que se produce en un entorno físico y natural
+determinado, y precisa de la utilización de distintos lenguajes y
+representaciones de la realidad.
+Desde el profundo respeto a los ritmos y estilos de maduración
+individuales, a las formas diversas de crianzas culturales familiares,
+los
+procesos
+de
+aprendizaje
+y
+enseñanza
+se
+adaptan
+a
+las
+características personales, necesidades, derechos, intereses y estilo
+cognitivo de cada niño o niña. Se atiende, por tanto, al desarrollo
+físico-motor, al reconocimiento de las formas de dominio de los
+procesos de posiciones y desplazamientos motores y posturales del
+control de sí mismo y a los procesos de construcción de la propia
+identidad, fruto de las interacciones consigo mismo, con el entorno
+y con los y las demás. En este proceso es básico observar y ajustar
+nuestras intervenciones a las iniciativas que todos los niños y niñas
+muestran. En este proceso, se irá avanzando desde la dependencia del
+adulto hacia una progresiva autonomía en la medida en que cada
+individuo va aprendiendo a integrar y a utilizar los recursos y
+estrategias que le facilitan un desenvolvimiento ajustado y adaptado.
+Las competencias específicas del área identifican las actuaciones
+que los niños y niñas son capaces de desplegar en relación con su
+propio desarrollo personal y social a lo largo de la etapa, como
+consecuencia de la intervención educativa que observa, planifica,
+investiga, documenta, reconoce y ofrece contextos y escenarios ricos
+y complejos de aprendizaje. Las tres primeras competencias específicas
+desarrollan aspectos relacionados con su propio desarrollo personal:
+los procesos que despliegan también cuando establecen relaciones
+4
+afectivas significativas con los y las demás y van utilizando los
+recursos personales para desenvolverse en el medio y confiando en sus
+posibilidades y cualidades, y respetando las de los y las demás. La
+última competencia específica atiende a la necesaria correlación entre
+la construcción de la propia identidad y las interacciones en el
+entorno sociocultural en el que aquella se produce, resaltando la
+importancia de propiciar y favorecer interacciones sanas, sostenibles,
+eficaces, equitativas y respetuosas.
+Los saberes básicos del área se presentan en dos grandes bloques:
+uno centrado en el desarrollo de la propia identidad y otro que atiende
+a la interacción con el medio cívico y social.
+En las primeras etapas del desarrollo el propio cuerpo es fuente
+de aprendizajes, de relación y de expresión, de desarrollo de la
+identidad dinámica y base de la actividad autónoma ligada. El entorno
+escolar proporciona contextos adecuados y acompañamientos necesarios,
+bajo una mirada atenta, paciente y respetuosa, para que los y las
+criaturas puedan descubrir el placer que les proporciona la actividad
+por iniciativa propia, que es su principal necesidad en relación con
+su entorno, en un ambiente de que ofrece seguridad, cuidado,
+confianza, bienestar, calma y tranquilidad. De ese modo, reconocen
+las posibilidades de su cuerpo, sus posibilidades perceptivas y de
+acción, expresión y movimiento, así como sus limitaciones, siendo
+capaces de identificar las sensaciones que experimentan, disfrutar
+con ellas y servirse de las posibilidades expresivas del cuerpo para
+manifestarlas.
+A lo largo de la etapa, podemos observar la actividad motora
+autónoma existente. La adquisición de destrezas, también pueden ser
+observadas en relación a los contextos significativos ofertados,
+ricos, complejos, estéticos organizados, en los diversos momentos de
+la vida cotidiana en todo el tiempo que los niños y niñas pasan en la
+escuela.
+5
+El desarrollo de la personalidad en esta etapa se corresponde
+con la construcción de la propia identidad. La intervención educativa
+permite observar cómo es esa identidad dinámica.
+Es la edad en la que se produce el descubrimiento de la sexualidad
+y se inicia la construcción sexual y de género. Por tanto, es
+imprescindible identificar y erradicar, en su caso, los posibles
+mecanismos de discriminación oculta que puedan persistir en el entorno
+escolar.
+El cuidado y seguridad afectivos son básicos para el bienestar
+y deseo de aprendizaje de los niños y niñas. Por ello, es importante
+reconocer desde el primer momento la expresión de emociones y
+sentimientos. La expresión de las primeras emociones, se asocia tanto
+a la satisfacción de las necesidades básicas, como a las relaciones
+con normas y valores sociales presentes en la comunidad educativa. La
+interacción con el entorno proporciona una información de uno mismo
+que contribuye, en gran medida, a la construcción de la propia imagen,
+ligada a su vez al desarrollo de sentimientos de seguridad,
+autoconfianza y autoestima.
+Los cuidados de calidad contribuyen a la toma de conciencia de
+sí mismo y de sus posibilidades. El reconocimiento de las necesidades
+individuales, en un clima acogedor y tranquilo, proporciona los
+tiempos necesarios para que cada momento se viva como algo placentero.
+Solo a partir de esa sensación de bienestar, el resto de principios
+alcanza un valor significativo y holístico. En este marco, la vida
+escolar se organiza en torno a rituales estables, planificados a
+partir de los ritmos biológicos singulares y vinculados a hábitos
+sostenibles y saludables de alimentación, higiene y descanso. De esta
+forma, es importante comprender la iniciativa de cada niño o niña para
+incorporar en sus prácticas cotidianas los hábitos que contribuyen al
+cuidado del propio cuerpo y de los espacios en los que transcurre su
+vida cotidiana, en paralelo al desarrollo de la autonomía ligada a
+6
+los y las demás en una relación que nos transforma, y genera vínculos
+de ecodependencia entre las personas y el entorno, del que nos hacemos
+ecosocialmente responsables.
+El establecimiento de vínculos afectivos de calidad con las
+personas significativas que le rodean potencia la interacción y la
+curiosidad infantil por conocer y comprender cómo dar sentido a sí
+mismo y al mundo. Con la incorporación al entorno escolar, descubren
+su pertenencia al medio social, se amplían de manera significativa
+las relaciones interpersonales, se generan nuevos vínculos y se
+desarrollan actitudes como la confianza, la empatía y el apego, que
+constituyen la sólida base para su bienestar. El aula y los diversos
+espacios educativos del centro escolar se convierten en una pequeña
+comunidad de convivencia en la que se desarrollan las habilidades
+sociales y cada persona puede expresar sus necesidades y derechos
+respetando las de los y las demás, entendiendo que las pautas
+elementales de convivencia se derivan del respeto mutuo, y aprendiendo
+a gestionar y resolver los conflictos de manera vivenciada y evitando
+cualquier tipo de violencia y discriminación.
+La diversidad étnico-cultural posibilita el acceso de niños y
+niñas a los diversos usos y costumbres sociales desde una perspectiva
+abierta y convivencial que les permita conocer las diversas
+manifestaciones culturales presentes en la sociedad y generar así
+actitudes de aceptación, respeto y aprecio.
+7
+1.COMPETENCIAS ESPECÍFICAS Y CRITERIOS DE EVALUACIÓN
+COMPETENCIA ESPECÍFICA 1
+Progresar en el control de su cuerpo y en la adquisición de
+distintas estrategias, adecuando sus acciones a la realidad del
+entorno de una manera segura, para construir una autoimagen ajustada
+y positiva.
+Descripción de la competencia específica 1
+El conocimiento, valoración y control que los niños y niñas van
+adquiriendo de sí mismos y del uso de los recursos de su propio cuerpo,
+junto a la utilización de los sentidos para desenvolverse en el medio
+de forma cada vez más ajustada e independiente, son aspectos
+fundamentales que van conformando su autonomía y su autodeterminación.
+Reconocerse como persona diferenciada de las demás, elaborar la noción
+del “yo” y formarse una autoimagen positiva son procesos relevantes
+que requieren la toma de conciencia sobre las posibilidades de uno
+mismo, a partir de la identificación de las cualidades personales y
+de las diferencias con respecto a las otras personas, desde la
+aceptación y el respeto. Dichos procesos se producen a partir de las
+interacciones espontáneas con el medio, de las sensaciones que
+experimentan y de la exploración de sí mismo, de los objetos y del
+entorno.
+A través del juego viven experiencias que contribuyen a su
+desarrollo armónico e integral, demostrando creciente control y
+autonomía de su cuerpo y también mayor independencia con respecto a
+las personas adultas. Experimentar las posibilidades motrices y
+sensitivas del propio cuerpo servirá para avanzar en el control
+dinámico en desplazamientos y movimientos, superar retos y elaborar
+un esquema corporal cada vez más ajustado. También servirá para
+desarrollar destrezas necesarias en la exploración, manipulación y
+uso de utensilios comunes.
+8
+CRITERIOS DE EVALUACIÓN
+1er ciclo
+2º ciclo
+1.1. Adecuar sus acciones y reacciones a cada
+situación, en una interacción lúdica y espontánea con
+el entorno, explorando sus posibilidades motoras y
+perceptivas y progresando en precisión, seguridad,
+coordinación e intencionalidad.
+1.1. Progresar en el conocimiento de su cuerpo
+ajustando acciones y reacciones y desarrollando el
+equilibrio, la percepción sensorial y la coordinación
+en el movimiento.
+1.2. Mostrar aceptación y respeto por el propio
+cuerpo y el de los demás, mejorando
+progresivamente en su conocimiento.
+1.2. Manifestar sentimientos de seguridad personal
+en la participación en juegos y en las diversas
+situaciones de la vida cotidiana confiando en las
+propias posibilidades y mostrando iniciativa.
+1.3. Manifestar sentimientos de seguridad, afecto y
+competencia en la realización de cada acción.
+1.3. Manejar diferentes objetos, útiles y herramientas
+en situaciones de juego y en la realización de tareas
+cotidianas, mostrando un control progresivo y de
+coordinación de movimientos de carácter fino
+1.4 Adquirir nociones temporales básicas para
+ubicarse en el tiempo a través de las actividades y
+rutinas de la vida cotidiana, así como de otros
+acontecimientos.
+1.4. Participar en contextos de juego dirigido y
+espontáneo ajustándose a sus posibilidades
+personales.
+COMPETENCIA ESPECÍFICA 2
+Reconocer, manifestar y regular progresivamente sus emociones
+expresando necesidades y sentimientos para lograr bienestar emocional
+y seguridad afectiva.
+Descripción de la competencia específica 2
+Conocer e iniciarse en el manejo de sus emociones es una
+herramienta fundamental para poder hacer frente, gradualmente, con
+seguridad y autonomía, a situaciones cambiantes e inciertas presentes
+en su vida cotidiana. En la satisfacción de sus propias necesidades
+y en las situaciones de juego es donde las emociones están más
+vinculadas al desarrollo del yo y al conocimiento de las normas y
+valores sociales, ya que, a través de las interacciones con las otras
+personas, se avanza en la identificación, comprensión y regulación de
+las emociones propias y en la apropiación de información muy valiosa
+sobre uno mismo. Todo ello irá contribuyendo de manera decisiva a la
+interiorización de sentimientos de seguridad y de confianza personal,
+9
+dos aspectos fundamentales para la construcción de la autoestima y la
+formación de una autoimagen positiva y ajustada, alejada de los
+estereotipos sexistas. También se desarrolla la confianza en los
+demás, lo que incide en la mejora de las relaciones sociales, de la
+automotivación con respecto a las actividades y juegos, y de la
+comprensión y expresión de lo que siente, piensa, prefiere y le
+interesa.
+Establecer relaciones armoniosas y de calidad supone potenciar
+que cada niño y cada niña pueda identificar y superar sus límites,
+reforzar sus fortalezas, regular sus necesidades personales, valorar
+el trabajo bien hecho, aprender de los errores de forma constructiva
+aceptando positivamente las correcciones, tomar iniciativas propias
+sobre su persona y sobre el entorno, y establecer metas realistas y
+ambiciosas con creatividad y responsabilidad, sintiéndose reconocida
+dentro del grupo.
+CRITERIOS DE EVALUACIÓN
+1er ciclo
+2º ciclo
+2.1. Expresar emociones y sentimientos
+desarrollando de manera progresiva la conciencia
+emocional y estrategias de regulación emocional.
+2.1. Identificar y expresar sus necesidades y
+sentimientos ajustando progresivamente el control
+de sus emociones.
+2.2. Relacionarse con las otras personas
+aceptando y mostrando afecto de manera libre,
+segura, respetuosa y alejada de todo tipo de
+estereotipos.
+2.2. Ofrecer y pedir ayuda en situaciones
+cotidianas, valorando los beneficios de la
+cooperación y la ayuda entre iguales.
+2.3. Afrontar pequeñas adversidades,
+manifestando actitudes de superación, y
+solicitando y prestando ayuda.
+2.3. Expresar inquietudes, gustos y preferencias,
+mostrando satisfacción y seguridad sobre los
+logros conseguidos.
+COMPETENCIA ESPECÍFICA 3
+Adoptar modelos, normas y hábitos, desarrollando la confianza en
+sus posibilidades y sentimientos de logro, para promover un estilo de
+vida saludable y ecosocialmente responsable.
+Descripción de la competencia específica 3
+10
+La adquisición de hábitos saludables y sostenibles y su
+progresiva integración en la vida cotidiana contribuye al cuidado del
+propio cuerpo, así como al logro de una creciente autonomía. En este
+proceso resulta imprescindible que conozcan y reflexionen sobre las
+normas que contribuyen a crear tendencias de actuación respetuosas
+con ellos mismos, con los demás y con el medio, desde una perspectiva
+interdependiente y ecorresponsable. Se espera también que se produzca
+un inicio en la reflexión sobre el consumo responsable de bienes y
+recursos.
+Todo ello se transfiere al aula a través de la realización de
+rutinas entendidas como prácticas secuenciadas que se repiten de
+manera estable e intencional para favorecer la regulación de los
+ritmos biológicos y el ajuste a los tiempos personales. Por ello, es
+preciso encontrar momentos de atención personal, a través de un trato
+individualizado a cada niño o niña, especialmente en lo referido a la
+satisfacción de sus necesidades, a partir de su ritmo biológico y
+procurando su bienestar y confortabilidad. Todo ello contribuye al
+desarrollo de una percepción más ajustada de sí mismo y al sentimiento
+de logro derivado de la percepción de la progresiva competencia
+adquirida en las actividades relacionadas con la alimentación, la
+higiene, el vestido o el descanso.
+Por último, se deben estimular iniciativas relativas a la
+importancia de prevenir los riesgos y evitar los accidentes.
+CRITERIOS DE EVALUACIÓN
+1er ciclo
+2º ciclo
+3.1. Incorporar estrategias y hábitos relacionados con
+el cuidado del entorno y el autocuidado, manifestando
+satisfacción por los beneficios que le aportan.
+3.1. Realizar actividades relacionadas con el
+autocuidado y el cuidado del entorno con actitud
+respetuosa mostrando autoconfianza e iniciativa.
+3.2. Reconocer y anticipar la sucesión temporal de
+actividades, ritmos biológicos y pautas socioculturales
+que estructuran la dinámica cotidiana, asociándola a
+elementos, procedimientos y actitudes concretas.
+3.2. Respetar la secuencia temporal asociada a los
+acontecimientos y actividades cotidianas, adaptándose
+a las rutinas establecidas para el grupo y desarrollando
+comportamientos respetuosos hacia las demás
+personas.
+11
+COMPETENCIA ESPECÍFICA 4
+Establecer interacciones sociales en condiciones de igualdad,
+valorando la importancia de la amistad, el respeto y la empatía, para
+construir su propia identidad basada en valores democráticos y de
+respeto a los derechos humanos.
+Descripción de la competencia específica 4
+La construcción de la identidad es una de las resultantes del
+conjunto de interacciones con el entorno social próximo. En este
+proceso de reformulación de sus recursos cognitivos y afectivos
+necesario para establecer nuevas relaciones con los demás y con el
+mundo, es preciso proporcionarles sentimientos de seguridad y
+confianza mediante la creación de vínculos de apego sanos y estables
+que hagan que se sientan respetados, queridos y valorados, y adopten
+de manera natural los modelos sociales adecuados en un entorno de
+cooperación, respeto y de empatía.
+En las primeras etapas, el niño o niña comienza a percibirse como
+diferente a los demás; es capaz de percibir las expresiones
+emocionales de las otras personas, pero aún no puede adoptar su punto
+de vista. Mediante las distintas interacciones y la mediación de las
+personas adultas, irá asimilando de manera natural y progresiva
+modelos adecuados de relación social, basados en el respeto, la
+empatía, la promoción de la igualdad entre hombres y mujeres y el
+respeto a los derechos humanos.
+El reconocimiento y aprecio hacia la pluralidad sociocultural
+del aula se debe fomentar mediante actividades y juegos que pongan en
+valor las distintas costumbres y tradiciones y favorezcan la
+comunicación asertiva de las necesidades propias y la escucha activa
+de las de los otros en procesos coeducativos y cooperativos. De esta
+manera, el alumnado va integrando herramientas para ofrecer y pedir
+ayuda y resolver conflictos de manera dialogada, con el fin de alcanzar
+una meta común. Todo ello refuerza el sentido de pertenencia a un
+12
+grupo social, contribuye a aprender a vivir en armonía con las otras
+personas y favorece el trabajo en equipo.
+CRITERIOS DE EVALUACIÓN
+1er ciclo
+2º ciclo
+4.1. Establecer vínculos y relaciones de apego
+saludables, demostrando actitudes de afecto y
+empatía hacia las demás personas.
+4.1. Participar con iniciativa en juegos y actividades
+colectivas relacionándose con otras personas con
+actitudes de afecto y empatía, respetando los distintos
+ritmos individuales y evitando todo tipo de
+discriminación.
+4.2. Reproducir conductas y situaciones previamente
+observadas en su entorno próximo, basadas en el
+respeto, la empatía, la igualdad de género, el trato no
+discriminatorio a las personas con discapacidad y el
+respeto a los derechos humanos, a través del juego de
+imitación.
+4.2. Reproducir conductas, acciones o situaciones a
+través del juego simbólico en interacción con sus
+iguales, identificando y rechazando todo tipo de
+estereotipos.
+4.3. Iniciarse en la resolución de conflictos con sus
+iguales con la mediación de la persona adulta,
+experimentando los beneficios de llegar a acuerdos.
+4.3.Participar activamente en actividades relacionadas
+con la reflexión sobre las normas sociales que regulan
+la convivencia y promueven valores como el respeto a
+la diversidad, el trato no discriminatorio hacia las
+personas con discapacidad y la igualdad de género
+4.4. Desarrollar destrezas y habilidades para la gestión
+de conflictos de forma positiva, proponiendo
+alternativas creativas y teniendo en cuenta el criterio
+de otras personas.
+4.5. Participar, desde una actitud de respeto, en
+actividades relacionadas con costumbres y tradiciones
+étnicas y culturales presentes en su entorno,
+mostrando interés por conocerlas.
+13
+2. SABERES BÁSICOS
+A. El cuerpo y el control progresivo del mismo
+1er ciclo
+2º ciclo
+A.1.
+Descubrimiento y reconocimiento de la propia
+imagen, de las personas, animales no humanos
+y otros seres de su entorno. Identificación y
+respeto de las diversidades como riqueza.
+Reconocimiento y aceptación de la imagen
+global y segmentaria del cuerpo: características
+individuales y percepción de los cambios físicos.
+A.2.
+Curiosidad e interés por la exploración
+sensoriomotriz. Integración sensorial del mundo
+a través de las posibilidades perceptivas, a partir
+de propuestas con objetos y materiales
+primordialmente no estructurados y
+polisensoriales.
+Construcción de una imagen positiva y ajustada
+ante los y las demás.
+A.3.
+Exploración y experiencias activas. El
+movimiento libre como fuente de aprendizaje y
+desarrollo. Las posturas corporales no
+anticipadas. Riqueza de repertorio de posiciones
+intermedias y dominio (distinto de control) de las
+mismas.
+Identificación y respeto de las diferencias
+teniendo en cuenta la diversidad de niños y
+niñas y personas adultas.
+A.4.
+El contacto y vínculo visual con las otras
+personas, animales no humanos y con los
+objetos. Iniciativa y curiosidad por aprender
+nuevas habilidades, desarrollar estrategias.
+Identificación y exploración de los elementos del
+entorno a través de los sentidos.
+A.5.
+Experimentación y exploración manipulativa y
+dominio de la coordinación visomotriz en el
+contacto con objetos y materiales. Relaciones
+estéticas entre objetos y materiales.
+El movimiento: control de la coordinación, tono,
+equilibrio y desplazamientos en situaciones de
+juego libre.
+A.6
+Dominio de movimientos y posturas en relación
+a las diversas situaciones de la vida cotidiana.
+Viabilidad de movimiento y posiciones a las
+situaciones de aprendizaje, manteniendo todo el
+repertorio motriz.
+Implicaciones de la discapacidad sensorial o
+física en la vida cotidiana.
+A..7
+Estrategias para identificar situaciones de riesgo
+o peligro. Riesgos y retos deseables y peligros
+evitables.
+Adaptación    del tono y la postura a las
+acciones y situaciones.
+A..8.
+El juego espontáneo como actividad propia para
+el bienestar, disfrute y aprendizaje. Juego
+exploratorio, sensorial y motor.
+Utilización del juego como actividad placentera y
+fuente de aprendizaje fomentando propuestas
+de juego cooperativo.
+A.9.
+Relaciones vinculares complementarias de
+autonomía, iniciativa y dependencia en la vida
+diaria del aula.
+14
+B. Desarrollo y equilibrio afectivos
+1er ciclo
+2º ciclo
+B.1.
+Identificación
+y
+adecuación
+de
+estados
+emocionales
+y
+afectivos
+a
+las
+diversas
+situaciones: tiempos de espera, pequeñas
+frustraciones asociadas a la satisfacción de
+necesidades básicas y cuidados.
+Conciencia
+emocional
+de
+las
+propias
+emociones,
+sentimientos,
+vivencias,
+preferencias
+e
+intereses
+respetando
+las
+diferentes manifestaciones.
+B.2.
+Reconocimiento respetuoso y matizado de sus
+emociones y afectos para sentirse aceptados y
+aceptadas.
+Estrategias de ayuda y colaboración en
+contextos de juego y rutinas. Trabajo
+cooperativo.
+B.3.
+Aceptación de todas las expresiones
+emocionales y afectivas, siempre que no
+supongan daño para sí mismo y misma, y para
+los y las demás.
+Comunicación, asertividad y escucha activa
+respetuosa hacia los demás.
+B.4.
+Aproximación a estrategias para lograr
+seguridad y cuidado afectivo: búsqueda de
+ayuda, demanda de contacto afectivo.
+Reconocimiento de sus posibilidades,
+aceptación de sus limitaciones y superación de
+las mismas.
+B.5.
+Desarrollo de hábitos y actitudes de esfuerzo,
+constancia, organización, atención e iniciativa
+en función de sus ritmos.
+C. Hábitos de vida saludable para el autocuidado y el cuidado
+del entorno
+1er ciclo
+2º ciclo
+C.1.
+La importancia de los rituales educativos
+(repeticiones llenas de sentido y de novedad) y
+culturales.
+Satisfacción
+de
+necesidades
+básicas:
+manifestación,
+regulación
+y
+dominio
+en
+relación con el bienestar personal garantizando
+espacios y tiempos adecuados para ello.
+C.2.
+Cuidados y necesidades básicas: conocimiento
+de los ritmos personales de la alimentación, el
+sueño, los procesos de higiene.
+Hábitos
+y
+prácticas
+sostenibles
+y
+ecosocialmente responsables
+relacionadas
+con la alimentación, la higiene, el descanso, el
+autocuidado y el cuidado del entorno.
+C.3.
+Relaciones
+vinculares
+complementarias
+de
+autonomía,
+iniciativa
+y
+dependencia.
+Anticipación de acciones, tiempos de espera,
+límites y posibilidades en relación a los deseos
+individuales y a la propia organización de los
+centros educativos.
+Actividad física estructurada con diferentes
+grados de intensidad.
+15
+C.4.
+Alimentación, higiene y aseo personal, descanso
+o limpieza de espacios.
+Rituales. Planificación secuenciada de las
+acciones fomentando un ambiente agradable,
+armonioso,
+tranquilo
+en
+los
+diferentes
+momentos del centro escolar: en la comida, el
+descanso, la higiene, los desplazamientos, etc.
+C.5.
+Acciones que favorecen la salud y generan
+bienestar. Interés por ofrecer un aspecto
+saludable y aseado. Actividad física estructurada
+y no estructurada.
+Creación de entornos que promuevan retos y
+riesgos en un entorno de cuidado.
+C.6.
+Hábitos sostenibles y saludables.
+D. Interacción socioemocional en el entorno. La vida junto a los
+demás
+1er ciclo
+2º ciclo
+D.1.
+La diversidad familiar.
+La diversidad familiar.
+D.2.
+Cuidado temporal y espacial de la transición de
+la vida familiar a la escolar. La importancia de la
+planificación del tiempo de acogida en los
+vínculos con los niños y niñas y con las familias,
+generando sentimientos de confianza mutua.
+Reconocimiento y acogida de la diversidad
+familiar y las distintas formas de crianza.
+D.3.
+Primeros vínculos afectivos. Apertura e interés
+hacia otras personas, animales no humanos y
+objetos.
+Sentimientos
+de
+pertenencia,
+vinculación afectiva con las personas de
+referencia y con los espacios y propuestas.
+Habilidades sociales y de convivencia. Pautas
+básicas de convivencia que incluyan el respeto
+a la igualdad de género.
+D.4.
+El aula y el centro como grupos sociales de
+pertenencia. Las personas profesionales como
+referencia.
+Estrategias de autorregulación de la conducta.
+Empatía y respeto.
+D.5.
+Relaciones afectuosas y respetuosas. Respeto
+al llanto y a las expresiones emocionales viables
+socialmente (respeto al derecho a enfadarse, a
+la rabieta…).
+Resolución
+de
+conflictos
+surgidos
+en
+interacciones con los otros. El conflicto cómo
+oportunidad de pensamiento en la interacción
+con los otros y búsqueda de soluciones.
+D.6.
+La diversidad derivada de distintas formas de
+discapacidad y sus implicaciones en la vida
+cotidiana.
+La amistad, el sentimiento de pertenencia al
+grupo,
+como
+elemento
+protector,
+de
+prevención de la violencia y de desarrollo de la
+cultura de la paz.
+16
+D.7.
+Hábitos de relaciones sociales en función de las
+necesidades de los y las demás.
+Actitud de ayuda y colaboración necesaria en
+la interacción social para el desarrollo de
+procesos del aula.
+D.8.
+Estrategias para la gestión de conflictos. Límites
+y posibilidades en cada contexto pertinente.
+Estructura de contención emocional o física
+amorosa sin tapar formas emocionales de
+expresar los propios conflictos o frustraciones.
+Construcción de reglas compartidas con el
+grupo de niños y niñas.
+Respuesta empática a la diversidad debida a
+las distintas formas de discapacidad y a sus
+implicaciones en la vida cotidiana.
+D.9.
+Desarrollo de actitudes de espera y de
+participación
+activa.
+Asunción
+de
+responsabilidades (límites y posibilidades) en
+actividades y juegos.
+Juego
+simbólico
+cómo
+estrategia
+para
+cuestionar estereotipos y prejuicios ante
+personas,
+personajes
+y
+situaciones.
+(Observación, imitación y representación de
+personas,
+personajes
+y
+situaciones.
+Estereotipos y prejuicios).
+D.10.
+Celebraciones, costumbres y tradiciones étnico-
+culturales presentes en el entorno o en la
+diversidad de la comunidad educativa, para que
+las familias sientan el sentido de pertenencia a
+la misma.
+Reconocimiento y valoración de otros grupos
+sociales
+de
+pertenencia:
+características,
+funciones y servicios. para la vida en sociedad.
+D.11
+Asentamientos y actividades del entorno.
+D.12.
+Celebraciones, costumbres y tradiciones de la
+comunidad educativa. Participación en los
+festejos del barrio o ciudad.
+D.13.
+Propuestas que presenten una escuela como
+oportunidad de una sociedad pacífica, justa e
+inclusiva y convivencial.
+D.14.
+Promoción de la igualdad y dignidad de todas
+las personas valorando las situaciones de
+pobreza y hambre, fragilidad y de personas
+vulneradas para su erradicación.
+D.15.
+Conocimiento de los derechos de la infancia
+para asegurar la igualdad y dignidad de los
+niños y niñas con respecto a la alimentación,
+bienestar,
+salud,
+educación
+cuidado
+y
+protección.
+17
+ÁREA 2: DESCUBRIMIENTO Y EXPLORACIÓN DEL ENTORNO
+Con esta área se pretende dar valor y favorecer el proceso de
+descubrimiento, observación y exploración de los elementos físicos y
+naturales del entorno, concibiendo este como un escenario complejo,
+rico y estético de posibilidades de emociones y sorpresas, que valoran
+actitudes de respeto y cuidado del propio ambiente.
+El área adquiere sentido desde la complementariedad con las otras
+dos, y así habrán de interpretarse en las propuestas didácticas: desde
+la concepción entramada de la acción y de los aprendizajes.
+Las competencias específicas del área se orientan, por tanto, a
+la observación, investigación y documentación del pensamiento y de
+las estrategias cognitivas a través del proceso de descubrimiento del
+entorno físico y natural. Con ello, se reconoce su disposición por
+indagar, se potencia una actitud cuestionadora y se da valor a las
+soluciones diversificadas. Así, reconocemos la curiosidad infantil
+hacia el entorno, desde un enfoque coeducativo, desde la satisfacción
+de los intereses personales y la toma en consideración de los intereses
+del grupo; por otra, el valor del aprendizaje individual y el
+colaborativo.
+El área se organiza en torno a tres competencias específicas. La
+primera se orienta al valor de destrezas y estrategias que ayudan a
+identificar y establecer relaciones lógicas y fantásticas entre los
+distintos elementos que forman parte del entorno; la segunda se centra
+en el fomento de una actitud crítica y creativa para identificar los
+retos y proponer posibles soluciones; y la tercera supone el
+acercamiento respetuoso hacia el mundo natural para la toma de
+conciencia de la necesidad de su uso sostenible, cuidado y de
+conservación.
+Se concibe, pues, el medio físico y natural como el escenario en
+el que se aprende y sobre el que se aprende. Por tanto, los saberes
+básicos se establecen en función de la exploración cuestionadora y
+18
+creativa de los elementos que forman parte del entorno a través de la
+interacción corporal con el mismo, las destrezas, estrategias y
+procesos ligados a distintas formas de conocimiento y experimentación,
+así como de las actitudes de respeto y valoración que en todo caso
+deben acompañarlos.
+Desde edades muy tempranas, niños y niñas indagan sobre algunas
+de las características y propiedades de los objetos y materias
+presentes en su entorno. Una vez incorporados al centro educativo, se
+favorecen sus acciones, exploraciones y de la manipulación de los
+objetos a su alcance.
+Toman conciencia de las sensaciones que producen y constatan
+algunas de las consecuencias de sus actuaciones sobre ellos; se
+manifiesta la intencionalidad, mediante, en ocasiones, la repetición
+de gestos y acciones para comprobar su relación con el efecto
+provocado, de manera lúdica.
+Como resultado de la exploración y experimentación sobre objetos
+y materiales, y a partir de la discriminación de algunas de sus
+cualidades y atributos, los niños y niñas pueden proponer agrupaciones
+o colecciones según un criterio elegido. También establecen relaciones
+entre algunos de los atributos de los objetos y materias y su
+comportamiento físico cuando se interviene sobre ellas, estableciendo
+correlaciones, a su vez, entre dichas intervenciones y los efectos
+que producen. Ello conlleva el desarrollo de estrategias como la
+anticipación y la previsión, la formulación de hipótesis y la
+observación de fenómenos para constatar si se cumple lo esperado, y
+la discriminación entre las características o atributos permanentes
+y los variables. En definitiva, se produce un acercamiento intuitivo
+e intencional a nociones y conceptos básicos pertenecientes al medio
+físico, siempre contrastados con la propia experimentación, sentando
+las bases del pensamiento científico.
+El medio natural, los seres y elementos que lo integran han sido
+19
+siempre objeto preferente de la curiosidad e interés infantil. Gracias
+al pensamiento sobre sus experiencias y relaciones con los elementos
+de la naturaleza, realizan observaciones, vivencian y comprenden las
+manifestaciones y consecuencias de algunos fenómenos naturales, se
+acercan al conocimiento y valoración de los seres vivos, de algunas
+de sus características y de las relaciones que se establecen entre
+ellos y con los seres humanos. Cobra ahora especial relevancia el
+fomento de la valoración y el aprecio hacia la diversidad y la riqueza
+del medio natural, a partir del descubrimiento de que las personas
+formamos parte también de ese medio y de la vinculación afectiva al
+mismo, dos factores básicos para reconocer desde la escuela actitudes
+de respeto y cuidado hacia el medio ambiente y de adquisición de
+hábitos y estrategias ecosaludables y sostenibles.
+El alumnado, dando valor a sus intereses, afectos y emociones,
+participa con iniciativa propia en situaciones de aprendizaje en las
+que interacciona con objetos, espacios y materiales. Manipulando,
+observando,
+indagando,
+probando,
+identificando,
+relacionando,
+analizando,
+comprobando,
+razonando,
+imaginando,
+inventando,
+fantaseando, creando… descubre las cualidades y atributos de los
+elementos del entorno más cercano. Asimismo, experimenta y despliega
+destrezas y estrategias propias del método científico y del
+pensamiento computacional y de diseño. Además, utiliza los diferentes
+lenguajes y formas de expresión para acompañar sus acciones,
+autorregularse, compartir su sorpresa y su emoción ante un hallazgo,
+formular
+ideas
+o
+preguntas
+y
+contar
+o
+representar
+sus
+interpretaciones, conclusiones e inconclusiones. Todo ello en un
+contexto sugerente y placentero, no exento de retos y dificultades,
+que dan valor a su curiosidad y a su deseo por entender lo que le
+rodea.
+20
+1.COMPETENCIAS ESPECÍFICAS Y CRITERIOS DE EVALUACIÓN
+COMPETENCIA ESPECÍFICA 1
+Identificar las características de materiales, objetos y
+colecciones y establecer relaciones entre ellos, mediante la
+exploración, la manipulación sensorial, el manejo de herramientas
+sencillas y el desarrollo de destrezas lógico- matemáticas para
+descubrir y crear una idea cada vez más compleja del mundo.
+Descripción de la competencia específica 1
+En esta etapa, la curiosidad de los niños y niñas por descubrir
+el mundo que los rodea hace de la exploración a través de la
+manipulación sensorial el instrumento perfecto para identificar las
+características de los materiales y objetos de su entorno más cercano
+y para establecer relaciones entre ellos. La finalidad de este juego
+exploratorio en edades muy tempranas es disfrutar de las sensaciones
+físicas que produce. Sin embargo, a medida que el niño o la niña se
+desarrolla, la demanda exploratoria se amplía: al propósito de obtener
+placer por sentir y tocar se añade progresivamente el interés por
+indagar acerca de las diferentes características de los objetos. Al
+movimiento amplio y global se suma la capacidad para ejercer acciones
+más específicas y minuciosas sobre ellos. Todo ello les proporciona
+cada vez más información acerca de sus cualidades.
+La persona adulta debe proponer retos que hay que resolver,
+contextualizados en situaciones de aprendizaje y experiencias
+significativas, eligiendo el material y el tipo de actividad que
+responda a la intencionalidad que se pretenda conseguir y teniendo en
+cuenta que debe partir de los intereses y las inquietudes individuales
+y grupales, y que la interacción con los demás debe jugar un papel de
+primer orden. Así, los niños y niñas continúan estableciendo
+relaciones entre sus aprendizajes, lo cual les permitirá desarrollar
+progresivamente
+sus
+habilidades
+lógico-matemáticas
+de
+medida,
+relación, clasificación, ordenación y cuantificación; primero,
+21
+ligadas a sus intereses particulares y, progresivamente, formando
+parte de situaciones de aprendizaje que atienden también a los
+intereses grupales y colectivos.
+CRITERIOS DE EVALUACIÓN
+1er ciclo
+2º ciclo
+1.1. Relacionar objetos a partir de sus cualidades o
+atributos básicos, mostrando curiosidad e interés.
+1.1. Establecer distintas relaciones entre los objetos a
+partir de sus cualidades o atributos, mostrando
+curiosidad e interés.
+1.2. Emplear los cuantificadores básicos más
+significativos relacionados con su experiencia diaria,
+utilizándolos en el contexto del juego y la interacción
+con los demás.
+1.2. Emplear los cuantificadores básicos más
+significativos en el contexto del juego y en la
+interacción con los demás.
+1.3. Aplicar sus conocimientos acerca de las nociones
+espaciales básicas para ubicarse en los espacios,
+tanto en reposo como en movimiento, jugando con el
+propio cuerpo y con los objetos.
+1.3. Ubicarse adecuadamente en los espacios
+habituales, tanto en reposo como en movimiento,
+aplicando sus conocimientos acerca de las nociones
+espaciales básicas y jugando con el propio cuerpo y
+con objetos.
+1.4. Identificar las situaciones cotidianas en las que
+es preciso medir, utilizando el cuerpo u otros
+materiales y herramientas para efectuar las medidas.
+1.5. Organizar su actividad, ordenando las secuencias
+y utilizando las nociones temporales básicas.
+COMPETENCIA ESPECÍFICA 2
+Desarrollar de manera progresiva los procedimientos del método
+científico y las destrezas del pensamiento computacional, a través de
+procesos de observación y manipulación de objetos, para iniciarse en
+la interpretación del entorno y responder de forma creativa a las
+situaciones y retos que se plantean.
+Descripción de la competencia específica 2
+Sentar las bases del pensamiento científico, la iniciativa
+investigadora y la curiosidad por el conocimiento es inherente al
+desarrollo de la etapa Educación Infantil. A lo largo de la etapa, el
+alumnado deberá encontrar soluciones o alternativas originales y
+creativas a diferentes cuestiones, retos o situaciones. Y lo hará
+22
+mediante la aplicación de procesos inicialmente sencillos y
+manipulativos, que progresivamente ganarán en complejidad y requerirán
+mayor capacidad de abstracción. Dichos procesos son propios    tanto
+de las destrezas de pensamiento computacional y de diseño como del
+método científico, y se aplicarán descomponiendo una tarea en otras
+más simples, formulando y comprobando hipótesis, explorando e
+investigando, relacionando conocimientos y planteando ideas o
+soluciones originales.
+CRITERIOS DE EVALUACIÓN
+1er ciclo
+2º ciclo
+2.1. Gestionar las dificultades, retos y problemas con
+interés e iniciativa, mediante
+su división
+en
+secuencias de actividades más sencillas.
+2.1. Gestionar situaciones, dificultades, retos o
+problemas mediante la planificación de secuencias de
+actividades, la manifestación de interés e iniciativa y la
+cooperación con sus iguales.
+2.2. Proponer soluciones alternativas originales a
+través de distintas estrategias y técnicas, escuchando
+y respetando las de los demás.
+2.2. Canalizar progresivamente la frustración ante las
+dificultades o problemas mediante la aplicación de
+diferentes estrategias.
+2.3. Plantear hipótesis acerca del comportamiento de
+ciertos elementos o materiales, verificándolas a través
+de la manipulación y la actuación sobre ellos.
+2.4. Utilizar diferentes estrategias para la toma de
+decisiones con progresiva autonomía, afrontando el
+proceso de creación de soluciones originales en
+respuesta a los retos que se le planteen.
+2.5. Programar secuencias de acciones o instrucciones
+para la resolución de tareas analógicas y digitales,
+desarrollando habilidades básicas de pensamiento
+computacional.
+2.6. Participar en proyectos utilizando dinámicas
+cooperativas, compartiendo y valorando opiniones
+propias y ajenas, expresando conclusiones personales
+a partir de ellas.
+23
+COMPETENCIA ESPECÍFICA 3
+Reconocer elementos y fenómenos de la naturaleza, mostrando
+interés por los hábitos que inciden sobre ella, para apreciar la
+importancia del uso sostenible, el cuidado y la conservación del
+entorno en la vida de las personas.
+Descripción de la competencia específica 3
+El entorno próximo es el primer contexto con el que se relacionan
+los niños y niñas desde su nacimiento. Los diferentes elementos y
+fenómenos naturales que en él se desarrollan atraerán su atención y
+supondrán una oportunidad ideal para alentar su curiosidad a medida
+que los va descubriendo. La actitud con la que se relacionen con el
+medio físico y natural condicionará en gran medida sus experiencias
+y aprendizajes. Así, desde el primer momento, debe propiciarse un
+acercamiento al medio natural y a los seres vivos e inertes que forman
+parte de él con todo el cuidado y respeto que su edad y aptitudes le
+permitan.
+Este proceso de descubrimiento y conocimiento progresivo del
+entorno deberá orientarse hacia el desarrollo de una incipiente
+conciencia de conservación para que, desde estas primeras edades, se
+comprenda la    implicación y responsabilidad de todos en el respeto
+y el cuidado del medio.    A lo largo de la etapa, irán adoptando e
+incorporando en sus rutinas diarias hábitos para el desarrollo
+sostenible, como el consumo responsable o el    cuidado y protección
+de la naturaleza y los animales que la habitan. Ello contribuirá a
+que, de manera paulatina, aprendan a valorar las oportunidades que
+ofrece el medio ambiente y todo aquello que hace posible la vida en
+el planeta.
+24
+CRITERIOS DE EVALUACIÓN
+1er ciclo
+2º ciclo
+3.1. Interesarse por las actividades en contacto con la
+naturaleza y las características de los elementos
+naturales del entorno, mostrando respeto hacia ellos y
+hacia los animales que lo habitan.
+3.1. Mostrar una actitud de respeto cuidado y
+protección hacia el medio natural y los animales,
+identificando el impacto positivo o negativo que
+algunas acciones humanas ejercen sobre ellos.
+3.2. Identificar y nombrar los fenómenos atmosféricos
+habituales
+en
+su
+entorno,
+explicando
+sus
+consecuencias en la vida cotidiana.
+3.2. Identificar rasgos comunes y diferentes entre
+seres vivos e inertes.
+3.3. Establecer relaciones entre el medio natural y
+social a partir de conocimiento y la observación de
+algunos fenómenos naturales y de los elementos
+patrimoniales presentes en el medio físico.
+2. SABERES BÁSICOS
+A. Diálogo corporal con el entorno. Exploración creativa de
+objetos, materiales y espacios
+1er ciclo
+2º ciclo
+A.1.
+Curiosidad e interés por la exploración del
+entorno y sus elementos. Curiosidad e interés
+que también se puede manifestar desde la
+distancia observadora.
+Cualidades o atributos de los objetos. Relaciones
+de orden, correspondencia, clasificación y
+comparación propuestas por el alumnado.
+A.2.
+Exploración de objetos y materiales a través de
+los sentidos.
+Cuantificadores básicos contextualizados en
+situaciones de la vida cotidiana.
+A.3.
+Identificación de las cualidades o atributos de
+los objetos y materiales. Efectos que producen
+diferentes acciones sobre ellos.
+Toma de conciencia de la funcionalidad de los
+números en la vida cotidiana.
+A.4.
+Relaciones
+de
+orden,
+correspondencia,
+clasificación y comparación. Capacidad de
+estructurar
+y
+organizar,
+razonar,
+sentir,
+resolver problemas, comunicarlos, ampliar
+posibilidades o establecer conexiones.
+Situaciones en que se hace necesario medir,
+desde unidades de medida no arbitrarias a
+arbitrarias.
+A.5.
+Mirar el mundo de formas diversas, con ojos
+matemáticos,
+artísticos,
+lingüísticos,
+musicales, performáticos o poéticos.
+Uso de las nociones espaciales en relación con
+el propio cuerpo, los objetos y las acciones, tanto
+en reposo como en movimiento.
+25
+A.6.
+Cuantificadores básicos contextualizados en la
+vida cotidiana significativa para los niños y
+niñas.
+Secuenciación temporal en los tiempos vividos
+dentro y fuera del aula.
+A.7.
+Descubrimiento de relaciones y patrones;
+conocer
+los
+aspectos
+cuantitativos
+y
+cualitativos del mundo circundante.
+Resolución de situaciones problemáticas de la
+vida cotidiana.
+A.8.
+Nociones espaciales básicas en relación con el
+propio cuerpo y los objetos. Conocimiento del
+espacio relativo con respecto a la posición,
+forma o cambios de posición y forma.
+A.9.
+Conocimiento de las principales magnitudes
+continuas e interpretación y organización del
+entorno en base a la estadística y el azar.
+A.10.
+Conocimiento significativo de todas estas
+capacidades, que aprenden y expresan los
+niños y niñas en contextos adecuados óptimos
+y en situaciones problemáticas.
+A.11.
+Nociones y estrategias de carácter matemático
+o heurístico para poder observar cómo
+aparecen
+(en
+procesos
+de
+aprendizaje
+autónomo
+y
+relacional)
+en
+las
+experimentaciones y exploraciones infantiles.
+B. Experimentación en el entorno. Curiosidad, pensamiento
+científico, razonamiento lógico y creatividad
+1er ciclo
+2º ciclo
+B.1.
+Indagación en el entorno manifestando diversas
+actitudes: interés, curiosidad, imaginación,
+creatividad, asombro y sorpresa. Y también
+respecto al malestar, a la prudencia, a los
+miedos, a la necesidad de tiempo para decidir.
+Indagación en el entorno, el asombro, el deseo
+de conocer para iniciar cuestionamientos e
+investigaciones.
+B.2.
+Proceso
+de
+construcción
+de
+nuevos
+conocimientos: relaciones y conexiones entre lo
+conocido y lo novedoso, y entre experiencias
+previas y nuevas; andamiaje e interacciones de
+calidad con las personas adultas, con iguales y
+con el entorno.
+Estrategias de construcción y andamiaje de
+nuevos conocimientos: relaciones    y conexiones
+entre
+lo
+conocido
+y
+novedoso,
+y
+entre
+experiencias previas y nuevas con el entorno.
+26
+B.3.
+Habilidades y estrategias de percepción,
+observación, reconocimiento de vivencias, etc.
+Interés por la investigación (en forma de ensayo
+y
+error),
+observando
+y
+comprendiendo,
+formulando
+hipótesis
+y
+descubriendo
+alternativas,
+prediciendo,
+verificando,
+estimando, seleccionando, etc. Responder sin
+cerrar o realizar preguntas abiertas con gusto
+ante lo que se mira, piensa o expresa.
+Enfoque de control de variables. Estrategias y
+técnicas
+de
+investigación:
+ensayo,
+error,
+observación, experimentación, formulación, y
+comprobación de hipótesis, realización de
+preguntas, manejo y búsqueda en distintas
+fuentes de información.
+B.4.
+Secuencia de acciones y estrategias en la
+planificación, organización o autorregulación de
+tareas. Iniciativa en la búsqueda de acuerdos o
+consensos en la toma de decisiones. Respeto
+por los disensos.
+B.5.
+Estrategia para proponer soluciones factibles de
+realizar por el alumnado creativas y acordadas.
+B.6.
+Coevaluación del proceso y de los resultados.
+Hallazgos y conclusiones.
+C. Indagación en el medio físico y natural. Cuidado, valoración
+y respeto
+1er ciclo
+2º ciclo
+C.1.
+Efectos de las propias acciones, actuaciones o
+relaciones en el medio físico y natural y en el
+patrimonio natural y cultural, en un análisis
+crítico de los valores dominantes.
+Elementos naturales (agua, tierra, aire).
+Características y comportamiento (peso,
+capacidad, volumen, mezclas o trasvases).
+C.2.
+Experimentación con los elementos naturales,
+dando prioridad a la experimentación en los
+espacios naturales al aire libre.
+Acciones y estrategias saludables,
+responsables y sostenibles encaminadas hacia
+un uso respetuoso y cuidadoso en el entorno
+natural cercano minimizando las consecuencias
+del cambio climático.
+C.3.
+Fenómenos naturales habituales: repercusión y
+experimentación directa en la vida cotidiana.
+Uso de energías limpias y naturales no
+contaminantes.
+C.4.
+Respeto hacia la naturaleza, los seres vivos y
+los derechos de los animales. Desarrollo de
+biocentrismo y biofilia.
+Fenómenos naturales: identificación y
+repercusión en la vida de las personas.
+Implicación en situaciones de catástrofe.
+C.5.
+Respeto crítico por el patrimonio cultural
+presente en el medio físico.
+Respeto y empatía por los seres vivos y por los
+recursos naturales. Implicación en el cuidado
+tanto de seres vivos como de entornos.
+27
+C.6
+Empatía, cuidado y protección de los animales.
+Respeto de sus derechos.
+C.7
+Respeto por el patrimonio cultural presente en el
+medio físico.
+28
+ÁREA 3: COMUNICACIÓN Y REPRESENTACIÓN DE LA REALIDAD
+Los diversos lenguajes y formas de expresión que se recogen en
+esta área contribuyen a la observación, investigación, documentación,
+reconocimiento singular de los niños y niñas, y se ofrecen de manera
+holística e integrada con las otras dos áreas mediante el diseño de
+situaciones de aprendizaje en las que puedan utilizar diversas formas
+de comunicación y representación en contextos significativos y
+funcionales. Se reconoce en los niños y niñas las capacidades que les
+permiten comunicarse a través de diversos lenguajes y formas de
+expresión como medio para construir su identidad dinámica, representar
+el mundo y relacionarse con las demás personas.
+Las competencias específicas del área se relacionan con la
+capacidad de comunicarse con otras personas de manera respetuosa,
+ética y creativa. Por un lado, se aborda una perspectiva comunicativa
+y, por el otro, se valora un enfoque interactivo en un contexto
+plurilingüe e intercultural. Las competencias específicas en torno a
+las que se organizan los aprendizajes del área están orientadas hacia
+tres aspectos fundamentales de la comunicación: la expresión, la
+comprensión y la interacción para visibilizar las posibilidades
+comunicativas de los diversos lenguajes y formas de expresión. Por
+otra parte, la comunicación permite interpretar y representar el mundo
+en el que vivimos. Por ello, se incluye también una competencia
+específica relacionada con el acercamiento a las manifestaciones
+culturales asociadas a los diversos lenguajes que se integran en el
+área, como un paso hacia el reconocimiento y valoración de la realidad
+multicultural y plurilingüe desde la infancia.
+En el área se valoran las destrezas y estrategias comunicativas:
+las primeras interacciones a través de la expresión corporal y
+gestual, ligadas básicamente a la satisfacción de sus necesidades
+primarias, la adquisición de los códigos de diversas lenguas y
+lenguajes, para producir, interpretar y comprender mensajes, de manera
+29
+singular, personal y creativa, comprendiendo y actuando desde también
+las dificultades y retos que ello supone.
+Todos los lenguajes de la infancia son igualmente importantes y
+están
+interrelacionados
+en
+sus
+formas
+de
+aprendizaje
+y
+de
+comunicación. Con contextos de riqueza lingüística, clara y de
+estructuras u ofertas no simplificadas.
+La oralidad cobra especial relevancia para la comunicación, la
+expresión de vivencias, sentimientos, ideas o emociones, el
+aprendizaje y la regulación de las acciones y actitudes. La lengua
+oral se puede enriquecer a través de la mediación con la persona
+adulta e iguales, proporcionando variedad de situaciones lectoras
+valiosas, de calidad favoreciendo el acceso a formas y usos de riqueza
+lingüística, incluidos algunos elementos de la comunicación no
+verbal.
+Es preciso crear un ambiente multi alfabetizador rico que
+comprenda todos los lenguajes posibles y que establezca relaciones
+entre ellos.
+En el caso del lenguaje escrito, siempre partiendo del interés
+e iniciativa del niño y de la niña, se ofrecen contextos
+multiculturales y con sentido, ricos y complejos. Ese interés se
+vehicula, sin forzar aprendizajes anticipadamente, si ponemos a su
+alcance libros y otros textos de uso social. Esta aproximación se
+produce en el quehacer cotidiano del aula, enmarcada en situaciones
+cotidianas naturales y significativas para los niños y niñas, teniendo
+claro que la adquisición del código escrito no es un objetivo que se
+deba alcanzar en esta etapa.
+En esta etapa educativa ofrecemos también el valor de calidad de
+la literatura como fuente de disfrute y se empieza a tejer, desde la
+escucha de las primeras nanas, canciones de arrullo y cuentos en el
+contexto cotidiano, un vínculo emocional y lúdico con pluralidad de
+tipologías textuales en diversos soportes. Es la etapa de la
+30
+literatura oral por excelencia: rimas, retahílas, folclore, poesías…
+La creación en el aula de un espacio cálido y acogedor donde ubicar
+la biblioteca favorece también el acercamiento natural a la
+literatura, para construir significados, valorar su imaginación y
+fantasía, su acercamiento a realidades culturales propias y ajenas,
+y presentarles otros mundos interconectados.
+Asimismo, se presta especial atención al desarrollo de actitudes
+positivas y de respeto, tanto hacia el repertorio lingüístico
+personal, como al de los y las demás, reconociendo su sensibilidad y
+curiosidad por conocer otras lenguas e invitándolos a explorar otros
+lenguajes y formas de expresión.
+Los niños y niñas se encuentran inmersos en una sociedad en la
+que lo digital afecta a nuestra forma de comunicarnos, obtener
+información, aprender y relacionarnos. Es, por tanto, responsabilidad
+del centro educativo establecer pautas para el desarrollo de hábitos
+de uso saludables de las herramientas y tecnologías digitales, en
+relación y participación con las familias.
+Los lenguajes artísticos, en tanto que sistemas simbólicos,
+adquieren particular relevancia en esta etapa. Proporcionan un cauce
+diverso, variado y flexible para expresarse y relacionarse con el
+mundo exterior. La primera infancia se asombra constantemente, porque
+nada se da por supuesto. La creatividad, tan presente en la etapa,
+tiene que ver con la curiosidad vital. La tarea docente acompaña y
+proporciona las herramientas para consolidarla
+El lenguaje musical es un medio que permite la exploración,
+expresión y comunicación consigo mismo y con los y las demás,
+reconociendo el desarrollo de aspectos como la escucha atenta y
+activa, la sensibilidad, la improvisación y el disfrute a través de
+la voz, el propio cuerpo o los juegos motores y sonoros. De la misma
+manera, también se aproximarán al conocimiento de distintas
+manifestaciones
+musicales
+culturales
+no
+estereotipadas
+ni
+31
+simplificadas.
+Con respecto al lenguaje plástico, en esta etapa se observan y
+desarrollan destrezas y estrategias al tiempo que se experimentan con
+distintas técnicas y materiales para expresar ideas, emociones y
+sentimientos. A su vez, se les pone en contacto con una diversidad de
+expresiones artísticas, para dar valor al desarrollo del sentido
+estético y artístico.
+Por último, el lenguaje corporal permite el descubrimiento de
+nuevas posibilidades expresivas, que pueden utilizarse con una
+intención comunicativa, representativa o estética.
+La etapa se concibe como un continuo de aprendizaje. Desde su
+nacimiento y a lo largo de toda la etapa, las experiencias vitales de
+niños y niñas se van ampliando y diversificando. Paralelamente, se
+despertarán el interés y la curiosidad por descubrir y explorar las
+posibilidades expresivas de los diversos lenguajes y formas de
+expresión para comunicarse de manera singular y creativa en los
+distintos contextos cotidianos, acompañando también los retos y
+dificultades que surgen en el camino.
+Los diversos lenguajes y formas de expresión que se recogen en
+el área contribuyen al desarrollo holístico de los niños y niñas, que
+se abordan de manera global e integrada con las otras dos áreas
+mediante el diseño de situaciones de cuidado y de aprendizaje en las
+que puedan utilizar diversas formas de comunicación y representación,
+basadas también en la disponibilidad de actitudes de escucha y diálogo
+por parte de la profesional que acoja la necesidades y derechos
+singulares comunicativos.
+32
+1.COMPETENCIAS ESPECÍFICAS Y CRITERIOS DE EVALUACIÓN
+COMPETENCIA ESPECÍFICA 1
+Manifestar interés por interactuar en situaciones cotidianas a
+través de la exploración y el uso de su repertorio comunicativo, para
+expresar sus necesidades e intenciones y para responder a las
+exigencias del entorno.
+Descripción de la competencia específica 1
+El deseo o la necesidad de interactuar con el entorno es el motor
+que posibilita la evolución de las destrezas comunicativas. Para ello
+es imprescindible experimentar el placer de comunicarse mediante las
+primeras interacciones ligadas a la emoción, que se producen en
+situaciones globales cuyo contexto (gestos, silencios, prosodia…)
+facilitan la comprensión, la expresión y la integración de los
+significados de las palabras antes de que el niño o la niña sea capaz
+de usarlas. La persona adulta, como principal interlocutor en las
+fases iniciales, se convierte en el facilitador de la experiencia
+comunicativa de cada niño o niña a partir de experiencias compartidas.
+Estimular y promover la intención comunicativa favorece el
+despliegue de diferentes capacidades que le permitirán interpretar
+los mensajes de los demás e interactuar con el entorno para expresar
+sus necesidades, emociones, sentimientos o ideas en un clima de
+bienestar y seguridad emocional y afectiva.
+Participar en situaciones de comunicación significativas y
+funcionales, desde el respeto a las diferencias individuales,
+permitirá al alumnado conocer e integrar progresivamente a su
+repertorio comunicativo los diferentes lenguajes (verbal, no verbal,
+plástico, musical, digital…) y descubrir las posibilidades expresivas
+de cada uno de ellos, para utilizar de manera ajustada y eficaz el
+más adecuado en función de su intención comunicativa o de las
+exigencias del entorno.
+33
+Estas
+interacciones
+comunicativas
+fomentarán
+también
+la
+adquisición progresiva de las convenciones sociales que rigen los
+intercambios comunicativos, así como la curiosidad y motivación hacia
+el aprendizaje de otras lenguas, acercándose progresivamente a los
+significados de distintos mensajes en contextos de comunicación
+conocidos.
+CRITERIOS DE EVALUACIÓN
+1er ciclo
+2º ciclo
+1.1. Participar con interés en interacciones
+cotidianas, utilizando diferentes sistemas
+comunicativos.
+1.1. Participar de manera activa, espontánea y
+respetuosa con las diferencias individuales en
+situaciones comunicativas de progresiva complejidad
+en función de su desarrollo individual.
+1.2. Participar de forma espontánea en situaciones
+comunicativas, adecuando la postura, los gestos y los
+movimientos a sus intenciones.
+1.2. Ajustar su repertorio comunicativo a las
+propuestas, a los interlocutores y al contexto,
+indagando en las posibilidades expresivas de los
+diferentes lenguajes.
+1.3. Manifestar necesidades, sentimientos y vivencias
+utilizando estrategias comunicativas y aprovechando
+las posibilidades que ofrecen los diferentes lenguajes
+con curiosidad y disfrute.
+1.3. Participar en situaciones de uso de diferentes
+lenguas, mostrando interés, curiosidad y respeto por
+la diversidad de perfiles lingüísticos.
+1.4. Tomar la iniciativa en la interacción social
+disfrutando de las situaciones comunicativas con una
+actitud respetuosa.
+1.4. Interactuar con distintos recursos digitales,
+familiarizándose diferentes medios y herramientas
+digitales.
+1.5. Participar en situaciones de uso de diferentes
+lenguas manifestando interés y curiosidad hacia la
+diversidad de perfiles lingüísticos.
+COMPETENCIA ESPECÍFICA 2
+Interpretar y comprender mensajes y representaciones apoyándose
+en conocimientos y recursos de su propia experiencia para responder
+a las demandas del entorno y construir nuevos aprendizajes.
+Descripción de la competencia específica 2
+La comprensión supone recibir y procesar información expresada
+a través de mensajes variados (orales, escritos, multimodales…),
+representaciones y manifestaciones personales, sociales, culturales y
+artísticas próximas al interés o a la necesidad personal, en distintos
+34
+ámbitos y formatos.
+La comprensión implica interpretar mensajes, analizarlos y dar
+respuesta a los estímulos percibidos. Para ello, el alumnado de esta
+etapa irá adquiriendo y activando distintas estrategias para
+desarrollar la capacidad de realizar anticipaciones, aproximaciones
+e inferencias de una manera cada vez más personal y creativa. De esta
+forma, podrá comprender los mensajes y las intenciones comunicativas
+de otras personas e irá construyendo nuevos significados y
+aprendizajes, progresando desde el acompañamiento y la mediación,
+hacia un determinado grado de autonomía y conocimiento del mundo.
+CRITERIOS DE EVALUACIÓN
+1er ciclo
+2º ciclo
+2.1. Interpretar los estímulos y mensajes del entorno
+reaccionando de manera adecuada.
+2.1. Interpretar de forma eficaz los mensajes e
+intenciones comunicativas de los demás.
+2.2. Expresar sensaciones, sentimientos y emociones
+ante distintas representaciones y manifestaciones
+artísticas y culturales.
+2.2. Interpretar los mensajes transmitidos mediante
+representaciones o manifestaciones artísticas,
+también en formato digital, reconociendo la
+intencionalidad del emisor y mostrando una actitud
+curiosa y responsable.
+COMPETENCIA ESPECÍFICA 3
+Producir mensajes de manera eficaz, personal y creativa,
+utilizando diferentes lenguajes, descubriendo los códigos de cada uno
+de ellos y explorando sus posibilidades expresivas, para responder a
+diferentes necesidades comunicativas.
+Descripción de la competencia específica 3
+En las primeras etapas, la producción y emisión de mensajes
+tienen que ver con la necesidad de contacto y satisfacción de las
+necesidades más básicas; el lenguaje corporal y gestual es el esencial
+en ese primer acto comunicativo. El lenguaje oral, gracias a la
+interacción con la persona adulta, se convierte en el vehículo
+principal de aprendizaje, regulación de la conducta y expresión de
+35
+necesidades, ideas, emociones, sentimientos y vivencias. La prosodia
+y todos los aspectos no verbales que acompañan al lenguaje oral cobran
+ahora una importancia capital.
+Conforme se avanza en la etapa, la producción de mensajes permite
+también representar aspectos de la realidad vivida o imaginada de una
+forma cada vez más personal y mejor ajustada a los distintos contextos
+y situaciones comunicativas, a través del uso de diferentes lenguajes.
+El alumnado utilizará diferentes formas de expresión de una manera
+libre y creativa a partir de su conocimiento e interpretación de la
+realidad y la conceptualización y el dominio de los sistemas de
+simbolización y técnicas requeridas en cada caso (verbales, no
+verbales, plásticos, musicales, digitales...). El alumnado irá
+descubriendo, mediante la experimentación y el uso, las posibilidades
+expresivas de cada uno de dichos lenguajes, en función del momento
+concreto de su proceso madurativo y de aprendizaje.
+CRITERIOS DE EVALUACIÓN
+1er ciclo
+2º ciclo
+3.1. Utilizar el lenguaje oral para expresar y compartir
+necesidades, sentimientos, deseos, emociones,
+vivencias; como regulador de acciones y para
+interactuar en diferentes situaciones y contextos.
+3.1. Hacer un uso funcional del lenguaje oral,
+aumentando su repertorio lingüístico y construyendo
+progresivamente un discurso más eficaz, organizado
+y coherente en contextos formales e informales.
+3.2. Explorar las posibilidades expresivas de los
+diferentes lenguajes, utilizando los medios materiales
+propios de los Mismos.
+3.2. Utilizar el lenguaje oral como instrumento
+regulador de la acción en las interacciones con los
+demás con seguridad y confianza.
+3.3. Producir mensajes ampliando y enriqueciendo su
+repertorio comunicativo con seguridad y confianza.
+3.3. Evocar y expresar espontáneamente ideas a
+través del relato oral
+3.4. Elaborar creaciones plásticas explorando y
+utilizando diferentes materiales y técnicas, y
+participando activamente en el trabajo en grupo
+cuando se precise
+3.5. Interpretar propuestas dramáticas y musicales
+utilizando y explorando diferentes instrumentos,
+recursos o técnicas.
+3.6. Ajustar armónicamente su movimiento al de los
+demás y al espacio como forma de expresión
+corporal libre, manifestando interés e iniciativa.
+36
+3.7. Expresarse de manera creativa, utilizando
+diversas herramientas o aplicaciones digitales
+intuitivas y visuales.
+COMPETENCIA ESPECÍFICA 4
+Participar por iniciativa propia en actividades relacionadas con
+textos escritos, mostrando interés y curiosidad, para comprender su
+funcionalidad y algunas de sus características.
+Descripción de la competencia específica 4
+La etapa de Educación Infantil es el entorno privilegiado para
+realizar un acercamiento progresivo al lenguaje escrito como forma de
+comunicación, conocimiento y disfrute. Mediante el acercamiento a los
+textos
+escritos
+y
+su
+exploración
+mediante
+anticipaciones
+e
+inferencias, así como a través de la observación de modelos lectores
+y escritores de calidad, se irá despertando en los niños y niñas la
+curiosidad por descubrir sus funcionalidades. En la medida en que
+avanza en la comprensión de algunas de las características y
+convenciones del lenguaje escrito, se incrementa la necesidad de
+descubrir la información que contiene, con una actitud lúdica y de
+disfrute.
+Siempre desde el respeto a la evolución de los diferentes ritmos
+de desarrollo personal y del conocimiento del proceso a través del
+cual los niños y niñas se apropian del sistema de escritura y las
+hipótesis que utilizan, se promoverá una aproximación al lenguaje
+escrito como actividad inserta en el quehacer cotidiano del aula, como
+inicio de un proceso que deberá consolidarse en la Educación Primaria.
+Las bibliotecas jugarán un papel relevante como espacios donde se
+pongan en juego las ideas infantiles sobre el porqué y el para qué
+del lenguaje escrito, así como lugar de acercamiento al disfrute de
+los primeros contactos con la literatura infantil. Del mismo modo, la
+presencia de soportes y útiles de escritura variados, en lugares
+37
+accesibles, serán una invitación a producir mensajes por placer y a
+sentir la emoción de expresar sus pensamientos, vivencias o
+sentimientos de manera espontánea.
+CRITERIOS DE EVALUACIÓN
+1er ciclo
+2º ciclo
+4.1. Participar en actividades lúdicas de aproximación
+al lenguaje escrito, mostrando una actitud activa.
+4.1 Mostrar interés por comunicarse a través de
+códigos escritos, convencionales o no, valorando su
+función comunicativa.
+4.2. Recurrir a escrituras indeterminadas,
+espontáneas y no convencionales incorporándolas a
+sus producciones con intención comunicativa.
+4.2 Identificar de manera acompañada alguna de las
+características textuales y paratextuales mediante la
+indagación en textos de uso social libres de prejuicios
+y estereotipos sexistas
+4.3. Recurrir a la biblioteca como fuente de
+información y disfrute, respetando sus normas de
+uso.
+COMPETENCIA ESPECÍFICA 5
+Valorar la diversidad lingüística presente en su entorno, así
+como otras manifestaciones culturales, para enriquecer sus estrategias
+comunicativas y su bagaje cultural.
+Descripción de la competencia específica 5
+La riqueza plurilingüe del aula y, en su caso, el aprendizaje de
+lenguas extranjeras se convierte en un elemento de particular
+importancia, ya que favorece la exposición a lenguas distintas de la
+familiar de cada niño o niña, así como una aproximación a las mismas
+a través de interacciones y actividades lúdicas. A partir de ello,
+surge la necesidad de educar en el respeto y la valoración del bagaje
+lingüístico y sociocultural propio y ajeno, entendiendo la pluralidad
+lingüística y dialectal como un elemento enriquecedor que proporciona
+las claves para una mayor y mejor comprensión del mundo. También las
+manifestaciones y representaciones socioculturales constituyen un
+marco privilegiado para la comunicación. La pluralidad de sus
+lenguajes invita a promover el reconocimiento de las semejanzas y
+38
+diferencias entre sus códigos y a desarrollar la sensibilidad hacia
+distintos referentes culturales, prestando una especial atención a la
+literatura infantil.
+De todo ello se espera que surja un diálogo lleno de matices
+entre las diferentes lenguas y manifestaciones culturales que generará
+un amplio abanico de conocimientos implícitos. En ese proceso, las
+palabras actuarán como nexo de unión desde el que enriquecer el bagaje
+cultural y desarrollar la sensibilidad y la creatividad, ofreciendo
+a la infancia, simultáneamente, la llave de acceso a una ciudadanía
+crítica, solidaria, igualitaria y comprometida con la sociedad.
+CRITERIOS DE EVALUACIÓN
+1er ciclo
+2º ciclo
+5.1. Relacionarse con naturalidad en la realidad
+lingüística y cultural del aula.
+5.1. Relacionarse de forma respetuosa en la
+pluralidad lingüística y cultural de su entorno,
+manifestando interés por otras lenguas, etnias y
+culturas.
+5.2. Manifestar interés y disfrute hacia actividades
+individuales o colectivas relacionadas con la literatura
+infantil, las obras musicales, los audiovisuales, las
+danzas o las dramatizaciones, avanzando en una
+actitud participativa.
+5.2. Participar en interacciones comunicativas en
+lengua extranjera relacionadas con rutinas y
+situaciones cotidianas.
+5.3. Manifestar disfrute con obras musicales,
+audiovisuales, danzas o dramatizaciones, avanzando
+en una actitud participativa.
+5.3. Participar en actividades de aproximación a la
+literatura infantil, tanto de carácter individual, como
+en contextos dialógicos y participativos,
+descubriendo, explorando y apreciando la belleza del
+lenguaje literario.
+5.4. Expresar emociones, ideas y pensamientos a
+través de manifestaciones artísticas y culturales,
+disfrutando del proceso creativo.
+5.5. Expresar gustos, preferencias y opiniones sobre
+distintas manifestaciones artísticas, explicando las
+emociones que produce su disfrute.
+39
+2. SABERES BÁSICOS
+A. Intención y elementos de la interacción comunicativa
+1er ciclo
+2º ciclo
+A.1.
+El deseo de comunicarse y valoración de
+formas diversas de comunicación proxémica.
+La emoción, el afecto, la proximidad o
+distancia respetuosa como base del
+intercambio comunicativo y vínculo afectivo,
+en base a la iniciativa del niño o la niña en la
+búsqueda de distancia, cercanía o contacto.
+El deseo de comunicarse. Repertorio
+comunicativo y elementos de comunicación no
+verbal. Respetando periodos de silencio y
+provocando situaciones en contextos orales
+variados.
+A.2.
+La expresión facial y corporal: gestos de
+intención, necesidad, estados de ánimo, y
+sensaciones que los acompañan.
+Comunicación interpersonal: empatía y
+asertividad en conversaciones contextualizadas.
+A.3.
+El contacto e intercambio visual, táctil, sonoro,
+de acoplamiento corporal en las
+conversaciones.
+Convenciones sociales del intercambio
+lingüístico en situaciones comunicativas:
+atención, escucha activa, turnos de diálogo y
+alternancia que potencien el respeto, la
+igualdad y la equidad.
+A.4.
+Las primeras interacciones tónico-
+emocionales y posturales. Expresiones
+faciales y gestuales. El diálogo corporal.
+A.5.
+Nanas, canciones de arrullo y juegos de
+regazo.
+A.6
+Actitudes comunicativas significativas:
+atención conjunta, mirada referencial y
+comprensión de las expresiones emocionales
+y afectivas de los y las demás.
+A.7.
+Contextos de interacción y vínculo.
+A.8
+Estrategias que facilitan los intercambios en
+situaciones comunicativas que potencian el
+respeto, igualdad, equidad, diversidad y
+singularidad: el contacto visual con el y la
+interlocutor e interlocutora, la escucha atenta,
+el turno de diálogo y la alternancia.
+40
+B. Las lenguas y sus hablantes
+1er ciclo
+2º ciclo
+B.1.
+Repertorio lingüístico individual.
+Repertorio lingüístico individual. Acogida de las
+diferentes lenguas de la comunidad educativa.
+B.2.
+Realidad lingüística del aula y del entorno.
+Palabras o expresiones que responden a sus
+necesidades o intereses.
+La realidad lingüística de la comunidad
+educativa. Fórmulas o expresiones que
+responden a sus necesidades o intereses.
+B.3.
+Usos comunicativos y funcionales de las
+lenguas en los diferentes momentos de la vida
+cotidiana.
+C. Comunicación verbal oral. Expresión, comprensión, diálogo
+1er ciclo
+2º ciclo
+C.1.
+El lenguaje oral en situaciones cotidianas:
+primeras conversaciones con sonidos,
+vocalizaciones y juegos de interacción.
+El lenguaje oral en situaciones cotidianas:
+conversaciones, juegos de interacción social y
+expresión de vivencias.
+C.2.
+Expresión de necesidades, vivencias,
+emociones y afectos.
+Utilización de géneros orales formales e
+informales en situaciones contextualizadas del
+aula.
+C.3.
+Lenguaje oral como regulador de la propia
+acción, actuación o actitud.
+Intención comunicativa de los mensajes.
+Creación de situaciones comunicativas reales.
+C.4.
+Repertorio lingüístico: situaciones
+comunicativas, conversaciones colectivas.
+Verbalización de la secuencia de acciones en
+una acción planificada.
+C.5.
+La expresión sonora y la articulación de las
+palabras. Juegos de imitación, lingüísticos y
+de percepción auditiva, que nacen de la
+iniciativa de los niños y niñas.
+Discriminación auditiva y conciencia fonológica.
+C.6.
+Comprensión del mundo y de mensajes a
+través de la escucha activa de niños y niñas y
+personas adultas.
+Situaciones relacionadas con los rituales del
+aula. Estructuras para llevar una comunicación
+funcional.
+C.7.
+Uso de vocabulario comprensible y rico, que
+responda a la situación, concreción,
+contextualización y momento en el que
+vivimos cotidianamente en las escuelas.
+Comprensión de mensajes a través de la
+reformulación de ideas, preguntas e imágenes.
+41
+D. Aproximación al lenguaje escrito
+1er ciclo
+2º ciclo
+D.1.
+Formas escritas y otros símbolos y signos
+presentes en el entorno.
+Los usos sociales y culturales de la lectura y la
+escritura. Funcionalidad y significatividad en
+situaciones comunicativas.
+D.2.
+Acercamiento a los usos del lenguaje escrito,
+que parten de la iniciativa del niño y de la niña.
+Pluralidad de tipologías textuales. Textos
+escritos en diferentes soportes.
+D.3.
+Acercamiento a las propiedades del código
+escrito, que parten de la iniciativa del niño y de
+la niña.
+Intención comunicativa y acercamiento a las
+principales características textuales y
+paratextuales. Primeras hipótesis para la
+interpretación y compresión.
+D.4.
+Pluralidad de tipologías textuales en diversos
+soportes. Lectura de imágenes (fotografías,
+ilustraciones, obras de arte, cómics de
+diversas corrientes y estilos artísticos).
+Las propiedades del sistema de escritura:
+hipótesis cuantitativas y cualitativas.
+D.5.
+Cuidado y respeto por los libros, álbumes.
+Aproximación
+al código escrito,
+evolucionando desde
+las escrituras
+indeterminadas y respetando el proceso
+evolutivo.
+D.6.
+Otros códigos de representación gráfica:
+imágenes, símbolos, números…
+D.7.
+Iniciación a estrategias de búsqueda de
+información, reelaboración y comunicación.
+D.8
+Situaciones de lectura individual o a través de
+lectores modelos de referencia.
+D.9.
+Acercamiento a obras literarias de escritores y
+escritoras de calidad, no únicamente a textos
+adaptados a la infancia.
+42
+E. Aproximación a la educación literaria
+1er ciclo
+2º ciclo
+E.1.
+Textos literarios infantiles orales y escritos con
+contenido libre de prejuicios y estereotipos
+sexistas, que recojan los retos del siglo XXI y
+desarrollen valores sobre cultura de paz,
+derechos de la infancia, igualdad y diversidad
+de género, la diversidad funcional y étnico-
+cultural.
+Textos relacionados con la literatura infantil,
+oral y escrita, libres de estereotipos sexistas y
+que recojan los retos del siglo XXI,
+desarrollando valores sobre cultura de paz,
+derechos del niño, igualdad de género y
+diversidad étnico-cultural.
+E.2.
+Situaciones de lectura. Variedad de tipologías
+textuales en las bibliotecas de aula o de centro.
+Vínculos afectivos y lúdicos a través de
+modelos lectores de referencia.
+Vínculos afectivos y lúdicos con los textos
+literarios incluyendo variedad de tipologías
+textuales en las bibliotecas de aula.
+E.3.
+Complementariedad en las historias entre
+veracidad y fantasía. El binomio fantástico.
+Creación de mundos imaginados o fantásticos.
+Interacciones dialógicas en torno a textos
+literarios libres de prejuicios y estereotipos
+sexistas.
+E.4.
+Aproximación a la lectura respetando las
+fases de adquisición de la misma según el
+momento evolutivo individual.
+E.5.
+Utilización de la biblioteca tanto del aula, de
+centro como del barrio como fuente de
+información y disfrute.
+F. El lenguaje y expresión musicales
+1er ciclo
+2º ciclo
+F.1.
+Reconocimiento, evocación y reproducción de
+canciones y otras manifestaciones musicales de
+calidad sonora y rítmica. Sentimientos, afectos
+y emociones que transmiten.
+Posibilidades sonoras, expresivas y creativas
+de la voz, el cuerpo, los objetos cotidianos de
+su entorno y los instrumentos.
+F.2.
+Posibilidades sonoras y expresivas de la voz,
+del cuerpo, de los objetos y de instrumentos.
+Propuestas musicales en distintos formatos.
+F.3.
+La escucha como descubrimiento y disfrute del
+entorno. Escucha de música en vivo,
+escenificación original de las músicas.
+El sonido, el silencio y sus cualidades. El
+código musical.
+F.4.
+Cualidades de silencios y sonidos.
+Intención expresiva en las producciones
+musicales.
+43
+F.5.
+Entonación y ritmo.
+La escucha musical como disfrute.
+F.6.
+Escucha de diferentes géneros musicales.
+Acercamiento a músicos destacados en la
+historia musical, sin reducir la escucha a
+obras creadas para la infancia.
+G. El Lenguaje y la expresión plásticos y visuales
+1er ciclo
+2º ciclo
+G.1.
+Materiales específicos e inespecíficos, colores,
+texturas, técnicas y procedimientos artísticos.
+Materiales
+específicos
+e
+inespecíficos,
+elementos,
+técnicas
+y
+procedimientos
+artísticos.
+G.2.
+Líneas, trazos, puntos, manchas, huellas,
+composición, texturas gráficas; la expresión
+abstracta y figurativa.
+Intención expresiva de producciones a
+través de la pintura, escultura, arquitectura,
+fotografía y cine.
+G.3.
+Consciencia del yo y de la alteridad a través de
+las expresiones plásticas.
+Manifestaciones
+plásticas
+variadas.
+Diferentes corrientes y géneros artísticos.
+Acercamiento a diferentes artistas locales o
+reconocidos mundialmente potenciando la
+igualdad de género.
+G.4.
+Expresiones plásticas y visuales. Otras
+expresiones artísticas. La expresión y
+comunicación artística como experiencia vital.
+H. El lenguaje y la expresión corporales.
+1er ciclo
+2º ciclo
+H.1.
+Expresión libre y espontánea a través del gesto,
+tono y movimiento.
+Posibilidades expresivas y comunicativas del
+propio cuerpo en actividades individuales y
+grupales libres de prejuicios y estereotipos
+sexistas.
+H.2.
+Desplazamientos por el espacio.
+Juegos de expresión corporal y dramática.
+H.3.
+Juegos de imitación, simulación y
+representación a través del cuerpo y de
+diferentes técnicas dramáticas.
+Acercamiento a los tipos y géneros de
+danzas.
+44
+H.4.
+La gramática teatral: actuaciones,
+entonaciones, escenografías, actor-
+actriz/espectador-espectadora, cambio de roles,
+monólogos y diálogos, el juego dramático.
+La representación teatral y sus recursos
+teatrales.
+H.5.
+Juegos de “fingir qué”. Posibilidades narrativas.
+Tramas de las historias.
+H.6
+Danzas diversas estéticas: clásicas y
+contemporáneas, de diversas culturas.
+I. Alfabetización digital
+1er ciclo
+2º ciclo
+I.1.
+Uso contextualizado de aplicaciones y
+herramientas digitales con distintos fines:
+creación, comunicación y aprendizaje.
+I.2.
+Uso saludable y responsable por parte del
+docente de las tecnologías digitales. Frenar
+la hiperestimulación tecnológica.
+I.3.
+Lectura e interpretación crítica de imágenes
+e información recibida a través de medios
+digitales.
+I.4
+Función educativa de los dispositivos y
+elementos tecnológicos de su entorno.
 
 ## ANEXO III. Situaciones de aprendizaje
 
