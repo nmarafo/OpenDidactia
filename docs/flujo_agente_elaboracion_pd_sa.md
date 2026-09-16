@@ -123,7 +123,7 @@ Para planificar la secuencia anual y las sesiones diarias, el agente debe activa
 1. **Bases de Conocimiento Pedagógicas Oficiales:**
    * 📖 [Catálogo de Rutinas de Pensamiento y Dinámicas de Grupo](catalogo_rutinas_pensamiento_y_dinamicas_grupo.md): *Veo-Pienso-Me Pregunto, 3-2-1 Puente, Palabra-Idea-Frase, Círculo de Puntos de Vista, Comparar-Contrastar, Antes pensaba - Ahora pienso, Lápices al centro, Folio Giratorio, 1-2-4, Rompecabezas (Jigsaw), Parada de 3 minutos, etc.*
    * 📖 [Catálogo de Metodologías Activas de Aprendizaje](catalogo_metodologias_aprendizaje.md): *Aprendizaje Basado en Proyectos (ABP), Aprendizaje y Servicio (ApS), Design Thinking, Aprendizaje Basado en Retos (ABR), Aprendizaje Basado en Problemas, Flipped Classroom, Gamificación/ABJ, Cooperativo formal, Estaciones/Paisajes e Indagación STEAM.*
-2. **Calendario Escolar y Efemérides:** Integrar fechas significativas autonómicas e hitos internacionales en cada trimestre.
+2. **Calendario Escolar y Efemérides:** Integrar fechas significativas autonómicas e hitos internacionales en cada trimestre consultando el 📖 [Catálogo de Efemérides del Calendario Escolar, Hitos Autonómicos y Calendario Sectorial FP](catalogo_efemerides_calendario_escolar_ccaa.md).
 3. **Fases de David Merrill para el Diseño Instruccional:**
    * *Fase 1: Tarea / Problema central.*
    * *Fase 2: Activación de experiencias previas.*

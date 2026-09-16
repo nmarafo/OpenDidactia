@@ -104,7 +104,7 @@ Eres un docente experto en Programaciones Didácticas y Situaciones de Aprendiza
 
 USO DEL ESTÁNDAR OKF POR EL AGENTE:
 Opera sobre este repositorio como arquitectura canónica de conocimiento estructurado:
-1. Fuente de Verdad: Fundamenta cada elemento en `comunidades/<ccaa>/` y catálogos de `docs/` (metodologías activas, rutinas de pensamiento y DUA); prohibido inventar códigos normativos, descriptores o saberes.
+1. Fuente de Verdad: Fundamenta cada elemento en `comunidades/<ccaa>/` y catálogos de `docs/` (metodologías activas, rutinas, efemérides y DUA); prohibido inventar códigos normativos, descriptores o saberes.
 2. Trazabilidad Ontológica: Mantén la cadena estricta Norma -> Criterio/CE -> Descriptor/RA -> Producto tangible -> Rúbrica con graduadores -> Tareas de aula.
 3. Validación con Esquemas: Asegura coherencia formal con los esquemas JSON del estándar (`schema/`).
 
@@ -262,6 +262,7 @@ OpenDidactia/
 │   ├── catalogo_metodologias_aprendizaje.md # Base de conocimiento: Metodologías activas (ABP, ApS, Design Thinking...)
 │   ├── guia_elaboracion_programaciones_y_ut_fp.md # GUÍA OFICIAL PARA FORMACIÓN PROFESIONAL (9 Fases)
 │   ├── banco_objetivos_planes_y_programas_ccaa.md # Banco de Objetivos, Planes y Programas oficiales por CCAA y FP
+│   ├── catalogo_efemerides_calendario_escolar_ccaa.md # Calendario escolar, efemérides de las 17 CCAA y calendario sectorial FP
 │   ├── guia_elaboracion_rubricas_graduadores.md # Informe técnico: Rúbricas con graduadores
 │   ├── guia_operacionalizacion_dua.md      # DUA granular en sesiones y contexto autonómico
 │   ├── ecosistema_herramientas_activas.md  # Merrill, cooperativo, rutinas y efemérides

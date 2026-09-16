@@ -80,19 +80,21 @@ Estructuras de aprendizaje cooperativo formal (Spencer Kagan y Pere Pujolàs) qu
 
 ---
 
-## 5. Calendario Escolar y Efemérides Significativas de Canarias
+## 5. Calendario Escolar y Efemérides Significativas (Nacionales, Autonómicas y FP)
 
-Fechas oficiales para vincular e insertar las Situaciones de Aprendizaje a lo largo de los tres trimestres:
+Para consultar el catálogo exhaustivo de efemérides nacionales, internacionales, hitos oficiales de las **17 Comunidades Autónomas, Ceuta y Melilla**, así como el calendario profesional de Formación Profesional, véase el **[Catálogo Completo de Efemérides por CCAA y Calendario Sectorial FP](catalogo_efemerides_calendario_escolar_ccaa.md)**.
 
-| Periodo / Trimestre | Efeméride o Hito Escolar | Oportunidad Didáctica en Canarias |
+A modo de ejemplo de articulación curricular trimestral en las 9 Situaciones de Aprendizaje (referencia Canarias):
+
+| Periodo / Trimestre | Efeméride o Hito Escolar | Oportunidad Didáctica Contextualizada |
 | :--- | :--- | :--- |
-| **Septiembre (1.º Trim.)** | Semana Europea de la Movilidad (16-22 sep.) | Transporte sostenible en las islas, reducción de huella de carbono. |
-| **Octubre (1.º Trim.)** | Día Mundial de los Animales y la Biodiversidad (4 oct.) | Endemismos de la fauna canaria y protección de especies amenazadas. |
-| **Noviembre (1.º Trim.)** | Día de la Infancia (20 nov.) / Día contra la Violencia de Género (25 nov.) | Derechos del niño, coeducación, convivencia positiva y prevención. |
-| **Diciembre (1.º Trim.)** | Día de la Constitución (6 dic.) y Derechos Humanos (10 dic.) | Estatuto de Autonomía de Canarias, autogobierno democrático y justicia social. |
+| **Septiembre (1.º Trim.)** | Semana Europea de la Movilidad (16-22 sep.) | Transporte sostenible en el entorno local, reducción de huella de carbono. |
+| **Octubre (1.º Trim.)** | Día Mundial de los Animales y la Biodiversidad (4 oct.) | Ecosistemas autóctonos, endemismos y protección de especies amenazadas. |
+| **Noviembre (1.º Trim.)** | Día de la Infancia (20 nov.) / Día contra la Violencia de Género (25 nov.) | Derechos de la infancia, coeducación, convivencia positiva y relaciones igualitarias. |
+| **Diciembre (1.º Trim.)** | Día de la Constitución (6 dic.) y Derechos Humanos (10 dic.) | Estatutos de Autonomía, autogobierno democrático, justicia social y libertades. |
 | **Enero (2.º Trim.)** | Día Escolar de la No Violencia y la Paz (DENIP - 30 ene.) | Mediación escolar, cultura de paz y resolución dialogada de conflictos. |
-| **Febrero (2.º Trim.)** | **Día de las Letras Canarias (21 feb.)** | Autoras y autores de la literatura canaria, poesía insular y lengua española. |
-| **Marzo (2.º Trim.)** | Día de las Matemáticas (14 mar.) / Día de los Bosques (21 mar.) | Modelización matemática y la laurisilva canaria como bosque fósil. |
-| **Abril (3.º Trim.)** | Día Mundial de la Salud (7 abr.) / Día del Libro (23 abr.) | Hábitos saludables, juegos tradicionales canarios y ferias del libro escolar. |
-| **Mayo (3.º Trim.)** | **Día de Canarias (30 de mayo)** | Patrimonio integral, historia, gastronomía, geología, música y tradiciones de las islas. |
-| **Junio (3.º Trim.)** | Día Mundial del Medio Ambiente (5 jun.) / Océanos (8 jun.) | Reserva Marina de Canarias, biodiversidad cetácea y energías renovables. |
+| **Febrero (2.º Trim.)** | **Hito Cultural / Literario Autonómico** (ej. Letras Canarias 21 feb., Carnaval) | Literatura propia, patrimonio lingüístico, expresión artística y folclore. |
+| **Marzo (2.º Trim.)** | Día de las Matemáticas (14 mar.) / Día de los Bosques (21 mar.) | Modelización matemática en la vida real y conservación del patrimonio forestal. |
+| **Abril (3.º Trim.)** | Día Mundial de la Salud (7 abr.) / Día del Libro (23 abr. - Sant Jordi) | Hábitos saludables, fomento del plan lector y ferias del libro escolar. |
+| **Mayo (3.º Trim.)** | **Día de la Comunidad Autónoma** (ej. 30 may. Canarias, 2 may. Madrid, 17 may. Galicia) | Patrimonio integral, historia, gastronomía, geografía, música y tradiciones. |
+| **Junio (3.º Trim.)** | Día Mundial del Medio Ambiente (5 jun.) / Océanos (8 jun.) | Conservación marina y terrestre, energías renovables y economía circular. |
