@@ -8,13 +8,13 @@ Este directorio contiene el marco normativo y el catálogo curricular oficial de
 
 En consonancia con la recopilación canónica de [nmarafo/open-lex-edu](https://github.com/nmarafo/open-lex-edu), se incluyen los textos íntegros y metadatos de los tres decretos autonómicos que regulan las etapas no universitarias en Canarias:
 
-| Etapa Educativa | Disposición Oficial | Boletín Oficial | Código OKF |
-| :--- | :--- | :---: | :---: |
-| **Educación Infantil** | **Decreto 196/2022**, de 13 de octubre | BOC n.º 212 (26/10/2022) | `norm-can-d-196-2022` |
-| **Educación Primaria** | **Decreto 211/2022**, de 10 de noviembre | BOC n.º 231 (23/11/2022) | `norm-can-d-211-2022` |
-| **Educación Secundaria Obligatoria y Bachillerato** | **Decreto 30/2023**, de 16 de marzo | BOC n.º 58 (23/03/2023) | `norm-can-d-30-2023` |
+| Etapa Educativa | Disposición Oficial | Boletín Oficial | Código OKF | Documentación Transcrita |
+| :--- | :--- | :---: | :---: | :--- |
+| **Educación Infantil** | **Decreto 196/2022**, de 13 de octubre | BOC n.º 212 (26/10/2022) | `norm-can-d-196-2022` | [Texto íntegro + Anexos 1, 2 y 3](normativa/D196_2022_ordenacion_curriculo_educacion_infantil_canarias.md) |
+| **Educación Primaria** | **Decreto 211/2022**, de 10 de noviembre | BOC n.º 231 (23/11/2022) | `norm-can-d-211-2022` | [Texto íntegro + Anexos 1, 2, 3 y 4](normativa/D211_2022_ordenacion_curriculo_educacion_primaria_canarias.md) |
+| **ESO y Bachillerato** | **Decreto 30/2023**, de 16 de marzo | BOC n.º 58 (23/03/2023) | `norm-can-d-30-2023` | • [Articulado del Decreto](normativa/D30_2023_ordenacion_curriculo_eso_bachillerato_canarias.md)<br>• [Anexo 1: Perfil de Salida y Comp. Clave](normativa/D30_2023_anexo1_perfil_salida_competencias.md)<br>• [Anexo 2: Currículos ESO (21 materias)](normativa/D30_2023_anexo2_curriculo_eso_canarias.md)<br>• [Anexo 3: Currículos Bachillerato (41 materias)](normativa/D30_2023_anexo3_curriculo_bachillerato_canarias.md)<br>• [Anexos 4-9: Situaciones y Horarios](normativa/D30_2023_anexos4_9_ordenacion_horarios.md) |
 
-Los archivos completos se ubican en [normativa/](file:///c:/Users/norbe/Documents/OKFPDySA/comunidades/canarias/normativa).
+Los archivos completos se ubican en [`normativa/`](normativa/).
 
 ---
 

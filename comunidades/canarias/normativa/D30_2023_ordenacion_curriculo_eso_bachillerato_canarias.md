@@ -1274,7 +1274,19 @@ Román Rodríguez Rodríguez.
 LA CONSEJERA DE EDUCACIÓN,
 UNIVERSIDADES, CULTURA Y DEPORTES,
 Manuela de Armas Rodríguez.
+---
 
-Ver anexo en las páginas 15372-17274 del documento
-                        Descargar
+## 📑 Anexos Oficiales del Decreto 30/2023 (Transcripción Íntegra OKF)
 
+Los anexos oficiales publicados en el BOC n.º 58 (páginas 15372 a 17274) se encuentran íntegramente transcritos y normalizados en los siguientes documentos del repositorio:
+
+* 📘 **[Anexo 1: Perfil de Salida del Alumnado y Competencias Clave en Bachillerato](D30_2023_anexo1_perfil_salida_competencias.md)** (Marco competencial, descriptores operativos de la enseñanza básica y Bachillerato).
+* 📗 **[Anexo 2: Currículos de las Materias de la Educación Secundaria Obligatoria (ESO)](D30_2023_anexo2_curriculo_eso_canarias.md)** (Transcripción oficial completa de las 21 materias de ESO: competencias específicas, criterios de evaluación, saberes básicos y situaciones de aprendizaje).
+* 📙 **[Anexo 3: Currículos de las Materias del Bachillerato](D30_2023_anexo3_curriculo_bachillerato_canarias.md)** (Transcripción oficial completa de las 41 materias de Bachillerato: competencias específicas, criterios de evaluación, saberes básicos y situaciones de aprendizaje).
+* 📕 **[Anexos 4 a 9: Organización, Horarios Escolares y Situaciones de Aprendizaje](D30_2023_anexos4_9_ordenacion_horarios.md)**:
+  * Anexo 4: Situaciones de aprendizaje.
+  * Anexo 5: Horario escolar semanal de la Educación Secundaria Obligatoria.
+  * Anexo 6: Horario escolar semanal del Bachillerato.
+  * Anexo 7: Continuidad entre materias de Bachillerato.
+  * Anexo 8: Relación de materias optativas de la ESO y Bachillerato.
+  * Anexo 9: Organización del Bachillerato en tres años académicos.
