@@ -1,0 +1,290 @@
+﻿PROYECTO DE DIRECCIÓN 2026-2030: IES VIENTOS ALISIOS (GRANADILLA DE ABONA)
+1. MARCO CONCEPTUAL, NORMATIVO Y JUSTIFICACIÓN DEL PROYECTO
+1.1. Introducción: La Dirección Escolar como Liderazgo Pedagógico y Transformador
+La presentación de este Proyecto de Dirección para el IES Vientos Alisios, centro imaginario pero anclado en la realidad tangible del sur de Tenerife, no responde únicamente a la exigencia administrativa derivada del marco legislativo vigente, sino que se constituye como la formalización de un compromiso ético, profesional y cívico con la comunidad educativa de San Isidro y el municipio de Granadilla de Abona. En un contexto educativo caracterizado por la complejidad socioeconómica, la diversidad cultural y la constante transformación normativa, asumir la dirección de un centro público requiere transitar desde un modelo de gestión puramente burocrático hacia un liderazgo pedagógico distribuido, inclusivo y sostenible.
+La literatura especializada y las directrices europeas coinciden en señalar que el liderazgo escolar es el segundo factor interno más influyente en los resultados del alumnado, solo superado por la práctica docente en el aula. Por tanto, este documento no es una mera declaración de intenciones, sino una hoja de ruta estratégica diseñada para el periodo 2026-2030, orientada a la mejora del éxito escolar, la cohesión social y la modernización institucional. Se fundamenta en la convicción de que el IES Vientos Alisios posee un capital humano con un potencial extraordinario que, mediante una organización estratégica y una cultura de evaluación continua, puede situarse como referente de calidad en la comarca.
+El proyecto se alinea rigurosamente con los principios rectores del sistema educativo español, tal como se recogen en la Ley Orgánica 3/2020 (LOMLOE), que enfatiza la equidad, la inclusión educativa y el enfoque competencial del aprendizaje. Asimismo, asume los retos específicos de la educación en Canarias, definidos por la Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, que establece la compensación de desigualdades y la promoción de la identidad canaria como ejes vertebradores del currículo y la organización escolar. La dirección se concibe aquí como un servicio público esencial para garantizar el derecho a la educación en condiciones de igualdad, especialmente relevante en zonas de crecimiento demográfico acelerado como el sur de Tenerife.1
+1.2. Justificación Normativa y Requisitos de Acceso
+La arquitectura de este proyecto se fundamenta en la jerarquía normativa que regula el acceso, la selección y el ejercicio de la función directiva en la Comunidad Autónoma de Canarias. La viabilidad y legalidad de las propuestas aquí contenidas se verifican bajo los siguientes preceptos legales, que actúan como cimientos de la propuesta:
+En primer lugar, la Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE), modificada por la LOMLOE (Ley 3/2020), establece en sus artículos 134 y siguientes los requisitos y el procedimiento de selección, destacando la necesidad de presentar un proyecto de dirección que incluya, entre otros, los objetivos, el análisis del centro y las líneas de actuación. Este marco estatal se complementa con la normativa autonómica específica, principalmente el Decreto 106/2009, de 28 de julio, por el que se regula la función directiva en los centros docentes públicos no universitarios dependientes de la Comunidad Autónoma de Canarias, y sus modificaciones posteriores mediante el Decreto 121/2015.3
+Es fundamental destacar la relevancia del Decreto 152/2020, de 15 de septiembre, que regula el acceso a la función directiva y la formación, evaluación y reconocimiento de los directores en determinados contextos, sirviendo de referencia para los procesos selectivos más recientes. Según las bases que rigen estos procedimientos, el proyecto de dirección se valora con una puntuación máxima significativa (hasta 60 puntos en algunos baremos comparados), lo que denota la importancia capital de la planificación estratégica sobre los meros méritos de antigüedad.5 Este decreto, junto con las órdenes de convocatoria anuales —como la anticipada para el periodo 2026-2030 basada en las resoluciones de 2024 y 2025—, exige que el candidato posea una antigüedad de al menos cinco años como funcionario de carrera y presente un proyecto ajustado a la realidad del centro.7
+Además, la propuesta integra la normativa reguladora de los planes y programas estratégicos a los que el centro está o estará adscrito, que son instrumentos financiados y regulados externamente pero que requieren una implementación contextualizada:
+* Programa PROA+ (Programa de Orientación, Avance y Enriquecimiento Educativo): Regulado por resoluciones de la Secretaría de Estado de Educación y la Consejería de Educación de Canarias, en el marco del Plan de Recuperación, Transformación y Resiliencia (Componente 21), financiado por la Unión Europea (NextGenerationEU).9
+* Red Canaria-InnovAS: Regulada por la Resolución de la Dirección General de Ordenación de las Enseñanzas, Inclusión e Innovación, que establece los ejes temáticos y la estructura de coordinación para la innovación pedagógica y el aprendizaje sostenible.4
+* Plan Digital de Centro (PDC): Exigido como instrumento de planificación para el desarrollo de la competencia digital, siguiendo el Marco de Referencia de la Competencia Digital Docente (MRCDD) y las instrucciones de la Dirección General competente.12
+* Programa AICLE/CLIL: Basado en las instrucciones anuales para el desarrollo del Aprendizaje Integrado de Contenidos y Lenguas Extranjeras en Canarias, que definen los requisitos de titulación del profesorado y la organización curricular.14
+1.3. Modelo de Dirección: Liderazgo Distribuido y Sistémico
+El modelo de dirección que propongo se aleja radicalmente del personalismo jerárquico tradicional para abrazar el paradigma del liderazgo distribuido. Entendemos que la complejidad del IES Vientos Alisios, con una matrícula que supera los 800 alumnos y un claustro oscilante de más de 90 docentes, hace inviable e ineficaz la centralización de la toma de decisiones en una sola persona. El liderazgo distribuido implica empoderar a los mandos intermedios (Jefaturas de Departamento, Coordinadores de Proyectos, Tutores) y fomentar la participación real de la comunidad educativa.
+Este enfoque se articula sobre tres pilares fundamentales:
+1. Liderazgo Pedagógico: La dirección debe centrar su energía en lo que ocurre en el aula. La gestión administrativa, aunque necesaria, debe ser eficiente y automatizada para liberar tiempos que se dedicarán a la coordinación didáctica, la observación de prácticas docentes y el análisis de resultados académicos. El director debe ser el "primer maestro" del centro, capaz de orientar metodológicamente al claustro.
+2. Gobernanza Participativa y Democrática: Se potenciarán las Comisiones de Coordinación Pedagógica (CCP) como verdadero motor curricular y se revitalizará el Consejo Escolar como órgano de gobierno y control democrático, superando su rol a veces formalista.8 La participación de las familias y el alumnado es un indicador de calidad democrática que este proyecto pretende elevar.
+3. Enfoque Sistémico y Comunitario: El centro no es una isla; es un nodo en una red comunitaria compleja. El proyecto contempla alianzas estratégicas con los Servicios Sociales del Ayuntamiento de Granadilla de Abona, el Centro de Salud de San Isidro, las empresas locales y otras instituciones educativas del distrito. La apertura al entorno es vital para contextualizar el aprendizaje y ofrecer oportunidades reales al alumnado.17
+________________
+2. ANÁLISIS DEL CONTEXTO Y DIAGNÓSTICO DE SITUACIÓN
+2.1. Entorno Socioeconómico: San Isidro y el Municipio de Granadilla de Abona
+El análisis del contexto no es un trámite descriptivo, sino la base sobre la que se asientan los objetivos. El IES Vientos Alisios se ubica en la localidad de San Isidro, el núcleo poblacional más dinámico y habitado del municipio de Granadilla de Abona, en el sur de Tenerife.
+Dinámica Demográfica y Migratoria:
+Granadilla de Abona ha experimentado un crecimiento demográfico exponencial en las últimas dos décadas, convirtiéndose en uno de los municipios con mayor incremento poblacional de Canarias y de España. San Isidro actúa como ciudad dormitorio y zona de primera acogida para una población trabajadora vinculada mayoritariamente al sector servicios, la hostelería y la construcción en la zona turística del sur de la isla. Según datos demográficos recientes, el municipio supera los 50.000 habitantes, con una estructura poblacional joven.2
+Esta realidad tiene un impacto directo en el centro educativo: la matrícula viva. El IES recibe un flujo constante de alumnado que se incorpora a lo largo de todo el curso escolar, procedente de otros municipios, de la Península o del extranjero. La diversidad cultural es una característica estructural, con más de 35 nacionalidades presentes en las aulas, lo que enriquece el entorno pero plantea retos significativos en términos de integración lingüística y cultural.
+Perfil Socioeconómico y Vulnerabilidad:
+Si bien Granadilla es un motor económico, existen bolsas de precariedad significativas. El nivel de renta de las familias es heterogéneo, pero con un percentil significativo en riesgo de exclusión social y pobreza relativa. El diagnóstico de infancia y adolescencia del municipio alerta sobre necesidades claras: mayor seguimiento del absentismo escolar, demanda de actividades extraescolares accesibles y la necesidad de reducir las ratios para atender la diversidad.17 El tejido familiar a menudo presenta dificultades para la conciliación laboral, debido a los horarios rotativos del sector turístico, lo que impacta en el seguimiento del estudio en casa y la participación en la vida del centro.
+A pesar de ello, el Ayuntamiento de Granadilla de Abona destaca por ser una de las administraciones locales que más invierte porcentualmente en educación (9,17% de su presupuesto según estudios citados), lo que ofrece una oportunidad de colaboración institucional que este proyecto pretende maximizar.1
+Infraestructuras Educativas:
+La presión demográfica ha saturado históricamente las infraestructuras educativas de la zona. Aunque la administración educativa planifica nuevas construcciones, como el CEO San Isidro, la realidad actual del IES Vientos Alisios es la de un centro con alta ocupación, uso intensivo de espacios y necesidad de optimización de aulas.18
+2.2. Características del Centro Educativo: IES Vientos Alisios
+El IES Vientos Alisios es un centro de Educación Secundaria que oferta las etapas de Educación Secundaria Obligatoria (ESO), Bachillerato (modalidades de Ciencias y Tecnología, y Humanidades y Ciencias Sociales) y Formación Profesional Básica.
+Recursos Humanos y Cultura Profesional:
+El claustro se caracteriza por su juventud y dinamismo, pero también por una tasa de interinidad superior a la media, derivada de los concursos de traslados y la expansión de plantilla por programas externos. Esta inestabilidad dificulta la continuidad de los proyectos a largo plazo si no se institucionalizan fuertemente a través de la dirección y los departamentos estables. Existe un núcleo de profesorado definitivo muy comprometido con la innovación, que ha liderado la adscripción a redes como InnovAS, pero se detecta cierta fatiga burocrática y necesidad de liderazgo claro.
+Clima Escolar y Convivencia:
+Los indicadores de convivencia reflejan un número de incidencias moderado-alto, típicas de entornos masificados y diversos. Predominan las disrupciones en el aula y los conflictos interpersonales entre iguales, a menudo derivados de la falta de habilidades socioemocionales y barreras comunicativas. No obstante, no se registran niveles alarmantes de violencia grave, lo que indica que el clima base es positivo pero mejorable mediante estrategias preventivas y restaurativas.
+Recursos Tecnológicos:
+Gracias a las dotaciones recientes de la Consejería (Proyecto Medusa, fondos MRR), el centro dispone de buena conectividad y paneles interactivos en la mayoría de las aulas. El reto actual no es el hardware, sino la integración pedagógica de estos recursos, tal como se refleja en el diagnóstico del Plan Digital de Centro.20
+2.3. Análisis DAFO (Debilidades, Amenazas, Fortalezas, Oportunidades)
+Como síntesis del diagnóstico, presentamos la matriz DAFO que fundamenta la elección de los objetivos prioritarios:
+
+
+FORTALEZAS (Internas)
+	DEBILIDADES (Internas)
+	1. Adscripción consolidada a programas estratégicos (AICLE, PROA+, Red InnovAS) que aportan recursos extra.21
+	1. Elevada tasa de repetición en 1º y 2º de ESO, superior a la media de Canarias.
+	2. Núcleo de profesorado innovador y coordinadores de proyectos motivados.
+	2. Discontinuidad en la coordinación pedagógica debido a la alta interinidad del claustro.
+	3. Plan Digital de Centro (PDC) en fase de desarrollo con equipamiento actualizado.20
+	3. Dificultades de comunicación efectiva con familias no hispanohablantes o con brecha digital.
+	4. Existencia de servicios complementarios (transporte, desayuno escolar).
+	4. Protocolos de acogida insuficientes para gestionar el alto volumen de matrícula viva.
+	
+
+OPORTUNIDADES (Externas)
+	AMENAZAS (Externas)
+	1. Financiación extraordinaria MRR (PROA+) para contratación de personal y actividades palanca.9
+	1. Presión demográfica en San Isidro que mantiene las ratios en el límite legal, dificultando la atención personalizada.17
+	2. Colaboración activa con el Ayuntamiento de Granadilla (inversión educativa, servicios sociales).1
+	2. Entorno socioeconómico vulnerable que dificulta el apoyo familiar al estudio.
+	3. Creciente demanda de FP y colaboración con el tejido empresarial local.
+	3. Riesgo de segregación escolar si no se gestiona adecuadamente la diversidad cultural.
+	________________
+3. OBJETIVOS PRIORITARIOS DEL PROYECTO (2026-2030)
+Basándonos en el diagnóstico DAFO y alineados con las líneas estratégicas de la Consejería de Educación y Formación Profesional, establecemos cinco objetivos prioritarios que vertebrarán todas las actuaciones del centro durante el mandato. Estos objetivos son interdependientes y buscan un impacto sistémico.
+Objetivo 1: Mejora del Éxito Escolar y Reducción del Absentismo
+Meta Estratégica: Incrementar la tasa de graduación en ESO en un 10% y reducir la tasa de repetición en el primer ciclo de ESO en un 15% al finalizar el mandato en 2030.
+Fundamentación: El éxito escolar es el indicador último de calidad y equidad. En un entorno vulnerable como San Isidro, obtener el título de ESO es el factor de protección social más potente contra la exclusión. Este objetivo se vincula directamente con el programa PROA+ y sus líneas estratégicas de "Asegurar condiciones de educabilidad" y "Apoyo al alumnado con dificultades de aprendizaje".9 No se trata de bajar el nivel, sino de diversificar las estrategias de evaluación y apoyo para que todo el alumnado pueda alcanzar las competencias clave.
+Objetivo 2: Fortalecimiento de la Convivencia Positiva y el Bienestar Emocional
+Meta Estratégica: Reducir los partes de incidencia graves en un 20% e implementar un programa de Educación Emocional sistemático en todas las tutorías de la ESO.
+Fundamentación: El aprendizaje no es posible sin bienestar. La alta diversidad y la complejidad social del entorno requieren una gestión proactiva de la convivencia, transitando de un modelo puramente sancionador a uno restaurativo y educacional. Este objetivo se apoya en el Eje de Promoción de la Salud y Educación Emocional de la Red InnovAS, abordando problemáticas como la ansiedad, el acoso y la gestión de conflictos.24
+Objetivo 3: Consolidación de la Transformación Digital Educativa
+Meta Estratégica: Alcanzar el nivel "Avanzado" en la competencia digital del centro (según rúbrica SELFIE) y lograr que el 100% del profesorado acredite al menos un nivel A2/B1 en Competencia Digital Docente.
+Fundamentación: La competencia digital es hoy una competencia transversal habilitante. No se trata solo de usar tecnología, sino de integrarla para personalizar el aprendizaje y mejorar la gestión. El Plan Digital de Centro será el instrumento para cerrar la brecha digital detectada en el alumnado y capacitar al profesorado en metodologías activas mediadas por tecnología.12
+Objetivo 4: Impulso a la Internacionalización y el Plurilingüismo
+Meta Estratégica: Aumentar en un 25% el alumnado matriculado en el programa AICLE y obtener la acreditación Erasmus+ (KA120) para el centro.
+Fundamentación: En una economía insular altamente internacionalizada y dependiente del turismo y los servicios, la competencia lingüística es clave para la empleabilidad futura del alumnado de Granadilla. El programa AICLE debe democratizarse, dejando de ser una opción elitista para convertirse en una herramienta de equidad que garantice el acceso a lenguas extranjeras a todo el alumnado, independientemente de su origen socioeconómico.27
+Objetivo 5: Integración, Participación y Apertura a la Comunidad
+Meta Estratégica: Duplicar la participación de las familias en las elecciones al Consejo Escolar y consolidar una "Escuela de Familias" activa.
+Fundamentación: La escuela no puede suplir a la familia, pero debe atraerla y colaborar con ella. Es imperativo derribar las barreras culturales, lingüísticas y burocráticas que alejan a las familias del centro, aprovechando el Eje de "Familia y Participación Educativa" de la Red InnovAS.28 Un centro participativo es un centro más transparente y eficaz.
+________________
+4. DESARROLLO ESTRATÉGICO DE PLANES Y PROGRAMAS OFICIALES
+La dirección escolar no debe limitarse a gestionar la burocracia de los programas, sino que debe ejercer un liderazgo que dote de coherencia pedagógica a los múltiples planes a los que el centro está adscrito. A continuación, se detalla el despliegue operativo de los principales programas, integrándolos en la vida diaria del centro para evitar la fragmentación y la sobrecarga docente.
+4.1. Programa PROA+ (Programa de Orientación, Avance y Enriquecimiento Educativo)
+El IES Vientos Alisios asume el programa PROA+ (financiado por el FSE+ y el MRR) como la herramienta financiera y pedagógica principal para garantizar la equidad y la inclusión educativa.3 La dirección liderará la implementación del Plan Estratégico de Mejora (PEM) derivado de este programa.
+4.1.1. Diagnóstico y Selección de Líneas Estratégicas
+El PEM del centro se focalizará en dos líneas prioritarias del programa, seleccionadas por su pertinencia con el análisis DAFO realizado 23:
+* Línea E2: Apoyo al alumnado con dificultades de aprendizaje.
+* Línea E1: Asegurar las condiciones mínimas de educabilidad.
+4.1.2. Implementación de Actividades Palanca (AP)
+Para el periodo 2026-2030, seleccionamos y desarrollamos las siguientes Actividades Palanca (AP) del catálogo oficial del Ministerio y la Consejería, detallando su operativa real en el centro 30:
+Tabla 1: Despliegue de Actividades Palanca PROA+
+Actividad Palanca (AP)
+	Descripción Operativa e Implementación en el IES Vientos Alisios
+	Recursos y Responsables
+	Indicadores de Impacto Esperados
+	AP 260: Docencia Compartida
+	Incorporación sistemática de un segundo docente dentro del aula en las materias instrumentales (Matemáticas y Lengua Castellana) en los grupos de 1º y 2º de ESO con mayor índice de repetición. El objetivo es permitir metodologías activas y atención personalizada sin segregar al alumnado (inclusión plena). Se evitarán los desdobles fuera del aula.
+	Recursos: Dotación horaria adicional PROA+ (Profesorado de refuerzo). Responsable: Jefatura de Estudios y Departamentos Didácticos implicados.
+	- Reducción del % de suspensos en materias instrumentales.
+
+
+- Nº de sesiones semanales con codocencia efectiva (Meta: 100% de las horas en grupos diana).
+	AP 230: Actividades de Refuerzo (Tutorías Afectivas)
+	Implementación de un sistema de tutorías individualizadas para alumnado en riesgo severo de abandono escolar o desconexión. Cada alumno "vulnerable" es asignado a un mentor docente voluntario que realiza un seguimiento académico y emocional quincenal, estableciendo un vínculo de confianza.
+	Recursos: Horas lectivas de tutoría y complementarias del profesorado participante. Responsable: Departamento de Orientación y Vicedirección.
+	- Tasa de absentismo en el grupo de seguimiento.
+
+
+- Mejora en la satisfacción y sentido de pertenencia del alumnado (encuestas de clima).
+	AP 104: Estimulación e Inclusión
+	Organización de talleres de enriquecimiento curricular en horario de tarde para atender la doble excepcionalidad: alumnado con altas capacidades y alumnado con rezago motivacional. Se utilizará el Aprendizaje Basado en Proyectos (ABP) en temáticas atractivas como Robótica, Teatro Social o Radio.
+	Recursos: Presupuesto económico PROA+ para contratación de monitores o gratificaciones. Responsable: Vicedirección y Coordinador PROA+.
+	- Nº de alumnos participantes.
+
+
+- Mejora en la competencia social y cívica evaluada por rúbricas.
+	4.1.3. Gestión y Coordinación del PROA+
+La integración del PROA+ en la Programación General Anual (PGA) es crítica. Estas actividades no serán un anexo extracurricular, sino que formarán parte del núcleo de la actividad docente. La Jefatura de Estudios priorizará en la confección de horarios la coincidencia de las parejas pedagógicas para la docencia compartida y establecerá una hora quincenal de coordinación obligatoria para estos equipos, evitando la improvisación en el aula.32
+4.2. Red Canaria-InnovAS: Aprendizaje Sostenible
+La Red InnovAS es el marco que aglutina la innovación educativa en Canarias. El proyecto de dirección prioriza la participación activa en tres Ejes Temáticos que se cruzan transversalmente con nuestros objetivos prioritarios, buscando sinergias y evitando la dispersión de esfuerzos.4
+Eje 1: Promoción de la Salud y la Educación Emocional
+Este eje es fundamental para abordar el Objetivo 2 (Convivencia).
+* Acción Estratégica "Desayunos Saludables y Sostenibles": Transformación de la oferta de la cafetería escolar para eliminar la bollería industrial y promover el consumo de fruta local (Km 0), en coordinación con las familias y proveedores locales.
+* Programa "No soy un robot" 25: Implementación curricular en las tutorías de ESO de talleres sobre gestión de la ansiedad ante exámenes, uso saludable de redes sociales y prevención de adicciones tecnológicas.
+* Protocolo de Duelo: Actualización, difusión y formación del claustro en el protocolo de acompañamiento en el duelo, una necesidad detectada tras situaciones críticas en la comunidad, para ofrecer soporte emocional inmediato.25
+Eje 2: Educación Ambiental y Sostenibilidad
+Vinculado al contexto de presión urbanística de San Isidro y a la crisis climática global.
+* Auditoría de Residuos y Gestión: El alumnado de la materia de Ciencias de la Tierra y Medio Ambiente (Bachillerato) realizará auditorías trimestrales de los residuos generados en el centro, diseñando campañas de mejora basadas en datos reales.
+* Proyecto "Patio Vivo": Plan de renaturalización de los espacios de cemento del centro mediante la instalación de jardines verticales y zonas de sombra vegetal, implicando al alumnado de FP Básica en el diseño y mantenimiento, promoviendo así el aprendizaje servicio.
+Eje 3: Comunicación Lingüística, Bibliotecas y Radios Escolares
+Esencial para la mejora de la competencia lingüística (Objetivos 1 y 4).
+* Radio Escolar "Onda Alisios": Dinamización de la radio escolar como herramienta pedagógica para la mejora de la expresión oral. Se establecerá un calendario donde cada departamento didáctico se compromete a generar al menos un producto (podcast) trimestral relacionado con su materia (entrevistas históricas, divulgación científica, debates literarios).
+* Plan Lector Digital: Hibridación de la biblioteca física con las plataformas de lectura digital de la Consejería (eBiblio Canarias), fomentando clubes de lectura virtuales que permitan la participación de las familias.
+4.3. Plan Digital de Centro (PDC): Estrategia de Transformación
+El PDC se concibe en este proyecto no como un documento técnico inerte, sino como la estrategia integral de transformación pedagógica y organizativa del IES.12
+Estructura de Liderazgo y Diagnóstico
+Se constituirá un Equipo de Coordinación Digital permanente, liderado por un miembro del equipo directivo (preferentemente Vicedirección o Secretaría) junto con el Coordinador TIC y un representante de cada área troncal. El punto de partida será el análisis anual mediante la herramienta SELFIE para monitorizar el progreso en las áreas de liderazgo, infraestructuras, pedagogía y evaluación.
+
+
+Objetivos del PDC para el periodo 2026-2030
+20:
+
+
+1. Dimensión Pedagógica:
+   * Objetivo: Generalizar el uso de Entornos Virtuales de Aprendizaje (EVAGD / Google Classroom) como soporte imprescindible a la presencialidad.
+   * Indicador: El 100% de las materias tendrán un aula virtual activa con recursos, programación y tareas evaluables.
+2. Dimensión Organizativa y Administrativa:
+   * Objetivo: Digitalización integral de los procesos administrativos y de comunicación con las familias (App Pincel Ekade / Konvoko). Eliminar el uso de papel en las comunicaciones oficiales (circulares, autorizaciones) para el año 2027.
+   * Indicador: Reducción del gasto en reprografía y papel en un 40% anual acumulativo.
+3. Dimensión Tecnológica e Infraestructura:
+   * Objetivo: Mantenimiento sostenible y renovación planificada del parque tecnológico (tablets, portátiles y paneles interactivos).
+   * Acción: Establecimiento de un protocolo de "Incidencias Cero" con tiempos de respuesta garantizados (menos de 48h para averías críticas en aulas).
+Formación en Competencia Digital Docente (CDD)
+El Plan de Formación en Centro se reorientará para cubrir las carencias detectadas en la acreditación de la CDD. Se diseñarán itinerarios formativos diferenciados (Nivel A1/A2 para iniciación, B1/B2 para profundización) utilizando la oferta del CEP Tenerife Sur, con el objetivo de que todo el claustro certifique su nivel conforme al marco europeo.26
+4.4. Programa AICLE (Aprendizaje Integrado de Contenidos y Lenguas Extranjeras)
+El programa CLIL/AICLE es una palanca esencial para la competitividad futura de nuestro alumnado en el mercado laboral canario.14
+* Estrategia de Expansión e Inclusión: Actualmente ofertado en líneas específicas, el proyecto propone extender gradualmente la metodología AICLE a la Formación Profesional Básica (inglés técnico aplicado) y consolidar la oferta en Bachillerato. Se trabajará para evitar que el programa genere segregación interna, garantizando apoyos para el alumnado AICLE con dificultades.
+* Coordinación Metodológica: Se establecerá una hora de coordinación semanal obligatoria para el profesorado AICLE dentro de su horario lectivo (respetando la normativa de cupo) dedicada exclusivamente a la elaboración de materiales integrados y al diseño de proyectos interdisciplinares.
+* Optimización de Auxiliares de Conversación: Se maximizará el impacto de los auxiliares de conversación asignándoles un horario rotativo que priorice las destrezas orales (Speaking) en grupos reducidos, evitando su uso como mero asistente de aula pasivo.
+________________
+5. ORGANIZACIÓN, GESTIÓN DE RECURSOS Y LIDERAZGO DISTRIBUIDO
+La consecución de los objetivos estratégicos requiere una maquinaria organizativa eficiente, transparente y, sobre todo, participativa. La dirección actuará como facilitadora de procesos y garante del clima laboral.
+5.1. Organigrama Funcional y Distribución de Responsabilidades
+El Equipo Directivo funcionará como un órgano colegiado con responsabilidades compartidas pero áreas de gestión claramente delimitadas para evitar duplicidades y vacíos de poder:
+* Dirección: Representación institucional, liderazgo pedagógico global, relación con la Inspección Educativa y el Ayuntamiento, coordinación del Proyecto Educativo de Centro (PEC) y supervisión directa del programa PROA+. Responsable última de la Comisión de Convivencia.
+* Jefatura de Estudios: Coordinación académica, elaboración de horarios, evaluación del alumnado, atención a la diversidad, coordinación de Jefes de Departamento y diseño del Plan de Formación del Profesorado. Supervisión del Plan de Acción Tutorial (PAT).
+* Secretaría: Gestión económica y presupuestaria, dirección del Personal de Administración y Servicios (PAS), mantenimiento de instalaciones e infraestructuras, gestión de plataformas digitales administrativas, certificación académica y protección de datos.
+* Vicedirección: Coordinación de actividades extraescolares y complementarias, gestión del transporte escolar (servicio crítico en Granadilla dada la dispersión geográfica), coordinación operativa de la Red InnovAS y gestión de la proyección exterior del centro (web, redes sociales).
+5.2. Gestión de Recursos Humanos: Estabilidad y Motivación
+Ante la realidad de la alta interinidad y la rotación de plantilla, el proyecto propone medidas de estabilización cultural:
+* Plan de Acogida al Profesorado: Desarrollo de un dossier digital interactivo y sesiones presenciales de mentorización en septiembre para docentes de nueva incorporación. Se explicará la cultura del centro, el uso de aplicaciones corporativas, las normas de convivencia y los protocolos de emergencia.
+* Reconocimiento Profesional: Visibilización de las buenas prácticas docentes a través de la web del centro y propuesta sistemática de certificaciones de innovación educativa ante la Consejería para aquellos docentes que participen activamente en los proyectos InnovAS y PROA+. Cuidar al cuidador es esencial para prevenir el burnout.
+5.3. Gestión Económica, Transparencia y Sostenibilidad
+La gestión del presupuesto del centro (gastos de funcionamiento + fondos finalistas) se regirá por los principios de transparencia absoluta y vinculación a objetivos pedagógicos.
+* Presupuestos Participativos: Los departamentos didácticos presentarán sus propuestas de gasto priorizadas en función de cómo contribuyen a los Objetivos del Proyecto de Dirección. Por ejemplo, la adquisición de material para metodologías activas (AICLE, STEAM) tendrá prioridad sobre el material fungible convencional.
+* Digitalización del Gasto: Implementación de herramientas de gestión interna que permitan a los coordinadores conocer el estado de ejecución de su partida presupuestaria en tiempo real, evitando desviaciones.
+* Captación de Fondos Externos: Búsqueda activa de subvenciones adicionales (Erasmus+, proyectos de innovación del Cabildo de Tenerife, mecenazgo de empresas locales para FP) para complementar la dotación ordinaria.
+* Eficiencia Energética: En coordinación con el Eje de Sostenibilidad, se implementarán medidas de ahorro (temporizadores, concienciación) y se gestionará con la Consejería la instalación de paneles fotovoltaicos en las cubiertas del centro, aprovechando la alta insolación de San Isidro.
+5.4. Coordinación con Órganos de Gobierno y Participación
+* Claustro de Profesores: Se transformará de un órgano meramente informativo a un foro de debate pedagógico real. Se reservará una parte de las sesiones ordinarias para el intercambio de experiencias didácticas ("Píldoras formativas") y el análisis de resultados, reduciendo la lectura de normativa burocrática.
+* Consejo Escolar: Se potenciarán las comisiones delegadas (Económica, Convivencia, Comedor, Igualdad) para agilizar el funcionamiento de los plenos. Se presentarán informes de progreso semestrales sobre la ejecución de este Proyecto de Dirección para garantizar la rendición de cuentas ante la comunidad educativa.16
+________________
+6. EVALUACIÓN DEL PROYECTO Y RENDICIÓN DE CUENTAS
+La evaluación no se concibe como un acto final fiscalizador, sino como un proceso continuo de reflexión, rendición de cuentas y reajuste estratégico. Este proyecto se someterá a una evaluación interna y externa rigurosa, alineada con los indicadores de la Inspección Educativa de Canarias y la normativa de función directiva.35
+6.1. Sistema de Indicadores de Logro
+Para objetivar el éxito del proyecto, definimos una matriz de indicadores clave de desempeño (KPIs) asociados a los objetivos estratégicos, estableciendo una línea base (situación actual estimada 2025) y una meta para el final del mandato (2030).
+Tabla 2: Matriz de Indicadores de Evaluación del Proyecto
+Dimensión Estratégica
+	Indicador Clave (KPI)
+	Valor Base (2025)
+	Meta Final (2030)
+	Fuente de Verificación
+	Éxito Escolar
+	Tasa bruta de titulación en 4º de ESO
+	78%
+	85%
+	Actas de Evaluación (Pincel Ekade)
+	Calidad Educativa
+	% de alumnado en niveles medio-alto en pruebas de diagnóstico (Competencia Lingüística/Matemática)
+	15%
+	20%
+	Informes de la Agencia Canaria de Calidad (ACCUEE)
+	Convivencia
+	Nº total de expedientes disciplinarios abiertos por curso escolar
+	25
+	<15
+	Aplicación de Gestión de la Convivencia
+	Liderazgo
+	Grado de satisfacción del Claustro con la gestión del Equipo Directivo (Escala 1-5)
+	3.5
+	>4.2
+	Encuestas anónimas anuales internas
+	Digitalización
+	Nivel de Competencia Digital del Centro (Rúbrica SELFIE)
+	B1 (Intermedio)
+	C1 (Avanzado)
+	Informe SELFIE / Plan Digital de Centro
+	Participación
+	% de participación de las familias en las elecciones al Consejo Escolar
+	8%
+	16%
+	Actas de la Junta Electoral del Centro
+	6.2. Procedimientos de Seguimiento y Autoevaluación
+1. Memoria Anual de Dirección: Al finalizar cada curso escolar, la dirección presentará al Consejo Escolar una memoria específica sobre el grado de cumplimiento de los objetivos de este proyecto, integrando los datos cuantitativos y cualitativos en la Memoria Final del centro. Este documento servirá de base para la elaboración de la PGA del curso siguiente.37
+2. Comisión de Evaluación de la Función Directiva: Se solicitará proactivamente a la Inspección Educativa la realización de reuniones de seguimiento a mitad de mandato (al finalizar el 2º año) para ajustar el rumbo si fuera necesario ante cambios normativos o contextuales imprevistos. Se utilizarán las rúbricas oficiales de evaluación de la función directiva como guía de autoevaluación continua.35
+3. Encuestas de Clima Escolar: Realización anual de encuestas a todos los sectores de la comunidad educativa (alumnado, familias, profesorado, PAS) para detectar áreas de mejora en la gestión, la comunicación, la limpieza y la seguridad del centro.
+6.3. Rúbrica de Evaluación de la Función Directiva
+La dirección es consciente de que su desempeño será evaluado institucionalmente al finalizar el mandato. Este proyecto se diseña para cumplir con los criterios consolidados en la normativa canaria y las resoluciones de evaluación 39, que incluyen dimensiones como:
+* Eficacia en la gestión administrativa y económica.
+* Liderazgo pedagógico y gestión optimizada de los recursos humanos.
+* Promoción efectiva de la convivencia y mejora del clima escolar.
+* Impulso y consolidación de planes de mejora y proyectos de innovación educativa.
+* Calidad de las relaciones con el entorno y la comunidad educativa.
+El objetivo final es obtener una calificación positiva que certifique no solo la consolidación administrativa del proyecto, sino la mejora objetiva y tangible de la realidad educativa del IES Vientos Alisios.
+________________
+7. CONCLUSIÓN Y VISIÓN DE FUTURO
+El Proyecto de Dirección 2026-2030 para el IES Vientos Alisios no es un simple documento burocrático; es un mapa de navegación detallado para gestionar la complejidad educativa en uno de los entornos más desafiantes y dinámicos de Canarias. Se sustenta en la firme convicción de que la escuela pública es el motor de ascenso social más potente y la herramienta más eficaz para la construcción de ciudadanía democrática.
+A través de la integración inteligente y pedagógica de los programas PROA+, Red InnovAS, AICLE y la estrategia de Transformación Digital, y bajo un liderazgo distribuido que pone a las personas (alumnado, docentes, familias y personal no docente) en el centro de todas las decisiones, aspiramos a construir un centro educativo que no solo instruya, sino que cuide, inspire y prepare a ciudadanos competentes para un mundo globalizado.
+Al finalizar este mandato en 2030, visualizamos el IES Vientos Alisios como un centro transformado:
+* En lo Académico: Un centro que ha logrado romper la curva determinista que asocia el código postal con el resultado académico, mejorando sus tasas de éxito.
+* En lo Social: Un espacio de convivencia pacífica y enriquecedora donde la diversidad cultural de San Isidro se percibe como un activo valioso.
+* En lo Institucional: Una organización moderna, digitalizada, transparente y abierta a su entorno.
+Este proyecto es una invitación honesta a toda la comunidad educativa a trabajar juntos, con rigor profesional, ilusión y responsabilidad compartida, para que cada alumno y alumna que cruce nuestras puertas tenga la oportunidad real de alcanzar su máximo potencial.
+Fdo: La Candidata a la Dirección
+San Isidro, Granadilla de Abona, a fecha de la convocatoria correspondiente.
+Obras citadas
+1. Granadilla de Abona es el municipio que más invierte de su ..., fecha de acceso: enero 17, 2026, https://www.granadilladeabona.org/granadilla-de-abona-es-el-municipio-que-mas-invierte-de-su-presupuesto-en-educacion-en-tenerife/
+2. CONTEXTO SOCIOECONÓMICO Y CULTURAL. - IES Granadilla, fecha de acceso: enero 17, 2026, https://www.iesgranadilla.es/wp-content/uploads/2025/02/PROYECTO-EDUCATIVO.pdf
+3. Instrucciones de organización y funcionamiento de los centros ..., fecha de acceso: enero 17, 2026, https://canarias.fe.ccoo.es/e20056f106669c4f6f6271401bab8c83000063.pdf
+4. resolución conjunta de la viceconsejería de educación y la - STEC, fecha de acceso: enero 17, 2026, https://www.stec.es/stec/archivos_subidos/noticias/15103/_3661.pdf
+5. Convocatoria Pública para la Selección de Directores de Centros ..., fecha de acceso: enero 17, 2026, https://www.csif.es/es/articulo/andalucia/educacion/81286
+6. MÓDULO 1 Proyecto Direccion Centros Educativos | PDF - Scribd, fecha de acceso: enero 17, 2026, https://es.scribd.com/document/973273844/MODULO-1-Proyecto-Direccion-Centros-Educativos
+7. Selección de directores y directoras de los centros públicos de ..., fecha de acceso: enero 17, 2026, https://sede.gobiernodecanarias.org/sede/movil/tramites/5644
+8. ¿Cómo se elige la dirección de un centro educativo? - Consejo ..., fecha de acceso: enero 17, 2026, https://www3.gobiernodecanarias.org/educacion/cec/guia/como-se-elige-la-direccion-de-un-centro-educativo/
+9. Programa #PROA+ FSE+ 2024-2028 - Gobierno de Canarias, fecha de acceso: enero 17, 2026, https://www.gobiernodecanarias.org/educacion/web/programas_cofinanciados/nextgenerationeu/programa-proa/2024-2028/index.html
+10. Programa para la orientación, avance y enriquecimiento educativo ..., fecha de acceso: enero 17, 2026, https://www.educacionfpydeportes.gob.es/mc/sgctie/cooperacion-territorial/programas-cooperacion/proa.html
+11. Red Canaria de Centros Educativos para la Innovación y Calidad ..., fecha de acceso: enero 17, 2026, https://www.gobiernodecanarias.org/educacion/web/programas-redes-educativas/redes-educativas/red-canarias-innovas/instrucciones/
+12. Regulación de la elaboración del Plan digital de los centros ..., fecha de acceso: enero 17, 2026, https://laadministracionaldia.inap.es/noticia.asp?id=1226167
+13. Plan Digital de Centro - INTEF, fecha de acceso: enero 17, 2026, https://intef.es/wp-content/uploads/2020/07/2020_0707_Plan-Digital-de-Centro_-INTEF.pdf
+14. Programa AICLE (curso 2024-2025) - Gobierno de Canarias, fecha de acceso: enero 17, 2026, https://www3.gobiernodecanarias.org/medusa/procedimientos/convocatoria/aicle-24-25/
+15. INSTRUCCIONES PARA EL DESARROLLO DEL PROGRAMA DE ..., fecha de acceso: enero 17, 2026, https://www3.gobiernodecanarias.org/medusa/edublog/cprofestelde/instrucciones-para-el-desarrollo-del-programa-de-aprendizaje-integrado-de-lenguas-extranjeras-aicle-en-canarias-durante-el-curso-2024-2025/
+16. ¿Cómo se delimitan las competencias del Claustro y del Consejo ..., fecha de acceso: enero 17, 2026, https://consejoescolardecanarias.org/guia/como-se-delimitan-las-competencias-del-claustro-y-del-consejo-escolar-por-ejemplo-en-la-seleccion-de-libros-de-texto-o-en-la-adhesion-del-centro-a-proyectos-2/
+17. DIAGNOSTICO-Infancia-y-Adolescencia-Granadilla-de-Abona ..., fecha de acceso: enero 17, 2026, https://www.granadilladeabona.org/wp-content/uploads/2022/08/DIAGNOSTICO-Infancia-y-Adolescencia-Granadilla-de-Abona-2022_corregido-OK-1_compressed-1.pdf
+18. Educación adjudica la redacción del proyecto del CEO San Isidro ..., fecha de acceso: enero 17, 2026, https://www3.gobiernodecanarias.org/noticias/educacion-adjudica-la-redaccion-del-proyecto-del-ceo-san-isidro-en-granadilla-de-abona/
+19. Indicadores socioeconómicos de San Isidro - Diputación de Alicante, fecha de acceso: enero 17, 2026, http://documentacion.diputacionalicante.es/2demogr.asp?codigo=03904
+20. Plan Digital de Centro - IES Granadilla, fecha de acceso: enero 17, 2026, https://www.iesgranadilla.es/wp-content/uploads/2022/10/PDC_IES_Granadilla_de_Abona.pdf
+21. Normativa | Programas, proyectos y redes - Gobierno de Canarias, fecha de acceso: enero 17, 2026, https://www.gobiernodecanarias.org/educacion/web/programas-redes-educativas/normativa/index.html
+22. Proyecto de Dirección - IES La Mojonera, fecha de acceso: enero 17, 2026, https://www.ieslamojonera.com/wp-content/uploads/2022/05/Proyecto-de-Direccio%CC%81n-2022-2026.pdf
+23. BOE-A-2025-13294 Resolución de 18 de junio de 2025, de la ..., fecha de acceso: enero 17, 2026, https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-13294
+24. RED CANARIA-InnovAS | Redes educativas - Gobierno de Canarias, fecha de acceso: enero 17, 2026, https://www.gobiernodecanarias.org/educacion/web/programas-redes-educativas/redes-educativas/red-canarias-innovas/
+25. RED EDUCATIVA CANARIA – INNOVAS CURSO 2024-2025, fecha de acceso: enero 17, 2026, https://www3.gobiernodecanarias.org/medusa/ecoescuela/saludescolar/2024/05/31/red-canaria-educativa-innovas-curso-2024-2025/
+26. Plan Digital de Centro - CPEIPS San Vicente de Paúl, fecha de acceso: enero 17, 2026, https://sanvicentedepaul.es/wp-content/uploads/2023/09/PDC-San-Vicente-de-Paul-1.1.pdf
+27. Programa AICLE (curso 2025-2026) - Gobierno de Canarias, fecha de acceso: enero 17, 2026, https://www3.gobiernodecanarias.org/medusa/procedimientos/convocatoria/aicle-25-26/
+28. Red InnovAs dentro de los focos temáticos de EPALE 2024, fecha de acceso: enero 17, 2026, https://epale.ec.europa.eu/es/blog/red-innovas-dentro-de-los-focos-tematicos-de-epale-2024
+29. Resumen de Actividades Palanca - Educantabria, fecha de acceso: enero 17, 2026, https://www.educantabria.es/documents/39930/275003/Resumen_actividades_palanca.pdf/e075fdab-b68b-f065-f8f9-51d52a6f048e
+30. CATÁLOGO DE ACTIVIDADES PALANCA PROA+, fecha de acceso: enero 17, 2026, https://www.edu.xunta.gal/centros/ceipmanuelsueiro/system/files/Cat%C3%A1logo%20de%20AP.pdf
+31. CATÁLOGO DE ACTIVIDADES PALANCA PROA+, fecha de acceso: enero 17, 2026, https://ceice.gva.es/documents/161862987/388525606/Catalogo_de_Actividades_Palanca_PROAplus.pdf
+32. AP 260 DOCENCIA COMPARTIDA (EINF,EPRI Y ESO) - CREECYL, fecha de acceso: enero 17, 2026, http://creecyl.centros.educa.jcyl.es/sitio/upload/3.d_AP_260-_DOCENCIA_COMPARTIDA.pdf
+33. PLAN DIGITAL DE CENTRO - Gobierno de Canarias, fecha de acceso: enero 17, 2026, https://www3.gobiernodecanarias.org/medusa/edublog/iessimonperez/plan-digital-de-centro/
+34. plan digital de centro - IES La Isleta, fecha de acceso: enero 17, 2026, https://ieslaisleta.net/storage/1439/65443513c398c_Plan-Digital-de-Centro.pdf
+35. Evaluación de la función directiva 2021-2025 - Gobierno de Canarias, fecha de acceso: enero 17, 2026, https://www.gobiernodecanarias.org/educacion/web/personal/docente/procedimientos/direccion/funcion-directiva/index.html
+36. La evaluación de la inspección educativa en Canarias - Dialnet, fecha de acceso: enero 17, 2026, https://dialnet.unirioja.es/servlet/articulo?codigo=9530719
+37. Documentos propios del centro - Consejo Escolar de Canarias, fecha de acceso: enero 17, 2026, https://www3.gobiernodecanarias.org/educacion/cec/guia-consejos-escolares/documentos-propios-del-centro/
+38. Evaluación de la función directiva 2021-2025 - Gobierno de Canarias, fecha de acceso: enero 17, 2026, https://www.gobiernodecanarias.org/educacion/web/personal/docente/procedimientos/direccion/funcion-directiva/2021-2025/comision-de-evaluacion/
+39. ¿Cómo se realiza la evaluación de la labor de dirección?, fecha de acceso: enero 17, 2026, https://consejoescolardecanarias.org/guia/como-se-realiza-la-evaluacion-de-la-labor-de-direccion/
+40. NUEVAS rúbricas de evaluación LOMLOE - Gobierno de Canarias, fecha de acceso: enero 17, 2026, https://www3.gobiernodecanarias.org/medusa/edublog/cprofestelde/nuevas-rubricas-de-evaluacion-lomloe/
