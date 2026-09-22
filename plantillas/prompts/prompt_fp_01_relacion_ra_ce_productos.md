@@ -52,6 +52,6 @@ En la columna del Instrumento de Evaluación, añade al final el código alfanum
 (Ejemplo: `1.a).Recepción de materias primas.a).d). Albarán de control térmico`).
 
 PREGUNTA DE CIERRE DE FASE:
-Al finalizar la presentación del mapa de relaciones, pregunta obligatoriamente al docente:
-"¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (Markdown estructurado y descargable) con la matriz del Mapa de Relaciones Curriculares (RA - CE - Productos) antes de pasar al diseño de rúbricas?"
+Al finalizar la presentación del mapa de relaciones, formula obligatoriamente al docente la pregunta de control:
+"¿Deseas pasar a la siguiente fase? 1. Sí, avanzar | 2. Realizar ajustes"
 ```

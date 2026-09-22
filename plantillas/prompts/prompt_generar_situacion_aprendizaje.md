@@ -39,8 +39,7 @@ Genera la Situación de Aprendizaje en formato Markdown estructurado, siguiendo 
 ### Menú de Cierre Obligatorio:
 Al concluir la generación de la Situación de Aprendizaje, formula obligatoriamente al docente:
 "¿Cómo deseas proceder con esta Situación de Aprendizaje ([N.º y Título de la SA])?
-1. Generar documento de esta SA Docente (documento formal completo e independiente).
-2. Diseñar versión ALUMNADO (versión comunicativa 'El Reto').
-3. Desarrollar siguiente SA DOCENTE.
-4. Desarrollar con más detalle la Sesión [indicar n.º de Sesión] (desglose minucioso paso a paso de tareas, modelado docente, preguntas guía, andamiajes DUA y recursos concretos)."
+1. Diseñar versión ALUMNADO (versión comunicativa 'El Reto').
+2. Desarrollar siguiente SA DOCENTE.
+3. Desarrollar con más detalle la Sesión [indicar n.º de Sesión] (desglose minucioso paso a paso de tareas, modelado docente, preguntas guía, andamiajes DUA y recursos concretos)."
 ```

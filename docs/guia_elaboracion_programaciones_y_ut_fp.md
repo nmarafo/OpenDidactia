@@ -46,23 +46,21 @@ graph TD
 Al concluir cada fase técnica o Unidad de Trabajo (UT), el agente **se detiene obligatoriamente** y formula una **pregunta clara con menú numerado** para que el docente elija de forma unívoca indicando solo el número:
 
 * **Al concluir Fase 1, Fase 2 o Fase 4 (Secuenciación Anual de UTs):**
-  > *"¿Cómo deseas proceder?*  
-  > *1. Generar documento formal enriquecido e independiente de esta fase técnica.*  
-  > *2. Avanzar directamente a la siguiente fase sin generar documento intermedio."*
+  > *"¿Deseas pasar a la siguiente fase?*  
+  > *1. Sí, avanzar a la siguiente fase.*  
+  > *2. Realizar ajustes en esta fase."*
 
 * **Al concluir cada SA-UT para el Docente en Taller (Fase 5):**
   > *"¿Cómo deseas proceder con esta unidad ([N.º y Título de la UT])?*  
-  > *1. Generar documento de esta SA-UT Docente (documento formal completo e independiente).*  
-  > *2. Diseñar la versión para el ALUMNADO (Fase 6: Encargo del Cliente) de esta misma UT.*  
-  > *3. Desarrollar la siguiente SA-UT para el DOCENTE (Fase 5 de la siguiente unidad).*  
-  > *4. Desarrollar con más detalle la Sesión [indicar n.º de Sesión] (desglose minucioso de tareas de taller, modelado técnico, protocolos PRL y checklists)."*  
-  > *(Si se elige la opción 4 o se solicita más detalle de una sesión de taller, el agente la desarrolla exhaustivamente antes de continuar).*
+  > *1. Diseñar la versión para el ALUMNADO (Fase 6: Encargo del Cliente) de esta misma UT.*  
+  > *2. Desarrollar la siguiente SA-UT para el DOCENTE (Fase 5 de la siguiente unidad).*  
+  > *3. Desarrollar con más detalle la Sesión [indicar n.º de Sesión] (desglose minucioso de tareas de taller, modelado técnico, protocolos PRL y checklists)."*  
+  > *(Si se elige la opción 3 o se solicita más detalle de una sesión de taller, el agente la desarrolla exhaustivamente antes de continuar).*
 
 * **Al concluir la SA-UT para el Alumnado (Fase 6):**
   > *"¿Cómo deseas proceder?*  
-  > *1. Generar documento enriquecido del Encargo del Cliente (Alumnado).*  
-  > *2. Desarrollar la siguiente SA-UT Docente en taller (Fase 5).*  
-  > *3. Pasar a Medidas de Apoyo y Recuperación de RAs (Fases 7 y 8 opcionales)."*
+  > *1. Desarrollar la siguiente SA-UT Docente en taller (Fase 5).*  
+  > *2. Pasar a Medidas de Apoyo y Recuperación de RAs (Fases 7 y 8 opcionales)."*
 
 * **Al llegar al Punto de Decisión de Medidas de Apoyo (Fases 7 y 8 - Opcional):**
   > *"¿Deseas diseñar el plan de recuperación de RAs y apoyo en taller (Fases 7 y 8)?*  
@@ -101,7 +99,7 @@ En OpenDidactia, el **Instrumento de Evaluación** es exclusivamente el **PRODUC
 | **RA 1** | **b)** | Almacena productos respetando la cadena de frío | Bloque 1: Almacenamiento | OG 1 | CPPS 2 | **1.1. Albarán y registro de control térmico** |
 | **RA 1** | **c)** | Clasifica mermas y gestiona su trazabilidad | Bloque 2: Gestión de mermas | OG 3 | CPPS 8 | **1.2. Ficha técnica de mermas y reciclaje** |
 
-> **Salida Documental Inter-Fase:** Al finalizar la Fase 1, consulta al docente si desea generar un documento formal e independiente con la matriz completa del Mapa de Relaciones Curriculares antes de avanzar al diseño de rúbricas.
+> **Pausa de Control Inter-Fase:** Al finalizar la Fase 1, consulta al docente si desea pasar a la siguiente fase o realizar ajustes.
 
 ---
 
@@ -125,7 +123,7 @@ Para cada Producto obtenido en la Fase 1, se construye su rúbrica analítica cr
 | :--- | :--- | :--- | :--- | :--- |
 | **Calidad en el Montaje y PRL** | Ejecuta el cableado con **desviaciones críticas**, omitiendo los EPIs obligatorios o generando riesgos de cortocircuito.<br>*Ejemplo:* Faltan punteras, bornes flojos y cables sin canalizar. | Ejecuta el cableado **según plano estándar**, respetando los protocolos básicos de PRL y aislamiento.<br>*Ejemplo:* Cuadro operativo con etiquetado básico y protecciones activas. | Ejecuta el cableado con **elevada precisión y rapidez**, optimizando el trazado de canaletas y la rotulación.<br>*Ejemplo:* Cuadro impecable con esquema unifilar verificado y mediciones exactas. | Ejecuta el cableado con **precisión experta**, proponiendo mejoras de eficiencia energética y verificando tolerancias críticas de forma **totalmente autónoma**.<br>*Ejemplo:* Instalación certificable con informe técnico de puesta en marcha. |
 
-> **Salida Documental Inter-Fase:** Al finalizar la Fase 2, consulta al docente si desea generar un documento formal e independiente con formato enriquecido con las rúbricas analíticas oficiales del módulo antes de continuar.
+> **Pausa de Control Inter-Fase:** Al finalizar la Fase 2, consulta al docente si desea pasar a la siguiente fase o realizar ajustes.
 
 ---
 
@@ -180,7 +178,7 @@ Para cada UT se concreta:
 6. Instrumentos de Evaluación (Productos) y ponderación criterial.
 7. Conexión con los Objetivos Prioritarios y Planes de Centro (si se eligió incorporarlos en el control previo).
 
-> **Salida Documental Inter-Fase:** Al finalizar la Fase 4, consulta al docente si desea generar un documento formal e independiente con formato enriquecido con la matriz de secuenciación del módulo antes de abordar el desarrollo de cada UT.
+> **Pausa de Control Inter-Fase:** Al finalizar la Fase 4, consulta al docente si desea pasar a la siguiente fase o realizar ajustes.
 
 ---
 
@@ -216,13 +214,12 @@ Para comunicar la UT al alumnado se genera una versión directa, motivadora y li
    - *Fase 4: Entrega al Cliente y Retrospectiva de Equipo.*
 4. **Criterios de Éxito:** La rúbrica traducida a una lista de control de estándares de calidad profesional comprensible.
 
-> **Salida Documental y Consulta de Bifurcación Inter-Fase:**  
+> **Consulta de Bifurcación y Detalle Inter-Fase:**  
 > Al finalizar la versión docente de la UT (Fase 5 / Fase 4 del flujo maestro), el agente plantea obligatoriamente el menú numerado de cierre:
 > *"¿Cómo deseas proceder con esta unidad ([N.º y Título de la UT])?*  
-> *1. Generar documento de esta SA-UT Docente (documento formal completo e independiente).*  
-> *2. Diseñar la versión para el ALUMNADO (Fase 6: Encargo del Cliente) de esta misma UT.*  
-> *3. Desarrollar la siguiente SA-UT para el DOCENTE (Fase 5 de la siguiente unidad).*  
-> *4. Desarrollar con más detalle la Sesión [indicar n.º de Sesión] (desglose minucioso de tareas de taller, modelado técnico, protocolos PRL y checklists)."*
+> *1. Diseñar la versión para el ALUMNADO (Fase 6: Encargo del Cliente) de esta misma UT.*  
+> *2. Desarrollar la siguiente SA-UT para el DOCENTE (Fase 5 de la siguiente unidad).*  
+> *3. Desarrollar con más detalle la Sesión [indicar n.º de Sesión] (desglose minucioso de tareas de taller, modelado técnico, protocolos PRL y checklists)."*
 
 ---
 
@@ -250,7 +247,7 @@ Para alumnado que promociona con un módulo profesional pendiente del curso ante
 4. **Cronograma Escalado:** Entregas e hitos trimestrales coordinados con las sesiones de evaluación del curso en curso, erradicando el examen único final de memoria.
 5. **Andamiajes Ejecutivos:** Plantillas estructuradas de cuaderno de taller y listas de verificación.
 
-> **Salida Documental:** Si se ejecutan estas fases, consulta al usuario si desea generar el documento formal e independiente con formato enriquecido de planes de refuerzo y recuperación antes de continuar.
+> **Transición a Fase 9:** Al completar las medidas de apoyo, se avanza directamente a la herramienta interactiva de calificación (Fase 9 / Canvas).
 
 ---
 

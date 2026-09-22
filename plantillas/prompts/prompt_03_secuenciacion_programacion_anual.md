@@ -45,6 +45,6 @@ Para cada una de las 9 SAs, detalla en una tabla matriz:
 6. Instrumentos de Evaluación (Productos numerados) que se elaborarán y calificarán mediante las rúbricas analíticas propias.
 
 PREGUNTA DE CIERRE DE FASE:
-Al finalizar la presentación de la matriz, pregunta obligatoriamente al docente:
-"¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (Markdown estructurado y descargable) con la matriz anual de secuenciación de las 9 SAs antes de pasar al desarrollo de cada unidad?"
+Al finalizar la presentación de la matriz, formula obligatoriamente al docente la pregunta de control:
+"¿Deseas pasar a la siguiente fase? 1. Sí, avanzar | 2. Realizar ajustes"
 ```

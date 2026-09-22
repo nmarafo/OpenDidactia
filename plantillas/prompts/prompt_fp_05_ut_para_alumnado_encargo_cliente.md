@@ -40,6 +40,6 @@ SECCIÓN 4: LAS CLAVES DEL ÉXITO PROFESIONAL (¿Cómo seréis Evaluados?)
 - Explica qué diferencia un trabajo "chapucero o inseguro" (Insuficiente), de un trabajo "correcto según estándar" (Suficiente/Bien), "destacado" (Notable) o "de maestría profesional excelente" (Sobresaliente).
 
 PREGUNTA DE CIERRE DE FASE:
-Al finalizar la versión del alumnado, pregunta obligatoriamente al docente:
-"¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (Markdown estructurado y descargable) con el guion del Encargo del Cliente para el Alumnado antes de pasar a la siguiente unidad?"
+Al finalizar la versión del alumnado, formula obligatoriamente al docente el menú de control:
+"¿Cómo deseas proceder? 1. Siguiente SA Docente | 2. Medidas de Apoyo (Fase 6 opcional)"
 ```

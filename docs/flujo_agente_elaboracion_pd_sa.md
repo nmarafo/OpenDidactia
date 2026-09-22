@@ -12,30 +12,29 @@ Este documento constituye la **guía maestra de instrucciones y procedimientos**
                                 ▼
 [ PASO 1: Concreción Criterial / Deconstrucción e Instrumentos (Productos) ]
                                 │
-                                ▼  ◄─── [Pregunta Documental Inter-Fase]
+                                ▼  ◄─── [Pausa de Control Inter-Fase: Avanzar o Ajustar]
 [ PASO 2: Elaboración de Rúbricas Oficiales con Graduadores y Ejemplos ]
                                 │
-                                ▼  ◄─── [Pregunta Documental Inter-Fase]
+                                ▼  ◄─── [Pausa de Control Inter-Fase: Avanzar o Ajustar]
 [ PASO 3: Activación del Ecosistema Metodológico (Merrill, DUA, Calendario, Red InnovAS) ]
                                 │
                                 ▼  ◄─── 📌 [CONSULTA OBLIGATORIA: Objetivos, Planes y Programas de Centro]
 [ PASO 4: Secuenciación Anual de la Programación Didáctica (9 SAs por Trimestres) ]
                                 │
-                                ▼  ◄─── [Pregunta Documental Inter-Fase]
+                                ▼  ◄─── [Pausa de Control Inter-Fase: Avanzar o Ajustar]
 [ PASO 5: Elaboración de la SA para el Docente (Sesiones Merrill + DUA Granular) ]
                                 │
-                                ├──────► [Pregunta Documental Independiente de SA Docente]
-                                ├──────► 🔀 [Bifurcación: ¿SA Alumnado (Paso 6) o siguiente SA Docente (Paso 5)?]
+                                ├──────► 🔀 [Menú: 1. Versión Alumnado | 2. Siguiente SA | 3. Detallar Sesión]
                                 ▼
 [ PASO 6: Elaboración de la SA para el Alumnado (Guion Cercano "El Reto") ]
                                 │
-                                ▼  ◄─── [Pregunta Documental Independiente de SA Alumnado]
+                                ▼  ◄─── 🔀 [Menú: 1. Siguiente SA Docente | 2. Medidas de Apoyo]
 [ PASO 7 Y 8 (OPCIONAL): Medidas de Apoyo, Refuerzo Continuo y Recuperación ]
                                 │       (El docente decide si ejecutarlas u omitirlas)
-                                ▼  ◄─── [Pregunta Documental si se ejecuta]
+                                ▼  ◄─── [Transición directa a Paso 9 (Canvas)]
 [ PASO 9: Herramienta de Calificación y Seguimiento en HTML Autocontenido ]
                                 │
-                                ▼  ◄─── [Pregunta Documental / Archivo HTML final]
+                                ▼  ◄─── [Menú Final: 1. Descargar HTML interactivo | 2. Concluir]
 ```
 
 ### 📋 Regla Obligatoria de Interacción Inter-Fases (Preguntas Claras con Menú Numerado)
@@ -48,17 +47,15 @@ Al concluir cada fase o unidad didáctica, el agente **se detiene obligatoriamen
 
 * **Al concluir cada SA para el Docente (Paso 5):**
   > *"¿Cómo deseas proceder con esta unidad ([N.º y Título de la SA])?*  
-  > *1. Generar documento de esta SA Docente (documento formal completo e independiente).*  
-  > *2. Diseñar versión ALUMNADO (Paso 6) de esta misma unidad (versión comunicativa 'El Reto').*  
-  > *3. Desarrollar siguiente SA DOCENTE (Paso 5) (pasar a diseñar la siguiente unidad).*  
-  > *4. Desarrollar con más detalle la Sesión [indicar n.º de Sesión] (desglose minucioso paso a paso de tareas, modelado docente, preguntas guía, andamiajes DUA y recursos específicos)."*  
-  > *(Si se elige la opción 4 o se solicita más detalle de una sesión concreta, el agente la desarrolla exhaustivamente antes de continuar).*
+  > *1. Diseñar versión ALUMNADO (Paso 6) de esta misma unidad (versión comunicativa 'El Reto').*  
+  > *2. Desarrollar siguiente SA DOCENTE (Paso 5) (pasar a diseñar la siguiente unidad).*  
+  > *3. Desarrollar con más detalle la Sesión [indicar n.º de Sesión] (desglose minucioso paso a paso de tareas, modelado docente, preguntas guía, andamiajes DUA y recursos específicos)."*  
+  > *(Si se elige la opción 3 o se solicita más detalle de una sesión concreta, el agente la desarrolla exhaustivamente antes de continuar).*
 
 * **Al concluir cada SA para el Alumnado (Paso 6):**
   > *"¿Cómo deseas proceder?*  
-  > *1. Generar documento formal enriquecido e independiente de la versión del alumnado.*  
-  > *2. Continuar con la siguiente SA Docente (Paso 5).*  
-  > *3. Pasar a Medidas de Apoyo y Refuerzo (Pasos 7 y 8 opcionales) si ya se completaron las 9 unidades."*
+  > *1. Continuar con la siguiente SA Docente (Paso 5).*  
+  > *2. Pasar a Medidas de Apoyo y Refuerzo (Pasos 7 y 8 opcionales) si ya se completaron las 9 unidades."*
 
 * **Al llegar al Punto de Decisión de Medidas de Apoyo (Pasos 7 y 8 - Opcional):**
   > *"¿Deseas diseñar las medidas de apoyo ordinario, refuerzo continuo y recuperación (Pasos 7 y 8)?*  
@@ -71,7 +68,7 @@ Al concluir cada fase o unidad didáctica, el agente **se detiene obligatoriamen
   > *1. Generar el archivo interactivo autocontenido HTML/Canvas descargable.*  
   > *2. Dar por concluida la programación didáctica."*
 
-*Si el usuario selecciona generar documento formal, el agente realiza una transcripción con la máxima fidelidad y exactitud de la salida previa íntegra (reproduciendo tablas, rúbricas, sesiones y datos sin resumir, omitir ni reinventar), y a continuación vuelve a consultar cómo proceder.*
+*Cada salida generada en el chat es definitiva, completa y autosuficiente, por lo que no se solicita generar documentación formal intermedia.*
 
 ---
 
@@ -90,7 +87,7 @@ Al concluir cada fase o unidad didáctica, el agente **se detiene obligatoriamen
 5. **Tabla de Deconstrucción Obligatoria:**
    * `N.º Criterio` | `Descriptores Operativos / Comp. Clave` | `Saberes Básicos (Bloque y N.º Oficial)` | `Parte del Criterio Evaluada (Cita Textual)` | `Instrumento de Evaluación (Producto Numerado)`
 
-> **Salida Documental Inter-Fase:** Al finalizar el Paso 1, pregunta al docente si desea generar un documento formal e independiente con la tabla de deconstrucción de criterios antes de avanzar al diseño de rúbricas.
+> **Pausa de Control Inter-Fase:** Al finalizar el Paso 1, pregunta al docente si desea pasar a la siguiente fase o realizar ajustes.
 
 ---
 
@@ -113,7 +110,7 @@ Basado en el *Informe Técnico: Uso de Graduadores en la Evaluación Competencia
 5. **Erradicar el "No":** En el nivel Insuficiente, no utilizar la fórmula negativa *"No lo hace"*, sino describir la naturaleza de la limitación (*"Lo realiza con errores graves..."*).
 6. **Ejemplo Tangible del Producto:** En cada nivel de logro, incluir un ejemplo descriptivo concreto de cómo luce el producto elaborado por el estudiante.
 
-> **Salida Documental Inter-Fase:** Al finalizar el Paso 2, pregunta al docente si desea generar un documento formal e independiente con formato enriquecido con la tabla de rúbricas analíticas oficiales antes de avanzar.
+> **Pausa de Control Inter-Fase:** Al finalizar el Paso 2, pregunta al docente si desea pasar a la siguiente fase o realizar ajustes.
 
 ---
 
@@ -160,7 +157,7 @@ Cada SA de la tabla anual debe especificar:
 * Conexión con efemérides del calendario escolar y Objetivos Prioritarios / Planes de Centro (si se eligió incorporarlos en el control previo).
 * Instrumentos de evaluación (productos de la deconstrucción del Paso 1) que se calificarán con las rúbricas del Paso 2.
 
-> **Salida Documental Inter-Fase:** Al finalizar el Paso 4, pregunta al docente si desea generar un documento formal e independiente con formato enriquecido con la matriz de secuenciación anual antes de desarrollar las SAs.
+> **Pausa de Control Inter-Fase:** Al finalizar el Paso 4, pregunta al docente si desea pasar a la siguiente fase o realizar ajustes.
 
 ---
 
@@ -183,7 +180,7 @@ Al desarrollar cada Situación de Aprendizaje (ej. SA 1), el agente debe:
    6. **Instrumentos de Evaluación / Productos Generados:** Indicar qué producto genera el alumnado y qué parte del criterio evalúa (si es tarea evaluable).
    7. **Recursos y Materiales:** Espacios, herramientas digitales y materiales físicos necesarios.
 
-> **Salida Documental y Consulta de Detalle:** Al finalizar cada SA Docente, el agente plantea obligatoriamente el menú de 4 opciones: 1. Generar documento de la SA Docente; 2. Diseñar versión Alumnado; 3. Desarrollar siguiente SA Docente; 4. Desarrollar con más detalle la Sesión [indicar n.º de Sesión].
+> **Consulta de Cierre y Detalle:** Al finalizar cada SA Docente, el agente plantea obligatoriamente el menú de 3 opciones: 1. Diseñar versión Alumnado; 2. Desarrollar siguiente SA Docente; 3. Desarrollar con más detalle la Sesión [indicar n.º de Sesión].
 
 ---
 
@@ -194,7 +191,7 @@ El agente genera la versión comunicativa orientada directamente a los estudiant
 * **Tono motivador, cercano y directo:** En segunda persona (*"En esta misión vamos a descubrir...", "Nuestro desafío consistirá en..."*).
 * **Claridad en el reto y las etapas:** Explicar el producto final, el mapa de ruta de trabajo en equipo y las claves del éxito (rúbrica explicada de forma sencilla y autoevaluación).
 
-> **Salida Documental Inter-Fase:** Tras desarrollar el guion de la SA para el alumnado (Paso 6 / Fase 5), pregunta al usuario si desea compilar el documento formal independiente con formato enriquecido de dicha versión del alumnado antes de continuar con la siguiente unidad didáctica o fase.
+> **Consulta de Cierre:** Tras desarrollar el guion de la SA para el alumnado (Paso 6 / Fase 5), plantea el menú: 1. Continuar con la siguiente SA Docente; 2. Medidas de apoyo y refuerzo (si ya se concluyeron las unidades).
 
 ---
 
@@ -219,7 +216,7 @@ Para el alumnado que no supere un criterio de evaluación en una SA:
 Para alumnado que promociona con la materia no superada del curso anterior:
 * Diseñar un Plan de Recuperación contextualizado que permita adquirir las capacidades de los criterios no superados de la programación anterior a través de las SAs del curso actual, integrando andamiajes DUA.
 
-> **Salida Documental:** Si se ejecuta esta fase, preguntar si se desea generar el documento formal e independiente con formato enriquecido de apoyo y recuperación antes del Paso 9.
+> **Transición a Fase 7:** Al completar las medidas de apoyo, se avanza directamente a la herramienta interactiva de calificación (Paso 9 / Canvas).
 
 ---
 

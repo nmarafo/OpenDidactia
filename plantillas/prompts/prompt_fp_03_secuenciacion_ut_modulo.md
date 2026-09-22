@@ -48,6 +48,6 @@ VERIFICACIÓN FINAL:
 Asegúrate de que la totalidad de los Resultados de Aprendizaje del módulo (100% de los RAs oficiales) quedan completamente cubiertos y evaluados en la suma de las 9 Unidades de Trabajo antes de finalizar.
 
 PREGUNTA DE CIERRE DE FASE:
-Al finalizar la presentación de la matriz, pregunta obligatoriamente al docente:
-"¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (Markdown estructurado y descargable) con la matriz anual de secuenciación de las 9 Unidades de Trabajo antes de pasar al desarrollo de cada unidad?"
+Al finalizar la presentación de la matriz, formula obligatoriamente al docente la pregunta de control:
+"¿Deseas pasar a la siguiente fase? 1. Sí, avanzar | 2. Realizar ajustes"
 ```

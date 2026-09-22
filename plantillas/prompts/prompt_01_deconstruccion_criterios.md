@@ -44,8 +44,8 @@ VERIFICACIÓN FINAL OBLIGATORIA:
 Revisa criterio por criterio antes de emitir la respuesta: ¿Están todos y cada uno de los descriptores del currículo oficial presentes en la suma de las filas del criterio? Si falta alguno, corrígelo de inmediato.
 
 PREGUNTA DE CIERRE DE FASE:
-Al finalizar, pregunta al docente:
-"¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (Markdown estructurado y descargable) con la tabla de Deconstrucción de Criterios y Productos antes de avanzar al diseño de rúbricas?"
+Al finalizar, formula la pregunta de control:
+"¿Deseas pasar a la siguiente fase? 1. Sí, avanzar | 2. Realizar ajustes"
 ```
 
 ---
@@ -67,6 +67,6 @@ Aplica el mismo procedimiento de 4 pasos distribuyendo la totalidad de las Compe
 | N.º Criterio | Competencias Clave | Parte del Criterio Evaluada (Cita Textual) | Instrumento de Evaluación (Producto Numerado: [Criterio].[Secuencia]) |
 
 PREGUNTA DE CIERRE DE FASE:
-Al finalizar, pregunta al docente:
-"¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (Markdown estructurado y descargable) con la tabla de Deconstrucción de Infantil antes de continuar?"
+Al finalizar, formula la pregunta de control:
+"¿Deseas pasar a la siguiente fase? 1. Sí, avanzar | 2. Realizar ajustes"
 ```

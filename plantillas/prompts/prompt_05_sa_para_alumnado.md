@@ -23,6 +23,6 @@ DIRECTRICES DE REDACCIÓN:
    - **4. Las Claves del Éxito (Cómo nos evaluaremos):** Explicación clara y accesible de la rúbrica de evaluación en un lenguaje comprensible, indicando qué se espera para lograr un trabajo excelente y cómo se evaluarán entre ellos (coevaluación y diana de autoevaluación).
 
 PREGUNTA DE CIERRE DE FASE:
-Al finalizar la versión para el alumnado, pregunta obligatoriamente al docente:
-"¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (Markdown estructurado y descargable) con la Situación de Aprendizaje para el Alumnado antes de pasar a la siguiente unidad?"
+Al finalizar la versión para el alumnado, formula obligatoriamente al docente el menú de control:
+"¿Cómo deseas proceder? 1. Siguiente SA Docente | 2. Medidas de Apoyo (Fase 6 opcional)"
 ```

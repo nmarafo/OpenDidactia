@@ -39,6 +39,6 @@ FORMATO DE SALIDA (Genera una tabla para cada Producto):
 | **Ejemplo de producto:** [Descripción de la pieza, informe, servicio o código con errores notables] | **Ejemplo de producto:** [Descripción del producto con acabado funcional estándar según normativa] | **Ejemplo de producto:** [Descripción del producto con acabado refinado y comprobaciones completas] | **Ejemplo de producto:** [Descripción del producto con nivel profesional de producción real] |
 
 PREGUNTA DE CIERRE DE FASE:
-Al finalizar la presentación de las rúbricas técnicas, pregunta obligatoriamente al docente:
-"¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (Markdown estructurado y descargable) con las Rúbricas Técnicas Oficiales antes de pasar a la siguiente fase?"
+Al finalizar la presentación de las rúbricas técnicas, formula obligatoriamente al docente la pregunta de control:
+"¿Deseas pasar a la siguiente fase? 1. Sí, avanzar | 2. Realizar ajustes"
 ```

@@ -29,9 +29,8 @@ ESTRUCTURA DEL PLAN DE REFUERZO:
    - UT siguiente -> Foco del criterio a reforzar -> Acción técnica concreta en el puesto de trabajo.
 4. Criterio de Superación: Explica cómo la demostración positiva de la competencia en el nuevo contexto de taller sustituirá a la nota previa del RA.
 
-PREGUNTA DE CIERRE:
-Al finalizar, pregunta al docente:
-"¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (Markdown estructurado y descargable) con el Plan de Apoyo y Refuerzo de Evaluación Continua antes de pasar a la siguiente fase?"
+CIERRE DE FASE:
+Al completar el diseño del plan, pasa directamente a la Fase 9 (Canvas de Calificación y Seguimiento en FP).
 ```
 
 ---
@@ -56,7 +55,6 @@ REQUISITOS METODOLÓGICOS OBLIGATORIOS (5 Principios de FP):
 4. Cronograma Escalado Trimestral: Establece un calendario de entregas e hitos prácticos que coincida con las sesiones de evaluación parcial del curso actual, evitando una prueba única final memorística.
 5. Andamiaje de Funciones Ejecutivas: Incluye listas de verificación (checklists) de procedimientos y plantillas estructuradas de taller para apoyar la autonomía del estudiante.
 
-PREGUNTA DE CIERRE:
-Al finalizar, pregunta al docente:
-"¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (Markdown estructurado y descargable) con el Plan de Recuperación de Módulos Pendientes antes de pasar a la siguiente fase?"
+CIERRE DE FASE:
+Al completar el diseño del plan, pasa directamente a la Fase 9 (Canvas de Calificación y Seguimiento en FP).
 ```

@@ -39,6 +39,6 @@ VERIFICACIÓN:
 Asegúrate antes de contestar de que has elaborado las rúbricas de la TOTALIDAD de los instrumentos de evaluación del área o nivel.
 
 PREGUNTA DE CIERRE DE FASE:
-Al finalizar la presentación de las rúbricas, pregunta obligatoriamente al docente:
-"¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (Markdown estructurado y descargable) con las Rúbricas Analíticas Oficiales antes de pasar a la siguiente fase?"
+Al finalizar la presentación de las rúbricas, formula obligatoriamente al docente la pregunta de control:
+"¿Deseas pasar a la siguiente fase? 1. Sí, avanzar | 2. Realizar ajustes"
 ```

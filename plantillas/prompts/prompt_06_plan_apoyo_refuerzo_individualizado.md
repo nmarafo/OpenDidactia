@@ -58,7 +58,6 @@ Desarrolla de forma extensa cómo el refuerzo se realizará de manera invisible 
 - **Foco:** Aspecto concreto del criterio no superado que se trabajará.
 - **Acción de Refuerzo:** Describe detalladamente la dinámica exacta en el aula (plantillas, modelado, tutoría entre iguales) explicando cómo el alumno interacciona con la tarea ordinaria del grupo pero con el ajuste necesario para superar el criterio sin sentirse expuesto.
 
-PREGUNTA DE CIERRE DE FASE:
-Al finalizar, pregunta al docente:
-"¿Deseas que elabore y genere un documento formal independiente con formato enriquecido (Markdown estructurado y descargable) con el Plan de Apoyo y Refuerzo Individualizado antes de pasar a la siguiente fase?"
+CIERRE DE FASE:
+Al completar el diseño del plan, pasa directamente a la Fase 7 (Herramienta de Calificación en HTML autocontenido / Canvas).
 ```
