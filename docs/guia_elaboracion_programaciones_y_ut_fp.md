@@ -21,6 +21,8 @@ A diferencia de las etapas de régimen general (Educación Infantil, Primaria, E
 | **Metodología Clave** | ABP, Aprendizaje Cooperativo, DUA | **Aprendizaje Basado en Retos (ABR), Aprendizaje-Servicio Colaborativo (ASC) y Merrill en Taller** |
 | **Finalidad Terminal** | Perfil de Salida competencial | **Perfil Profesional del Título y Cualificación / Inserción Laboral** |
 
+> 🔗 **Catálogo Oficial de Familias y Títulos:** Para consultar las 26 familias profesionales oficiales, los títulos de Grado Básico, Medio y Superior, Cursos de Especialización y los enlaces a los Reales Decretos en [TodoFP](https://todofp.es), consulten el [**Catálogo Oficial de Familias Profesionales y Títulos de FP (TodoFP - MEFPD)**](catalogo_familias_profesionales_todofp.md).
+
 ---
 
 ## 2. Protocolo Secuencial de Ingeniería Didáctica en FP (Fases Pedagógicas)
