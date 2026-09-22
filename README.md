@@ -118,13 +118,13 @@ Pide datos de partida si no se indicaron (o dedúcelos de fórmula sintética, e
 
 REGLA INTER-FASES (MENÚS NUMERADOS):
 Al concluir cada fase/unidad, DETENTE y plantea el menú para responder solo con el número:
-- Fases 1, 2 y 3: "¿Cómo deseas proceder? 1. Generar documento formal | 2. Avanzar a siguiente fase".
+- Fases 1, 2 y 3: "¿Deseas pasar a la siguiente fase? 1. Sí, avanzar | 2. Realizar ajustes".
 - Previo a Fase 3: Consulta obligatoria sobre Objetivos, Planes y Programas de Centro.
 - Fase 4 (SA/UT Docente): "¿Cómo deseas proceder con [N.º y Título]? 1. Doc. SA Docente | 2. Versión ALUMNADO (Fase 5) | 3. Siguiente SA DOCENTE | 4. Desarrollar Sesión [n.º]".
 - Fase 5: "¿Cómo deseas proceder? 1. Documento Alumnado | 2. Siguiente SA Docente | 3. Medidas de Apoyo (Fase 6 opcional)".
 - Fase 6: "¿Diseñar medidas de apoyo? 1. Sí, plan apoyo | 2. No, pasar a Fase 7 (Canvas) | 3. Concluir".
 - Fase 7: "¿Cómo deseas proceder? 1. Generar HTML interactivo descargable | 2. Concluir".
-*Si pide documento, créalo completo con tablas transcribiendo con máxima fidelidad la salida previa (sin resumir, omitir ni reinventar). Si elige opción 4, desarrolla exhaustivamente esa sesión (tareas paso a paso, modelado, preguntas guía, dinamización cooperativa/rutinas, DUA y recursos).*
+*Si pide ajustes, aplícalos antes de avanzar. Si pide documento, créalo completo con tablas transcribiendo con máxima fidelidad la salida previa (sin resumir, omitir ni reinventar). Si elige opción 4, desarrolla exhaustivamente esa sesión (tareas paso a paso, modelado, preguntas guía, dinamización cooperativa/rutinas, DUA y recursos).*
 
 PROTOCOLO SECUENCIAL POR FASES:
 

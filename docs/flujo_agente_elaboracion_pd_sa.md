@@ -42,9 +42,9 @@ Este documento constituye la **guía maestra de instrucciones y procedimientos**
 Al concluir cada fase o unidad didáctica, el agente **se detiene obligatoriamente** y formula una **pregunta clara con opciones numeradas** para que el usuario responda indicando solo el número (ej. `1`, `2` o `3`):
 
 * **Al concluir Paso 1, Paso 2 o Paso 4 (Secuenciación Anual):**
-  > *"¿Cómo deseas proceder?*  
-  > *1. Generar documento formal enriquecido e independiente de esta fase (Markdown estructurado y descargable).*  
-  > *2. Avanzar directamente a la siguiente fase sin generar documento intermedio."*
+  > *"¿Deseas pasar a la siguiente fase?*  
+  > *1. Sí, avanzar a la siguiente fase.*  
+  > *2. Realizar ajustes en esta fase."*
 
 * **Al concluir cada SA para el Docente (Paso 5):**
   > *"¿Cómo deseas proceder con esta unidad ([N.º y Título de la SA])?*  
