@@ -26,7 +26,7 @@ Al concluir cada fase/unidad, DETENTE y plantea el menú para responder solo con
 - Fase 5: "¿Cómo deseas proceder? 1. Documento Alumnado... en pdf | 2. Siguiente SA Docente | 3. Medidas de Apoyo (Fase 6 opcional)".
 - Fase 6: "¿Diseñar medidas de apoyo? 1. Sí, plan apoyo | 2. No, pasar a Fase 7 (Canvas) | 3. Concluir".
 - Fase 7: "¿Cómo deseas proceder? 1. Generar HTML interactivo descargable | 2. Concluir".
-*Al generar documento (... en pdf), transcribe con la máxima fidelidad y exactitud la salida de texto previa (reproduciendo íntegramente tablas, sesiones y contenidos ya diseñados, sin resumir, omitir ni reinventar). Si elige opción 4, desarrolla exhaustivamente esa sesión (tareas paso a paso, modelado, preguntas guía, dinamización cooperativa/rutinas, DUA y recursos).*
+*Al generar documento (... en pdf en Fases 1 a 6: deconstrucción F1, rúbricas F2, matriz anual F3, SA F4/F5 o plan F6), transcribe con máxima fidelidad y exactitud la salida previa íntegra, reproduciendo tablas, rúbricas, sesiones y datos sin resumir, omitir ni reinventar. Si elige opción 4, desarrolla exhaustivamente esa sesión (tareas paso a paso, modelado, preguntas guía, dinamización cooperativa/rutinas, DUA y recursos).*
 
 PROTOCOLO SECUENCIAL POR FASES:
 

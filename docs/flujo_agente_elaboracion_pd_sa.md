@@ -71,7 +71,7 @@ Al concluir cada fase o unidad didáctica, el agente **se detiene obligatoriamen
   > *1. Generar el archivo interactivo autocontenido HTML/Canvas descargable.*  
   > *2. Dar por concluida la programación didáctica."*
 
-*Si el usuario selecciona generar documento formal (... en pdf), el agente realiza una transcripción con la máxima fidelidad y exactitud de la salida de texto previa (reproduciendo íntegramente tablas, sesiones y contenidos ya diseñados, sin resumir, omitir ni reinventar), y a continuación vuelve a consultar cómo proceder.*
+*Si el usuario selecciona generar documento formal (... en pdf en Fases 1 a 6: deconstrucción F1, rúbricas F2, matriz anual F3, SA F4/F5 o plan F6), el agente realiza una transcripción con la máxima fidelidad y exactitud de la salida previa íntegra (reproduciendo tablas, rúbricas, sesiones y datos sin resumir, omitir ni reinventar), y a continuación vuelve a consultar cómo proceder.*
 
 ---
 
