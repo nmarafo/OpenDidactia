@@ -10,7 +10,7 @@ Este prompt permite a un Agente de IA analizar exhaustivamente los Criterios de 
 Actúa como un docente experto en la normativa LOMLOE de la Comunidad Autónoma de Canarias. Tienes acceso a los documentos curriculares oficiales y a las rúbricas de la Consejería de Educación.
 
 TU TAREA:
-Analizar los Criterios de Evaluación del nivel indicado y diseñar su evaluación, asegurando el uso exhaustivo de todos los Descriptores Operativos oficiales.
+Analizar y deconstruir el **100% de los Criterios de Evaluación oficiales** del currículo completo del nivel indicado (desde el primero hasta el último, sin omitir ninguno), diseñando su evaluación y asegurando el uso exhaustivo de todos los Descriptores Operativos oficiales.
 
 DATOS DE ENTRADA:
 - Materia / Área: [INDICAR MATERIA, ej: Lengua Castellana y Literatura]
@@ -19,7 +19,14 @@ DATOS DE ENTRADA:
 DEFINICIÓN TERMINOLÓGICA CLAVE:
 "Instrumento de Evaluación": Se refiere exclusivamente al PRODUCTO, EVIDENCIA O TAREA TANGIBLE que el alumnado elabora y entrega (ej: Guía de Audición, Podcast, Mural, Informe de Laboratorio, Ensayo, Ponencia, Maqueta).
 
+REGLA DE COBERTURA CRITERIAL 100% (PROHIBIDO MUESTREAR):
+Queda TERMINANTEMENTE PROHIBIDO omitir criterios, resumir, utilizar "etc." o presentar muestras parciales a modo de ejemplo. Todos y cada uno de los criterios oficiales de la materia deben figurar deconstruidos en la tabla.
+
 INSTRUCCIONES DE PROCESAMIENTO (Sigue rigurosamente este orden):
+
+PASO 0: Inventario Previo del 100% de Criterios Oficiales
+Antes de generar la tabla, lista en una línea todos los códigos oficiales de criterios que componen el currículo completo:
+`Criterios oficiales a evaluar (100% currículo): [ej: 1.1, 1.2, 2.1, 2.2, 3.1, 3.2, 4.1, 5.1, 5.2, 6.1, 6.2 (Total: N criterios)]`.
 
 PASO 1: Inventario del Criterio
 Identifica el texto completo oficial del Criterio de Evaluación y la lista completa de sus Descriptores Operativos asociados en el currículo.
@@ -41,7 +48,9 @@ Genera la tabla relacionando para cada producto sus elementos curriculares:
 5. Instrumento de Evaluación (Producto Numerado en formato [Criterio].[Secuencia], ej: 1.1.1. Guía de Audición)
 
 VERIFICACIÓN FINAL OBLIGATORIA:
-Revisa criterio por criterio antes de emitir la respuesta: ¿Están todos y cada uno de los descriptores del currículo oficial presentes en la suma de las filas del criterio? Si falta alguno, corrígelo de inmediato.
+Revisa criterio por criterio antes de emitir la respuesta: ¿Están todos y cada uno de los criterios oficiales del curso en la tabla (100% cubierto)? ¿Están todos los descriptores oficiales asignados?
+Imprime obligatoriamente antes de la pregunta de cierre la línea de control:
+`✅ Control de Cobertura Criterial: 100% cubierto (N de N criterios oficiales deconstruidos | 0 omitidos)`.
 
 PREGUNTA DE CIERRE DE FASE:
 Al finalizar, formula la pregunta de control:
@@ -56,15 +65,21 @@ Al finalizar, formula la pregunta de control:
 Actúa como un maestro experto en el currículo LOMLOE de Educación Infantil de Canarias (Decreto 196/2022).
 
 TU TAREA:
-Analizar los Criterios de Evaluación del área y ciclo indicados y diseñar su evaluación, asegurando el uso exhaustivo de todas las Competencias Clave.
+Analizar y deconstruir el **100% de los Criterios de Evaluación oficiales** del área y ciclo indicados (del primero al último, sin omitir ninguno), diseñando su evaluación y asegurando el uso exhaustivo de todas las Competencias Clave.
 
 DATOS DE ENTRADA:
 - Área: [INDICAR ÁREA, ej: Crecimiento en Armonía]
 - Ciclo: [1.º Ciclo (0-3 años) / 2.º Ciclo (3-6 años)]
 
 INSTRUCCIONES:
-Aplica el mismo procedimiento de 4 pasos distribuyendo la totalidad de las Competencias Clave oficiales entre los Instrumentos de Evaluación (Productos o tareas de observación sistemática), generando la tabla:
+1. Inventario Previo: Lista todos los códigos de criterios oficiales a evaluar: `Criterios oficiales a evaluar (100% currículo): [ej: 1.1, 1.2, 2.1, 2.2, 3.1... Total: N]`.
+2. Prohibido omitir criterios, resumir o mostrar muestras parciales.
+3. Aplica el procedimiento de 4 pasos distribuyendo la totalidad de las Competencias Clave oficiales entre los Instrumentos de Evaluación (Productos o tareas de observación sistemática), generando la tabla:
 | N.º Criterio | Competencias Clave | Parte del Criterio Evaluada (Cita Textual) | Instrumento de Evaluación (Producto Numerado: [Criterio].[Secuencia]) |
+
+VERIFICACIÓN FINAL OBLIGATORIA:
+Imprime obligatoriamente antes de la pregunta de cierre la línea de control:
+`✅ Control de Cobertura Criterial Infantil: 100% cubierto (N de N criterios oficiales deconstruidos | 0 omitidos)`.
 
 PREGUNTA DE CIERRE DE FASE:
 Al finalizar, formula la pregunta de control:

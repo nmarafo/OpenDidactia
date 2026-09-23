@@ -81,15 +81,17 @@ En FP, dado que la redacción de los Resultados de Aprendizaje (RA) y Criterios 
 ### Concepto Clave de "Instrumento de Evaluación"
 En OpenDidactia, el **Instrumento de Evaluación** es exclusivamente el **PRODUCTO, EVIDENCIA O TAREA TANGIBLE** que el alumnado elabora y entrega en el taller o laboratorio (ej. *Albarán de recepción, Plan de mantenimiento preventivo, Servicio simulado de coctelería, Despiece mecánico 3D, Código fuente de microservicio, Cuadro eléctrico cableado*).
 
-### Protocolo de Asociación:
-1. **Inventario Oficial:** Registrar el texto completo del RA y la relación completa de sus Criterios de Evaluación (CE: a, b, c...), junto con los Contenidos básicos, Orientaciones pedagógicas, Objetivos generales (OG) y Competencias (CPPS).
-2. **Diseño de Productos Técnicos:** Diseñar 1, 2 o más productos que cubran de forma armónica la totalidad de los Criterios de Evaluación del RA.
-3. **Distribución Obligatoria (Regla de Oro):**
-   > **Todos los Criterios de Evaluación oficiales de la norma deben quedar vinculados al menos a algún Producto.** No puede quedar ningún CE sin asignar. Si un CE tiene 5 criterios y el Producto 1 evalúa los criterios a, b y c, el Producto 2 debe incorporar obligatoriamente los criterios d y e (pudiendo reforzar alguno de los anteriores).
-4. **Codificación Alfanumérica Unificada:**
+### Protocolo de Asociación y Regla de Cobertura 100%:
+1. **Inventario Previo Obligatorio (Paso 0):** Antes de confeccionar la matriz, el agente debe enumerar y listar en el encabezado la totalidad de los Resultados de Aprendizaje y sus Criterios de Evaluación oficiales: `RAs y CEs oficiales a evaluar (100% currículo): [RA 1: a, b, c... | RA 2: a, b... Total: N RAs y M CEs]`.
+2. **Prohibición Taxativa de Muestreo:** Queda TERMINANTEMENTE PROHIBIDO omitir RAs o CEs, resumir o presentar únicamente una selección parcial a modo de ejemplo. El 100% de los CEs oficiales de la norma deben quedar asociados a productos técnicos.
+3. **Diseño de Productos Técnicos:** Diseñar productos que cubran de forma armónica e integral la totalidad de los Criterios de Evaluación del RA.
+4. **Distribución Obligatoria (Regla de Oro en FP):** Todos los Criterios de Evaluación oficiales deben quedar vinculados al menos a algún Producto. No puede quedar ningún CE sin asignar.
+5. **Codificación Alfanumérica Unificada:**
    Cada fila del Mapa de Relaciones adopta el formato:
    `[RA].[Criterio].[Contenidos básicos].[Objetivos generales].[Competencias].[Producto]`  
    *Ejemplo real:* `1.a).Recepción de materias primas.a).d). Albarán de control de calidad`.
+6. **Línea de Auditoría de Cierre de Fase 1:** Antes del menú de control inter-fase, imprimir obligatoriamente:  
+   `✅ Control de Cobertura en FP: 100% cubierto (N de N RAs y M de M CEs oficiales asignados a productos | 0 omitidos)`.
 
 ### Matriz del Mapa de Relaciones Curriculares:
 | N.º RA | Letra CE | Criterio de Evaluación (Texto Oficial) | Contenidos Básicos Implicados | Objetivos Generales (OG) | Competencias (CPPS) | Instrumento de Evaluación (Producto Numerado) |
@@ -107,15 +109,18 @@ En OpenDidactia, el **Instrumento de Evaluación** es exclusivamente el **PRODUC
 Para cada Producto obtenido en la Fase 1, se construye su rúbrica analítica criterial siguiendo la metodología de **graduadores técnicos**.
 
 ### Reglas Obligatorias de Elaboración:
-1. **Invariabilidad del Verbo Técnico:** El verbo de desempeño profesional fijado en el CE se mantiene idéntico en los 4 niveles de desempeño (PROHIBIDO cambiar el verbo).
-2. **Estándar Suficiente/Bien (SU/BI - 5-6):** Reproduce con fidelidad literal la exigencia estándar del Criterio de Evaluación oficial de la norma.
-3. **Graduadores Técnicos en Negrita:** Se modulan los niveles destacando en **negrita** los graduadores de:
+1. **Cobertura Universal al 100% (Prohibición de Truncamientos):** Deben elaborarse las rúbricas analíticas para la totalidad de productos y CEs definidos en la Fase 1 (sin omitir ningún RA ni CE). Prohibido truncar la salida o presentar rúbricas "a modo de ejemplo".
+2. **Invariabilidad del Verbo Técnico:** El verbo de desempeño profesional fijado en el CE se mantiene idéntico en los 4 niveles de desempeño (PROHIBIDO cambiar el verbo).
+3. **Estándar Suficiente/Bien (SU/BI - 5-6):** Reproduce con fidelidad literal la exigencia estándar del Criterio de Evaluación oficial de la norma.
+4. **Graduadores Técnicos en Negrita:** Se modulan los niveles destacando en **negrita** los graduadores de:
    - *Calidad y Precisión Técnica:* con precisión milimétrica / con tolerancias admisibles / con desviaciones graves.
    - *Autonomía Profesional:* de forma autónoma / con supervisión puntual / con asistencia constante.
    - *Seguridad y PRL:* cumpliendo escrupulosamente los EPIs y protocolos / con advertencias menores de seguridad.
    - *Eficiencia y Tiempos:* optimizando recursos y tiempos de ciclo / dentro de la jornada estándar.
-4. **Erradicación del "No":** En el nivel Insuficiente se describe el fallo técnico, la imprudencia o el defecto; nunca se formula como simple "No lo hace".
-5. **Ejemplo Descriptivo de Producto Obligatorio:** En cada nivel de logro se incluye un ejemplo concreto de cómo se manifiesta físicamente el producto entregado.
+5. **Erradicación del "No":** En el nivel Insuficiente se describe el fallo técnico, la imprudencia o el defecto; nunca se formula como simple "No lo hace".
+6. **Ejemplo Descriptivo de Producto Obligatorio:** En cada nivel de logro se incluye un ejemplo concreto de cómo se manifiesta físicamente el producto entregado.
+7. **Línea de Auditoría de Rúbricas FP:** Antes del menú de control inter-fase, imprimir obligatoriamente:  
+   `✅ Control de Cobertura de Rúbricas FP: 100% cubierto (todos los RAs y CEs del módulo con rúbrica técnica oficial completa | 0 omitidos)`.
 
 ### Estructura de la Rúbrica Técnica:
 | Dimensión Técnica | Insuficiente (1 - 4) | Suficiente / Bien (5 - 6) | Notable (7 - 8) | Sobresaliente (9 - 10) |

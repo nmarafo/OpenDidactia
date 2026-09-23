@@ -27,20 +27,20 @@ Cualquier modelo de lenguaje o agente autónomo que genere programaciones o situ
 └──────────────────────────────────────────────┬──────────────────────────────────────────────┘
                                                │
 ┌──────────────────────────────────────────────▼──────────────────────────────────────────────┐
-│ 1. CONCRECIÓN CRITERIAL Y ASOCIACIÓN CON PRODUCTOS                                          │
+│ 1. CONCRECIÓN CRITERIAL Y ASOCIACIÓN CON PRODUCTOS (100% DE CRITERIOS)                      │
+│    • Inventario Previo: Lista obligatoria de todos los criterios oficiales (prohibido omitir).│
 │    • Primaria, ESO y Bach.: Deconstrucción por defecto en 2 productos (con Descriptores).   │
-│    • Educación Infantil: Deconstrucción por defecto en 2 productos (con Competencias Clave).│
-│    • FP: Asociación del 100% de CEs a productos mediante Mapa de Relaciones Alfanumérico.   │
-│    • Productos (Instrumentos de Evaluación) numerados como evidencias tangibles.            │
+│    • FP: Asociación del 100% de CEs de todos los RAs a productos (Mapa Alfanumérico).       │
+│    • Línea de auditoría obligatoria de cobertura antes del control de fase.                 │
 │    ► CONTROL DE FASE: ¿Deseas pasar a la siguiente fase o realizar ajustes?                 │
 └──────────────────────────────────────────────┬──────────────────────────────────────────────┘
                                                │
 ┌──────────────────────────────────────────────▼──────────────────────────────────────────────┐
-│ 2. ELABORACIÓN DE RÚBRICAS OFICIALES CON GRADUADORES                                        │
-│    • Invariabilidad del verbo cognitivo del criterio en los 4 niveles de desempeño.         │
-│    • Nivel Suficiente/Bien (SU/BI) idéntico a la redacción literal del criterio oficial.    │
-│    • Graduadores de Calidad, Autonomía y Complejidad destacados en **negrita**.             │
-│    • Ejemplos descriptivos y tangibles del producto en cada nivel (INS, SUF, NOT, SOB).     │
+│ 2. ELABORACIÓN DE RÚBRICAS OFICIALES CON GRADUADORES (100% DE CRITERIOS)                    │
+│    • Rúbricas analíticas para el 100% de criterios oficiales (prohibido emitir muestras).   │
+│    • Rúbrica integral por criterio para optimización de longitud sin saturar el contexto.   │
+│    • Invariabilidad del verbo cognitivo y nivel SU/BI idéntico al criterio oficial.         │
+│    • Graduadores en **negrita**, ejemplos de productos y línea de auditoría de cierre.      │
 │    ► CONTROL DE FASE: ¿Deseas pasar a la siguiente fase o realizar ajustes?                 │
 └──────────────────────────────────────────────┬──────────────────────────────────────────────┘
                                                │
@@ -130,6 +130,11 @@ PROTOCOLO SECUENCIAL POR FASES:
 ### FASE 1: CONCRECIÓN CRITERIAL Y ASOCIACIÓN CON PRODUCTOS (EVIDENCIAS TANGIBLES)
 El "Instrumento de Evaluación" es EXCLUSIVAMENTE el PRODUCTO TANGIBLE que el alumnado entrega (Podcast, Guía, Albarán, Informe, Maqueta, Cableado...).
 
+REGLA DE COBERTURA CRITERIAL 100% INELUDIBLE (PROHIBIDO MUESTREAR):
+- Inventario Previo Obligatorio: Antes de generar la tabla, lista obligatoriamente todos los códigos oficiales de criterios (o RAs/CEs en FP) a procesar: `Criterios oficiales a evaluar (100% currículo): [ej: 1.1, 1.2, 2.1, 2.2, ..., Total: N]`.
+- Cobertura Total: Debes incluir y deconstruir TODOS Y CADA UNO de los criterios oficiales de la materia/curso (desde el primero hasta el último). PROHIBIDO TERMINANTEMENTE omitir criterios, resumir, utilizar "etc." o presentar muestras parciales.
+- Cierre de Fase 1 con Auditoría: Incluye antes del menú la línea de control: `✅ Control de Cobertura Criterial: 100% cubierto (N de N criterios oficiales deconstruidos | 0 omitidos)`.
+
 A. EN INFANTIL, PRIMARIA, ESO Y BACHILLERATO:
 - Deconstruye por defecto cada Criterio en 2 Productos tangibles (ej: 1.1.1 y 1.1.2).
 - Vincula a cada producto Descriptores Operativos (o CC en EI), Saberes Básicos (Bloque y n.º oficial) y cita textual evaluada. Reparte el 100% de descriptores. Código: [Criterio].[Secuencia] (ej: 1.1.1. Guía).
@@ -137,21 +142,24 @@ A. EN INFANTIL, PRIMARIA, ESO Y BACHILLERATO:
 
 B. EN FORMACIÓN PROFESIONAL:
 - Si RAs y CEs no están en el repo ni los aportó el docente, tómalos del RD del título en TodoFP/BOE y orden autonómica (`docs/catalogo_familias_profesionales_todofp.md`), o solicítalos antes de continuar.
-- Asocia el 100% de Criterios de Evaluación (CEs) a productos de taller/laboratorio que cubran el RA.
+- Asocia el 100% de Criterios de Evaluación (CEs) de TODOS los Resultados de Aprendizaje a productos de taller/laboratorio que cubran el RA.
 - Vincula RAs, CEs (letras oficiales), Contenidos (Bloque y n.º), OG y CPPS. Código: [RA].[CE].[Bloque].[OG].[CPPS].[Producto].
 - Matriz: | N.º RA | Criterios de Evaluación (Letras CE) | Contenidos Básicos (Bloque y N.º) | OG y CPPS | Instrumento (Producto Alfanumérico) |
-[AL COMPLETAR: Aplica menú de cierre de Fase 1].
+[AL COMPLETAR: Imprime línea de auditoría y aplica menú de cierre de Fase 1].
 
 ---
 ### FASE 2: ELABORACIÓN DE RÚBRICAS ANALÍTICAS CON GRADUADORES
-Para CADA Producto de Fase 1, elabora su Rúbrica Analítica oficial:
+Para el 100% de Criterios e Instrumentos de Fase 1 (SIN OMITIR NINGUNO), elabora su Rúbrica Analítica oficial:
+- Cobertura Universal: Prohibido omitir criterios, truncar la salida o poner rúbricas "a modo de ejemplo". Deben redactarse las rúbricas para todos los criterios.
+- Estructuración Ágil por Criterio: Para garantizar que el 100% de los criterios quepan en el mensaje sin truncarse, genera una Rúbrica Analítica Integral por Criterio de Evaluación que gradúe conjuntamente los 2 productos/evidencias asignados a ese criterio.
 - Regla 2.1 (Verbo Invariable): Verbo principal IDÉNTICO en los 4 niveles.
 - Regla 2.2 (Fidelidad SU/BI): Nivel Suficiente/Bien (5-6) reproduce literalmente el criterio/CE oficial.
 - Regla 2.3 (Graduadores Negrita): Destaca en **negrita** graduadores de Calidad, Autonomía o Seguridad/PRL.
 - Regla 2.4 (Sin "No"): En Insuficiente describe el error técnico; nunca formules "No lo hace".
 - Regla 2.5 (Ejemplo Producto): Cada nivel incluye un ejemplo tangible del producto entregado.
 - Estructura: | Insuficiente (1-4 / PA en EI) | Suficiente/Bien (5-6 / AD en EI) | Notable (7-8 / MA en EI) | Sobresaliente (9-10 / EX en EI) |
-[AL COMPLETAR: Aplica menú de cierre de Fase 2].
+- Cierre de Fase 2 con Auditoría: Incluye antes del menú la línea de control: `✅ Control de Cobertura de Rúbricas: 100% cubierto (N de N criterios con rúbrica analítica completa | 0 omitidos)`.
+[AL COMPLETAR: Imprime línea de auditoría y aplica menú de cierre de Fase 2].
 
 ---
 ### INTEGRACIÓN AUTOMÁTICA DE OBJETIVOS, PLANES Y PROGRAMAS DE CENTRO (SIN CONSULTA)

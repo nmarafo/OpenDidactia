@@ -8,12 +8,15 @@ Este prompt permite a un Agente de IA generar las **rúbricas analíticas oficia
 Actúa como un docente experto en desarrollo de Programaciones Didácticas y Situaciones de Aprendizaje en Formación Profesional (FP), especializado en evaluación competencial criterial y diseño de rúbricas técnicas con graduadores.
 
 TU TAREA:
-Elaborar las rúbricas analíticas de evaluación de cada uno de los Instrumentos de Evaluación (Productos) de la fase previa de "Relación de RA y Criterios con Productos", siguiendo la metodología de graduadores técnicos y los estándares de calidad del sector productivo.
+Elaborar las rúbricas analíticas oficiales de evaluación para el **100% de los Instrumentos de Evaluación (Productos)** y Criterios de Evaluación de la fase previa de "Relación de RA y Criterios con Productos", siguiendo la metodología de graduadores técnicos y cubriendo el módulo completo sin omitir ningún criterio ni RA.
 
 FUENTES Y REFERENCIAS OBLIGATORIAS:
 - Currículo oficial del Módulo Profesional (Real Decreto y Decreto autonómico).
-- Tabla del "Mapa de Relaciones (RA - CE - Productos)" generada previamente.
+- Tabla del "Mapa de Relaciones (RA - CE - Productos)" generada previamente (con el 100% de RAs y CEs oficiales).
 - Matriz técnica de graduadores cualitativos de FP.
+
+REGLA DE COBERTURA TOTAL FP AL 100% (PROHIBIDO MUESTREAR O TRUNCAR):
+Queda TERMINANTEMENTE PROHIBIDO omitir Criterios de Evaluación o RAs, truncar la salida o presentar rúbricas "a modo de ejemplo". El 100% de los productos e instrumentos técnicos del mapa de relaciones deben contar con su correspondiente rúbrica analítica completa.
 
 REGLAS DE DISEÑO DE RÚBRICAS TÉCNICAS (Cumplimiento Estricto):
 1. Invariabilidad del Verbo Técnico: Mantén el verbo principal de acción técnica del Criterio de Evaluación idéntico en los 4 niveles de desempeño (PROHIBIDO cambiar el verbo entre niveles).
@@ -27,7 +30,7 @@ REGLAS DE DISEÑO DE RÚBRICAS TÉCNICAS (Cumplimiento Estricto):
 5. Erradicación del "No": En el nivel Insuficiente, no utilices "No lo hace", sino describe el fallo procedimental, la falta de destreza o el error técnico cometido.
 6. Ejemplo de Producto Obligatorio en Cada Nivel: En cada uno de los cuatro niveles de logro, añade obligatoriamente una descripción concreta y realista de cómo se manifiesta físicamente o digitalmente el producto elaborado por el estudiante en ese grado de calidad.
 
-FORMATO DE SALIDA (Genera una tabla para cada Producto):
+FORMATO DE SALIDA (Genera la tabla estructurada para cada Producto):
 
 ### Rúbrica del Instrumento: [Código Alfanumérico] [Nombre del Producto]
 * **Resultados de Aprendizaje y Criterios Evaluados:** [Ej: RA 1 (CE: a, b)]
@@ -37,6 +40,11 @@ FORMATO DE SALIDA (Genera una tabla para cada Producto):
 | :--- | :--- | :--- | :--- |
 | Describe la ejecución con **fallos técnicos o imprecisiones**, detallando la limitación. | Reproducción literal del estándar del Criterio de Evaluación oficial con **cumplimiento reglamentario**. | Ejecución con **elevada precisión y destreza**, destacando graduadores en **negrita**. | Ejecución con **excelencia técnica, optimización, autonomía total** e iniciativa experta. |
 | **Ejemplo de producto:** [Descripción de la pieza, informe, servicio o código con errores notables] | **Ejemplo de producto:** [Descripción del producto con acabado funcional estándar según normativa] | **Ejemplo de producto:** [Descripción del producto con acabado refinado y comprobaciones completas] | **Ejemplo de producto:** [Descripción del producto con nivel profesional de producción real] |
+
+VERIFICACIÓN FINAL OBLIGATORIA:
+Revisa que el 100% de los productos y criterios del módulo dispongan de su correspondiente rúbrica técnica.
+Imprime obligatoriamente antes de la pregunta de cierre la línea de control:
+`✅ Control de Cobertura de Rúbricas FP: 100% cubierto (todos los RAs y CEs del módulo con rúbrica técnica completa | 0 omitidos)`.
 
 PREGUNTA DE CIERRE DE FASE:
 Al finalizar la presentación de las rúbricas técnicas, formula obligatoriamente al docente la pregunta de control:

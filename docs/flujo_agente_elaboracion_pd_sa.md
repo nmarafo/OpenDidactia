@@ -78,14 +78,18 @@ Al concluir cada fase o unidad didáctica, el agente **se detiene obligatoriamen
 * **"Instrumento de Evaluación"**: En el modelo canario se refiere **exclusivamente al PRODUCTO, EVIDENCIA O TAREA TANGIBLE** que el alumnado elabora y entrega (ej. *Guía de Audición, Podcast, Mural, Informe de Laboratorio, Maqueta, Ponencia Oral*). No se refiere a la herramienta de calificación (la rúbrica o escala).
 
 ### Reglas de Procesamiento para el Agente:
-1. **Inventario del Criterio:** Identificar el texto íntegro oficial del Criterio de Evaluación, la relación completa de sus Descriptores Operativos asociados (en Primaria, ESO y Bachillerato) o Competencias Clave (en Infantil) y los Saberes Básicos vinculados indicando su Bloque y número oficial.
-2. **Diseño de Productos (Regla por Defecto: 2 Productos):** Deconstruir por defecto cada Criterio de Evaluación en **EXACTAMENTE 2 Instrumentos de Evaluación** (Productos tangibles: ej. 1.1.1 y 1.1.2) que cubran armónicamente la totalidad de su redacción.
-3. **Relación Curricular Obligatoria (Regla de Oro):**
+1. **Inventario Previo Obligatorio (Paso 0):** Antes de generar la tabla de deconstrucción, el agente debe identificar y listar explícitamente en el encabezado todos los códigos oficiales de criterios que componen el currículo completo: `Criterios oficiales a evaluar (100% currículo): [ej: 1.1, 1.2, 2.1, 2.2, 3.1, 3.2... Total: N criterios]`.
+2. **Regla de Cobertura Criterial 100% (Prohibición de Muestreos):** Queda TERMINANTEMENTE PROHIBIDO omitir criterios, resumir, utilizar "etc." o presentar muestras parciales a modo de ejemplo. Todos y cada uno de los criterios oficiales deben figurar deconstruidos en la tabla (desde el primero hasta el último).
+3. **Inventario del Criterio:** Identificar el texto íntegro oficial del Criterio de Evaluación, la relación completa de sus Descriptores Operativos asociados (en Primaria, ESO y Bachillerato) o Competencias Clave (en Infantil) y los Saberes Básicos vinculados indicando su Bloque y número oficial.
+4. **Diseño de Productos (Regla por Defecto: 2 Productos):** Deconstruir por defecto cada Criterio de Evaluación en **EXACTAMENTE 2 Instrumentos de Evaluación** (Productos tangibles: ej. 1.1.1 y 1.1.2) que cubran armónicamente la totalidad de su redacción.
+5. **Relación Curricular Obligatoria (Regla de Oro):**
    * A cada uno de los 2 Productos diseñados se le relacionan obligatoriamente sus **Descriptores Operativos específicos** (excepto en Educación Infantil, donde se asocian Competencias Clave al no haber descriptores operativos de salida) y los **Saberes Básicos (citando Bloque y número oficial según el currículo)**.
    * Repartir la **totalidad** de los descriptores oficiales del criterio entre los 2 productos diseñados (**no puede quedar ningún descriptor sin asignar**).
-4. **Formato Numérico Estándar:** Cada instrumento se numera como `[Criterio].[Secuencia]` (ej: `1.1.1. Guía de Audición`, `1.1.2. Infografía de Hábitos Saludables`).
-5. **Tabla de Deconstrucción Obligatoria:**
+6. **Formato Numérico Estándar:** Cada instrumento se numera como `[Criterio].[Secuencia]` (ej: `1.1.1. Guía de Audición`, `1.1.2. Infografía de Hábitos Saludables`).
+7. **Tabla de Deconstrucción Obligatoria:**
    * `N.º Criterio` | `Descriptores Operativos / Comp. Clave` | `Saberes Básicos (Bloque y N.º Oficial)` | `Parte del Criterio Evaluada (Cita Textual)` | `Instrumento de Evaluación (Producto Numerado)`
+8. **Línea de Auditoría de Cobertura:** Antes del menú de control inter-fase, imprimir obligatoriamente:  
+   `✅ Control de Cobertura Criterial: 100% cubierto (N de N criterios oficiales deconstruidos | 0 omitidos)`.
 
 > **Pausa de Control Inter-Fase:** Al finalizar el Paso 1, pregunta al docente si desea pasar a la siguiente fase o realizar ajustes.
 
@@ -96,19 +100,23 @@ Al concluir cada fase o unidad didáctica, el agente **se detiene obligatoriamen
 Basado en el *Informe Técnico: Uso de Graduadores en la Evaluación Competencial (Modelo LOMLOE Canarias)*:
 
 ### Reglas de Oro en el Diseño de Rúbricas:
-1. **Invariabilidad del Verbo Cognitivo:**
+1. **Cobertura Universal al 100% (Prohibición de Truncamientos):** Deben generarse las rúbricas analíticas oficiales para el 100% de los criterios e instrumentos de evaluación de la materia (sin omitir ninguno). Prohibido truncar la respuesta o presentar rúbricas "a modo de ejemplo".
+2. **Estructura Eficiente por Criterio:** Para asegurar que los tokens de salida permitan incluir la totalidad de criterios sin saturar el mensaje, el agente elaborará una **Rúbrica Analítica Integral por cada Criterio de Evaluación**, evaluando conjuntamente los 2 productos/evidencias asignados a ese criterio.
+3. **Invariabilidad del Verbo Cognitivo:**
    * **PROHIBIDO cambiar el verbo del criterio entre niveles** (a diferencia de Bloom tradicional). Si el criterio prescribe *"Analizar"*, el nivel Insuficiente analiza (con graves errores o de forma incompleta) y el Sobresaliente analiza (críticamente y con máxima precisión).
-2. **Fidelidad al Criterio en Suficiente/Bien (SU/BI):**
+4. **Fidelidad al Criterio en Suficiente/Bien (SU/BI):**
    * El nivel `SU/BI` corresponde a la **redacción literal del criterio** (es el estándar mínimo aprobatorio).
-3. **Modulación mediante Graduadores en Negrita:**
+5. **Modulación mediante Graduadores en Negrita:**
    * Los niveles se gradúan mediante adjetivos y adverbios (*graduadores*) que deben escribirse en **negrita** (ej. **con imprecisiones significativas**, **adecuadamente**, **con gran rigor**, **con máxima precisión e iniciativa**).
-4. **Las 4 Dimensiones de Graduación:**
+6. **Las 4 Dimensiones de Graduación:**
    * **Calidad y Precisión:** Mide el rigor técnico y la exactitud.
    * **Autonomía:** Mide la dependencia respecto al docente (**con ayuda constante**, **de manera guiada**, **con autonomía**, **con plena autonomía y liderazgo**).
    * **Profundidad y Complejidad:** Mide el nivel de procesamiento (**fragmentada**, **comprensiva**, **analítica**, **crítica y reflexiva**).
    * **Actitud y Frecuencia:** Regularidad y disposición.
-5. **Erradicar el "No":** En el nivel Insuficiente, no utilizar la fórmula negativa *"No lo hace"*, sino describir la naturaleza de la limitación (*"Lo realiza con errores graves..."*).
-6. **Ejemplo Tangible del Producto:** En cada nivel de logro, incluir un ejemplo descriptivo concreto de cómo luce el producto elaborado por el estudiante.
+7. **Erradicar el "No":** En el nivel Insuficiente, no utilizar la fórmula negativa *"No lo hace"*, sino describir la naturaleza de la limitación (*"Lo realiza con errores graves..."*).
+8. **Ejemplo Tangible del Producto:** En cada nivel de logro, incluir un ejemplo descriptivo concreto de cómo luce el producto elaborado por el estudiante.
+9. **Línea de Auditoría de Rúbricas:** Antes del menú de control inter-fase, imprimir obligatoriamente:  
+   `✅ Control de Cobertura de Rúbricas: 100% cubierto (N de N criterios oficiales con rúbrica analítica completa | 0 omitidos)`.
 
 > **Pausa de Control Inter-Fase:** Al finalizar el Paso 2, pregunta al docente si desea pasar a la siguiente fase o realizar ajustes.
 
