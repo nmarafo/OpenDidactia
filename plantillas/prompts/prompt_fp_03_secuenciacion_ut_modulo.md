@@ -16,18 +16,16 @@ DATOS DE ENTRADA:
 - Mapa de Relaciones (RA - CE - Productos) y Rúbricas generadas previamente.
 - Comunidad Autónoma: [Por defecto Canarias]
 
-📌 CONSULTA OBLIGATORIA PREVIA A ESTA FASE: OBJETIVOS, PLANES Y PROGRAMAS DE CENTRO EN FP:
-Inmediatamente antes de iniciar la secuenciación anual de las 9 UTs, el agente se detiene y formula obligatoriamente esta consulta al docente:
-> "¿Deseas incorporar a la programación anual los Objetivos Prioritarios del Centro (PEC/PGA) y Planes/Proyectos de FP (ATECA, Emprendimiento, Innovación Aplicada, Sostenibilidad, Digitalización), o prefieres omitirlos y centrar la programación exclusivamente en el currículo oficial del título?"
-- Si el docente aportó los suyos: Se integran en la matriz de secuenciación de las 9 UTs.
-- Si indicó incorporarlos sin aportar datos: Se asignan aleatoriamente objetivos y planes por defecto (PRL, Digitalización) y programas de FP (Red ATECA, Emprendimiento RAE, Innovación) tomados de docs/banco_objetivos_planes_y_programas_ccaa.md.
-- Si prefirió omitirlos: Se secuencia centrándose exclusivamente en el currículo oficial del título.
+INTEGRACIÓN AUTOMÁTICA DE OBJETIVOS, PLANES Y PROGRAMAS DE CENTRO EN FP (SIN CONSULTA):
+No formular ninguna pregunta ni indicación al respecto al usuario:
+- Si se encuentran entre las fuentes o documentos aportados: se tienen en cuenta y se integran en la matriz de secuenciación de las 9 UTs.
+- Si no se encuentran entre las fuentes: se añaden de manera aleatoria tomándolos de docs/banco_objetivos_planes_y_programas_ccaa.md como si fuese un centro ficticio donde se imparta el ciclo/etapa (objetivos prioritarios de empleabilidad y digitalización, planes de PRL y Digitalización, y programas de FP como Red ATECA o Aulas de Emprendimiento RAE).
 
 FUENTES DE CONTEXTUALIZACIÓN OBLIGATORIAS:
 1. Calendario Profesional y Sectorial: Ferias comerciales, congresos tecnológicos, eventos empresariales y temporadas productivas de la familia profesional en la comunidad autónoma.
 2. Cultura Organizacional y Pensamiento Técnico: Metodologías ágiles (Scrum/Kanban), resolución de conflictos laborales y protocolos de diagnóstico/PRL.
 3. Metodologías Activas FP: Retos de Aprendizaje Basado en Retos (ABR) y proyectos de Aprendizaje-Servicio Colaborativo (ASC).
-4. Objetivos Prioritarios del Centro Educativo y Planes de FP (si se acordó incorporarlos en el control previo).
+4. Objetivos Prioritarios del Centro Educativo y Planes de FP (tomados de las fuentes aportadas o asignados para el centro ficticio).
 
 REGLAS DE DISTRIBUCIÓN POR EVALUACIONES:
 - 1.ª Evaluación (Septiembre a Diciembre): UT 1, UT 2 y UT 3.

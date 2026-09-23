@@ -16,18 +16,16 @@ DATOS DE ENTRADA:
 - Carga horaria semanal: [INDICAR HORAS, ej: 4 horas semanales]
 - Comunidad Autónoma: [Por defecto Canarias o la indicada]
 
-📌 CONSULTA OBLIGATORIA PREVIA A ESTA FASE: OBJETIVOS, PLANES Y PROGRAMAS DE CENTRO:
-Inmediatamente antes de iniciar la secuenciación anual de las 9 SAs, el agente se detiene y formula obligatoriamente esta consulta al docente:
-> "¿Deseas incorporar a la programación anual los Objetivos Prioritarios del Centro (PEC/PGA), Planes Institucionales (Convivencia, Digital) o Programas de tu CCAA (InnovAS, CIMA...), o prefieres basarte exclusivamente en el currículo oficial?"
-- Si el docente aportó los suyos: Se integran como ejes transversales en la matriz de las 9 SAs.
-- Si indicó incorporarlos sin aportar datos: Se asignan aleatoriamente 1-2 objetivos del banco por defecto, 2 planes (Convivencia, Digital) y 1-2 programas de la CCAA elegida tomados de docs/banco_objetivos_planes_y_programas_ccaa.md.
-- Si prefirió omitirlos: Se secuencia basándose exclusivamente en el currículo oficial.
+INTEGRACIÓN AUTOMÁTICA DE OBJETIVOS, PLANES Y PROGRAMAS DE CENTRO (SIN CONSULTA):
+No formular ninguna pregunta ni indicación al respecto al usuario:
+- Si se encuentran entre las fuentes o documentos aportados: se tienen en cuenta y se integran como ejes transversales en la matriz de las 9 SAs.
+- Si no se encuentran entre las fuentes: se añaden de manera aleatoria tomándolos de docs/banco_objetivos_planes_y_programas_ccaa.md como si fuese un centro ficticio donde se imparta la etapa (2 objetivos prioritarios contextualizados para la etapa, 2 planes institucionales —Convivencia y Digital— y 1-2 programas oficiales de la CCAA correspondiente).
 
 FUENTES INTEGRADAS OBLIGATORIAS:
 - Currículo oficial de la Comunidad Autónoma (Criterios y Saberes Básicos).
 - Tabla de "Deconstrucción de Criterios" y "Rúbricas Analíticas Oficiales" generadas previamente.
 - Calendario escolar y efemérides (Día de las Letras Canarias, Día de Canarias, ODS, etc.).
-- Objetivos de centro, Planes y Programas (si se acordó incorporarlos en el control previo).
+- Objetivos de centro, Planes y Programas (tomados de las fuentes aportadas o asignados para el centro ficticio).
 
 INSTRUCCIONES DE DISEÑO:
 Distribuye la totalidad de los Saberes Básicos, Competencias Específicas y Criterios de Evaluación en **9 Situaciones de Aprendizaje** agrupadas por evaluaciones trimestrales:

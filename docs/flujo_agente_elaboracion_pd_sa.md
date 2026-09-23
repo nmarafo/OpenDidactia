@@ -18,7 +18,7 @@ Este documento constituye la **guía maestra de instrucciones y procedimientos**
                                 ▼  ◄─── [Pausa de Control Inter-Fase: Avanzar o Ajustar]
 [ PASO 3: Activación del Ecosistema Metodológico (Merrill, DUA, Calendario, Red InnovAS) ]
                                 │
-                                ▼  ◄─── 📌 [CONSULTA OBLIGATORIA: Objetivos, Planes y Programas de Centro]
+                                ▼  ◄─── [Integración Automática: Fuentes o Centro Ficticio]
 [ PASO 4: Secuenciación Anual de la Programación Didáctica (9 SAs por Trimestres) ]
                                 │
                                 ▼  ◄─── [Pausa de Control Inter-Fase: Avanzar o Ajustar]
@@ -127,18 +127,16 @@ Para planificar la secuencia anual y las sesiones diarias, el agente debe activa
    * *Fase 3: Demostración (modelado).*
    * *Fase 4: Aplicación práctica guiada.*
    * *Fase 5: Integración y transferencia a la vida real.*
-4. **Planes y Programas del Centro:** Integración con el PIDAS (Red Canaria InnovAS o equivalente autonómico), plan de lectura, sostenibilidad y convivencia (según la opción elegida en la consulta previa al Paso 4).
+4. **Planes y Programas del Centro:** Integración con el PIDAS (Red Canaria InnovAS o equivalente autonómico), plan de lectura, sostenibilidad y convivencia (tomados de las fuentes aportadas o asignados automáticamente para un centro ficticio de la etapa).
 
 ---
 
-## 📌 CONSULTA OBLIGATORIA PREVIA AL PASO 4: OBJETIVOS, PLANES Y PROGRAMAS DE CENTRO
+## Integración Automática de Objetivos, Planes y Programas de Centro (Sin Consulta Previa)
 
-La articulación con los Objetivos Prioritarios del Centro y sus Planes y Programas Institucionales es **OPCIONAL y se consulta obligatoriamente de forma previa al Paso 4** (inmediatamente antes de iniciar la secuenciación anual):
+El agente **NO realiza ninguna indicación ni consulta previa al usuario al respecto**. La articulación de la Programación Anual (Paso 4) con los Objetivos Prioritarios del Centro y sus Planes y Programas Institucionales se realiza de manera totalmente autónoma y fluida:
 
-> *"Inmediatamente antes de iniciar la secuenciación anual de las 9 SAs (Paso 4): ¿Deseas incorporar a la programación anual los Objetivos Prioritarios del Centro (PEC/PGA), Planes Institucionales (Convivencia, Digital) o Programas de tu CCAA (InnovAS, CIMA...), o prefieres omitirlos y basarte exclusivamente en el currículo oficial ordinario?"*
-- **Si el docente aporta los suyos:** Se integran como ejes transversales y vertebradores en la matriz de la programación anual (Paso 4).
-- **Si el docente decide incorporarlos pero no aporta datos:** El agente recurre al [Banco de Objetivos, Planes y Programas por CCAA](banco_objetivos_planes_y_programas_ccaa.md) y asigna aleatoriamente 1-2 objetivos de centro prioritarios por defecto, 2 planes institucionales (Plan de Convivencia, Plan Digital) y 1-2 programas o redes oficiales de la Comunidad Autónoma correspondiente (ej. Red InnovAS en Canarias, CIMA en Andalucía, etc.).
-- **Si el docente decide omitirlos:** Se avanza de forma fluida basando la secuenciación anual exclusivamente en los criterios, saberes básicos y efemérides normativas sin forzar vínculos institucionales.
+- **Si se encuentran entre las fuentes aportadas:** Se tendrán en cuenta y se integran como ejes transversales y vertebradores en la matriz de la programación anual (Paso 4).
+- **Si NO se encuentran entre las fuentes:** Se añadirán de manera aleatoria a partir del [Banco de Objetivos, Planes y Programas por CCAA](banco_objetivos_planes_y_programas_ccaa.md) como si fuese un centro ficticio donde se imparta la etapa (asignando automáticamente 1-2 objetivos de centro prioritarios coherentes con la etapa, 2 planes institucionales —Plan de Convivencia y Plan Digital de Centro— y 1-2 programas o redes oficiales de la Comunidad Autónoma correspondiente, ej. Red InnovAS en Canarias, CIMA en Andalucía, etc.), garantizando una contextualización realista sin interrumpir el flujo ni formular preguntas.
 
 ---
 
@@ -154,7 +152,7 @@ Cada SA de la tabla anual debe especificar:
 * Trimestre y número de sesiones estimadas.
 * Criterios de evaluación y Saberes Básicos implicados mencionando obligatoriamente el Bloque y el número oficial que le corresponde según el currículo.
 * **Metodología Activa Vertebradora:** Asignación explícita de la metodología rectora de cada SA (ABP, ApS, Design Thinking, ABR, etc., según el [Catálogo de Metodologías](catalogo_metodologias_aprendizaje.md)), justificando brevemente su adecuación al reto.
-* Conexión con efemérides del calendario escolar y Objetivos Prioritarios / Planes de Centro (si se eligió incorporarlos en el control previo).
+* Conexión con efemérides del calendario escolar y Objetivos Prioritarios / Planes de Centro (tomados de las fuentes o asignados para el centro ficticio).
 * Instrumentos de evaluación (productos de la deconstrucción del Paso 1) que se calificarán con las rúbricas del Paso 2.
 
 > **Pausa de Control Inter-Fase:** Al finalizar el Paso 4, pregunta al docente si desea pasar a la siguiente fase o realizar ajustes.

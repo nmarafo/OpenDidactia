@@ -34,8 +34,7 @@ graph TD
     DP["0. Datos de Partida<br>(CCAA, Módulo, Horas y Particularidades)"] --> A["1. Relación y Asociación de RA y CE con Productos<br>(Mapa de Relaciones Alfanumérico)"]
     A --> B["2. Elaboración de Rúbricas Analíticas con Graduadores Técnicos"]
     B --> C["3. Conformación del Ecosistema de Base de Conocimiento<br>(Calendario Sectorial, Metodologías Ágiles, PRL, ABR/ASC, Merrill en Taller)"]
-    C --> CON["📌 Consulta Obligatoria de Centro<br>(Objetivos, Planes y Programas de FP)"]
-    CON --> D["4. Secuenciación Anual de Unidades de Trabajo (UTs / SA-UT)<br>(9 UTs anuales vinculadas a retos productivos y planes de centro elegidos)"]
+    C --> D["4. Secuenciación Anual de Unidades de Trabajo (UTs / SA-UT)<br>(9 UTs anuales vinculadas a retos productivos y planes de centro de fuentes o ficticios)"]
     D --> E["5. Desarrollo de la SA-UT para el DOCENTE<br>(Merrill en Taller + DUA granular por tarea + Roles + PRL)"]
     E --> F["6. Concreción de la SA-UT para el ALUMNADO<br>(El Encargo del Cliente: sin burocracia, mapa de ruta y entregables)"]
     F --> G["7 y 8. (OPCIONAL) Medidas de Apoyo y Plan de Recuperación de RAs<br>(Refuerzo continuo y pendientes: el docente decide si ejecutar)"]
@@ -147,18 +146,16 @@ Para que la programación y las UTs estén fuertemente arraigadas en el sector p
    - *4. Aplicación Guiada en Puesto de Taller:* Práctica del alumnado con lista de control de autochequeo y andamiajes de funciones ejecutivas.
    - *5. Integración y Transferencia Dual:* Conexión directa del aprendizaje adquirido con las tareas que se desempeñarán en la fase de **Formación en Empresa (FP Dual)**.
 5. **Objetivos de Centro, Planes y Programas:**
-   - Vinculación con los planes del centro (Innovación aplicada, Digitalización, Sostenibilidad, Prevención de Riesgos, Igualdad).
+   - Vinculación con los planes del centro (Innovación aplicada, Digitalización, Sostenibilidad, Prevención de Riesgos, Igualdad), tomados de las fuentes facilitadas o asignados para un centro ficticio donde se imparta el ciclo.
 
 ---
 
-## 📌 CONSULTA OBLIGATORIA PREVIA A LA FASE 4: OBJETIVOS Y PLANES DE CENTRO EN FP
+## Integración Automática de Objetivos y Planes de Centro en FP (Sin Consulta Previa)
 
-La incorporación de Objetivos Prioritarios de Centro y Planes/Proyectos de FP (ATECA, Emprendimiento, etc.) es **OPCIONAL y se consulta obligatoriamente de forma previa a la Fase 4** (inmediatamente antes de iniciar la secuenciación anual de UTs):
+El agente **NO realiza ninguna indicación ni consulta previa al usuario al respecto**. La integración de los Objetivos Prioritarios de Centro y Planes/Proyectos de FP (ATECA, Emprendimiento, Innovación Aplicada, etc.) se efectúa de manera completamente automática:
 
-> *"Inmediatamente antes de iniciar la secuenciación anual de las 9 UTs (Fase 4): ¿Deseas incorporar a la programación anual los Objetivos Prioritarios del Centro (PEC/PGA) y Planes/Proyectos de FP (ATECA, Emprendimiento, Innovación Aplicada, Sostenibilidad, Digitalización), o prefieres omitirlos y centrar la programación exclusivamente en el currículo oficial del título?"*
-- **Si el docente aporta los suyos:** Se integran en la matriz de secuenciación (Fase 4) como ejes técnicos y transversales.
-- **Si el docente decide incorporarlos pero no aporta datos:** El agente recurre al [Banco de Objetivos, Planes y Programas por CCAA](banco_objetivos_planes_y_programas_ccaa.md) y asigna aleatoriamente objetivos del banco por defecto (empleabilidad/digitalización OBJ-08/OBJ-03), planes institucionales (Plan de Convivencia, Plan Digital, Plan de PRL/Autoprotección PLAN-09) y redes de FP (Red ATECA, Aulas de Emprendimiento RAE, Innovación Aplicada o programas de la CCAA).
-- **Si el docente decide omitirlos:** Se avanza directamente a la Fase 4 estructurando las 9 UTs sobre los Resultados de Aprendizaje, Criterios de Evaluación y retos técnicos del taller sin forzar proyectos de centro.
+- **Si se encuentran entre las fuentes aportadas:** Se tendrán en cuenta y se integran en la matriz de secuenciación (Fase 4) como ejes técnicos y transversales.
+- **Si NO se encuentran entre las fuentes:** Se añadirán de manera aleatoria a partir del [Banco de Objetivos, Planes y Programas por CCAA](banco_objetivos_planes_y_programas_ccaa.md) como si fuese un centro ficticio donde se imparta el ciclo/etapa (asignando objetivos del banco por defecto —empleabilidad y digitalización—, planes institucionales como Plan de PRL/Autoprotección y Plan Digital, y programas de FP como Red ATECA o Aulas de Emprendimiento RAE), garantizando una contextualización profesional completa sin interrumpir el flujo ni formular preguntas al docente.
 
 ---
 

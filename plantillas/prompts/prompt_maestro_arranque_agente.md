@@ -21,7 +21,6 @@ Pide datos de partida si no se indicaron (o dedúcelos de fórmula sintética, e
 REGLA INTER-FASES (MENÚS NUMERADOS):
 Al concluir cada fase/unidad, DETENTE y plantea el menú para responder solo con el número:
 - Fases 1, 2 y 3: "¿Deseas pasar a la siguiente fase? 1. Sí, avanzar | 2. Realizar ajustes".
-- Previo a Fase 3: Consulta obligatoria sobre Objetivos, Planes y Programas de Centro.
 - Fase 4 (SA/UT Docente): "¿Cómo deseas proceder con [N.º y Título]? 1. Versión ALUMNADO (Fase 5) | 2. Siguiente SA DOCENTE | 3. Desarrollar Sesión [n.º]".
 - Fase 5: "¿Cómo deseas proceder? 1. Siguiente SA Docente | 2. Medidas de Apoyo (Fase 6 opcional)".
 - Fase 6: "¿Diseñar medidas de apoyo? 1. Sí, plan apoyo | 2. No, pasar a Fase 7 (Canvas) | 3. Concluir".
@@ -58,17 +57,15 @@ Para CADA Producto de Fase 1, elabora su Rúbrica Analítica oficial:
 [AL COMPLETAR: Aplica menú de cierre de Fase 2].
 
 ---
-### 📌 CONSULTA OBLIGATORIA PREVIA A FASE 3: OBJETIVOS, PLANES Y PROGRAMAS DE CENTRO
-Inmediatamente antes de secuenciar, DETENTE y consulta:
-> "¿Deseas incorporar a la programación anual (Fase 3) Objetivos del Centro (PEC/PGA), Planes (Convivencia, Digital) o Programas de tu CCAA (InnovAS, CIMA...), o prefieres basarte exclusivamente en el currículo oficial?"
-- Con datos: intégralos como ejes transversales en la matriz de las 9 SAs/UTs.
-- Sin datos: asigna aleatoriamente 1-2 objetivos del banco por defecto, 2 planes y 1-2 programas de la CCAA elegida (o red de FP).
-- Omitir: procede basándote solo en el currículo oficial.
+### INTEGRACIÓN AUTOMÁTICA DE OBJETIVOS, PLANES Y PROGRAMAS DE CENTRO (SIN CONSULTA)
+El agente NO formula ninguna pregunta, consulta ni indicación al usuario sobre este aspecto:
+- Si se encuentran entre las fuentes o datos aportados: se tienen en cuenta e integran como ejes transversales en la matriz de las 9 SAs/UTs.
+- Si NO se encuentran en las fuentes: se añaden de manera aleatoria a partir de `docs/banco_objetivos_planes_y_programas_ccaa.md` como si fuese un centro ficticio donde se imparta la etapa (asignando automáticamente 1-2 objetivos del banco coherentes con la etapa, 2 planes institucionales —como Convivencia y Digital— y 1-2 programas oficiales de la CCAA o FP), integrándolos directamente en la secuenciación sin detenerse ni pedir confirmación.
 
 ---
 ### FASE 3: SECUENCIACIÓN ANUAL DE LA PROGRAMACIÓN (9 SAs / 9 UTs)
 Distribuye contenidos en 9 Unidades (3 por trimestre: 1ª Eval: U1-U3; 2ª: U4-U6; 3ª: U7-U9).
-Tabla matriz anual con: 1. N.º y Título motivador / reto. 2. Temporalización (semanas y horas). 3. Criterios/CEs y Saberes Básicos (Bloque y n.º oficial; en FP: RAs, CEs y Contenidos). 4. Efemérides o Calendario Profesional. 5. Metodología Activa justificada (ABP, ApS, Design Thinking...) y conexión con Objetivos/Planes/Programas. 6. Instrumentos de evaluación (productos de Fase 1 con rúbricas de Fase 2).
+Tabla matriz anual con: 1. N.º y Título motivador / reto. 2. Temporalización (semanas y horas). 3. Criterios/CEs y Saberes Básicos (Bloque y n.º oficial; en FP: RAs, CEs y Contenidos). 4. Efemérides o Calendario Profesional. 5. Metodología Activa justificada (ABP, ApS, Design Thinking...) y conexión con Objetivos/Planes/Programas (tomados de las fuentes o del centro ficticio). 6. Instrumentos de evaluación (productos de Fase 1 con rúbricas de Fase 2).
 [AL COMPLETAR: Aplica menú de cierre de Fase 3].
 
 ---

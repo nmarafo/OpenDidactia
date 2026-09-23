@@ -2,7 +2,7 @@
 
 Este documento recopila el catálogo oficial de **Objetivos Prioritarios de Centro (PEC/PGA)**, **Planes Institucionales por Defecto** (Convivencia, Digital, etc.) y los **Programas y Redes de Innovación Educativa de las 17 Comunidades Autónomas, Ceuta y Melilla y Formación Profesional**.
 
-Su propósito es servir de **fuente documental y banco de asignación aleatoria/contextual** para que los docentes y agentes de Inteligencia Artificial en OpenDidactia puedan enriquecer las Programaciones Didácticas (Fase 3) y las Situaciones de Aprendizaje / Unidades de Trabajo (Fases 4 y 5) cuando el usuario decida incorporar estos elementos pero no aporte datos propios de su centro educativo.
+Su propósito es servir de **fuente documental y banco de asignación aleatoria/contextual** para que los docentes y agentes de Inteligencia Artificial en OpenDidactia puedan enriquecer las Programaciones Didácticas (Fase 3) y las Situaciones de Aprendizaje / Unidades de Trabajo (Fases 4 y 5), utilizándolos de las fuentes aportadas o asignándolos automáticamente como un centro ficticio donde se imparta la etapa si no se especificaron.
 
 ---
 
@@ -194,15 +194,15 @@ Catálogo exhaustivo de los programas, proyectos y redes de innovación educativ
 
 ---
 
-## 🎲 4. Reglas de Asignación Aleatoria y Contextual para el Agente IA
+## 🎲 4. Reglas de Integración Automática y Asignación Contextual para el Agente IA
 
-Cuando el docente responda a la **consulta obligatoria (formulada inmediatamente antes de la fase de secuenciación anual: Fase 3 en Régimen General o Fase 4 en FP)** sobre la incorporación de Objetivos, Planes y Programas, se aplica el siguiente protocolo según el escenario correspondiente:
-1. **Escenario A (Docente aporta sus propios datos):** La IA utiliza literalmente los objetivos, planes y programas indicados por el docente.
-2. **Escenario B (Docente desea incorporarlos pero NO aporta datos concretos o solicita asignación automática):** La IA ejecuta el siguiente protocolo de selección:
+El agente **NO realiza ninguna indicación, consulta ni pregunta al docente** sobre la incorporación de objetivos, planes y programas de centro:
+
+1. **Si se encuentran entre las fuentes aportadas por el usuario:** La IA toma y utiliza directamente los objetivos, planes y programas indicados en las fuentes/documentación provista, integrándolos como ejes vertebradores en la secuenciación anual y en el diseño de las situaciones de aprendizaje.
+2. **Si NO se encuentran entre las fuentes aportadas:** La IA los añade **de manera aleatoria y automática** simulando un centro educativo ficticio donde se imparta la etapa o ciclo correspondiente:
    * **Paso 1 - Identificar CCAA y Etapa:** Identifica la Comunidad Autónoma del encargo (por defecto Canarias) y si se trata de Régimen General o FP.
-   * **Paso 2 - Seleccionar Objetivos:** Selecciona **2 Objetivos Prioritarios de Centro** de la Sección 1 (si es FP, priorizar OBJ-08 y OBJ-03).
-   * **Paso 3 - Seleccionar Planes Institucionales:** Selecciona **2 Planes Institucionales** de la Sección 2 (garantizando siempre el **PLAN-01 Plan de Convivencia** o el **PLAN-02 Plan Digital de Centro**).
-   * **Paso 4 - Seleccionar Programas Oficiales Autonómicos:** Selecciona **1 o 2 Programas Oficiales** correspondientes a la Comunidad Autónoma seleccionada de la Sección 3 (o de la sección 19 si es un ciclo de FP).
-   * **Paso 5 - Integración Transversal en Fase 3:** En la Matriz de las 9 Unidades (SAs/UTs), distribuye estos objetivos, planes y programas seleccionados en la columna *«Conexión con Objetivos/Planes/Programas de Centro»*, articulando un hilo conductor coherente a lo largo de los 3 trimestres del curso.
+   * **Paso 2 - Seleccionar Objetivos:** Selecciona **2 Objetivos Prioritarios de Centro** de la Sección 1 adaptados a la etapa educativa (si es FP, priorizar OBJ-08 y OBJ-03; si es Primaria/ESO/Bachillerato, seleccionar 2 coherentes del catálogo como OBJ-01, OBJ-02, OBJ-04, etc.).
+   * **Paso 3 - Seleccionar Planes Institucionales:** Selecciona **2 Planes Institucionales** de la Sección 2 (garantizando siempre el **PLAN-01 Plan de Convivencia** o el **PLAN-02 Plan Digital de Centro**; en FP, PLAN-09 PRL/Autoprotección).
+   * **Paso 4 - Seleccionar Programas Oficiales Autonómicos:** Selecciona **1 o 2 Programas Oficiales** correspondientes a la Comunidad Autónoma seleccionada de la Sección 3 (o de la sección 19 si es un ciclo de FP, ej. Red InnovAS en Canarias, CIMA en Andalucía, Red ATECA en FP).
+   * **Paso 5 - Integración Transversal en Fase 3:** En la Matriz de las 9 Unidades (SAs/UTs), distribuye estos objetivos, planes y programas seleccionados en la columna *«Conexión con Objetivos/Planes/Programas de Centro»*, articulando un hilo conductor coherente a lo largo de los 3 trimestres del curso sin interrumpir el flujo ni requerir confirmación previa.
    * **Paso 6 - Aplicación en Fases 4 y 5:** En el diseño instruccional de cada unidad, refleja actividades tangibles vinculadas a los planes elegidos (ej. artefacto digital del PDC, dinámica de trabajo en equipo del Plan de Convivencia o reto medioambiental/comunicativo del programa autonómico).
-3. **Escenario C (Docente decide omitirlos):** La IA diseña la secuenciación y situaciones de aprendizaje centrándose de forma pura y exclusiva en los elementos curriculares oficiales (Criterios, Saberes Básicos o RAs y CEs en FP).
