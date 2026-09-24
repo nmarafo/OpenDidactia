@@ -1,4 +1,4 @@
-# 🧭 Orientaciones Metodológicas y Curriculares: Illes Balears
+﻿# 🧭 Orientaciones Metodológicas y Curriculares: Illes Balears
 ## Guía para el Diseño de Programaciones Didácticas (PD) y Situaciones de Aprendizaje (SDA) en Illes Balears
 
 Este documento adapta el protocolo general de **OpenDidactia** a las particularidades normativas, lingüísticas, culturales y de evaluación de **Illes Balears**. Está concebido para que docentes y agentes de IA generen documentos plenamente conformes a los decretos autonómicos vigentes.
@@ -15,7 +15,7 @@ En el diseño de cualquier PD o SDA en Illes Balears, debe referenciarse precept
 * **Formación Profesional:** Ley Orgánica 3/2022 (LOOIFP), Real Decreto 659/2023 y Decret 36/2024, de 12 de juliol (BOIB n.º 93, 16/07/2024), pel qual s'estableix l'ordenació general de la formació professional a les Illes Balears.
 * **Bachillerato:** Decreto 34/2022, de 1 de agosto (Butlletí Oficial de les Illes Balears).
 
-> Los metadatos normalizados y textos oficiales de referencia se encuentran organizados en [`normativa/`](normativa/).
+> ⚠️ **Suministro Curricular Externo:** El texto legal íntegro y el currículo oficial se facilitan de forma **externa** (vía [open-lex-edu](https://github.com/nmarafo/open-lex-edu) o boletín oficial). Es de esa fuente externa de donde deben **calcarse literalmente** los elementos curriculares oficiales (competencias específicas, criterios de evaluación, saberes básicos, descriptores operativos / RAs y CEs) sin ser inventados.
 
 ---
 

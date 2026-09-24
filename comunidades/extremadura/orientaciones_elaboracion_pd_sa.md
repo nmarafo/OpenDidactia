@@ -1,4 +1,4 @@
-# 🧭 Orientaciones Metodológicas y Curriculares: Extremadura
+﻿# 🧭 Orientaciones Metodológicas y Curriculares: Extremadura
 ## Guía para el Diseño de Programaciones Didácticas (PD) y Situaciones de Aprendizaje (SDA) en Extremadura
 
 Este documento adapta el protocolo general de **OpenDidactia** a las particularidades normativas, lingüísticas, culturales y de evaluación de **Extremadura**. Está concebido para que docentes y agentes de IA generen documentos plenamente conformes a los decretos autonómicos vigentes.
@@ -15,7 +15,7 @@ En el diseño de cualquier PD o SDA en Extremadura, debe referenciarse preceptiv
 * **Formación Profesional:** Ley Orgánica 3/2022 (LOOIFP), Real Decreto 659/2023 y Decreto 58/2024, de 25 de junio (DOE n.º 126, 01/07/2024), por el que se establece la ordenación del Sistema de Formación Profesional en la Comunidad Autónoma de Extremadura.
 * **Bachillerato:** Decreto 109/2022, de 22 de agosto (Diario Oficial de Extremadura).
 
-> Los metadatos normalizados y textos oficiales de referencia se encuentran organizados en [`normativa/`](normativa/).
+> ⚠️ **Suministro Curricular Externo:** El texto legal íntegro y el currículo oficial se facilitan de forma **externa** (vía [open-lex-edu](https://github.com/nmarafo/open-lex-edu) o boletín oficial). Es de esa fuente externa de donde deben **calcarse literalmente** los elementos curriculares oficiales (competencias específicas, criterios de evaluación, saberes básicos, descriptores operativos / RAs y CEs) sin ser inventados.
 
 ---
 

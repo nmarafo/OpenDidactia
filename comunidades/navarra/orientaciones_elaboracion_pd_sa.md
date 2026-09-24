@@ -1,4 +1,4 @@
-# 🧭 Orientaciones Metodológicas y Curriculares: Comunidad Foral de Navarra
+﻿# 🧭 Orientaciones Metodológicas y Curriculares: Comunidad Foral de Navarra
 ## Guía para el Diseño de Programaciones Didácticas (PD) y Situaciones de Aprendizaje (SDA) en Comunidad Foral de Navarra
 
 Este documento adapta el protocolo general de **OpenDidactia** a las particularidades normativas, lingüísticas, culturales y de evaluación de **Comunidad Foral de Navarra**. Está concebido para que docentes y agentes de IA generen documentos plenamente conformes a los decretos autonómicos vigentes.
@@ -15,7 +15,7 @@ En el diseño de cualquier PD o SDA en Comunidad Foral de Navarra, debe referenc
 * **Formación Profesional:** Ley Orgánica 3/2022 (LOOIFP), Real Decreto 659/2023 y Decreto Foral 41/2024, de 19 de junio (BON n.º 129, 26/06/2024), por el que se regula la ordenación de la Formación Profesional en la Comunidad Foral de Navarra.
 * **Bachillerato:** Decreto Foral 69/2022, de 22 de junio (Boletín Oficial de Navarra).
 
-> Los metadatos normalizados y textos oficiales de referencia se encuentran organizados en [`normativa/`](normativa/).
+> ⚠️ **Suministro Curricular Externo:** El texto legal íntegro y el currículo oficial se facilitan de forma **externa** (vía [open-lex-edu](https://github.com/nmarafo/open-lex-edu) o boletín oficial). Es de esa fuente externa de donde deben **calcarse literalmente** los elementos curriculares oficiales (competencias específicas, criterios de evaluación, saberes básicos, descriptores operativos / RAs y CEs) sin ser inventados.
 
 ---
 

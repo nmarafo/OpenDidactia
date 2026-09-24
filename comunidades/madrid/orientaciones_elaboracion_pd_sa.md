@@ -1,4 +1,4 @@
-# 🧭 Orientaciones Metodológicas y Curriculares: Comunidad de Madrid
+﻿# 🧭 Orientaciones Metodológicas y Curriculares: Comunidad de Madrid
 ## Guía para el Diseño de Programaciones Didácticas (PD) y Situaciones de Aprendizaje (SDA) en Comunidad de Madrid
 
 Este documento adapta el protocolo general de **OpenDidactia** a las particularidades normativas, lingüísticas, culturales y de evaluación de **Comunidad de Madrid**. Está concebido para que docentes y agentes de IA generen documentos plenamente conformes a los decretos autonómicos vigentes.
@@ -15,7 +15,7 @@ En el diseño de cualquier PD o SDA en Comunidad de Madrid, debe referenciarse p
 * **Formación Profesional:** Ley Orgánica 3/2022 (LOOIFP), Real Decreto 659/2023 y Decreto 49/2024, de 12 de junio (BOCM n.º 141, 14/06/2024), del Consejo de Gobierno, por el que se establece la ordenación de la Formación Profesional en la Comunidad de Madrid.
 * **Bachillerato:** Decreto 64/2022, de 20 de julio (Boletín Oficial de la Comunidad de Madrid).
 
-> Los metadatos normalizados y textos oficiales de referencia se encuentran organizados en [`normativa/`](normativa/).
+> ⚠️ **Suministro Curricular Externo:** El texto legal íntegro y el currículo oficial se facilitan de forma **externa** (vía [open-lex-edu](https://github.com/nmarafo/open-lex-edu) o boletín oficial). Es de esa fuente externa de donde deben **calcarse literalmente** los elementos curriculares oficiales (competencias específicas, criterios de evaluación, saberes básicos, descriptores operativos / RAs y CEs) sin ser inventados.
 
 ---
 

@@ -32,5 +32,5 @@ Este directorio alberga los **documentos técnicos, guías oficiales de la Conse
 
 ---
 
-## 5. Normativa Autonómica de FP
-* **[BOC_226_2024_Instrucciones_FP_Canarias_Resolucion_30_octubre_2024.pdf](BOC_226_2024_Instrucciones_FP_Canarias_Resolucion_30_octubre_2024.pdf):** Publicación en el BOC nº 226/2024 cuyo **Anexo IV** establece las metodologías activas obligatorias en FP de Canarias (ABR y ASC). Su transcripción completa está disponible en [`../normativa/Resolucion_30_octubre_2024_instrucciones_fp_canarias.md`](../normativa/Resolucion_30_octubre_2024_instrucciones_fp_canarias.md).
+## 5. Instrucciones Autonómicas de FP
+* **[BOC_226_2024_Instrucciones_FP_Canarias_Resolucion_30_octubre_2024.pdf](BOC_226_2024_Instrucciones_FP_Canarias_Resolucion_30_octubre_2024.pdf):** Publicación en el BOC n.º 226/2024 cuyo **Anexo IV** establece las metodologías activas obligatorias en FP de Canarias (ABR y ASC). Su consulta y metadatos normativos se encuentran disponibles en el repositorio jurídico externo [open-lex-edu](https://github.com/nmarafo/open-lex-edu).

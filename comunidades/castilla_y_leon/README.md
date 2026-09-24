@@ -14,7 +14,7 @@ Este directorio contiene la estructura del marco normativo y curricular oficial 
 | **Formación Profesional** | Decreto 24/2024, de 20 de junio (BOCyL n.º 120, 21/06/2024), de ordenación de FP | BOCyL | Estructurado |
 | **Bachillerato** | Decreto 40/2022, de 29 de septiembre (BOCyL n.º 190, 30/09/2022) | BOCyL (Boletín Oficial de Castilla y León) | Estructurado |
 
-> Los textos y disposiciones normativas se organizan en [`normativa/`](normativa/) siguiendo el estándar de metadatos de [nmarafo/open-lex-edu](https://github.com/nmarafo/open-lex-edu).
+> ⚠️ **Suministro Curricular Externo:** Los textos legales íntegros y currículos oficiales se consultan en el repositorio normativo externo [**open-lex-edu**](https://github.com/nmarafo/open-lex-edu) o en el boletín oficial autonómico correspondiente. De dicha fuente externa deben **calcarse fielmente** las competencias específicas, criterios de evaluación y saberes básicos sin ser inventados ni deducidos.
 
 ---
 
@@ -29,18 +29,14 @@ Al diseñar Situaciones de Aprendizaje y Programaciones Didácticas para centros
 
 ---
 
-## 3. Estructura de Directorios
+## 3. Estructura de Recursos en OpenDidactia
 
 ```text
 castilla_y_leon/
 ├── README.md                            # Este documento informativo
-├── normativa/                           # Textos normativos y decretos curriculares autonómicos
-└── curricular/                          # Catálogo curricular operativo por etapas
-    ├── infantil/                        # Perfil de etapa, áreas y saberes básicos
-    ├── primaria/                        # Descriptores de salida, áreas y criterios
-    ├── eso/                             # Perfil de salida básico y materias
-    ├── bachillerato/                    # Modalidades, materias comunes y de modalidad
-    └── fp/                              # Módulos profesionales, Resultados de Aprendizaje y SA-UT Modalidades, materias comunes y de modalidad
+├── orientaciones_elaboracion_pd_sa.md   # Orientaciones autonómicas (evaluación, DUA, efemérides)
+├── plantilla_programacion_didactica.md  # Plantilla de PD anual adaptada
+└── plantilla_situacion_aprendizaje.md   # Plantilla de SDA adaptada
 ```
 
 ---

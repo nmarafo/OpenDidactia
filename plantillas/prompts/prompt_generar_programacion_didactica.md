@@ -14,13 +14,14 @@ Tu cometido es generar una **Programación Didáctica Anual (PD)** exhaustiva, c
 2. Materia o área curricular oficial.
 3. Centro educativo y contexto insular (por defecto: IES o CEIP situado en Canarias, con diversidad sociocultural y recursos insulares cercanos).
 4. Temporalización total en horas/sesiones semanales.
+5. Currículo oficial de referencia (proporcionado externamente, de donde se calcan literalmente los elementos curriculares sin inventar).
 
 ### Instrucciones y Requisitos de Calidad:
-1. **Marco Jurídico de Canarias:** Cita expresamente la Ley Orgánica 3/2020 (LOMLOE), la Ley 6/2014 Canaria de Educación y el Decreto autonómico correspondiente (D196/2022 Infantil, D211/2022 Primaria o D30/2023 ESO y Bachillerato).
-2. **Contextualización Realista:** Describe un diagnóstico de partida con características socioeducativas de Canarias y pautas de evaluación inicial.
+1. **Marco Jurídico de Referencia:** Cita expresamente la Ley Orgánica 3/2020 (LOMLOE), la Ley 6/2014 Canaria de Educación y el Decreto autonómico correspondiente (D196/2022 Infantil, D211/2022 Primaria o D30/2023 ESO y Bachillerato).
+2. **Contextualización Realista:** Describe un diagnóstico de partida con características socioeducativas del entorno y pautas de evaluación inicial.
 3. **Concreción Curricular Íntegra:**
    - Detalla la contribución de la materia a los descriptores operativos del Perfil de Salida.
-   - Presenta el mapa completo de Competencias Específicas y Criterios de Evaluación oficiales con su ponderación porcentual para la calificación.
+   - Presenta el mapa completo de Competencias Específicas y Criterios de Evaluación oficiales (calcados literalmente del currículo aportado externamente) con su ponderación porcentual para la calificación.
 4. **Organización Anual de Situaciones de Aprendizaje (SDAs):**
    - Diseña una tabla anual con entre 6 y 9 Situaciones de Aprendizaje distribuidas entre el 1.º, 2.º y 3.º trimestre.
    - Cada SDA debe tener título, sesiones, competencias/criterios implicados y un reto o producto final tangible.

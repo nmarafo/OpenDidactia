@@ -1,4 +1,4 @@
-# 🧭 Orientaciones Metodológicas y Curriculares: Principado de Asturias
+﻿# 🧭 Orientaciones Metodológicas y Curriculares: Principado de Asturias
 ## Guía para el Diseño de Programaciones Didácticas (PD) y Situaciones de Aprendizaje (SDA) en Principado de Asturias
 
 Este documento adapta el protocolo general de **OpenDidactia** a las particularidades normativas, lingüísticas, culturales y de evaluación de **Principado de Asturias**. Está concebido para que docentes y agentes de IA generen documentos plenamente conformes a los decretos autonómicos vigentes.
@@ -15,7 +15,7 @@ En el diseño de cualquier PD o SDA en Principado de Asturias, debe referenciars
 * **Formación Profesional:** Ley Orgánica 3/2022 (LOOIFP), Real Decreto 659/2023 y Decreto 48/2024, de 21 de junio (BOPA n.º 126, 28/06/2024), por el que se regula la ordenación del Sistema de Formación Profesional en el Principado de Asturias.
 * **Bachillerato:** Decreto 60/2022, de 30 de agosto (Boletín Oficial del Principado de Asturias).
 
-> Los metadatos normalizados y textos oficiales de referencia se encuentran organizados en [`normativa/`](normativa/).
+> ⚠️ **Suministro Curricular Externo:** El texto legal íntegro y el currículo oficial se facilitan de forma **externa** (vía [open-lex-edu](https://github.com/nmarafo/open-lex-edu) o boletín oficial). Es de esa fuente externa de donde deben **calcarse literalmente** los elementos curriculares oficiales (competencias específicas, criterios de evaluación, saberes básicos, descriptores operativos / RAs y CEs) sin ser inventados.
 
 ---
 

@@ -1,20 +1,21 @@
 # 🏝️ Comunidad Autónoma de Canarias: Marco Curricular y Normativo OKF
 
-Este directorio contiene el marco normativo y el catálogo curricular oficial de la **Comunidad Autónoma de Canarias**, adaptado al estándar **Open Knowledge Format (OKF)** para la generación rigurosa de **Programaciones Didácticas** y **Situaciones de Aprendizaje**.
+Este directorio contiene el marco pedagógico, metodológico y operativo oficial de la **Comunidad Autónoma de Canarias**, adaptado al estándar **Open Knowledge Framework (OKF)** para la generación rigurosa de **Programaciones Didácticas** y **Situaciones de Aprendizaje**.
 
 ---
 
 ## 1. Decretos Curriculares Autonómicos Oficiales
 
-En consonancia con la recopilación canónica de [nmarafo/open-lex-edu](https://github.com/nmarafo/open-lex-edu), se incluyen los textos íntegros y metadatos de los tres decretos autonómicos que regulan las etapas no universitarias en Canarias:
+El marco curricular oficial de Canarias para las etapas no universitarias se articula en las siguientes disposiciones autonómicas:
 
-| Etapa Educativa | Disposición Oficial | Boletín Oficial | Código OKF | Documentación Transcrita |
-| :--- | :--- | :---: | :---: | :--- |
-| **Educación Infantil** | **Decreto 196/2022**, de 13 de octubre | BOC n.º 212 (26/10/2022) | `norm-can-d-196-2022` | [Texto íntegro + Anexos 1, 2 y 3](normativa/D196_2022_ordenacion_curriculo_educacion_infantil_canarias.md) |
-| **Educación Primaria** | **Decreto 211/2022**, de 10 de noviembre | BOC n.º 231 (23/11/2022) | `norm-can-d-211-2022` | [Texto íntegro + Anexos 1, 2, 3 y 4](normativa/D211_2022_ordenacion_curriculo_educacion_primaria_canarias.md) |
-| **ESO y Bachillerato** | **Decreto 30/2023**, de 16 de marzo | BOC n.º 58 (23/03/2023) | `norm-can-d-30-2023` | • [Articulado del Decreto](normativa/D30_2023_ordenacion_curriculo_eso_bachillerato_canarias.md)<br>• [Anexo 1: Perfil de Salida y Comp. Clave](normativa/D30_2023_anexo1_perfil_salida_competencias.md)<br>• [Anexo 2: Currículos ESO (21 materias)](normativa/D30_2023_anexo2_curriculo_eso_canarias.md)<br>• [Anexo 3: Currículos Bachillerato (41 materias)](normativa/D30_2023_anexo3_curriculo_bachillerato_canarias.md)<br>• [Anexos 4-9: Situaciones y Horarios](normativa/D30_2023_anexos4_9_ordenacion_horarios.md) |
+| Etapa Educativa | Disposición Oficial | Boletín Oficial | Código Normativo de Referencia |
+| :--- | :--- | :---: | :---: |
+| **Educación Infantil** | **Decreto 196/2022**, de 13 de octubre | BOC n.º 212 (26/10/2022) | `norm-can-d-196-2022` |
+| **Educación Primaria** | **Decreto 211/2022**, de 10 de noviembre | BOC n.º 231 (23/11/2022) | `norm-can-d-211-2022` |
+| **ESO y Bachillerato** | **Decreto 30/2023**, de 16 de marzo | BOC n.º 58 (23/03/2023) | `norm-can-d-30-2023` |
+| **Formación Profesional** | **LO 3/2022**, **RD 659/2023**, **Res. 30/10/2024** | BOC n.º 226 (13/11/2024) | `norm-can-res-30-10-2024` |
 
-Los archivos completos se ubican en [`normativa/`](normativa/).
+> ⚠️ **Suministro Curricular Externo:** Los textos legales íntegros y currículos oficiales se consultan en el repositorio normativo externo [**open-lex-edu**](https://github.com/nmarafo/open-lex-edu) o en el Boletín Oficial de Canarias (BOC). De dicha fuente externa deben **calcarse fielmente** las competencias específicas, criterios de evaluación y saberes básicos sin ser inventados ni deducidos.
 
 ---
 
@@ -33,14 +34,23 @@ El currículo de Canarias establece que los aprendizajes deben vincularse estrec
 La normativa canaria otorga máxima prioridad a la atención a la diversidad desde el marco del **Diseño Universal para el Aprendizaje (DUA)**, exigiendo que las actividades no requieran adaptaciones segregadas, sino que ofrezcan desde su origen múltiples medios de implicación, representación y acción/expresión.
 
 ### 2.3. Las Rúbricas como Instrumento Criterial
-Canarias ha sido pionera en el uso de rúbricas analíticas para calificar los criterios de evaluación. En las situaciones de aprendizaje de Canarias, cada criterio debe medirse cualitativamente en 4 niveles de desempeño (Insuficiente, Suficiente/Bien, Notable y Sobresaliente).
+Canarias ha sido pionera en el uso de rúbricas analíticas para calificar los criterios de evaluación. En las situaciones de aprendizaje de Canarias, cada criterio debe medirse cualitativamente en 4 niveles de desempeño (Insuficiente, Suficiente/Bien, Notable y Sobresaliente), empleando graduadores en **negrita**.
 
 ---
 
-## 3. Estructura del Directorio Curricular
+## 3. Estructura de Recursos en OpenDidactia
 
-El catálogo curricular operativo se organiza por etapas en [curricular/](file:///c:/Users/norbe/Documents/OKFPDySA/comunidades/canarias/curricular):
-* `infantil/`: Perfil competencial y las 3 áreas de los dos ciclos de Educación Infantil.
-* `primaria/`: Perfil de salida al término de la etapa y áreas troncales y optativas.
-* `eso/`: Perfil de salida básico de ESO (1º a 4º) y materias curriculares.
-* `bachillerato/`: Perfil de Bachillerato, materias comunes y materias de modalidad.
+```text
+canarias/
+├── README.md                            # Este documento informativo
+├── orientaciones_elaboracion_pd_sa.md   # Orientaciones autonómicas (evaluación, DUA, efemérides canarias)
+├── plantilla_programacion_didactica.md  # Plantilla de PD anual adaptada
+├── plantilla_situacion_aprendizaje.md   # Plantilla de SDA adaptada
+├── guias_oficiales/                     # Documentos técnicos oficiales en PDF (instrucciones, DUA, rúbricas)
+└── ejemplos/                            # Modelos de referencia didáctica
+```
+
+---
+
+## 🔗 Referencia Metodológica
+Para la elaboración de documentos en esta comunidad, aplique el protocolo oficial del proyecto disponible en [`docs/flujo_agente_elaboracion_pd_sa.md`](../../docs/flujo_agente_elaboracion_pd_sa.md) y las plantillas operativas de [`plantillas/`](../../plantillas/).

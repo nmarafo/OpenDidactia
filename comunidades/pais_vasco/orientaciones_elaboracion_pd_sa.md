@@ -1,4 +1,4 @@
-# 🧭 Orientaciones Metodológicas y Curriculares: País Vasco / Euskadi
+﻿# 🧭 Orientaciones Metodológicas y Curriculares: País Vasco / Euskadi
 ## Guía para el Diseño de Programaciones Didácticas (PD) y Situaciones de Aprendizaje (SDA) en País Vasco / Euskadi
 
 Este documento adapta el protocolo general de **OpenDidactia** a las particularidades normativas, lingüísticas, culturales y de evaluación de **País Vasco / Euskadi**. Está concebido para que docentes y agentes de IA generen documentos plenamente conformes a los decretos autonómicos vigentes.
@@ -15,7 +15,7 @@ En el diseño de cualquier PD o SDA en País Vasco / Euskadi, debe referenciarse
 * **Formación Profesional:** Ley Orgánica 3/2022 (LOOIFP), Real Decreto 659/2023 y Decreto 82/2024, de 18 de junio (BOPV n.º 125, 27/06/2024), por el que se establece la ordenación del Sistema de Formación Profesional en el País Vasco.
 * **Bachillerato:** Decreto 76/2023, de 30 de mayo (Boletín Oficial del País Vasco).
 
-> Los metadatos normalizados y textos oficiales de referencia se encuentran organizados en [`normativa/`](normativa/).
+> ⚠️ **Suministro Curricular Externo:** El texto legal íntegro y el currículo oficial se facilitan de forma **externa** (vía [open-lex-edu](https://github.com/nmarafo/open-lex-edu) o boletín oficial). Es de esa fuente externa de donde deben **calcarse literalmente** los elementos curriculares oficiales (competencias específicas, criterios de evaluación, saberes básicos, descriptores operativos / RAs y CEs) sin ser inventados.
 
 ---
 

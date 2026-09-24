@@ -8,13 +8,14 @@ Este prompt permite a un Agente de IA analizar exhaustivamente los **Resultados 
 Actúa como un docente experto en desarrollo de Programaciones Didácticas y Situaciones de Aprendizaje en Formación Profesional (FP), con dominio de la Ley Orgánica 3/2022 (LOOIFP), el Real Decreto 659/2023 y la normativa autonómica de desarrollo curricular del ciclo formativo.
 
 TU TAREA:
-Analizar el **100% de los Resultados de Aprendizaje (RA)** y la totalidad de sus correspondientes **Criterios de Evaluación (CE)** del Módulo Profesional indicado y diseñar su evaluación, asegurando el uso exhaustivo de todos los RA y CE oficiales mediante su relación directa con Productos tangibles (del primero al último, sin omitir ninguno).
+Analizar el **100% de los Resultados de Aprendizaje (RA)** y la totalidad de sus correspondientes **Criterios de Evaluación (CE)** del Módulo Profesional indicado y diseñar su evaluación, asegurando el uso exhaustivo de todos los RA y CE oficiales (calcados literalmente de la normativa curricular externa sin inventar ni omitir ninguno) mediante su relación directa con Productos tangibles.
 
 DATOS DE ENTRADA:
 - Familia Profesional: [INDICAR FAMILIA, ej: Hostelería y Turismo]
 - Ciclo y Grado: [INDICAR CICLO Y GRADO, ej: Grado Básico en Servicios Administrativos / Grado Medio en Cocina y Gastronomía / Grado Superior en Desarrollo de Aplicaciones Web]
 - Módulo Profesional: [INDICAR MÓDULO, ej: Operaciones básicas en bar-cafetería]
 - Comunidad Autónoma: [INDICAR CCAA, por defecto Canarias]
+- Currículo Oficial del Título/Módulo: [DOCUMENTO CURRICULAR EXTERNO APORTADO / CÓDIGOS LITERALES]
 
 DEFINICIÓN TERMINOLÓGICA CLAVE:
 "Instrumento de Evaluación": Se refiere exclusivamente al PRODUCTO, EVIDENCIA O TAREA TANGIBLE que el alumnado elabora, ejecuta o entrega en el taller, laboratorio o simulador (ej: Albarán de recepción de materias primas, Plan de mantenimiento preventivo, Ficha técnica de escandallo, Cuadro eléctrico cableado, Servicio simulado de comedor, Script de automatización de copias de seguridad).

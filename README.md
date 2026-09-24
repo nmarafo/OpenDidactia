@@ -217,7 +217,7 @@ También puedes utilizar **Google NotebookLM** como entorno de trabajo guiado pa
 
 1. **Enlace al siguiente cuaderno de NotebookLM:** [https://notebook.google.com/notebook/2758ede6-33b4-4ca7-a77b-ee8ef99a9602](https://notebook.google.com/notebook/2758ede6-33b4-4ca7-a77b-ee8ef99a9602)
 2. **Copiar el cuaderno.**
-3. **Añadir el currículo del área/Materia correspondiente** (puedes utilizar las transcripciones normativas de este repositorio ubicadas en `comunidades/<ccaa>/normativa/`).
+3. **Añadir el currículo del área/Materia correspondiente** (suministrado externamente a través de [open-lex-edu](https://github.com/nmarafo/open-lex-edu), boletines oficiales o documentos curriculares oficiales; es de donde se extraen y calcan literalmente los criterios, competencias y saberes).
 4. **En el chat poner la palabra “Comenzar”**.
 
 ---
@@ -250,7 +250,7 @@ Cualquier docente o agente de IA puede generar de forma rigurosa su programació
 | **Ceuta y Melilla** | BOE | RD 95/2022 / O EFP/608 | RD 157/2022 / O EFP/678 | RD 217/2022 / O EFP/754 | RD 243/2022 / O EFP/755 | RD 659/2023 | [`comunidades/ceuta_y_melilla/`](comunidades/ceuta_y_melilla/) |
 | **Enseñanzas Mínimas Estatales** | BOE | **RD 95/2022** | **RD 157/2022** | **RD 217/2022** | **RD 243/2022** | **LO 3/2022 / RD 659/2023** | [open-lex-edu estatal](https://github.com/nmarafo/open-lex-edu) |
 
-> ℹ️ **Transcripciones Íntegras y Sincronización Jurídica OKF:** Todas las disposiciones autonómicas cuentan con su transcripción íntegra en formato Markdown estructurado directamente en los subdirectorios [`comunidades/<ccaa>/normativa/`](comunidades/), así como en su repositorio matriz [**open-lex-edu**](https://github.com/nmarafo/open-lex-edu), con metadatos de clasificación canónica (`03_ordenacion_curricular_y_ensenanzas`), articulado y anexos completos de competencias específicas, criterios de evaluación y saberes básicos autonómicos auditados.
+> ℹ️ **Suministro Curricular Externo y Sincronización Jurídica:** El corpus legislativo íntegro y consolidado con las disposiciones autonómicas, articulados y anexos de competencias específicas, criterios de evaluación y saberes básicos auditados reside en el repositorio jurídico externo [**open-lex-edu**](https://github.com/nmarafo/open-lex-edu) y en los boletines oficiales correspondientes. OpenDidactia opera exclusivamente como el framework metodológico y operativo del que se nutre el agente para estructurar y aplicar dicho currículo en el aula, debiendo **calcarse fielmente** los elementos curriculares de la fuente externa sin ser inventados.
 
 ---
 
@@ -262,7 +262,6 @@ OpenDidactia/
 ├── LICENSE.md                           # Licencia CC BY-SA 4.0 y requisitos de atribución
 ├── .gitignore
 ├── schema/                              # Esquemas de validación formales (JSON Schema)
-│   ├── norm_schema.json                 # Esquema OKF de disposiciones normativas (open-lex-edu)
 │   ├── esquema_programacion_didactica.json # Validación de PDs anuales de Régimen General (9 SAs)
 │   ├── esquema_situacion_aprendizaje.json  # Validación de SDAs (Merrill + DUA granular)
 │   ├── esquema_programacion_modulo_fp.json # Validación de Programaciones de Módulos de FP (LOOIFP / RD 659)
@@ -309,13 +308,13 @@ OpenDidactia/
     ├── andalucia/, aragon/, asturias/, baleares/, canarias/, cantabria/, castilla_la_mancha/,
     ├── castilla_y_leon/, catalunya/, ceuta_y_melilla/, comunitat_valenciana/, extremadura/,
     ├── galicia/, la_rioja/, madrid/, murcia/, navarra/, pais_vasco/
-    │   ├── README.md                    # Singularidades autonómicas, decretos oficiales y contexto cultural/lingüístico
-    │   ├── orientaciones_elaboracion_pd_sa.md # Guía metodológica adaptada a la normativa general y FP
+    │   ├── README.md                    # Identificación del marco autonómico, contexto cultural y lingüístico
+    │   ├── orientaciones_elaboracion_pd_sa.md # Guía metodológica adaptada a la CCAA y FP (evaluación, DUA)
     │   ├── plantilla_programacion_didactica.md # Plantilla oficial de PD anual adaptada (9 SDAs)
-    │   ├── plantilla_situacion_aprendizaje.md # Plantilla oficial de SDA adaptada (Merrill + DUA)
-    │   ├── normativa/                   # Transcripciones íntegras de decretos y órdenes curriculares y de evaluación (OKF)
-    │   └── curricular/                  # Catálogos por etapa (infantil, primaria, eso, bachillerato y fp)
-    └── canarias/guias_oficiales/        # Documentos técnicos oficiales en PDF de referencia metodológica
+    │   └── plantilla_situacion_aprendizaje.md # Plantilla oficial de SDA adaptada (Merrill + DUA)
+    └── canarias/
+        ├── guias_oficiales/             # Documentos técnicos oficiales en PDF de referencia metodológica
+        └── ejemplos/                    # Modelos de referencia didáctica
 ```
 
 ---
@@ -323,8 +322,8 @@ OpenDidactia/
 ## 🔗 Sinergia con `nmarafo/open-lex-edu`
 
 Este repositorio complementa y se apoya bidireccionalmente en el marco normativo de **[open-lex-edu](https://github.com/nmarafo/open-lex-edu)**:
-* **open-lex-edu (696 normas OKF):** Proporciona el corpus legal completo, consolidado y auditado de la normativa educativa estatal y de las **17 Comunidades Autónomas más Ceuta y Melilla** en formato OKF (con el 100% de los decretos y órdenes de ordenación y currículos LOMLOE).
-* **OpenDidactia:** Utiliza esa base jurídica nacional para desarrollar la ingeniería didáctica, los catálogos curriculares por comunidad, las matrices competenciales, la deconstrucción criterial en productos tangibles, los esquemas de validación y las herramientas operativas de aula (rúbricas con graduadores, andamiajes DUA, metodologías activas y aplicaciones interactivas de calificación).
+* **open-lex-edu (696 normas OKF - Pilar Jurídico y Curricular Externo):** Proporciona el corpus legal completo, consolidado y auditado de la normativa educativa estatal y de las **17 Comunidades Autónomas más Ceuta y Melilla** en formato OKF (con el 100% de los decretos y órdenes de ordenación y currículos LOMLOE). Es la fuente obligatoria de la que se **extraen y calcan literalmente** los elementos curriculares (competencias específicas, criterios, saberes básicos, RAs y CEs).
+* **OpenDidactia (Pilar Pedagógico y Operativo OKF):** Framework de ingeniería didáctica que proporciona las guías operativas, instrucciones metodológicas (David Merrill, DUA granular), rúbricas analíticas con graduadores, matrices de secuenciación anual, catálogos pedagógicos (efemérides, dinámicas cooperativas, rutinas de pensamiento), esquemas JSON de validación de programaciones y herramientas de aula.
 
 ---
 

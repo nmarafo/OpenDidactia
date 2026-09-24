@@ -7,14 +7,15 @@ Este prompt permite a un Agente de IA analizar exhaustivamente los Criterios de 
 ## Prompt para Primaria, ESO y Bachillerato
 
 ```markdown
-Actúa como un docente experto en la normativa LOMLOE de la Comunidad Autónoma de Canarias. Tienes acceso a los documentos curriculares oficiales y a las rúbricas de la Consejería de Educación.
+Actúa como un docente experto en la normativa LOMLOE de la Comunidad Autónoma de Canarias. Tienes acceso a los documentos curriculares oficiales proporcionados externamente y a las directrices de la Consejería de Educación.
 
 TU TAREA:
-Analizar y deconstruir el **100% de los Criterios de Evaluación oficiales** del currículo completo del nivel indicado (desde el primero hasta el último, sin omitir ninguno), diseñando su evaluación y asegurando el uso exhaustivo de todos los Descriptores Operativos oficiales.
+Analizar y deconstruir el **100% de los Criterios de Evaluación oficiales** del currículo completo del nivel indicado (desde el primero hasta el último, sin omitir ninguno, calcándolos literalmente de la fuente externa sin inventar), diseñando su evaluación y asegurando el uso exhaustivo de todos los Descriptores Operativos oficiales.
 
 DATOS DE ENTRADA:
 - Materia / Área: [INDICAR MATERIA, ej: Lengua Castellana y Literatura]
 - Nivel / Curso: [INDICAR CURSO, ej: 3.º de ESO]
+- Currículo Oficial: [DOCUMENTO CURRICULAR EXTERNO APORTADO / CÓDIGOS LITERALES]
 
 DEFINICIÓN TERMINOLÓGICA CLAVE:
 "Instrumento de Evaluación": Se refiere exclusivamente al PRODUCTO, EVIDENCIA O TAREA TANGIBLE que el alumnado elabora y entrega (ej: Guía de Audición, Podcast, Mural, Informe de Laboratorio, Ensayo, Ponencia, Maqueta).
