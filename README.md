@@ -95,14 +95,20 @@ Cualquier modelo de lenguaje o agente autónomo que genere programaciones o situ
 
 ---
 
-## 🤖 Prompts Maestros de Arranque para Agentes de IA (Arquitectura Dual)
+## 🤖 Prompts Maestros de Arranque para Agentes de IA (Arquitectura Tripartita)
 
-OpenDidactia implementa una **arquitectura dual de prompts maestros** para garantizar la especialización técnica y evitar contaminaciones ontológicas entre las enseñanzas obligatorias/postobligatorias y las de régimen especial:
+OpenDidactia implementa una **arquitectura tripartita de prompts maestros** para garantizar la máxima especialización técnica, evitar contaminaciones ontológicas entre las diferentes leyes educativas y asegurar una experiencia sin fricciones en entornos conversacionales (Google NotebookLM, Claude, ChatGPT, Gemini, Ollama, etc.):
 
-### 1. 📘 Prompt Maestro 1: Régimen General y FP (LOMLOE / Ley Orgánica de FP)
-> Diseñado para **Educación Infantil, Primaria, ESO, Bachillerato y Formación Profesional** (Grados D y E). Véase también [`plantillas/prompts/prompt_maestro_arranque_agente.md`](plantillas/prompts/prompt_maestro_arranque_agente.md).
+1. 📘 **Régimen General (LOMLOE):** Educación Infantil, Primaria, ESO y Bachillerato.
+2. 🛠️ **Formación Profesional (LOOIFP Ley Orgánica 3/2022 y RD 659/2023):** Grados Básico, Medio, Superior y Cursos de Especialización.
+3. 🎭 **Enseñanzas de Régimen Especial (ERE):** Idiomas (EOI), Deportivas (EDRE), Artes Plásticas y Diseño, Conservatorios de Música y Danza, y EEAASS.
 
-Para instruir a cualquier agente de IA (Gemini, Claude, GPT, DeepSeek, Ollama...) en Régimen General o FP, **copia y pega el siguiente bloque** indicando nivel, materia/módulo y comunidad (Ej.: *2º ESO Música Canarias*, *1º DAM Programación Canarias*, *3º Primaria Matemáticas Madrid*, *1º Bachillerato Filosofía Andalucía*...):
+---
+
+### 1. 📘 Prompt Maestro 1: Régimen General (LOMLOE)
+> Diseñado para **Educación Infantil, Primaria, ESO y Bachillerato**. Véase también [`plantillas/prompts/prompt_maestro_arranque_agente.md`](plantillas/prompts/prompt_maestro_arranque_agente.md).
+
+Para instruir a cualquier agente de IA en Régimen General, **copia y pega el siguiente bloque** indicando nivel, materia/área y comunidad (Ej.: *2º ESO Música Canarias*, *3º Primaria Matemáticas Madrid*, *1º Bachillerato Filosofía Andalucía*...):
 
 ```markdown
 Eres un docente experto en Programaciones Didácticas (PD) y Situaciones de Aprendizaje (SA/UT) LOMLOE/FP en el estándar OKF de OpenDidactia (https://github.com/nmarafo/OpenDidactia), con dominio normativo autonómico/estatal (17 CCAA y Ceuta/Melilla), DUA, evaluación criterial, metodologías activas (ABP, ApS, Design Thinking, ABR...) y dinamización cooperativa y pensamiento visible. Guíe y genere la PROGRAMACIÓN DIDÁCTICA (PD) y sus SITUACIONES DE APRENDIZAJE (SAs/UTs).
@@ -216,7 +222,15 @@ App web interactiva local en ÚNICO ARCHIVO HTML autocontenido (Tailwind CSS CDN
 
 ---
 
-### 2. 🎭 Prompt Maestro 2: Enseñanzas de Régimen Especial (ERE)
+### 2. 🛠️ Prompt Maestro 2: Formación Profesional (LOOIFP Ley Orgánica 3/2022 y RD 659/2023)
+> Diseñado para **Grado Básico, Grado Medio, Grado Superior y Cursos de Especialización**.  
+> Documentación técnica de soporte: [`docs/guia_elaboracion_programaciones_y_ut_fp.md`](docs/guia_elaboracion_programaciones_y_ut_fp.md) y [`plantillas/prompts/prompt_maestro_arranque_agente_fp.md`](plantillas/prompts/prompt_maestro_arranque_agente_fp.md).
+
+Para instruir al agente de IA en cualquier Módulo Profesional de FP, **copia y pega el prompt completo desde [`plantillas/prompts/prompt_maestro_arranque_agente_fp.md`](plantillas/prompts/prompt_maestro_arranque_agente_fp.md)** o introduce la fórmula sintética: `[Curso] [Grado / Ciclo Formativo] [Familia Profesional] [Módulo Profesional] [Comunidad Autónoma]` (Ej.: *1º CFGS DAM Informática y Comunicaciones Programación Canarias*, *2º CFGM Cocina y Gastronomía Hostelería y Turismo Servicios Canarias*, *1º Grado Básico Mantenimiento de Vehículos Transporte Canarias*).
+
+---
+
+### 3. 🎭 Prompt Maestro 3: Enseñanzas de Régimen Especial (ERE)
 > Diseñado para **Idiomas (EOI), Enseñanzas Deportivas (EDRE), Artes Plásticas y Diseño (Escuelas de Arte), Música y Danza (Conservatorios) y Enseñanzas Artísticas Superiores (EEAASS)**.  
 > Documentación técnica de soporte: [`docs/guia_ensenanzas_regimen_especial_ere.md`](docs/guia_ensenanzas_regimen_especial_ere.md) y [`plantillas/prompts/prompt_maestro_arranque_agente_ere.md`](plantillas/prompts/prompt_maestro_arranque_agente_ere.md).
 
@@ -387,7 +401,9 @@ OpenDidactia/
 │   ├── plantilla_unidad_trabajo_sa_fp.md   # Plantilla oficial de SA-UT para Formación Profesional (Docente + Alumnado)
 │   ├── plantilla_programacion_modulo_fp.md # Plantilla oficial de Programación de Módulo Profesional de FP
 │   └── prompts/                         # Biblioteca modular de Prompts del Sistema
-│       ├── prompt_maestro_arranque_agente.md # PROMPT MAESTRO DE ARRANQUE GENERAL (Todas las etapas + FP)
+│       ├── prompt_maestro_arranque_agente.md # PROMPT MAESTRO 1: RÉGIMEN GENERAL (Infantil/Primaria/ESO/Bachillerato)
+│       ├── prompt_maestro_arranque_agente_fp.md # PROMPT MAESTRO 2: FORMACIÓN PROFESIONAL (LOOIFP / RD 659/2023)
+│       ├── prompt_maestro_arranque_agente_ere.md # PROMPT MAESTRO 3: ENSEÑANZAS DE RÉGIMEN ESPECIAL (ERE)
 │       ├── prompt_01_deconstruccion_criterios.md
 │       ├── prompt_02_elaboracion_rubricas_graduadores.md
 │       ├── prompt_03_secuenciacion_programacion_anual.md

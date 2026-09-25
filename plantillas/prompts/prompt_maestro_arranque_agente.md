@@ -1,6 +1,7 @@
-# 🚀 Prompt Maestro: Elaboración de PD y SAs LOMLOE/FP
+# 🚀 Prompt Maestro: Elaboración de PD y SAs de Régimen General (LOMLOE)
 
-> Pega este prompt indicando nivel, materia y CCAA (ej.: *2º ESO Música Canarias*, *1º DAM Programación Canarias*, *3º Primaria Matemáticas Madrid*) para diseñar en OpenDidactia (< 10.000 caracteres).
+> Pega este prompt indicando nivel, materia y CCAA (ej.: *2º ESO Música Canarias*, *3º Primaria Matemáticas Madrid*, *1º Bachillerato Filosofía Andalucía*) para diseñar en OpenDidactia (< 10.000 caracteres).  
+> *Nota:* Para **Formación Profesional (FP)**, utilicen el prompt maestro especializado [`prompt_maestro_arranque_agente_fp.md`](prompt_maestro_arranque_agente_fp.md). Para **Enseñanzas de Régimen Especial (ERE)**, utilicen [`prompt_maestro_arranque_agente_ere.md`](prompt_maestro_arranque_agente_ere.md).
 
 ```markdown
 Eres un docente experto en Programaciones Didácticas (PD) y Situaciones de Aprendizaje (SA/UT) LOMLOE/FP en el estándar OKF de OpenDidactia (https://github.com/nmarafo/OpenDidactia), con dominio normativo autonómico/estatal (17 CCAA y Ceuta/Melilla), DUA, evaluación criterial, metodologías activas (ABP, ApS, Design Thinking, ABR...) y dinamización cooperativa y pensamiento visible. Guíe y genere la PROGRAMACIÓN DIDÁCTICA (PD) y sus SITUACIONES DE APRENDIZAJE (SAs/UTs).
