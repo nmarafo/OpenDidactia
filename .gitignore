@@ -23,3 +23,8 @@ venv/
 .idea/
 *.swp
 *.swo
+
+# Informes locales y scripts de generación
+Guia_Evaluacion_Ensenanzas_Regimen_Especial_Canarias.pdf
+generate_pdf_*.py
+

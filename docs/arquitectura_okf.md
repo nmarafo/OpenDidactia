@@ -39,9 +39,12 @@ Para garantizar un funcionamiento determinista de los Agentes de IA y evitar alu
 
 ```text
 OpenDidactia/
-├── README.md                            # Guía maestra, protocolo de 9 fases y prompt maestro
+├── README.md                            # Guía maestra, protocolos duales y prompts maestros (General/FP y ERE)
 ├── LICENSE.md                           # Licencia CC BY-SA 4.0 y cláusula de atribución
 ├── .gitignore
+├── .agents/                             # Habilidades y extensiones descubribles por agentes
+│   └── skills/
+│       └── ere-evaluacion/SKILL.md      # Habilidad especializada en Enseñanzas de Régimen Especial
 ├── schema/                              # Esquemas formales de validación (JSON Schema)
 │   ├── esquema_programacion_didactica.json # Validación de PDs anuales (9 SAs)
 │   ├── esquema_situacion_aprendizaje.json  # Validación de SDAs (Merrill + DUA granular)
@@ -49,6 +52,7 @@ OpenDidactia/
 │   └── esquema_unidad_trabajo_fp.json   # Validación de UTs/SAs competenciales en FP
 ├── docs/                                # Base metodológica, teórica y bancos de conocimiento
 │   ├── flujo_agente_elaboracion_pd_sa.md   # Protocolo maestro de 9 fases para Agentes de IA
+│   ├── guia_ensenanzas_regimen_especial_ere.md # Guía técnica oficial para Enseñanzas de Régimen Especial (ERE)
 │   ├── catalogo_rutinas_pensamiento_y_dinamicas_grupo.md # Pensamiento visible y cooperativo
 │   ├── catalogo_metodologias_aprendizaje.md # Metodologías activas (ABP, ApS, Design Thinking...)
 │   ├── catalogo_efemerides_calendario_escolar_ccaa.md # Efemérides escolares 17 CCAA y FP
@@ -68,7 +72,8 @@ OpenDidactia/
 │   ├── plantilla_programacion_modulo_fp.md # Plantilla oficial de Módulo de FP
 │   ├── plantilla_unidad_trabajo_sa_fp.md   # Plantilla oficial de UT/SA en FP
 │   └── prompts/                         # Prompts del sistema modulares para IA
-│       ├── prompt_maestro_arranque_agente.md # Prompt maestro unificado (< 10.000 caracteres)
+│       ├── prompt_maestro_arranque_agente.md # Prompt Maestro 1: Régimen General y FP (< 10.000 car.)
+│       ├── prompt_maestro_arranque_agente_ere.md # Prompt Maestro 2: Régimen Especial ERE (< 10.000 car.)
 │       ├── prompt_01_deconstruccion_criterios.md
 │       ├── prompt_02_elaboracion_rubricas_graduadores.md
 │       ├── prompt_03_secuenciacion_programacion_anual.md
@@ -136,3 +141,34 @@ flowchart TD
 2. **Aplicación Rigurosa del Marco Pedagógico OKF:** Utilizar las instrucciones, guías (`docs/`), plantillas (`plantillas/`) y orientaciones autonómicas (`comunidades/<ccaa>/`) para estructurar la programación y las situaciones de aprendizaje.
 3. **Trazabilidad Ontológica:** Mantener la cadena ininterrumpida `Currículo Externo -> Criterio/CE -> Descriptor/RA -> Producto Evaluador -> Rúbrica Analítica -> Sesión de Aula con DUA`.
 4. **Validación Formal:** Los documentos generados deben respetar rigurosamente los esquemas JSON de validación (`schema/`).
+
+---
+
+## 5. Arquitectura Dual de Motores Didácticos: Régimen General/FP vs. Régimen Especial (ERE)
+
+Para preservar la coherencia pedagógica y evitar la contaminación ontológica en los modelos de lenguaje, el OKF implementa una **bifurcación estructural en dos motores didácticos independientes**, cada uno con su correspondiente Prompt Maestro de arranque:
+
+```text
+                               OpenKnowledgeFramework (OKF)
+                                              │
+                      ┌───────────────────────┴───────────────────────┐
+                      ▼                                               ▼
+         [ MOTOR 1: Régimen General y FP ]               [ MOTOR 2: Régimen Especial (ERE) ]
+     (prompt_maestro_arranque_agente.md)             (prompt_maestro_arranque_agente_ere.md)
+                      │                                               │
+     ┌────────────────┴────────────────┐             ┌────────────────┴────────────────┐
+     ▼                                 ▼             ▼                                 ▼
+Régimen General                Formación Prof.    Idiomas (EOI)    Deportivas (EDRE)  Música / Danza
+Infantil, Primaria,            Grados Básico,     5 Destrezas      Bloques y Módulos  Asignaturas
+ESO y Bachillerato             Medio, Superior    MCERL y Mediación Prácticas / Proy.  Instrumento Troncal
+• 8 Competencias Clave        • RAs y CEs         • % independientes• Apto / No Apto   • Notas 1-10 sin dec.
+• Descriptores Operativos     • ABR / ASC Taller  • Orden 15/09/2022• D93/2019         • D364/2007
+• 9 SDAs anuales (Merrill)    • 9 UTs anuales                      Artes Plásticas    Artísticas Sup.
+• Rúbricas con graduadores    • Rúbricas técnicas                  Escuelas de Arte   Grados EEES (ECTS)
+• Canvas HTML ponderado       • Canvas HTML RAs                    Obra Final Comis.  Guía Docente / TFE
+```
+
+### Justificación Técnica de la Separación:
+1. **Aislamiento Ontológico:** Impide que el agente exija elementos de la LOMLOE ordinaria (como descriptores operativos o situaciones de aprendizaje Merrill escolares) en enseñanzas de idiomas, conservatorios o escuelas de arte.
+2. **Optimización de Contexto (*Zero Prompt Bloat*):** Mantiene cada prompt por debajo de los 10.000 caracteres, asegurando la máxima fidelidad y cumplimiento determinista de instrucciones.
+3. **Especialización Instrumental:** Permite que las herramientas de calificación (Canvas HTML) respeten fielmente los regímenes de cálculo oficiales: porcentajes por actividad de lengua en EOI, evaluación cualitativa de Apto/No Apto en prácticas deportivas y artísticas, y escalas ECTS en educación superior.
