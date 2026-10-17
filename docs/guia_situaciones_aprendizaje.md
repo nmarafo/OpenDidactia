@@ -39,7 +39,7 @@ Lejos de ser una simple "unidad didáctica clásica", una SDA se caracteriza por
                            │
 ┌──────────────────────────▼─────────────────────────────┐
 │          4. EVALUACIÓN FORMATIVA Y RÚBRICAS            │
-│  (Rúbricas 1-4 por criterio, dianas, heteroevaluación) │
+│  (Rúbricas 1-4 por producto, dianas, heteroevaluación) │
 └────────────────────────────────────────────────────────┘
 ```
 
@@ -75,9 +75,9 @@ Lejos de ser una simple "unidad didáctica clásica", una SDA se caracteriza por
 
 ---
 
-## 4. Diseño de Rúbricas Analíticas Oficiales
+## 4. Diseño de Rúbricas Analíticas Oficiales por Producto
 
-En Canarias, las rúbricas son el instrumento de referencia institucional para la valoración objetiva de los criterios de evaluación. Toda rúbrica debe graduarse en **4 niveles de desempeño**:
+En Canarias, las rúbricas son el instrumento de referencia institucional para la valoración objetiva de los productos o evidencias vinculados a los criterios de evaluación. Cada Producto (Instrumento de Evaluación: `1.1.1`, `1.1.2`...) debe contar con su propia rúbrica analítica independiente graduada en **4 niveles de desempeño**:
 
 | Nivel | Rango Cuantitativo Orientativo | Descriptor de Desempeño | Indicadores Típicos |
 | :---: | :---: | :--- | :--- |
@@ -104,8 +104,8 @@ Antes de dar por concluida una Situación de Aprendizaje, verifique que:
 - [ ] ¿El título es motivador y plantea con claridad el reto o producto final?
 - [ ] ¿Están explícitamente vinculadas las Competencias Específicas y los Criterios de Evaluación oficiales?
 - [ ] ¿Se incluyen los descriptores del Perfil de Salida asociados?
-- [ ] ¿La secuencia didáctica recorre las 4 fases con roles activos del alumnado?
+- [ ] ¿La secuencia didáctica recorre las 4 fases en sesiones de **55 minutos** (sumando las tareas 55 min por sesión) con roles activos del alumnado?
 - [ ] ¿Se evidencian los 3 principios DUA (Compromiso, Representación, Acción/Expresión)?
-- [ ] ¿Se incluye una rúbrica analítica por criterio con 4 niveles de desempeño cualitativos?
+- [ ] ¿Se incluye una rúbrica analítica individual por cada Producto (Instrumento) con 4 niveles de desempeño cualitativos?
 - [ ] ¿Se contempla la heteroevaluación, coevaluación y autoevaluación?
 - [ ] ¿Se incorporan medidas de atención a la diversidad para alumnado con NEAE?

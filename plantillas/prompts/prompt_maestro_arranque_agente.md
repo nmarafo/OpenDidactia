@@ -39,17 +39,17 @@ COBERTURA CRITERIAL 100% OBLIGATORIA (PROHIBIDO MUESTREAR):
 [AL COMPLETAR: Imprima línea de auditoría y menú de Fase 1].
 
 ---
-### FASE 2: RÚBRICAS ANALÍTICAS CON GRADUADORES (COBERTURA 100%)
-Para el 100% de Criterios e Instrumentos de Fase 1 (SIN OMITIR NINGUNO), elabore su Rúbrica Analítica:
-- Cobertura universal y revisión: Prohibido omitir criterios, truncar o incluir rúbricas "de ejemplo". Deben redactarse para todos los criterios. Efectúe una REVISIÓN OBLIGATORIA cotejando cada rúbrica con el inventario de Fase 1 para verificar que no falte ni un solo criterio antes de continuar.
-- Rúbrica integral por criterio: Para abarcar el 100% sin truncamiento, genere una rúbrica analítica integral por criterio que gradúe conjuntamente sus 2 productos.
+### FASE 2: RÚBRICAS ANALÍTICAS POR PRODUCTO CON GRADUADORES (COBERTURA 100%)
+Para el 100% de Productos (Instrumentos) y Criterios de Fase 1 (SIN OMITIR NINGUNO), elabore su Rúbrica Analítica:
+- Cobertura universal y revisión: Prohibido omitir productos o criterios, truncar o dar muestras. Efectúe REVISIÓN OBLIGATORIA cotejando con el inventario de Fase 1 que estén TODOS los productos antes de continuar.
+- Rúbrica individual por Producto (PROHIBIDO agrupar por criterio): Genere una rúbrica analítica independiente para CADA Producto de Fase 1 (ej: una tabla para 1.1.1 con su fracción del criterio y otra independiente para 1.1.2). Prohibido unificar los 2 productos en una sola rúbrica por criterio.
 - Regla 2.1 (Verbo invariable): Verbo principal IDÉNTICO en los 4 niveles.
-- Regla 2.2 (Fidelidad SU/BI): Nivel Suficiente/Bien (5-6 / AD en EI) reproduce literalmente el criterio oficial.
+- Regla 2.2 (Fidelidad SU/BI): Nivel Suficiente/Bien (5-6 / AD en EI) reproduce literalmente la parte del criterio oficial evaluada en ese producto.
 - Regla 2.3 (Graduadores en negrita): Resalte en **negrita** graduadores de Calidad, Rigor, Autonomía o Contexto.
 - Regla 2.4 (Sin "No"): En Insuficiente describa el error o nivel inicial con apoyo; nunca "No lo hace".
-- Regla 2.5 (Ejemplo tangible): Cada nivel incluye un ejemplo concreto del producto.
+- Regla 2.5 (Ejemplo tangible): Cada nivel incluye un ejemplo concreto de ese producto.
 - Niveles: | Insuficiente (1-4 / PA en EI) | Suficiente/Bien (5-6 / AD en EI) | Notable (7-8 / MA en EI) | Sobresaliente (9-10 / EX en EI) |
-- Cierre con auditoría: Línea obligatoria antes del menú: `✅ Control de Cobertura de Rúbricas: 100% cubierto (N de N criterios con rúbrica analítica completa | 0 omitidos)`.
+- Cierre con auditoría: Línea obligatoria antes del menú: `✅ Control de Cobertura de Rúbricas: 100% cubierto (N de N criterios y M de M productos con rúbrica individual completa | 0 omitidos)`.
 [AL COMPLETAR: Imprima línea de auditoría y menú de Fase 2].
 
 ---
@@ -61,7 +61,7 @@ El agente NO formula preguntas sobre este aspecto:
 ---
 ### FASE 3: SECUENCIACIÓN ANUAL DE LA PROGRAMACIÓN (9 SITUACIONES DE APRENDIZAJE)
 Distribuya contenidos en 9 Situaciones de Aprendizaje (3 por trimestre: 1ª Eval: SA1-SA3; 2ª: SA4-SA6; 3ª: SA7-SA9).
-Tabla matriz anual: 1. N.º y Título motivador / reto. 2. Temporalización (semanas y sesiones). 3. Criterios de Evaluación y Saberes Básicos (Bloque y n.º). 4. Efemérides del Calendario Escolar. 5. Metodología Activa justificada (ABP, ApS, Design Thinking...) y conexión con Objetivos/Planes/Programas (fuentes o centro ficticio). 6. Instrumentos (productos de Fase 1 con rúbricas de Fase 2).
+Tabla matriz anual: 1. N.º y Título motivador / reto. 2. Temporalización (semanas y sesiones de 55 min). 3. Criterios de Evaluación y Saberes Básicos (Bloque y n.º). 4. Efemérides del Calendario Escolar. 5. Metodología Activa justificada (ABP, ApS, Design Thinking...) y conexión con Objetivos/Planes/Programas (fuentes o centro ficticio). 6. Instrumentos (productos de Fase 1 con rúbricas de Fase 2).
 [AL COMPLETAR: Aplique menú de Fase 3].
 
 ---
@@ -69,9 +69,10 @@ Tabla matriz anual: 1. N.º y Título motivador / reto. 2. Temporalización (sem
 Para la unidad a abordar (iniciando en SA1), genere la versión técnica docente (documento independiente):
 - Metodología Activa Vertebradora (ABP, ApS, Design Thinking, ABR...) justificada.
 - Temporalización y elementos curriculares: Criterios de Evaluación y Saberes Básicos (Bloque y n.º).
+- Duración estricta por sesión (55 minutos): CADA sesión dura SIEMPRE 55 minutos exactos (ej: "Sesión 1 (55 minutos)"). PROHIBIDO poner en una sesión la duración total de la SA (ej. prohibido "Sesión 1 (240 minutos)"). Las tareas de cada sesión deben sumar exactamente 55 min (ej: Tarea 1.1: 25 min + Tarea 1.2: 30 min = 55 min).
 - Estructura instruccional de David Merrill (Problema central, Activación, Demostración/Modelado, Aplicación y Transferencia).
-- Cada sesión incluye MÍNIMO 2 TAREAS activas detallando:
-  1. Título y duración (minutos).
+- Cada sesión (de 55 min) incluye MÍNIMO 2 TAREAS activas detallando:
+  1. Título y duración en minutos (suma por sesión = 55 min).
   2. Rol docente y rol discente.
   3. Dinámica/Rutina obligatoria: catálogo pensamiento/cooperativo (ej: 1-2-4, Folio Giratorio, 3-2-1 Puente) detallando en 2 líneas dinamización (roles, reglas, materiales).
   4. Agrupamiento (individual, parejas, equipos cooperativos, gran grupo).

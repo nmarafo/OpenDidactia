@@ -42,16 +42,18 @@ En la Comunidad Autónoma de Canarias, el **Plan Evalúa** del Servicio de Inspe
 1. **Fase 1 — Concreción Criterial y Deconstrucción (100 % Criterios):**
    * Inventario previo obligatorio del 100 % de los criterios oficiales del curso/materia.
    * Deconstrucción de cada criterio en **2 productos tangibles** (`[Criterio].[Secuencia]`, ej. `1.1.1` y `1.1.2`), repartiendo el 100 % de los Descriptores Operativos del Perfil de Salida (o Competencias Clave en Infantil) y vinculando los Saberes Básicos (Bloque y n.º).
-2. **Fase 2 — Rúbricas Analíticas Oficiales con Graduadores (100 % Criterios):**
+2. **Fase 2 — Rúbricas Analíticas Oficiales por Producto con Graduadores (100 % Productos y Criterios):**
+   * **Una rúbrica analítica independiente por cada Producto (`1.1.1`, `1.1.2`...)** generado en la Fase 1 (prohibido agrupar los 2 productos en una sola rúbrica por criterio).
    * **Verbo invariable** en los 4 niveles de desempeño.
-   * Nivel **Suficiente/Bien (5-6 / AD en Infantil)** idéntico al criterio oficial.
-   * **Graduadores cualitativos en negrita** y ejemplo tangible de producto en cada nivel.
+   * Nivel **Suficiente/Bien (5-6 / AD en Infantil)** idéntico a la parte del criterio oficial evaluada en ese producto.
+   * **Graduadores cualitativos en negrita** y ejemplo tangible de ese producto en cada nivel.
    * Nivel **Insuficiente (1-4 / PA en Infantil)** redactado en positivo describiendo el grado de apoyo requerido o el error concreto (prohibido usar *"No realiza"*).
 3. **Fase 3 — Secuenciación Anual en 9 Situaciones de Aprendizaje:**
-   * 3 SAs por evaluación trimestral (1.ª Eval: SA 1-3; 2.ª Eval: SA 4-6; 3.ª Eval: SA 7-9), articuladas con efemérides del calendario escolar autonómico, metodologías activas (ABP, ApS, Design Thinking...) y planes/programas de centro.
+   * 3 SAs por evaluación trimestral (1.ª Eval: SA 1-3; 2.ª Eval: SA 4-6; 3.ª Eval: SA 7-9), con sesiones de **55 minutos**, articuladas con efemérides del calendario escolar autonómico, metodologías activas (ABP, ApS, Design Thinking...) y planes/programas de centro.
 4. **Fase 4 — Desarrollo de la SA para el Docente:**
    * Secuencia instruccional de **David Merrill** (Problema central, Activación, Demostración/Modelado, Aplicación y Transferencia).
-   * Mínimo **2 tareas activas por sesión** con roles docente/discente, rutinas de pensamiento visible o estructuras cooperativas procedimentadas y **DUA granular en sus 3 redes** (Representación, Acción y Expresión, Implicación).
+   * **Duración estricta de 55 minutos por sesión** (ej. `Sesión 1 (55 minutos)`), sumando las tareas de cada sesión exactamente 55 minutos (prohibido asignar a una sola sesión la duración total acumulada de toda la SA, como `Sesión 1 (240 minutos)`).
+   * Mínimo **2 tareas activas por cada sesión de 55 minutos** con roles docente/discente, rutinas de pensamiento visible o estructuras cooperativas procedimentadas y **DUA granular en sus 3 redes** (Representación, Acción y Expresión, Implicación).
 5. **Fase 5 — Versión de la SA para el Alumnado:**
    * Guion motivador en 2.ª persona (*"El Reto"* o *"La Misión"*), mapa de ruta en 3-4 etapas y claves del éxito sin jerga burocrática.
 6. **Fase 6 — Medidas de Apoyo, Refuerzo y Recuperación (Opcional):**

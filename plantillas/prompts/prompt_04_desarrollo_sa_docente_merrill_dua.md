@@ -18,9 +18,10 @@ DATOS DE ENTRADA:
 
 CRITERIOS METODOLÓGICOS OBLIGATORIOS:
 1. Principios de David Merrill y Metodología Vertebradora: Estructura la progresión didáctica de la SA a través de sus fases canónicas: 1. Problema/Reto central, 2. Activación, 3. Demostración/Modelado, 4. Aplicación guiada, y 5. Integración/Transferencia, articulándolas con la metodología activa seleccionada (ABP, ApS, Design Thinking...).
-2. Mínimo de 2 Tareas por Sesión: Cada sesión debe dividirse preferentemente en al menos 2 tareas bien diferenciadas que utilicen dinámicas o técnicas activas.
-3. Estructura Obligatoria para CADA Tarea:
-   - 1. Título y duración exacta en minutos.
+2. Regla Estricta de Duración por Sesión (55 minutos): Cada sesión lectiva tiene SIEMPRE una duración exacta de **55 minutos** (ej: `Sesión 1 (55 minutos)`). La suma de los minutos de las tareas que integran una misma sesión debe dar exactamente **55 minutos** (ej: `Tarea 1.1: 25 min` + `Tarea 1.2: 30 min` = `55 min`). Queda TERMINANTEMENTE PROHIBIDO asignar a una sola sesión la duración total acumulada de toda la Situación de Aprendizaje (prohibido poner errores como `Sesión 1 (240 minutos)` o `Sesión 1 (330 minutos)`).
+3. Mínimo de 2 Tareas por Sesión: Cada sesión de 55 minutos debe dividirse preferentemente en al menos 2 tareas bien diferenciadas que utilicen dinámicas o técnicas activas.
+4. Estructura Obligatoria para CADA Tarea:
+   - 1. Título y duración exacta en minutos (sumando 55 minutos entre las tareas de la sesión).
    - 2. Descripción detallada de las actividades: Detallar con claridad qué hace el docente (rol facilitador/modelador) y qué hace el alumnado (rol activo).
    - 3. Rutinas de pensamiento y dinámicas cooperativas OBLIGATORIAS: Indicar cuál se usa (ej: Veo-Pienso-Me Pregunto, 3-2-1 Puente, Palabra-Idea-Frase, Círculo de Puntos de Vista, Comparar-Contrastar, Lápices al Centro, Folio Giratorio, 1-2-4, Rompecabezas/Jigsaw, Parada de 3 minutos, etc.) y EXPLICAR detalladamente en 2-3 líneas cómo se dinamiza operativamente en el aula (distribución de tiempos, normas de interacción, roles y materiales).
    - 4. Agrupamiento: Individual, parejas, pequeño grupo cooperativo o gran grupo.
@@ -33,8 +34,8 @@ CRITERIOS METODOLÓGICOS OBLIGATORIOS:
 
 ESTRUCTURA DE SALIDA:
 - Encabezado: Metodología Activa Vertebradora elegida y su justificación pedagógica, Elementos curriculares trabajados (Competencias Específicas, Criterios oficiales, Saberes Básicos) y Planes del Centro vinculados.
-- Desarrollo Sesión por Sesión (Sesión 1 a N, con Tarea 1.1, Tarea 1.2...).
-- Recursos globales y Rúbricas de evaluación aplicables.
+- Desarrollo Sesión por Sesión (Sesión 1 (55 minutos) a Sesión N (55 minutos), con Tarea 1.1, Tarea 1.2...).
+- Recursos globales y Rúbricas de evaluación por Producto aplicables.
 
 PREGUNTA DE CIERRE DE FASE Y BIFURCACIÓN:
 Al finalizar el desarrollo de la Situación de Aprendizaje para el docente, formula obligatoriamente al profesorado el siguiente menú numerado:

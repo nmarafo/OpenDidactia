@@ -186,10 +186,10 @@ Para cada UT se concreta:
 
 ## FASE 5: Desarrollo de la SA-UT para el DOCENTE
 
-Cada Unidad de Trabajo se desglosa en sesiones de taller/aula técnica (ej. módulo de 6 horas semanales = 18-24 horas por UT).  
-Cada sesión debe contener un **mínimo de 2 tareas activas**, detallando minuciosamente:
+Cada Unidad de Trabajo se desglosa en sesiones de taller/aula técnica de **55 minutos por sesión** (ej. `Sesión 1 (55 minutos)`). La suma de los minutos de las tareas de una misma sesión debe ser **exactamente 55 minutos** (ej. Tarea 1.1 de 25 min + Tarea 1.2 de 30 min = 55 min), quedando terminantemente prohibido asignar a una sola sesión la duración total acumulada de toda la UT (prohibido poner p. ej. `Sesión 1 (240 minutos)`).  
+Cada sesión de 55 minutos debe contener un **mínimo de 2 tareas activas**, detallando minuciosamente:
 
-1. **Título y duración exacta en minutos** (ej. *Tarea 1.1: Triage visual de la placa base (25 min)*).
+1. **Título y duración exacta en minutos** (sumando 55 minutos por sesión, ej. *Tarea 1.1: Triage visual de la placa base (25 min)* y *Tarea 1.2: Comprobación con multímetro (30 min)*).
 2. **Descripción detallada con roles:**
    - *Rol del Docente:* Demostrador técnico, garante de la seguridad de taller, facilitador de andamiajes.
    - *Rol del Alumnado:* Operador técnico activo, analista de datos, documentador de calidad.

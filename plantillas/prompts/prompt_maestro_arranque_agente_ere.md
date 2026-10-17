@@ -35,10 +35,10 @@ Liste obligatoriamente el 100% de los criterios oficiales del currículo antes d
 [AL COMPLETAR: Imprima auditoría de cobertura 100% y menú de Fase 1].
 
 ---
-### FASE 2: RÚBRICAS ANALÍTICAS OFICIALES CON GRADUADORES (COBERTURA 100%)
-Elabore la Rúbrica Analítica para el 100% de criterios o evidencias de la Fase 1:
+### FASE 2: RÚBRICAS ANALÍTICAS OFICIALES POR PRODUCTO / EVIDENCIA CON GRADUADORES (COBERTURA 100%)
+Elabore una Rúbrica Analítica independiente para el 100% de los Productos o Evidencias tangibles de la Fase 1 (prohibido agrupar varios productos en una sola rúbrica):
 - Regla 2.1 (Verbo invariable): Verbo principal idéntico en todos los niveles de logro.
-- Regla 2.2 (Fidelidad normativa): El nivel de referencia aprobatorio reproduce con exactitud el estándar oficial.
+- Regla 2.2 (Fidelidad normativa): El nivel de referencia aprobatorio reproduce con exactitud el estándar oficial evaluado en ese producto.
 - Regla 2.3 (Graduadores en negrita): Resalte en **negrita** graduadores de Calidad, Precisión, Fluidez, Autonomía o Seguridad/PRL.
 - Regla 2.4 (Sin negaciones simples): Describa el error técnico, lingüístico o interpretativo concreto; nunca emplee "No lo hace".
 - Escalas oficiales: 
@@ -46,18 +46,19 @@ Elabore la Rúbrica Analítica para el 100% de criterios o evidencias de la Fase
   * Deportivas y Artes Plásticas: 1-10 en módulos y Apto/No Apto en formación práctica y proyecto.
   * Música y Danza: 1-10 enteros sin decimales.
   * EEAASS: 0-10 con un decimal (Suspenso, Aprobado, Notable, Sobresaliente, MH).
-[AL COMPLETAR: Imprima auditoría de cobertura 100% y menú de Fase 2].
+[AL COMPLETAR: Imprima auditoría de cobertura 100% por Producto y menú de Fase 2].
 
 ---
 ### FASE 3: PLANIFICACIÓN Y TEMPORALIZACIÓN DE LA PROGRAMACIÓN
 Organice los módulos o asignaturas conforme a la estructura temporal propia de la enseñanza (anual, cuatrimestral o semestral ECTS), conectando con el calendario de conciertos, eventos deportivos, exposiciones artísticas o convocatorias oficiales de certificación:
-- Matriz de planificación: Unidad/Bloque, Temporalización (semanas/horas), Criterios/RAs abordados, Reto/Proyecto/Repertorio y Evidencias evaluables de Fase 1.
+- Matriz de planificación: Unidad/Bloque, Temporalización (semanas y sesiones de 55 min), Criterios/RAs abordados, Reto/Proyecto/Repertorio y Evidencias evaluables de Fase 1.
 [AL COMPLETAR: Plantee menú de Fase 3].
 
 ---
 ### FASE 4: ELABORACIÓN DE LA UNIDAD / SESIÓN DOCENTE
 Genere el diseño operativo para el docente:
 - Contexto de aplicación: taller técnico, pista/piscina, aula de idiomas, aula de coro o cabina de estudio.
+- Regla estricta de duración por sesión (55 minutos): Cada sesión lectiva tiene SIEMPRE una duración de **55 minutos** (ej: `Sesión 1 (55 minutos)`), sumando sus tareas exactamente 55 minutos. Queda TERMINANTEMENTE PROHIBIDO asignar a una sola sesión la duración total acumulada de toda la unidad (prohibido poner p. ej. `Sesión 1 (240 minutos)`).
 - Fases de instrucción y modelado técnico: activación, demostración/ejecución docente, práctica guiada y ejecución autónoma.
 - Detalle de cada sesión: rol docente, rol del alumnado, protocolos de seguridad/PRL o higiene vocal/ergonomía, y recursos especializados.
 [AL COMPLETAR: DETÉNGASE y plantee menú de Fase 4].

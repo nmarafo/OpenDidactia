@@ -27,7 +27,8 @@ Esta habilidad se activa cuando el usuario solicita programar, diseñar o evalua
 1. **Fase 1 — Mapa de Relaciones Curriculares (100 % RAs y CEs):**
    * Inventario previo obligatorio del 100 % de los RAs y CEs oficiales del módulo (calcados literalmente del BOE/TodoFP y decreto autonómico).
    * Asociación relacional de todos los CEs a productos técnicos tangibles de taller/laboratorio con codificación alfanumérica unificada: `[RA].[CE].[Bloque Contenidos].[OG].[CPPS].[Producto]`.
-2. **Fase 2 — Rúbricas Analíticas con Graduadores Técnicos (100 % CEs):**
+2. **Fase 2 — Rúbricas Analíticas por Producto con Graduadores Técnicos (100 % Productos y CEs):**
+   * **Una rúbrica analítica independiente por cada Producto tangible** de la Fase 1 (prohibido agrupar varios productos en una sola rúbrica).
    * **Verbo técnico invariable** en los 4 niveles (Insuficiente 1-4, Suficiente/Bien 5-6, Notable 7-8, Sobresaliente 9-10).
    * Nivel **Suficiente/Bien (5-6)** fiel al umbral oficial del CE.
    * **Graduadores en negrita** de precisión/tolerancia técnica, autonomía operativa, **Prevención de Riesgos Laborales (PRL)** y eficiencia/sostenibilidad, describiendo el fallo técnico concreto en el nivel Insuficiente (sin usar *"No realiza"*).
@@ -36,7 +37,8 @@ Esta habilidad se activa cuando el usuario solicita programar, diseñar o evalua
 4. **Fase 4 — Desarrollo de la SA-UT para el Docente en Taller:**
    * Metodología activa vertebradora: **Aprendizaje Basado en Retos (ABR)** o **Aprendizaje-Servicio Colaborativo (ASC)**.
    * **5 Principios de David Merrill en taller** (Reto central, Activación diagnóstica, Demostración y modelaje docente con PRL, Aplicación guiada y Transferencia dual).
-   * Mínimo **2 tareas activas por sesión** con roles ágiles (Scrum/Kanban), rutinas de diagnóstico técnico (Ishikawa, 5 Porqués), **DUA granular en taller** y especificación de maquinaria, herramientas y **EPIs obligatorios**.
+   * **Duración estricta de 55 minutos por sesión** (ej. `Sesión 1 (55 minutos)`), sumando las tareas de cada sesión exactamente 55 minutos (prohibido asignar a una sola sesión la duración total acumulada de toda la UT, como `Sesión 1 (240 minutos)`).
+   * Mínimo **2 tareas activas por cada sesión de 55 minutos** con roles ágiles (Scrum/Kanban), rutinas de diagnóstico técnico (Ishikawa, 5 Porqués), **DUA granular en taller** y especificación de maquinaria, herramientas y **EPIs obligatorios**.
 5. **Fase 5 — Versión de la SA-UT para el Alumnado (*"El Encargo del Cliente"*):**
    * Documento profesional motivador estructurado en: 1. El Encargo del Cliente; 2. Especificaciones y tolerancias del Producto Final; 3. Mapa de Ruta en Taller (4 etapas con EPIs); 4. Claves del Éxito Profesional.
 6. **Fase 6 — Medidas de Apoyo y Recuperación de RAs (Opcional):**

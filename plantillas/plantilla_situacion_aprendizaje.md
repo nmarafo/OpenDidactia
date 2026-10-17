@@ -63,11 +63,11 @@
 
 ## 4. Secuencia Didáctica Competencial (Fases de Merrill y DUA Granular)
 
-> Cada sesión se estructura preferentemente en un mínimo de **2 tareas**, con indicación explícita del rol del docente y del alumnado, rutinas de pensamiento y las **3 redes del DUA**.
+> Cada sesión lectiva tiene siempre una duración exacta de **55 minutos** (y las tareas de cada sesión suman exactamente **55 minutos**; nunca se asigna la duración total de toda la SA a una sola sesión). Cada sesión se estructura preferentemente en un mínimo de **2 tareas**, con indicación explícita del rol del docente y del alumnado, rutinas de pensamiento y las **3 redes del DUA**.
 
-### 🔹 Sesión 1: [Título de la Sesión] (Fase de Merrill: Activación / Tarea Central)
+### 🔹 Sesión 1: [Título de la Sesión] (Duración: 55 minutos | Fase de Merrill: Activación / Tarea Central)
 
-#### Tarea 1.1: [Título de la Tarea] (Duración: [X] minutos)
+#### Tarea 1.1: [Título de la Tarea] (Duración: 25 minutos)
 * **Descripción de la Actividad:**
   * *Rol Docente:* *[Presenta el reto disparador, modera y plantea preguntas guía]*
   * *Rol Alumnado:* *[Observa, dialoga, activa conocimientos previos]*
@@ -80,7 +80,7 @@
 * **Instrumento / Producto Generado:** *[Evidencia intermedia generada por el alumno, ej: Ficha de hipótesis]*
 * **Recursos:** *[Pizarra digital, mural analógico, proyector]*
 
-#### Tarea 1.2: [Título de la Tarea] (Duración: [X] minutos)
+#### Tarea 1.2: [Título de la Tarea] (Duración: 30 minutos)
 * **Descripción de la Actividad:** *[Rol docente y rol alumnado]*
 * **Rutina / Dinámica:** *[Ej. 1 - 2 - 4]*
 * **Agrupamiento:** *[Parejas / Cuartetos]*

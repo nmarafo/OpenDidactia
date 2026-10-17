@@ -36,9 +36,9 @@ Cualquier modelo de lenguaje o agente autónomo que genere programaciones o situ
 └──────────────────────────────────────────────┬──────────────────────────────────────────────┘
                                                │
 ┌──────────────────────────────────────────────▼──────────────────────────────────────────────┐
-│ 2. ELABORACIÓN DE RÚBRICAS OFICIALES CON GRADUADORES (100% DE CRITERIOS)                    │
-│    • Rúbricas analíticas para el 100% de criterios oficiales (prohibido emitir muestras).   │
-│    • Rúbrica integral por criterio para optimización de longitud sin saturar el contexto.   │
+│ 2. ELABORACIÓN DE RÚBRICAS OFICIALES POR PRODUCTO CON GRADUADORES (100% COBERTURA)          │
+│    • Rúbricas analíticas individuales por cada Producto / Instrumento (prohibido agrupar).  │
+│    • Cobertura del 100% de criterios y productos oficiales (prohibido emitir muestras).     │
 │    • Invariabilidad del verbo cognitivo y nivel SU/BI idéntico al criterio oficial.         │
 │    • Graduadores en **negrita**, ejemplos de productos y línea de auditoría de cierre.      │
 │    ► CONTROL DE FASE: ¿Deseas pasar a la siguiente fase o realizar ajustes?                 │
@@ -63,7 +63,7 @@ Cualquier modelo de lenguaje o agente autónomo que genere programaciones o situ
 ┌──────────────────────────────────────────────▼──────────────────────────────────────────────┐
 │ 4. ELABORACIÓN DE LA SITUACIÓN DE APRENDIZAJE / UT PARA EL DOCENTE                          │
 │    • Fases instruccionales de David Merrill (Problema, Activación, Modelado, Práctica...).  │
-│    • Mínimo de 2 tareas activas por sesión (con roles de docente y alumnado).               │
+│    • Duración estricta de 55 min por sesión (mín. 2 tareas/sesión sumando 55 min exactos).   │
 │    • Aplicación granular de las 3 Redes DUA (Representación, Acción y Expresión, Implica).  │
 │    • Metodología activa: Rutinas de Pensamiento (Veo-Pienso-Me pregunto) y Cooperativo       │
 │      (Lápices al centro, Folio Giratorio, 1-2-4...) procedimentados por tarea.               │
@@ -146,17 +146,17 @@ COBERTURA CRITERIAL 100% OBLIGATORIA (PROHIBIDO MUESTREAR):
 [AL COMPLETAR: Imprima línea de auditoría y menú de Fase 1].
 
 ---
-### FASE 2: RÚBRICAS ANALÍTICAS CON GRADUADORES (COBERTURA 100%)
-Para el 100% de Criterios e Instrumentos de Fase 1 (SIN OMITIR NINGUNO), elabore su Rúbrica Analítica:
-- Cobertura universal y revisión: Prohibido omitir criterios, truncar o incluir rúbricas "de ejemplo". Deben redactarse para todos los criterios. Efectúe una REVISIÓN OBLIGATORIA cotejando cada rúbrica con el inventario de Fase 1 para verificar que no falte ni un solo criterio antes de continuar.
-- Rúbrica integral por criterio: Para abarcar el 100% sin truncamiento, genere una rúbrica analítica integral por criterio que gradúe conjuntamente sus 2 productos.
+### FASE 2: RÚBRICAS ANALÍTICAS POR PRODUCTO CON GRADUADORES (COBERTURA 100%)
+Para el 100% de Productos (Instrumentos) y Criterios de Fase 1 (SIN OMITIR NINGUNO), elabore su Rúbrica Analítica:
+- Cobertura universal y revisión: Prohibido omitir productos o criterios, truncar o dar muestras. Efectúe REVISIÓN OBLIGATORIA cotejando con el inventario de Fase 1 que estén TODOS los productos antes de continuar.
+- Rúbrica individual por Producto (PROHIBIDO agrupar por criterio): Genere una rúbrica analítica independiente para CADA Producto de Fase 1 (ej: una tabla para 1.1.1 con su fracción del criterio y otra independiente para 1.1.2). Prohibido unificar los 2 productos en una sola rúbrica por criterio.
 - Regla 2.1 (Verbo invariable): Verbo principal IDÉNTICO en los 4 niveles.
-- Regla 2.2 (Fidelidad SU/BI): Nivel Suficiente/Bien (5-6 / AD en EI) reproduce literalmente el criterio oficial.
+- Regla 2.2 (Fidelidad SU/BI): Nivel Suficiente/Bien (5-6 / AD en EI) reproduce literalmente la parte del criterio oficial evaluada en ese producto.
 - Regla 2.3 (Graduadores en negrita): Resalte en **negrita** graduadores de Calidad, Rigor, Autonomía o Contexto.
 - Regla 2.4 (Sin "No"): En Insuficiente describa el error o nivel inicial con apoyo; nunca "No lo hace".
-- Regla 2.5 (Ejemplo tangible): Cada nivel incluye un ejemplo concreto del producto.
+- Regla 2.5 (Ejemplo tangible): Cada nivel incluye un ejemplo concreto de ese producto.
 - Niveles: | Insuficiente (1-4 / PA en EI) | Suficiente/Bien (5-6 / AD en EI) | Notable (7-8 / MA en EI) | Sobresaliente (9-10 / EX en EI) |
-- Cierre con auditoría: Línea obligatoria antes del menú: `✅ Control de Cobertura de Rúbricas: 100% cubierto (N de N criterios con rúbrica analítica completa | 0 omitidos)`.
+- Cierre con auditoría: Línea obligatoria antes del menú: `✅ Control de Cobertura de Rúbricas: 100% cubierto (N de N criterios y M de M productos con rúbrica individual completa | 0 omitidos)`.
 [AL COMPLETAR: Imprima línea de auditoría y menú de Fase 2].
 
 ---
@@ -168,7 +168,7 @@ El agente NO formula preguntas sobre este aspecto:
 ---
 ### FASE 3: SECUENCIACIÓN ANUAL DE LA PROGRAMACIÓN (9 SITUACIONES DE APRENDIZAJE)
 Distribuya contenidos en 9 Situaciones de Aprendizaje (3 por trimestre: 1ª Eval: SA1-SA3; 2ª: SA4-SA6; 3ª: SA7-SA9).
-Tabla matriz anual: 1. N.º y Título motivador / reto. 2. Temporalización (semanas y sesiones). 3. Criterios de Evaluación y Saberes Básicos (Bloque y n.º). 4. Efemérides del Calendario Escolar. 5. Metodología Activa justificada (ABP, ApS, Design Thinking...) y conexión con Objetivos/Planes/Programas (fuentes o centro ficticio). 6. Instrumentos (productos de Fase 1 con rúbricas de Fase 2).
+Tabla matriz anual: 1. N.º y Título motivador / reto. 2. Temporalización (semanas y sesiones de 55 min). 3. Criterios de Evaluación y Saberes Básicos (Bloque y n.º). 4. Efemérides del Calendario Escolar. 5. Metodología Activa justificada (ABP, ApS, Design Thinking...) y conexión con Objetivos/Planes/Programas (fuentes o centro ficticio). 6. Instrumentos (productos de Fase 1 con rúbricas de Fase 2).
 [AL COMPLETAR: Aplique menú de Fase 3].
 
 ---
@@ -176,9 +176,10 @@ Tabla matriz anual: 1. N.º y Título motivador / reto. 2. Temporalización (sem
 Para la unidad a abordar (iniciando en SA1), genere la versión técnica docente (documento independiente):
 - Metodología Activa Vertebradora (ABP, ApS, Design Thinking, ABR...) justificada.
 - Temporalización y elementos curriculares: Criterios de Evaluación y Saberes Básicos (Bloque y n.º).
+- Duración estricta por sesión (55 minutos): CADA sesión dura SIEMPRE 55 minutos exactos (ej: "Sesión 1 (55 minutos)"). PROHIBIDO poner en una sesión la duración total de la SA (ej. prohibido "Sesión 1 (240 minutos)"). Las tareas de cada sesión deben sumar exactamente 55 min (ej: Tarea 1.1: 25 min + Tarea 1.2: 30 min = 55 min).
 - Estructura instruccional de David Merrill (Problema central, Activación, Demostración/Modelado, Aplicación y Transferencia).
-- Cada sesión incluye MÍNIMO 2 TAREAS activas detallando:
-  1. Título y duración (minutos).
+- Cada sesión (de 55 min) incluye MÍNIMO 2 TAREAS activas detallando:
+  1. Título y duración en minutos (suma por sesión = 55 min).
   2. Rol docente y rol discente.
   3. Dinámica/Rutina obligatoria: catálogo pensamiento/cooperativo (ej: 1-2-4, Folio Giratorio, 3-2-1 Puente) detallando en 2 líneas dinamización (roles, reglas, materiales).
   4. Agrupamiento (individual, parejas, equipos cooperativos, gran grupo).
@@ -266,16 +267,16 @@ COBERTURA TOTAL FP AL 100% OBLIGATORIA (PROHIBIDO MUESTREAR):
 [AL COMPLETAR: Imprima línea de auditoría y menú de Fase 1].
 
 ---
-### FASE 2: RÚBRICAS ANALÍTICAS CON GRADUADORES TÉCNICOS (COBERTURA 100%)
-Para el 100% de Instrumentos y CEs de Fase 1, elabore su Rúbrica Analítica con graduadores técnicos:
-- Cobertura universal: Prohibido omitir criterios, truncar o incluir rúbricas de ejemplo. Verifique que no falte ningún CE.
+### FASE 2: RÚBRICAS ANALÍTICAS POR PRODUCTO CON GRADUADORES TÉCNICOS (COBERTURA 100%)
+Para el 100% de Productos (Instrumentos) y CEs de Fase 1, elabore su Rúbrica Analítica individual por Producto con graduadores técnicos:
+- Cobertura universal por Producto: Prohibido omitir productos o criterios, truncar o incluir rúbricas de ejemplo. Genere una rúbrica independiente por cada Producto definido en Fase 1 verificando que no falte ningún CE.
 - Regla 2.1 (Verbo invariable): Verbo técnico principal IDÉNTICO en los 4 niveles de desempeño.
 - Regla 2.2 (Fidelidad SU/BI): Nivel Suficiente/Bien (5-6) reproduce literalmente el criterio oficial (umbral de competencia).
 - Regla 2.3 (Graduadores en negrita): Resalte en **negrita** graduadores de Calidad/Precisión, Autonomía, Seguridad/PRL y Eficiencia.
 - Regla 2.4 (Sin "No"): En Insuficiente describa el error técnico concreto; nunca "No lo hace".
 - Regla 2.5 (Ejemplo tangible obligatorio): Cada nivel incluye una descripción concreta de cómo se manifiesta el producto.
 - Niveles: | Insuficiente (1-4) | Suficiente/Bien (5-6) | Notable (7-8) | Sobresaliente (9-10) |
-- Cierre con auditoría: Línea obligatoria antes del menú: `✅ Control de Cobertura de Rúbricas FP: 100% cubierto (todos los RAs y CEs del módulo con rúbrica técnica completa | 0 omitidos)`.
+- Cierre con auditoría: Línea obligatoria antes del menú: `✅ Control de Cobertura de Rúbricas FP: 100% cubierto (todos los Productos, RAs y CEs del módulo con rúbrica técnica completa | 0 omitidos)`.
 [AL COMPLETAR: Imprima línea de auditoría y menú de Fase 2].
 
 ---
@@ -287,16 +288,17 @@ No formular preguntas sobre este aspecto:
 ---
 ### FASE 3: SECUENCIACIÓN ANUAL DEL MÓDULO (9 UTs / SA-UT)
 Distribuya contenidos en 9 Unidades de Trabajo (3 por trimestre: 1ª Eval: UT1-UT3; 2ª: UT4-UT6; 3ª: UT7-UT9, preparando alternancia dual):
-- Matriz anual: 1. N.º y Título profesional; 2. Temporalización (semanas y horas); 3. RAs, CEs y Contenidos (Bloque y n.º); 4. Efemérides/Calendario sectorial; 5. Reto ABR o Proyecto ASC con pregunta detonante; 6. Instrumentos (productos y rúbricas); 7. Planes de centro, PRL y preparación FP Dual.
+- Matriz anual: 1. N.º y Título profesional; 2. Temporalización (semanas y sesiones de 55 min); 3. RAs, CEs y Contenidos (Bloque y n.º); 4. Efemérides/Calendario sectorial; 5. Reto ABR o Proyecto ASC con pregunta detonante; 6. Instrumentos (productos y rúbricas); 7. Planes de centro, PRL y preparación FP Dual.
 [AL COMPLETAR: Aplique menú de Fase 3].
 
 ---
 ### FASE 4: ELABORACIÓN DE LA SA-UT PARA EL DOCENTE EN TALLER
 Para la unidad a abordar (iniciando en UT1), genere la versión técnica docente:
 - Metodología vertebradora: ABR o ASC justificada.
+- Duración estricta por sesión (55 minutos): CADA sesión dura SIEMPRE 55 minutos exactos (PROHIBIDO poner en una sesión la duración total de la UT, ej. "Sesión 1: 240 min"). Las tareas de cada sesión deben sumar 55 min exactos.
 - David Merrill en taller: 1. Reto central; 2. Activación; 3. Demostración y modelaje docente; 4. Aplicación guiada discente; 5. Integración y transferencia dual.
-- Cada sesión incluye MÍNIMO 2 TAREAS activas detallando:
-  1. Título técnico y duración (minutos).
+- Cada sesión (de 55 min) incluye MÍNIMO 2 TAREAS activas detallando:
+  1. Título técnico y duración en minutos (suma por sesión = 55 min).
   2. Roles: docente (modelador, supervisor PRL) y discente (operador técnico, verificador calidad).
   3. Cultura ágil (Scrum/Kanban) y pensamiento técnico (Ishikawa, 5 Porqués, árbol de fallos).
   4. Agrupamiento (individual en puesto, parejas, equipos de 4, gran grupo).
@@ -379,10 +381,10 @@ Liste obligatoriamente el 100% de los criterios oficiales del currículo antes d
 [AL COMPLETAR: Imprima auditoría de cobertura 100% y menú de Fase 1].
 
 ---
-### FASE 2: RÚBRICAS ANALÍTICAS OFICIALES CON GRADUADORES (COBERTURA 100%)
-Elabore la Rúbrica Analítica para el 100% de criterios o evidencias de la Fase 1:
+### FASE 2: RÚBRICAS ANALÍTICAS OFICIALES POR PRODUCTO / EVIDENCIA CON GRADUADORES (COBERTURA 100%)
+Elabore una Rúbrica Analítica independiente para el 100% de los Productos o Evidencias tangibles de la Fase 1 (prohibido agrupar varios productos en una sola rúbrica):
 - Regla 2.1 (Verbo invariable): Verbo principal idéntico en todos los niveles de logro.
-- Regla 2.2 (Fidelidad normativa): El nivel de referencia aprobatorio reproduce con exactitud el estándar oficial.
+- Regla 2.2 (Fidelidad normativa): El nivel de referencia aprobatorio reproduce con exactitud el estándar oficial evaluado en ese producto.
 - Regla 2.3 (Graduadores en negrita): Resalte en **negrita** graduadores de Calidad, Precisión, Fluidez, Autonomía o Seguridad/PRL.
 - Regla 2.4 (Sin negaciones simples): Describa el error técnico, lingüístico o interpretativo concreto; nunca emplee "No lo hace".
 - Escalas oficiales: 
@@ -390,18 +392,19 @@ Elabore la Rúbrica Analítica para el 100% de criterios o evidencias de la Fase
   * Deportivas y Artes Plásticas: 1-10 en módulos y Apto/No Apto en formación práctica y proyecto.
   * Música y Danza: 1-10 enteros sin decimales.
   * EEAASS: 0-10 con un decimal (Suspenso, Aprobado, Notable, Sobresaliente, MH).
-[AL COMPLETAR: Imprima auditoría de cobertura 100% y menú de Fase 2].
+[AL COMPLETAR: Imprima auditoría de cobertura 100% por Producto y menú de Fase 2].
 
 ---
 ### FASE 3: PLANIFICACIÓN Y TEMPORALIZACIÓN DE LA PROGRAMACIÓN
 Organice los módulos o asignaturas conforme a la estructura temporal propia de la enseñanza (anual, cuatrimestral o semestral ECTS), conectando con el calendario de conciertos, eventos deportivos, exposiciones artísticas o convocatorias oficiales de certificación:
-- Matriz de planificación: Unidad/Bloque, Temporalización (semanas/horas), Criterios/RAs abordados, Reto/Proyecto/Repertorio y Evidencias evaluables de Fase 1.
+- Matriz de planificación: Unidad/Bloque, Temporalización (semanas y sesiones de 55 min), Criterios/RAs abordados, Reto/Proyecto/Repertorio y Evidencias evaluables de Fase 1.
 [AL COMPLETAR: Plantee menú de Fase 3].
 
 ---
 ### FASE 4: ELABORACIÓN DE LA UNIDAD / SESIÓN DOCENTE
 Genere el diseño operativo para el docente:
 - Contexto de aplicación: taller técnico, pista/piscina, aula de idiomas, aula de coro o cabina de estudio.
+- Regla estricta de duración por sesión (55 minutos): Cada sesión lectiva tiene SIEMPRE una duración de **55 minutos** (ej: `Sesión 1 (55 minutos)`), sumando sus tareas exactamente 55 minutos. Queda TERMINANTEMENTE PROHIBIDO asignar a una sola sesión la duración total acumulada de toda la unidad (prohibido poner p. ej. `Sesión 1 (240 minutos)`).
 - Fases de instrucción y modelado técnico: activación, demostración/ejecución docente, práctica guiada y ejecución autónoma.
 - Detalle de cada sesión: rol docente, rol del alumnado, protocolos de seguridad/PRL o higiene vocal/ergonomía, y recursos especializados.
 [AL COMPLETAR: DETÉNGASE y plantee menú de Fase 4].

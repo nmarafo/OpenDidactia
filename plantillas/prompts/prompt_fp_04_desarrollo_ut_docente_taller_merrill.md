@@ -13,7 +13,7 @@ Desarrollar de forma completa, pormenorizada y aplicable en el taller o laborato
 DATOS DE ENTRADA:
 - N.º y Título de la UT: [Ej: UT 1: "Recepción, control de calidad y almacenamiento de materias primas"]
 - Módulo Profesional y Ciclo: [Ej: Operaciones básicas en bar-cafetería / Grado Básico]
-- Carga horaria total de la UT: [Ej: 12 horas lectivas repartidas en 6 sesiones de 2 horas]
+- Carga horaria total de la UT: [Ej: 12 sesiones de 55 minutos]
 - RAs y Criterios de Evaluación asignados: [Ej: RA 1 (CE: a, b, c)]
 - Reto ABR / Encargo de Cliente: [Ej: Encargo del Hotel Escuela de optimizar el aprovisionamiento de cafetería]
 
@@ -25,10 +25,10 @@ Asegúrate de que la secuencia global de la UT transite por los 5 principios de 
 4. Aplicación Guiada: Ejecución técnica del alumnado en puesto de taller con andamiajes y checklists de autochequeo.
 5. Integración y Transferencia Dual: Control de calidad, presentación de resultados y conexión con la Formación en Empresa (FP Dual).
 
-REQUISITO DE ESTRUCTURACIÓN DE SESIONES:
-Desarrolla la totalidad de las sesiones de la UT. Cada sesión debe contener preferentemente un MÍNIMO DE 2 TAREAS ACTIVAS. Para CADA TAREA debes desglosar obligatoriamente los siguientes 7 elementos sin omitir ninguno:
+REQUISITO DE ESTRUCTURACIÓN Y DURACIÓN ESTRICTA DE SESIONES (55 MINUTOS):
+Desarrolla la totalidad de las sesiones de la UT. Cada sesión lectiva tiene SIEMPRE una duración exacta de **55 minutos** (ej: `Sesión 1 (55 minutos)`), y la suma de los minutos de las tareas de una misma sesión debe ser exactamente **55 minutos** (ej: Tarea 1.1 de 25 min + Tarea 1.2 de 30 min = 55 min). Queda TERMINANTEMENTE PROHIBIDO asignar a una sola sesión la duración total acumulada de toda la UT (prohibido poner p. ej. `Sesión 1 (240 minutos)`). Cada sesión debe contener preferentemente un MÍNIMO DE 2 TAREAS ACTIVAS. Para CADA TAREA debes desglosar obligatoriamente los siguientes 7 elementos sin omitir ninguno:
 
-1. Título técnico y duración exacta en minutos (ej: *Tarea 2.1: Calibración y purgado del circuito hidráulico (35 min)*).
+1. Título técnico y duración exacta en minutos (ej: *Tarea 2.1: Calibración y purgado del circuito hidráulico (25 min)* y *Tarea 2.2: Verificación de presión y estanqueidad (30 min)* = 55 min).
 2. Descripción exhaustiva de la dinámica con especificación explícita de roles:
    - Rol del Docente: Modelador técnico, verificador de seguridad y supervisor de tolerancias.
    - Rol del Alumnado: Operador activo, técnico de verificación y registrador de calidad.

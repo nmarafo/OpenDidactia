@@ -95,17 +95,17 @@ Al concluir cada fase o unidad didáctica, el agente **se detiene obligatoriamen
 
 ---
 
-## PASO 2: Elaboración de Rúbricas con Graduadores
+## PASO 2: Elaboración de Rúbricas por Producto con Graduadores
 
 Basado en el *Informe Técnico: Uso de Graduadores en la Evaluación Competencial (Modelo LOMLOE Canarias)*:
 
 ### Reglas de Oro en el Diseño de Rúbricas:
-1. **Cobertura Universal al 100% (Prohibición de Truncamientos):** Deben generarse las rúbricas analíticas oficiales para el 100% de los criterios e instrumentos de evaluación de la materia (sin omitir ninguno). Prohibido truncar la respuesta o presentar rúbricas "a modo de ejemplo".
-2. **Estructura Eficiente por Criterio:** Para asegurar que los tokens de salida permitan incluir la totalidad de criterios sin saturar el mensaje, el agente elaborará una **Rúbrica Analítica Integral por cada Criterio de Evaluación**, evaluando conjuntamente los 2 productos/evidencias asignados a ese criterio.
+1. **Cobertura Universal al 100% (Prohibición de Truncamientos):** Deben generarse las rúbricas analíticas oficiales para el 100% de los instrumentos de evaluación (productos) y criterios de la materia (sin omitir ninguno). Prohibido truncar la respuesta o presentar rúbricas "a modo de ejemplo".
+2. **Estructura Individual por Producto (Instrumento de Evaluación):** El agente elaborará una **Rúbrica Analítica Oficial independiente por cada Producto (Instrumento de Evaluación)** diseñado en el Paso 1 (una tabla de rúbrica para `1.1.1`, otra tabla independiente para `1.1.2`, etc., evaluando la parte del criterio y descriptores asociados a ese producto). **Queda terminantemente prohibido agrupar los 2 productos de un criterio en una sola rúbrica conjunta por criterio**.
 3. **Invariabilidad del Verbo Cognitivo:**
    * **PROHIBIDO cambiar el verbo del criterio entre niveles** (a diferencia de Bloom tradicional). Si el criterio prescribe *"Analizar"*, el nivel Insuficiente analiza (con graves errores o de forma incompleta) y el Sobresaliente analiza (críticamente y con máxima precisión).
 4. **Fidelidad al Criterio en Suficiente/Bien (SU/BI):**
-   * El nivel `SU/BI` corresponde a la **redacción literal del criterio** (es el estándar mínimo aprobatorio).
+   * El nivel `SU/BI` corresponde a la **redacción literal de la parte del criterio evaluada por ese producto** (es el estándar mínimo aprobatorio).
 5. **Modulación mediante Graduadores en Negrita:**
    * Los niveles se gradúan mediante adjetivos y adverbios (*graduadores*) que deben escribirse en **negrita** (ej. **con imprecisiones significativas**, **adecuadamente**, **con gran rigor**, **con máxima precisión e iniciativa**).
 6. **Las 4 Dimensiones de Graduación:**
@@ -114,9 +114,9 @@ Basado en el *Informe Técnico: Uso de Graduadores en la Evaluación Competencia
    * **Profundidad y Complejidad:** Mide el nivel de procesamiento (**fragmentada**, **comprensiva**, **analítica**, **crítica y reflexiva**).
    * **Actitud y Frecuencia:** Regularidad y disposición.
 7. **Erradicar el "No":** En el nivel Insuficiente, no utilizar la fórmula negativa *"No lo hace"*, sino describir la naturaleza de la limitación (*"Lo realiza con errores graves..."*).
-8. **Ejemplo Tangible del Producto:** En cada nivel de logro, incluir un ejemplo descriptivo concreto de cómo luce el producto elaborado por el estudiante.
-9. **Línea de Auditoría de Rúbricas:** Antes del menú de control inter-fase, imprimir obligatoriamente:  
-   `✅ Control de Cobertura de Rúbricas: 100% cubierto (N de N criterios oficiales con rúbrica analítica completa | 0 omitidos)`.
+8. **Ejemplo Tangible del Producto:** En cada nivel de logro, incluir un ejemplo descriptivo concreto de cómo luce ese producto específico elaborado por el estudiante.
+9. **Línea de Auditoría de Rúbricas por Producto:** Antes del menú de control inter-fase, imprimir obligatoriamente:  
+   `✅ Control de Cobertura de Rúbricas por Producto: 100% cubierto (2N de 2N productos de los N criterios oficiales con rúbrica analítica individual | 0 omitidos)`.
 
 > **Pausa de Control Inter-Fase:** Al finalizar el Paso 2, pregunta al docente si desea pasar a la siguiente fase o realizar ajustes.
 
@@ -157,11 +157,11 @@ La Programación Didáctica Anual se articula en **9 Situaciones de Aprendizaje*
 
 Cada SA de la tabla anual debe especificar:
 * Número y Título motivador.
-* Trimestre y número de sesiones estimadas.
+* Trimestre y número de sesiones estimadas (de **55 minutos** cada sesión).
 * Criterios de evaluación y Saberes Básicos implicados mencionando obligatoriamente el Bloque y el número oficial que le corresponde según el currículo.
 * **Metodología Activa Vertebradora:** Asignación explícita de la metodología rectora de cada SA (ABP, ApS, Design Thinking, ABR, etc., según el [Catálogo de Metodologías](catalogo_metodologias_aprendizaje.md)), justificando brevemente su adecuación al reto.
 * Conexión con efemérides del calendario escolar y Objetivos Prioritarios / Planes de Centro (tomados de las fuentes o asignados para el centro ficticio).
-* Instrumentos de evaluación (productos de la deconstrucción del Paso 1) que se calificarán con las rúbricas del Paso 2.
+* Instrumentos de evaluación (productos de la deconstrucción del Paso 1) que se calificarán con sus respectivas rúbricas por Producto del Paso 2.
 
 > **Pausa de Control Inter-Fase:** Al finalizar el Paso 4, pregunta al docente si desea pasar a la siguiente fase o realizar ajustes.
 
@@ -172,10 +172,10 @@ Cada SA de la tabla anual debe especificar:
 Al desarrollar cada Situación de Aprendizaje (ej. SA 1), el agente debe:
 1. **Cabecera Metodológica:** Declarar la **Metodología Activa Vertebradora** (ABP, ApS, Design Thinking, etc.) y justificar su idoneidad para el reto y el producto final.
 2. **Dinámicas de Grupo y Rutinas de Pensamiento OBLIGATORIAS:** En cada sesión se detallarán obligatoriamente Dinámicas de grupo o Rutinas de pensamiento de la base de conocimiento oficial, explicitando minuciosamente su dinamización en el aula.
-3. **Distribuir la temporalización:** Sesiones acorde a la carga horaria semanal (ej. 6 u 8 sesiones).
-4. **Estructura por Sesión:** Mínimo de 2 tareas por sesión aplicando las Fases de Merrill.
+3. **Regla Estricta de Duración por Sesión (55 minutos):** Cada sesión lectiva tiene **SIEMPRE una duración exacta de 55 minutos** (ej. `Sesión 1 (55 minutos)`), y la suma de los minutos de las tareas de una misma sesión debe dar **exactamente 55 minutos** (ej. `Tarea 1.1: 25 min` + `Tarea 1.2: 30 min` = `55 min`). **Queda terminantemente prohibido asignar a una sola sesión la duración total acumulada de toda la SA** (prohibido cometer el error de poner p. ej. `Sesión 1 (240 minutos)`).
+4. **Estructura por Sesión:** Mínimo de 2 tareas por cada sesión de 55 minutos aplicando las Fases de Merrill.
 5. **Estructura Obligatoria por Tarea:** (relacionando en cada tarea los Saberes Básicos movilizados con su Bloque y número oficial)
-   1. **Título y duración:** Duración exacta en minutos.
+   1. **Título y duración:** Duración exacta en minutos (sumando 55 minutos entre las tareas de la sesión).
    2. **Descripción pormenorizada:** Detallar con precisión el rol del docente (facilitador/modelador) y el rol activo del alumnado.
    3. **Dinámica de Grupo o Rutina de Pensamiento OBLIGATORIA:** Seleccionar obligatoriamente una técnica del [Catálogo de Rutinas y Dinámicas](catalogo_rutinas_pensamiento_y_dinamicas_grupo.md) (*ej. Veo-Pienso-Me pregunto, 3-2-1 Puente, Lápices al centro, Folio Giratorio, 1-2-4, Rompecabezas...*), indicando su nombre oficial y **detallando minuciosamente en 2-3 líneas cómo se dinamiza en el aula** (gestión de tiempos, reglas de interacción, roles y materiales).
    4. **Tipo de agrupamiento:** Individual, parejas, equipos cooperativos o gran grupo.

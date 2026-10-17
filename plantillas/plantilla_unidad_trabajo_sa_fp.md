@@ -66,9 +66,9 @@
 
 ## 5. Secuencia Granular de Sesiones de Taller
 
-### Sesión [N]: [Título Profesional de la Sesión] (Duración: XX horas / XX minutos)
+### Sesión [N]: [Título Profesional de la Sesión] (Duración: 55 minutos)
 
-#### Tarea [N.1]: [Nombre de la Tarea Técnica] (Duración: XX min)
+#### Tarea [N.1]: [Nombre de la Tarea Técnica] (Duración: 25 min — las tareas de la sesión suman exactamente 55 min)
 * **Fase de Merrill:** *[Activación / Demostración / Aplicación / Integración]*
 * **Rol del Docente:** *[Demostrador técnico / Verificador de seguridad / Facilitador de andamiajes]*
 * **Rol del Alumnado:** *[Operador técnico / Analista de tolerancias / Inspector de calidad]*
