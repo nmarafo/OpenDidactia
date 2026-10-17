@@ -22,6 +22,7 @@ La habilidad se activa cuando el usuario solicita programar, diseñar o evaluar 
 
 ### Reglas Negativas Obligatorias:
 * ⛔ **PROHIBIDO** aplicar el Perfil de Salida de ESO/Bachillerato o las 8 Competencias Clave LOMLOE de la enseñanza obligatoria.
+* ⛔ **PROHIBIDO** atribuir a las Enseñanzas de Régimen Especial el marco del **Plan Evalúa** de Canarias (que aplica exclusivamente a Educación Infantil, Primaria, ESO y Bachillerato). Las ERE se rigen y supervisan conforme a su normativa sectorial específica.
 * ⛔ **PROHIBIDO** forzar el esquema de 9 Situaciones de Aprendizaje escolares con las 3 redes DUA por sesión cuando la enseñanza responde a módulos técnicos, audiciones o guías docentes ECTS.
 * ⛔ **PROHIBIDO** inventar códigos o enunciados curriculares. Todo criterio, RA o saber debe ser calcado literalmente de la normativa externa de referencia ([open-lex-edu](https://github.com/nmarafo/open-lex-edu) o boletines oficiales).
 

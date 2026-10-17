@@ -1,0 +1,183 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "OpenDidactiaEsquemaProgramacionERE",
+  "description": "Esquema OKF para la estructuración y validación de Programaciones Didácticas y Guías Docentes de Enseñanzas de Régimen Especial (ERE): Idiomas (EOI), Enseñanzas Deportivas (EDRE), Artes Plásticas y Diseño, Conservatorios de Música y Danza, y Enseñanzas Artísticas Superiores (EEAASS).",
+  "type": "object",
+  "required": [
+    "identificacion",
+    "marco_normativo_sectorial",
+    "concrecion_curricular_y_evidencias",
+    "planificacion_temporal",
+    "metodologia_especializada",
+    "evaluacion_y_calificacion_sectorial",
+    "medidas_apoyo_y_recuperacion"
+  ],
+  "properties": {
+    "identificacion": {
+      "type": "object",
+      "required": [
+        "comunidad_autonoma",
+        "rama_ere",
+        "especialidad_o_idioma",
+        "nivel_ciclo_o_curso",
+        "asignatura_modulo_o_guia",
+        "horas_lectivas"
+      ],
+      "properties": {
+        "titulo": { "type": "string" },
+        "comunidad_autonoma": {
+          "type": "string",
+          "enum": [
+            "Andalucía",
+            "Aragón",
+            "Asturias",
+            "Illes Balears",
+            "Canarias",
+            "Cantabria",
+            "Castilla-La Mancha",
+            "Castilla y León",
+            "Cataluña",
+            "Comunitat Valenciana",
+            "Extremadura",
+            "Galicia",
+            "La Rioja",
+            "Madrid",
+            "Murcia",
+            "Navarra",
+            "País Vasco",
+            "Ceuta y Melilla",
+            "Estatal"
+          ]
+        },
+        "centro_educativo": { "type": "string" },
+        "rama_ere": {
+          "type": "string",
+          "enum": [
+            "Idiomas (EOI)",
+            "Enseñanzas Deportivas (EDRE)",
+            "Artes Plásticas y Diseño",
+            "Música y Danza (Conservatorios)",
+            "Enseñanzas Artísticas Superiores (EEAASS)"
+          ]
+        },
+        "especialidad_o_idioma": { "type": "string" },
+        "nivel_ciclo_o_curso": { "type": "string" },
+        "asignatura_modulo_o_guia": { "type": "string" },
+        "creditos_ects": {
+          "type": "number",
+          "description": "Obligatorio en Enseñanzas Artísticas Superiores (EEAASS)."
+        },
+        "horas_lectivas": { "type": "integer" },
+        "curso_escolar": { "type": "string" },
+        "profesorado": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "marco_normativo_sectorial": {
+      "type": "object",
+      "required": ["normativa_estatal", "normativa_autonomica"],
+      "properties": {
+        "normativa_estatal": { "type": "string" },
+        "normativa_autonomica": { "type": "string" },
+        "aislamiento_lomloe_verificado": {
+          "type": "boolean",
+          "const": true,
+          "description": "Garantiza que no se aplican el Perfil de Salida de ESO ni las 8 Competencias Clave escolares ajenas al régimen especial."
+        }
+      }
+    },
+    "concrecion_curricular_y_evidencias": {
+      "type": "array",
+      "description": "Asociación del 100% de los criterios o resultados de aprendizaje de la rama ERE con evidencias o pruebas tangibles.",
+      "items": {
+        "type": "object",
+        "required": [
+          "bloque_destreza_o_competencia",
+          "codigo_criterio_o_ra",
+          "texto_oficial_literal",
+          "evidencia_o_prueba_tangible",
+          "rubrica_analitica"
+        ],
+        "properties": {
+          "bloque_destreza_o_competencia": {
+            "type": "string",
+            "description": "Actividad de lengua en EOI (CTE, CTO, PCTE, PCTO, MED), Bloque en EDRE, Módulo en APyD, Asignatura en Conservatorio o Competencia en EEAASS."
+          },
+          "codigo_criterio_o_ra": { "type": "string" },
+          "texto_oficial_literal": { "type": "string" },
+          "contenidos_o_repertorio_vinculado": { "type": "string" },
+          "evidencia_o_prueba_tangible": { "type": "string" },
+          "rubrica_analitica": {
+            "type": "object",
+            "required": ["verbo_invariable", "insuficiente", "aprobado_suficiente", "notable", "sobresaliente"],
+            "properties": {
+              "verbo_invariable": { "type": "string" },
+              "insuficiente": { "type": "string" },
+              "aprobado_suficiente": { "type": "string" },
+              "notable": { "type": "string" },
+              "sobresaliente": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    "planificacion_temporal": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["numero_unidad_o_bloque", "titulo", "temporalizacion", "criterios_o_ras", "evidencias_evaluables"],
+        "properties": {
+          "numero_unidad_o_bloque": { "type": "integer" },
+          "titulo": { "type": "string" },
+          "temporalizacion": { "type": "string" },
+          "criterios_o_ras": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "evento_audicion_o_convocatoria": { "type": "string" },
+          "evidencias_evaluables": {
+            "type": "array",
+            "items": { "type": "string" }
+          }
+        }
+      }
+    },
+    "metodologia_especializada": {
+      "type": "object",
+      "required": ["enfoque_pedagogico", "espacios_y_recursos_especificos", "prevencion_riesgos_o_ergonomia"],
+      "properties": {
+        "enfoque_pedagogico": { "type": "string" },
+        "espacios_y_recursos_especificos": { "type": "string" },
+        "prevencion_riesgos_o_ergonomia": { "type": "string" }
+      }
+    },
+    "evaluacion_y_calificacion_sectorial": {
+      "type": "object",
+      "required": ["escala_legal_aplicada", "condiciones_superacion_y_promocion"],
+      "properties": {
+        "escala_legal_aplicada": {
+          "type": "string",
+          "enum": [
+            "EOI: 5 Actividades de Lengua estancas con umbrales porcentuales independientes",
+            "EDRE / Artes Plásticas: 1-10 en módulos y Apto/No Apto en Formación Práctica y Proyecto/Obra Final",
+            "Conservatorios (Música y Danza): 1-10 enteros sin decimales con requisito de Instrumento Principal",
+            "EEAASS: 0-10 con un decimal y créditos ECTS (RD 1614/2009)"
+          ]
+        },
+        "condiciones_superacion_y_promocion": { "type": "string" },
+        "tribunales_audiciones_o_pruebas_certificacion": { "type": "string" }
+      }
+    },
+    "medidas_apoyo_y_recuperacion": {
+      "type": "object",
+      "required": ["refuerzo_formativo_ordinario", "recuperacion_pendientes_y_convocatorias"],
+      "properties": {
+        "refuerzo_formativo_ordinario": { "type": "string" },
+        "recuperacion_pendientes_y_convocatorias": { "type": "string" },
+        "adaptaciones_acceso_pruebas": { "type": "string" }
+      }
+    }
+  }
+}

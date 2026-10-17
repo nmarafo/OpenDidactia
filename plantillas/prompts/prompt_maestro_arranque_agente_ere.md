@@ -84,6 +84,6 @@ App interactiva local en un único archivo HTML (Tailwind CSS + JS vanilla):
   * Deportivas / Artes Plásticas: Módulos 1-10 y verificación de Apto en Prácticas y Proyecto.
   * Música / Danza: Notas enteras 1-10 y bloqueo de promoción si no se supera el instrumento troncal.
   * EEAASS: Calificaciones 0-10 con un decimal y asignación de créditos ECTS superados.
-- Exportación en formato `.csv` descargable.
+- Exportación en formato `.csv` descargable (UTF-8 con BOM `\uFEFF` y separador `;`).
 [AL COMPLETAR: Aplique menú de Fase 7].
 ```

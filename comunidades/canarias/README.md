@@ -10,7 +10,7 @@ El marco curricular oficial de Canarias para las etapas no universitarias se art
 
 | Etapa Educativa | Disposición Oficial | Boletín Oficial | Código Normativo de Referencia |
 | :--- | :--- | :---: | :---: |
-| **Educación Infantil** | **Decreto 196/2022**, de 13 de octubre | BOC n.º 212 (26/10/2022) | `norm-can-d-196-2022` |
+| **Educación Infantil** | **Decreto 196/2022**, de 13 de octubre | BOC n.º 211 (25/10/2022) | `norm-can-d-196-2022` |
 | **Educación Primaria** | **Decreto 211/2022**, de 10 de noviembre | BOC n.º 231 (23/11/2022) | `norm-can-d-211-2022` |
 | **ESO y Bachillerato** | **Decreto 30/2023**, de 16 de marzo | BOC n.º 58 (23/03/2023) | `norm-can-d-30-2023` |
 | **Formación Profesional** | **LO 3/2022**, **RD 659/2023**, **Res. 30/10/2024** | BOC n.º 226 (13/11/2024) | `norm-can-res-30-10-2024` |
@@ -33,8 +33,8 @@ El currículo de Canarias establece que los aprendizajes deben vincularse estrec
 ### 2.2. Compromiso con la Inclusión y el DUA
 La normativa canaria otorga máxima prioridad a la atención a la diversidad desde el marco del **Diseño Universal para el Aprendizaje (DUA)**, exigiendo que las actividades no requieran adaptaciones segregadas, sino que ofrezcan desde su origen múltiples medios de implicación, representación y acción/expresión.
 
-### 2.3. Las Rúbricas como Instrumento Criterial
-Canarias ha sido pionera en el uso de rúbricas analíticas para calificar los criterios de evaluación. En las situaciones de aprendizaje de Canarias, cada criterio debe medirse cualitativamente en 4 niveles de desempeño (Insuficiente, Suficiente/Bien, Notable y Sobresaliente), empleando graduadores en **negrita**.
+### 2.3. Las Rúbricas como Instrumento Criterial y el Plan Evalúa
+Canarias ha sido pionera en el uso de rúbricas analíticas para calificar los criterios de evaluación. En las situaciones de aprendizaje de Canarias, cada criterio debe medirse cualitativamente en 4 niveles de desempeño (Insuficiente, Suficiente/Bien, Notable y Sobresaliente), empleando graduadores en **negrita**. Asimismo, el **Plan Evalúa** comprende exclusivamente las etapas de Régimen General (**Educación Infantil, Educación Primaria, ESO y Bachillerato**), mientras que la Formación Profesional y las Enseñanzas de Régimen Especial (ERE) cuentan con propuestas técnicas de supervisión específicas conforme a su normativa sectorial.
 
 ---
 
@@ -52,5 +52,5 @@ canarias/
 
 ---
 
-## 🔗 Referencia Metodológica
-Para la elaboración de documentos en esta comunidad, aplique el protocolo oficial del proyecto disponible en [`docs/flujo_agente_elaboracion_pd_sa.md`](../../docs/flujo_agente_elaboracion_pd_sa.md) y las plantillas operativas de [`plantillas/`](../../plantillas/).
+## 🔗 Referencia Metodológica y Herramientas de Supervisión
+Para la elaboración y revisión de documentos en esta comunidad, aplique el protocolo oficial del proyecto disponible en [`docs/flujo_agente_elaboracion_pd_sa.md`](../../docs/flujo_agente_elaboracion_pd_sa.md), las plantillas operativas de [`plantillas/`](../../plantillas/) y las herramientas técnicas de supervisión en [`docs/checklists_supervision_programaciones_infantil_fp_ere.md`](../../docs/checklists_supervision_programaciones_infantil_fp_ere.md).

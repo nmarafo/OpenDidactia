@@ -66,7 +66,7 @@ El Catálogo Nacional de Cualificaciones y Ofertas de Formación Profesional se 
 
 ## 4. Procedimiento de Extracción Curricular para Agentes y Docentes
 
-Para alimentar el motor de diseño curricular de OpenDidactia ([**`docs/guia_elaboracion_programaciones_y_ut_fp.md`**](file:///c:/Users/norbe/Documents/OKFPDySA/docs/guia_elaboracion_programaciones_y_ut_fp.md)) a partir de las fuentes oficiales de TodoFP, se debe seguir este flujo operativo:
+Para alimentar el motor de diseño curricular de OpenDidactia ([**`docs/guia_elaboracion_programaciones_y_ut_fp.md`**](guia_elaboracion_programaciones_y_ut_fp.md)) a partir de las fuentes oficiales de TodoFP, se debe seguir este flujo operativo:
 
 ```mermaid
 flowchart TD
@@ -98,10 +98,10 @@ flowchart TD
 
 Una vez extraídos los elementos curriculares del módulo profesional desde TodoFP y el BOE, el docente o agente de IA activa los recursos especializados del repositorio:
 
-* **Protocolo de Ingeniería Didáctica:** [`docs/guia_elaboracion_programaciones_y_ut_fp.md`](file:///c:/Users/norbe/Documents/OKFPDySA/docs/guia_elaboracion_programaciones_y_ut_fp.md)
-* **Plantilla de Programación de Módulo:** [`plantillas/plantilla_programacion_modulo_fp.md`](file:///c:/Users/norbe/Documents/OKFPDySA/plantillas/plantilla_programacion_modulo_fp.md)
-* **Plantilla de Unidad de Trabajo (SA-UT):** [`plantillas/plantilla_unidad_trabajo_sa_fp.md`](file:///c:/Users/norbe/Documents/OKFPDySA/plantillas/plantilla_unidad_trabajo_sa_fp.md)
+* **Protocolo de Ingeniería Didáctica:** [`docs/guia_elaboracion_programaciones_y_ut_fp.md`](guia_elaboracion_programaciones_y_ut_fp.md)
+* **Plantilla de Programación de Módulo:** [`plantillas/plantilla_programacion_modulo_fp.md`](../plantillas/plantilla_programacion_modulo_fp.md)
+* **Plantilla de Unidad de Trabajo (SA-UT):** [`plantillas/plantilla_unidad_trabajo_sa_fp.md`](../plantillas/plantilla_unidad_trabajo_sa_fp.md)
 * **Esquemas JSON de Validación:**
-  * [`schema/esquema_programacion_modulo_fp.json`](file:///c:/Users/norbe/Documents/OKFPDySA/schema/esquema_programacion_modulo_fp.json)
-  * [`schema/esquema_unidad_trabajo_fp.json`](file:///c:/Users/norbe/Documents/OKFPDySA/schema/esquema_unidad_trabajo_fp.json)
-* **Biblioteca Modular de Prompts:** [`plantillas/prompts/prompt_fp_01_relacion_ra_ce_productos.md`](file:///c:/Users/norbe/Documents/OKFPDySA/plantillas/prompts/prompt_fp_01_relacion_ra_ce_productos.md) a `prompt_fp_07_herramienta_calificacion_canvas_fp.md`.
+  * [`schema/esquema_programacion_modulo_fp.json`](../schema/esquema_programacion_modulo_fp.json)
+  * [`schema/esquema_unidad_trabajo_fp.json`](../schema/esquema_unidad_trabajo_fp.json)
+* **Biblioteca Modular de Prompts:** [`plantillas/prompts/prompt_fp_01_relacion_ra_ce_productos.md`](../plantillas/prompts/prompt_fp_01_relacion_ra_ce_productos.md) a `prompt_fp_07_herramienta_calificacion_canvas_fp.md`.

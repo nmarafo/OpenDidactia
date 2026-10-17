@@ -14,7 +14,7 @@ Este directorio alberga los **documentos técnicos, guías oficiales de la Conse
 ## 2. Pautas Metodológicas y de Evaluación Oficiales
 * **[Pautas elaboración de Rúbricas.pdf](Pautas%20elaboración%20de%20Rúbricas.pdf):** Reglas técnicas de construcción de rúbricas analíticas con graduadores de calidad, autonomía y complejidad (desarrollado en [`docs/guia_elaboracion_rubricas_graduadores.md`](../../../docs/guia_elaboracion_rubricas_graduadores.md)).
 * **[Aplicación de los principios DUA.pdf](Aplicación%20de%20los%20principios%20DUA.pdf):** Marco del Diseño Universal para el Aprendizaje aplicado al aula canaria (desarrollado en [`docs/guia_operacionalizacion_dua.md`](../../../docs/guia_operacionalizacion_dua.md)).
-* **[Kit basico para evaluar y calificar (CDC Canarias).pdf](Kit%20basico%20para%20evaluar%20y%20calificar%20(CDC%20Canarias).pdf):** Publicación oficial de octubre 2024 del Centro de Desarrollo Curricular con las orientaciones sobre calificación, ponderación y evaluación formativa.
+* **[Kit basico para evaluar y calificar (CDC Canarias).pdf](Kit%20basico%20para%20evaluar%20y%20calificar%20%28CDC%20Canarias%29.pdf):** Publicación oficial de octubre 2024 del Centro de Desarrollo Curricular con las orientaciones sobre calificación, ponderación y evaluación formativa.
 
 ---
 
@@ -27,8 +27,8 @@ Este directorio alberga los **documentos técnicos, guías oficiales de la Conse
 ---
 
 ## 4. Ejemplos de Planes y Proyectos de Centro (Contextualización)
-* **[Proyecto de Direccion IES Vientos Alisios (Objetivos y Planes).txt](Proyecto%20de%20Direccion%20IES%20Vientos%20Alisios%20(Objetivos%20y%20Planes).txt):** Proyecto de dirección real de Granadilla de Abona para la vinculación de objetivos prioritarios, planes (Convivencia, Digital) y programas institucionales (InnovAS) en la secuenciación anual.
-* **[Plan Anual CIFP San Cristobal FP (Objetivos y Planes).pdf](Plan%20Anual%20CIFP%20San%20Cristobal%20FP%20(Objetivos%20y%20Planes).pdf):** Plan Anual de Centro Integrado de FP para la contextualización de UTs de Formación Profesional.
+* **[Proyecto de Direccion IES Vientos Alisios (Objetivos y Planes).txt](Proyecto%20de%20Direccion%20IES%20Vientos%20Alisios%20%28Objetivos%20y%20Planes%29.txt):** Proyecto de dirección real de Granadilla de Abona para la vinculación de objetivos prioritarios, planes (Convivencia, Digital) y programas institucionales (InnovAS) en la secuenciación anual.
+* **[Plan Anual CIFP San Cristobal FP (Objetivos y Planes).pdf](Plan%20Anual%20CIFP%20San%20Cristobal%20FP%20%28Objetivos%20y%20Planes%29.pdf):** Plan Anual de Centro Integrado de FP para la contextualización de UTs de Formación Profesional.
 
 ---
 

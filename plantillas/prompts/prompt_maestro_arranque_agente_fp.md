@@ -124,6 +124,6 @@ App web interactiva local en ÚNICO ARCHIVO HTML autocontenido (Tailwind CSS CDN
 - Badges de situación del alumno: Ordinaria (verde), Apoyo DUA (azul), Plan de Recuperación (naranja).
 - Recuperación con sobreescritura automática de la calificación anterior del RA.
 - Gestión de taller: Añadir productos o UTs dinámicamente.
-- Exportación a `.csv` compatible con Excel y Google Sheets.
+- Exportación a `.csv` (codificación UTF-8 con BOM `\uFEFF` y separador `;`) compatible directamente con Excel y Google Sheets.
 [AL COMPLETAR: Aplique menú de Fase 7].
 ```

@@ -36,7 +36,7 @@ REQUISITOS FUNCIONALES OBLIGATORIOS:
    - Funcionalidad para asociar manualmente Planes de Refuerzo y Recuperación con nuevos instrumentos de calificación.
    - En la media del 2.º y 3.er Trimestre, si un alumno ha seguido un Plan de Apoyo y Refuerzo donde se ha vuelto a trabajar un criterio previo, el cálculo actualiza la calificación con la nota del Plan.
 5. Exportación de Datos:
-   - Botón para exportar todos los registros y calificaciones a formato `.csv`.
+   - Botón para exportar todos los registros y calificaciones a formato `.csv` (con encabezado UTF-8 BOM `\uFEFF` y delimitador `;` para apertura directa en Excel sin errores de tildes).
 
 PREGUNTA DE CIERRE DE FASE:
 Al finalizar la generación del código, pregunta al docente:
@@ -66,7 +66,7 @@ REQUISITOS ESPECÍFICOS PARA INFANTIL:
    - Prioriza los logros alcanzados tras la aplicación de Planes de Refuerzo Educativo para fundamentar el juicio global docente.
 3. Informe Final de Etapa:
    - Sección para que, al finalizar el ciclo, el docente asigne el grado de adquisición de las Competencias Clave (PA, AD, MA, EX) basado en los criterios observados.
-4. Exportación en `.csv`.
+4. Exportación en `.csv` (con encabezado UTF-8 BOM `\uFEFF` y delimitador `;`).
 
 PREGUNTA DE CIERRE DE FASE:
 Al finalizar la generación del código, pregunta al docente:

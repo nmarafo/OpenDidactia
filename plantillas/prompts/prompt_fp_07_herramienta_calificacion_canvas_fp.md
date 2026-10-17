@@ -34,7 +34,7 @@ ESPECIFICACIONES TÉCNICAS Y FUNCIONALES OBLIGATORIAS:
    - Funcionalidad para crear y asociar individualmente Planes de Recuperación a los que se añaden los RAs y CEs no superados.
    - Si el alumno supera el Plan de Recuperación en una evaluación posterior, el sistema debe SOBREESCRIBIR automáticamente la calificación anterior del RA por la nueva nota obtenida.
 8. Gestión Dinámica de Taller: Opción de añadir manualmente nuevos Instrumentos de Evaluación (Productos de taller) o nuevas UTs.
-9. Exportación a CSV: Botón para descargar de forma inmediata la matriz completa de calificaciones de todos los alumnos, CEs y RAs en formato `.csv` compatible con Excel y Google Sheets.
+9. Exportación a CSV: Botón para descargar de forma inmediata la matriz completa de calificaciones de todos los alumnos, CEs y RAs en formato `.csv` (codificación UTF-8 con BOM `\uFEFF` y separador `;`) compatible con Excel y Google Sheets.
 10. Interfaz Moderna y Responsive: Diseño limpio, profesional, modo oscuro/claro, con tipografía legible, apto para ser incrustado en Google Sites o ejecutado localmente en cualquier navegador sin dependencias de servidor.
 
 PREGUNTA DE CIERRE DE FASE:

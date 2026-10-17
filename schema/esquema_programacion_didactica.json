@@ -27,7 +27,27 @@
         "titulo": { "type": "string" },
         "comunidad_autonoma": {
           "type": "string",
-          "enum": ["Canarias", "Madrid", "Andalucía", "Estatal"]
+          "enum": [
+            "Andalucía",
+            "Aragón",
+            "Asturias",
+            "Illes Balears",
+            "Canarias",
+            "Cantabria",
+            "Castilla-La Mancha",
+            "Castilla y León",
+            "Cataluña",
+            "Comunitat Valenciana",
+            "Extremadura",
+            "Galicia",
+            "La Rioja",
+            "Madrid",
+            "Murcia",
+            "Navarra",
+            "País Vasco",
+            "Ceuta y Melilla",
+            "Estatal"
+          ]
         },
         "centro_educativo": { "type": "string" },
         "etapa": {
@@ -36,8 +56,7 @@
             "Educación Infantil",
             "Educación Primaria",
             "Educación Secundaria Obligatoria",
-            "Bachillerato",
-            "Formación Profesional"
+            "Bachillerato"
           ]
         },
         "curso": { "type": "string" },
@@ -83,11 +102,18 @@
           "type": "array",
           "items": {
             "type": "object",
-            "required": ["codigo", "enunciado", "ponderacion_porcentual"],
+            "required": ["codigo", "enunciado"],
             "properties": {
               "codigo": { "type": "string" },
               "enunciado": { "type": "string" },
-              "ponderacion_porcentual": { "type": "number" }
+              "ponderacion_porcentual": {
+                "type": "number",
+                "description": "Ponderación numérica para Primaria, ESO y Bachillerato. Omitir en Educación Infantil (evaluación 100% cualitativa)."
+              },
+              "valoracion_cualitativa_infantil": {
+                "type": "boolean",
+                "description": "True en Educación Infantil conforme al carácter exclusivamente cualitativo del Plan Evalúa."
+              }
             }
           }
         },
